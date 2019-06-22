@@ -1,7 +1,7 @@
 
 # css-utility  
 
-## Intruducción  
+## Introducción  
 
 css-utility fue creada con el proposito de presentar una ayuda
 para las propiedades css no integradas por los grandes frameworks
@@ -60,8 +60,8 @@ para las propiedades css no integradas por los grandes frameworks
 |lh1-9|1.9|
 
 [line-height.css](./line-height.css)  
-[line-height.min.css](./css-dist/line-height.css)
-[line-height.scss](./line-height.scss)
+[line-height.min.css](./css-dist/line-height.css)   
+[line-height.scss](./line-height.scss)  
  
 
 >Transformación del texto  
@@ -88,9 +88,9 @@ para las propiedades css no integradas por los grandes frameworks
 |fs-italic| font-style: italic|
 |fs-oblique|font-style: oblique|
 
-[font-style.css](./font-style.css)
-[font-style.min.css](./css-dist/font-style.css)
-[font-style.scss](./font-style.scss)
+[font-style.css](./font-style.css)  
+[font-style.min.css](./css-dist/font-style.css)  
+[font-style.scss](./font-style.scss)  
  
 
 >Familia de la fuente  
@@ -150,11 +150,9 @@ para las propiedades css no integradas por los grandes frameworks
 >include text-align,letter-spacing,line-height,text-transform  
 >font-style,font-size,font-basic,font-weight
 
-[tools-text.css](./tools-text.css)
- 
-[tools-text.min.css](./css-dist/tools-text.css)
- 
-[tools-text.scss](./tools-text.scss)
+[tools-text.css](./tools-text.css)  
+[tools-text.min.css](./css-dist/tools-text.css)  
+[tools-text.scss](./tools-text.scss)  
  
 
 ## Manipulación de la posición
@@ -174,11 +172,9 @@ para las propiedades css no integradas por los grandes frameworks
 |pin-edges | left: 0,top: 0,right: 0,bottom: 0|
 
 
-[position.css](./position.css)
- 
-[position.min.css](./css-dist/position.css)
- 
-[position.scss](./position.scss)
+[position.css](./position.css)  
+[position.min.css](./css-dist/position.css)  
+[position.scss](./position.scss)  
  
 
 ## Manipulación de la visibilidad
@@ -192,11 +188,9 @@ para las propiedades css no integradas por los grandes frameworks
 |absolute |  hidden|
 |fixed |  collapse|
 
-[visibility.css](./visibility.css)
- 
-[visibility.min.css](./css-dist/visibility.css)
- 
-[visibility.scss](./visibility.scss)
+[visibility.css](./visibility.css)  
+[visibility.min.css](./css-dist/visibility.css)  
+[visibility.scss](./visibility.scss)  
  
 
 ## Manipulación de la desbordamineto
