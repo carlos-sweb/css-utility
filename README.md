@@ -74,11 +74,9 @@ para las propiedades css no integradas por los grandes frameworks
 |t-capitalize|capitalize|
 
 [text-transform.css](./text-transform.css)  
-[text-transform.min.css](./css-dist/text-transform.css)
-[text-transform.scss](./text-transform.scss)
+[text-transform.min.css](./css-dist/text-transform.css)  
+[text-transform.scss](./text-transform.scss)  
  
-
-
 >Estilo de la fuente 
 >Propiedad css **font-style**  
 
@@ -102,9 +100,9 @@ para las propiedades css no integradas por los grandes frameworks
 |serif|"Merriweather, Georgia, serif"|
 |code|"Consolas, Monaco, 'Andale Mono',monospace"|
 
-[font-basic.css](./font-basic.css)
-[font-basic.min.css](./css-dist/font-basic.css)
-[font-basic.scss](./font-basic.scss)
+[font-basic.css](./font-basic.css)  
+[font-basic.min.css](./css-dist/font-basic.css)  
+[font-basic.scss](./font-basic.scss)  
  
 
 >Tamaño de la fuente    
@@ -116,9 +114,9 @@ para las propiedades css no integradas por los grandes frameworks
 |...|...|
 |fs100|100px|
 
-[font-size.css](./font-size.css)
-[font-size.min.css](./css-dist/font-size.css)
-[font-size.scss](./font-size.scss)
+[font-size.css](./font-size.css)  
+[font-size.min.css](./css-dist/font-size.css)  
+[font-size.scss](./font-size.scss)  
  
 >Grosor de la fuente    
 >Propiedad css **font-weight**  
@@ -139,9 +137,9 @@ para las propiedades css no integradas por los grandes frameworks
 |fw8| 800|
 |fw9| 900|
 
-[font-weight.css](./font-weight.css)
-[font-weight.min.css](./css-dist/font-weight.css)
-[font-weight.scss](./font-weight.scss)
+[font-weight.css](./font-weight.css)  
+[font-weight.min.css](./css-dist/font-weight.css)  
+[font-weight.scss](./font-weight.scss)  
  
 
 ### Herramienta de texto
@@ -204,8 +202,6 @@ para las propiedades css no integradas por los grandes frameworks
 |ofx|overflow-x: scroll !important;|
 |ofy| overflow-y: scroll !important|
 
-[overflow.css](./overflow.css)
- 
-[overflow.min.css](./css-dist/overflow.css)
- 
+[overflow.css](./overflow.css)  
+[overflow.min.css](./css-dist/overflow.css)  
 [overflow.scss](./overflow.scss)  
