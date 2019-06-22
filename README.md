@@ -82,9 +82,9 @@ para las propiedades css no integradas por los grandes frameworks
 
 |name|style|
 |:---|:----|
-|fs-normal| font-style: normal|
-|fs-italic| font-style: italic|
-|fs-oblique|font-style: oblique|
+|fs-normal| normal|
+|fs-italic| italic|
+|fs-oblique|oblique|
 
 [font-style.css](./font-style.css)  
 [font-style.min.css](./css-dist/font-style.css)  
@@ -155,7 +155,7 @@ para las propiedades css no integradas por los grandes frameworks
 
 ## Manipulación de la posición
 
->Grosor de la fuente    
+>Posición de un objecto 
 >Propiedad css **position,top,left,right,bottom**  
 
 |name|position|
