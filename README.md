@@ -19,10 +19,8 @@ para las propiedades css no integradas por los grandes frameworks
 |tai |  inherit |
 |taj |  justify |
 
-[text-align.css](./text-align.css)
-  
-[text-align.min.css](./css-dist/text-align.css)
-  
+[text-align.css](./text-align.css)  
+[text-align.min.css](./css-dist/text-align.css)   
 [text-align.scss](./text-align.scss)
   
 
@@ -63,7 +61,6 @@ para las propiedades css no integradas por los grandes frameworks
 
 [line-height.css](./line-height.css)  
 [line-height.min.css](./css-dist/line-height.css)
- 
 [line-height.scss](./line-height.scss)
  
 
@@ -78,7 +75,6 @@ para las propiedades css no integradas por los grandes frameworks
 
 [text-transform.css](./text-transform.css)  
 [text-transform.min.css](./css-dist/text-transform.css)
- 
 [text-transform.scss](./text-transform.scss)
  
 
@@ -93,9 +89,7 @@ para las propiedades css no integradas por los grandes frameworks
 |fs-oblique|font-style: oblique|
 
 [font-style.css](./font-style.css)
- 
 [font-style.min.css](./css-dist/font-style.css)
- 
 [font-style.scss](./font-style.scss)
  
 
@@ -109,9 +103,7 @@ para las propiedades css no integradas por los grandes frameworks
 |code|"Consolas, Monaco, 'Andale Mono',monospace"|
 
 [font-basic.css](./font-basic.css)
- 
 [font-basic.min.css](./css-dist/font-basic.css)
- 
 [font-basic.scss](./font-basic.scss)
  
 
@@ -125,12 +117,9 @@ para las propiedades css no integradas por los grandes frameworks
 |fs100|100px|
 
 [font-size.css](./font-size.css)
- 
 [font-size.min.css](./css-dist/font-size.css)
- 
 [font-size.scss](./font-size.scss)
  
-
 >Grosor de la fuente    
 >Propiedad css **font-weight**  
 
@@ -151,9 +140,7 @@ para las propiedades css no integradas por los grandes frameworks
 |fw9| 900|
 
 [font-weight.css](./font-weight.css)
- 
 [font-weight.min.css](./css-dist/font-weight.css)
- 
 [font-weight.scss](./font-weight.scss)
  
 
