@@ -1,0 +1,42 @@
+$m:margin;
+$mt:#{$m}-top;
+$ml:#{$m}-left;
+$mr:#{$m}-right;
+$mb:#{$m}-bottom;
+
+$p:padding;
+$pt:#{$p}-top;
+$pl:#{$p}-left;
+$pr:#{$p}-right;
+$pb:#{$p}-bottom;
+
+@for $i from 1 through 25 {
+	 .m#{$i}{#{$m}:#{$i}px}
+	 .ml#{$i}{#{$ml}:#{$i}px;}
+	 .mt#{$i}{#{$mt}:#{$i}px;}
+	 .mr#{$i}{#{$mr}:#{$i}px;}
+	 .mb#{$i}{#{$mb}:#{$i}px;}
+	 .mv#{$i}{
+	 	    #{$mt}:#{$i}px;
+	 	    #{$mb}:#{$i}px;
+	 	    }
+	 .mh#{$i}{
+	 	    #{$ml}:#{$i}px;
+	 	    #{$mr}:#{$i}px;
+	 	    }
+	 	    
+	 	.p#{$i}{#{$p}:#{$i}px}
+	 .p#{$i}{#{$pl}:#{$i}px;}
+	 .pt#{$i}{#{$pt}:#{$i}px;}
+	 .pr#{$i}{#{$pr}:#{$i}px;}
+	 .pb#{$i}{#{$pb}:#{$i}px;}
+	 .pv#{$i}{
+	 	    #{$pt}:#{$i}px;
+	 	    #{$pb}:#{$i}px;
+	 	    }
+	 .ph#{$i}{
+	 	    #{$pl}:#{$i}px;
+	 	    #{$pr}:#{$i}px;
+	 	    }
+	 	
+}

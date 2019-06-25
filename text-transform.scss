@@ -1,0 +1,6 @@
+$tt:uppercase,lowercase,capitalize;
+@each $i in $tt{
+	.t-#{$i}{
+		text-transform:#{$i};
+	}
+}
