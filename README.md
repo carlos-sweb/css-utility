@@ -213,4 +213,4 @@ para las propiedades css no integradas por los grandes frameworks
 
 |name|color|
 |:---|:----|
-|c-color,bgc-color| indianred <span style="background-color:indianred">text in red</span>|
+|c-color,bgc-color| indianred|
