@@ -205,3 +205,12 @@ para las propiedades css no integradas por los grandes frameworks
 [overflow.css](./overflow.css)  
 [overflow.min.css](./css-dist/overflow.css)  
 [overflow.scss](./overflow.scss)  
+
+## Manipulación de colores
+
+>Colores para elemento provenientes de un nombre de color  
+>Propiedad css **color** y **background-color**
+
+|name|color|
+|:---|:----|
+|c-color,bgc-color| indianred|
