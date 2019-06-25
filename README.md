@@ -155,7 +155,7 @@ para las propiedades css no integradas por los grandes frameworks
 
 ## Manipulación de la posición
 
->Posición de un objecto 
+>Posición de un objecto  
 >Propiedad css **position,top,left,right,bottom**  
 
 |name|position|
@@ -191,7 +191,7 @@ para las propiedades css no integradas por los grandes frameworks
 [visibility.scss](./visibility.scss)  
  
 
-## Manipulación de la desbordamineto
+## Manipulación del desbordamineto
 
 >Visibilidad del elemento    
 >Propiedad css **overlow**  
