@@ -384,3 +384,7 @@ para las propiedades css no integradas por los grandes frameworks
 |c-color,bgc-color|slategray|
 |c-color,bgc-color|darkslategray|
 |c-color,bgc-color|black|
+
+[color-name.css](./color-name.css)  
+[color-name.min.css](./css-dist/color-name.min.css)   
+[color-name.scss](./color-name.scss)
