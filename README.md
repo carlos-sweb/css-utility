@@ -20,7 +20,7 @@ para las propiedades css no integradas por los grandes frameworks
 |taj |  justify |
 
 [text-align.css](./text-align.css)  
-[text-align.min.css](./css-dist/text-align.css)   
+[text-align.min.css](./css-dist/text-align.min.css)   
 [text-align.scss](./text-align.scss)
   
 
@@ -40,7 +40,7 @@ para las propiedades css no integradas por los grandes frameworks
 |ls9|0.9rem|
 
 [letter-spacing.css](./letter-spacing.css)  
-[letter-spacing.min.css](./css-dist/letter-spacing.css)  
+[letter-spacing.min.css](./css-dist/letter-spacing.min.css)  
 [letter-spacing.scss](./letter-spacing.scss)  
 
 >Espacio entre lineas  
@@ -60,7 +60,7 @@ para las propiedades css no integradas por los grandes frameworks
 |lh1-9|1.9|
 
 [line-height.css](./line-height.css)  
-[line-height.min.css](./css-dist/line-height.css)   
+[line-height.min.css](./css-dist/line-height.min.css)   
 [line-height.scss](./line-height.scss)  
  
 
@@ -74,7 +74,7 @@ para las propiedades css no integradas por los grandes frameworks
 |t-capitalize|capitalize|
 
 [text-transform.css](./text-transform.css)  
-[text-transform.min.css](./css-dist/text-transform.css)  
+[text-transform.min.css](./css-dist/text-transform.min.css)  
 [text-transform.scss](./text-transform.scss)  
  
 >Estilo de la fuente 
@@ -101,7 +101,7 @@ para las propiedades css no integradas por los grandes frameworks
 |code|"Consolas, Monaco, 'Andale Mono',monospace"|
 
 [font-basic.css](./font-basic.css)  
-[font-basic.min.css](./css-dist/font-basic.css)  
+[font-basic.min.css](./css-dist/font-basic.min.css)  
 [font-basic.scss](./font-basic.scss)  
  
 
@@ -115,7 +115,7 @@ para las propiedades css no integradas por los grandes frameworks
 |fs100|100px|
 
 [font-size.css](./font-size.css)  
-[font-size.min.css](./css-dist/font-size.css)  
+[font-size.min.css](./css-dist/font-size.min.css)  
 [font-size.scss](./font-size.scss)  
  
 >Grosor de la fuente    
@@ -138,7 +138,7 @@ para las propiedades css no integradas por los grandes frameworks
 |fw9| 900|
 
 [font-weight.css](./font-weight.css)  
-[font-weight.min.css](./css-dist/font-weight.css)  
+[font-weight.min.css](./css-dist/font-weight.min.css)  
 [font-weight.scss](./font-weight.scss)  
  
 
@@ -149,7 +149,7 @@ para las propiedades css no integradas por los grandes frameworks
 >font-style,font-size,font-basic,font-weight
 
 [tools-text.css](./tools-text.css)  
-[tools-text.min.css](./css-dist/tools-text.css)  
+[tools-text.min.css](./css-dist/tools-text.min.css)  
 [tools-text.scss](./tools-text.scss)  
  
 
@@ -171,7 +171,7 @@ para las propiedades css no integradas por los grandes frameworks
 
 
 [position.css](./position.css)  
-[position.min.css](./css-dist/position.css)  
+[position.min.css](./css-dist/position.min.css)  
 [position.scss](./position.scss)  
  
 
@@ -187,7 +187,7 @@ para las propiedades css no integradas por los grandes frameworks
 |fixed |  collapse|
 
 [visibility.css](./visibility.css)  
-[visibility.min.css](./css-dist/visibility.css)  
+[visibility.min.css](./css-dist/visibility.min.css)  
 [visibility.scss](./visibility.scss)  
  
 
@@ -203,7 +203,7 @@ para las propiedades css no integradas por los grandes frameworks
 |ofy| overflow-y: scroll !important|
 
 [overflow.css](./overflow.css)  
-[overflow.min.css](./css-dist/overflow.css)  
+[overflow.min.css](./css-dist/overflow.min.css)  
 [overflow.scss](./overflow.scss)  
 
 ## Manipulación de colores
