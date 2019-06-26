@@ -388,3 +388,7 @@ para las propiedades css no integradas por los grandes frameworks
 [color-name.css](./color-name.css)  
 [color-name.min.css](./css-dist/color-name.min.css)   
 [color-name.scss](./color-name.scss)
+
+[bgc-name.css](./bgc-name.css)  
+[bgc-name.min.css](./css-dist/bgc-name.min.css)   
+[bgc-name.scss](./bgc-name.scss)
