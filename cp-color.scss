@@ -1,8 +1,7 @@
-$cp-white:rgba(255,255,255,.87);
-$cp-black:rgba(0,0,0,.87);
-
 @function get-colors-list($list-normal:null,$list-accent:null){
    
+   $cp-white:rgba(255,255,255,.87);
+   $cp-black:rgba(0,0,0,.87);
    $cp-normal:"50","100","200","300","400","500","600","700","800","900";
    $cp-accent:"A100","A200","A300","A400","A700";
       
@@ -14,12 +13,14 @@ $cp-black:rgba(0,0,0,.87);
               
               $bg : nth( nth( $list-normal,$i ), 1 ) ;
               $c: nth( nth( $list-normal,$i ), 2 ) ;
+              @if $c == 0 {$c:$cp-black;}@else if($c == 1){$c:$cp-white;}
               $map:(  nth($cp-normal,$i)  :get-colors( $bg , $c ) );
               
           }@else {
               
               $bg : nth( nth( $list-normal,$i ), 1 ) ;
               $c: nth( nth( $list-normal,$i ), 2 ) ;
+              @if $c == 0 {$c:$cp-black;}@else if($c == 1){$c:$cp-white;}
               $map: map-merge($map, (  nth($cp-normal,$i)   : get-colors(  $bg ,$c )  ));
           }
       }
@@ -32,12 +33,14 @@ $cp-black:rgba(0,0,0,.87);
               
               $bg : nth( nth( $list-accent,$i ), 1 ) ;
               $c: nth( nth( $list-accent,$i ), 2 ) ;
+              @if $c == 0 {$c:$cp-black;}@else if($c == 1){$c:$cp-white;}
               $map:(  nth($cp-accent,$i)  :get-colors( $bg , $c ) );
               
           }@else {
               
               $bg : nth( nth( $list-accent,$i ), 1 ) ;
               $c: nth( nth( $list-accent,$i ), 2 ) ;
+              @if $c == 0 {$c:$cp-black;}@else if($c == 1){$c:$cp-white;}
               $map: map-merge($map, (  nth($cp-accent,$i)   : get-colors(  $bg ,$c )  ));
           }
       }
@@ -50,323 +53,153 @@ $cp-black:rgba(0,0,0,.87);
 	 @return ("bg":$bg,"c":$color)
 }
 
-$cp-red-normal:
-("#FFEBEE",$cp-black),
-("#FFCDD2",$cp-black),
-("#EF9A9A",$cp-black),
-("#E57373",$cp-black),
-("#EF5350",$cp-white),
-("#F44336",$cp-white),
-("#E53935",$cp-white),
-("#D32F2F",$cp-white),
-("#C62828",$cp-white),
-("#B71C1C",$cp-white);
-$cp-red-accent:
-("#FF8A80",$cp-black),
-("#FF5252",$cp-white),
-("#FF1744",$cp-white),
-("#D50000",$cp-white);
+$cp-red-normal:("#FFEBEE",0),("#FFCDD2",0),("#EF9A9A",0),
+("#E57373",0),("#EF5350",1),("#F44336",1),("#E53935",1),
+("#D32F2F",1),("#C62828",1),("#B71C1C",1);
+
+$cp-red-accent:("#FF8A80",0),("#FF5252",1),("#FF1744",1),
+("#D50000",1);
 
 $cp-red:get-colors-list($cp-red-normal,$cp-red-accent);
 
-$cp-pink:(
-"50":get-colors("#FCE4EC",$cp-black),
-"100":get-colors("#F8BBD0",$cp-black),
-"200":get-colors("#F48FB1",$cp-black),
-"300":get-colors("#F06292",$cp-black),
-"400":get-colors("#EC407A",$cp-white),
-"500":get-colors("#E91E63",$cp-white),
-"600":get-colors("#D81B60",$cp-white),
-"700":get-colors("#C2185B",$cp-white),
-"800":get-colors("#AD1457",$cp-white),
-"900":get-colors("#880E4F",$cp-white),
-"A100":get-colors("#FF80AB",$cp-black),
-"A200":get-colors("#FF4081",$cp-white),
-"A400":get-colors("#F50057",$cp-white),
-"A700":get-colors("#C51162",$cp-white)
-);
+$cp-pink-normal:("#FCE4EC",0),("#F8BBD0",0),("#F48FB1",0),
+("#F06292",0),("#EC407A",1),("#E91E63",1),
+("#D81B60",1),("#C2185B",1),("#AD1457",1),
+("#880E4F",1);
 
-$cp-purple:(
-"50":get-colors("#F3E5F5",$cp-black),
-"100":get-colors("#E1BEE7",$cp-black),
-"200":get-colors("#CE93D8",$cp-black),
-"300":get-colors("#BA68C8",$cp-white),
-"400":get-colors("#AB47BC",$cp-white),
-"500":get-colors("#9C27B0",$cp-white),
-"600":get-colors("#8E24AA",$cp-white),
-"700":get-colors("#7B1FA2",$cp-white),
-"800":get-colors("#6A1B9A",$cp-white),
-"900":get-colors("#4A148C",$cp-white),
-"A100":get-colors("#EA80FC",$cp-black),
-"A200":get-colors("#E040FB",$cp-white),
-"A400":get-colors("#D500F9",$cp-white),
-"A700":get-colors("#AA00FF",$cp-white)
-);
+$cp-pink-accent:("#FF80AB",0),("#FF4081",1),("#F50057",1),
+("#C51162",1);
 
-$cp-deeppurple:(
-"50":get-colors("#EDE7F6","black"),
-"100":get-colors("#D1C4E9","black"),
-"200":get-colors("#B39DDB","black"),
-"300":get-colors("#9575CD","black"),
-"400":get-colors("#7E57C2","black"),
-"500":get-colors("#673AB7","black"),
-"600":get-colors("#5E35B1","black"),
-"700":get-colors("#512DA8","black"),
-"800":get-colors("#4527A0","black"),
-"900":get-colors("#311B92","black"),
-"A100":get-colors("#B388FF","black"),
-"A200":get-colors("#7C4DFF","black"),
-"A400":get-colors("#651FFF","black"),
-"A700":get-colors("#6200EA","black")
-);
+$cp-pink:get-colors-list($cp-pink-normal,$cp-pink-accent);
 
-$cp-indigo:(
-"50":get-colors("#E8EAF6",$cp-black),
-"100":get-colors("#C5CAE9",$cp-black),
-"200":get-colors("#9FA8DA",$cp-black),
-"300":get-colors("#7986CB",$cp-white),
-"400":get-colors("#5C6BC0",$cp-white),
-"500":get-colors("#3F51B5",$cp-white),
-"600":get-colors("#3949AB",$cp-white),
-"700":get-colors("#303F9F",$cp-white),
-"800":get-colors("#283593",$cp-white),
-"900":get-colors("#1A237E",$cp-white),
-"A100":get-colors("#8C9EFF",$cp-black),
-"A200":get-colors("#536DFE",$cp-white),
-"A400":get-colors("#3D5AFE",$cp-white),
-"A700":get-colors("#304FFE",$cp-white)
-);
+$cp-purple-normal:("#F3E5F5",0),("#E1BEE7",0),("#CE93D8",0),
+("#BA68C8",1),("#AB47BC",1),("#9C27B0",1),("#8E24AA",1),
+("#7B1FA2",1),("#6A1B9A",1),("#4A148C",1);
 
-$cp-blue:(
-"50":get-colors("#E3F2FD",$cp-black),
-"100":get-colors("#BBDEFB",$cp-black),
-"200":get-colors("#90CAF9",$cp-black),
-"300":get-colors("#64B5F6",$cp-black),
-"400":get-colors("#42A5F5",$cp-black),
-"500":get-colors("#2196F3",$cp-black),
-"600":get-colors("#1E88E5",$cp-white),
-"700":get-colors("#1976D2",$cp-white),
-"800":get-colors("#1565C0",$cp-white),
-"900":get-colors("#0D47A1",$cp-white),
-"A100":get-colors("#82B1FF",$cp-black),
-"A200":get-colors("#448AFF",$cp-white),
-"A400":get-colors("#2979FF",$cp-white),
-"A700":get-colors("#2962FF",$cp-white)
-);
+$cp-purple-accent:("#EA80FC",0),("#E040FB",1),("#D500F9",1),("#AA00FF",1);
 
-$cp-lightblue:(
-"50":get-colors("#E1F5FE",$cp-black),
-"100":get-colors("#B3E5FC",$cp-black),
-"200":get-colors("#81D4FA",$cp-black),
-"300":get-colors("#4FC3F7",$cp-black),
-"400":get-colors("#29B6F6",$cp-black),
-"500":get-colors("#03A9F4",$cp-black),
-"600":get-colors("#039BE5",$cp-black),
-"700":get-colors("#0288D1",$cp-white),
-"800":get-colors("#0277BD",$cp-white),
-"900":get-colors("#01579B",$cp-white),
-"A100":get-colors("#80D8FF",$cp-black),
-"A200":get-colors("#40C4FF",$cp-black),
-"A400":get-colors("#00B0FF",$cp-black),
-"A700":get-colors("#0091EA",$cp-white)
-);
+$cp-purple:get-colors-list($cp-purple-normal,$cp-purple-accent);
 
-$cp-cyan:(
-"50":get-colors("#E0F7FA",$cp-black),
-"100":get-colors("#B2EBF2",$cp-black),
-"200":get-colors("#80DEEA",$cp-black),
-"300":get-colors("#4DD0E1",$cp-black),
-"400":get-colors("#26C6DA",$cp-black),
-"500":get-colors("#00BCD4",$cp-black),
-"600":get-colors("#00ACC1",$cp-black),
-"700":get-colors("#0097A7",$cp-white),
-"800":get-colors("#00838F",$cp-white),
-"900":get-colors("#006064",$cp-white),
-"A100":get-colors("#84FFFF",$cp-black),
-"A200":get-colors("#18FFFF",$cp-black),
-"A400":get-colors("#00E5FF",$cp-black),
-"A700":get-colors("#00B8D4",$cp-black)
-);
+$cp-deeppurple-normal:("#EDE7F6",0),("#D1C4E9",0),("#B39DDB",0),("#9575CD",1),
+("#7E57C2",1),("#673AB7",1),("#5E35B1",1),("#512DA8",1),("#4527A0",1),
+("#311B92",1);
 
-$cp-teal:(
-"50":get-colors("#E0F2F1",$cp-black),
-"100":get-colors("#B2DFDB",$cp-black),
-"200":get-colors("#80CBC4",$cp-black),
-"300":get-colors("#4DB6AC",$cp-black),
-"400":get-colors("#26A69A",$cp-black),
-"500":get-colors("#009688",$cp-white),
-"600":get-colors("#00897B",$cp-white),
-"700":get-colors("#00796B",$cp-white),
-"800":get-colors("#00695C",$cp-white),
-"900":get-colors("#004D40",$cp-white),
-"A100":get-colors("#A7FFEB",$cp-black),
-"A200":get-colors("#64FFDA",$cp-black),
-"A400":get-colors("#1DE9B6",$cp-black),
-"A700":get-colors("#00BFA5",$cp-black)
-);
+$cp-deeppurple-accent:("#B388FF",0),("#7C4DFF",1),("#651FFF",1),("#6200EA",1);
 
-$cp-green:(
-"50":get-colors("#E8F5E9",$cp-black),
-"100":get-colors("#C8E6C9",$cp-black),
-"200":get-colors("#A5D6A7",$cp-black),
-"300":get-colors("#81C784",$cp-black),
-"400":get-colors("#66BB6A",$cp-black),
-"500":get-colors("#4CAF50",$cp-black),
-"600":get-colors("#43A047",$cp-white),
-"700":get-colors("#388E3C",$cp-white),
-"800":get-colors("#2E7D32",$cp-white),
-"900":get-colors("#1B5E20",$cp-white),
-"A100":get-colors("#B9F6CA",$cp-black),
-"A200":get-colors("#69F0AE",$cp-black),
-"A400":get-colors("#00E676",$cp-black),
-"A700":get-colors("#00C853",$cp-black)
-);
+$cp-deeppurple:get-colors-list($cp-deeppurple-normal,$cp-deeppurple-accent);
 
-$cp-lightgreen:(
-"50":get-colors("#F1F8E9",$cp-black),
-"100":get-colors("#DCEDC8",$cp-black),
-"200":get-colors("#C5E1A5",$cp-black),
-"300":get-colors("#AED581",$cp-black),
-"400":get-colors("#9CCC65",$cp-black),
-"500":get-colors("#8BC34A",$cp-black),
-"600":get-colors("#7CB342",$cp-black),
-"700":get-colors("#689F38",$cp-black),
-"800":get-colors("#558B2F",$cp-white),
-"900":get-colors("#33691E",$cp-white),
-"A100":get-colors("#CCFF90",$cp-black),
-"A200":get-colors("#B2FF59",$cp-black),
-"A400":get-colors("#76FF03",$cp-black),
-"A700":get-colors("#64DD17",$cp-black)
-);
+$cp-indigo-normal:("#E8EAF6",0),("#C5CAE9",0),("#9FA8DA",0),("#7986CB",1),
+("#5C6BC0",1),("#3F51B5",1),("#3949AB",1),("#303F9F",1),("#283593",1),("#1A237E",1);
 
-$cp-lime:(
-"50":get-colors("#F9FBE7",$cp-black),
-"100":get-colors("#F0F4C3",$cp-black),
-"200":get-colors("#E6EE9C",$cp-black),
-"300":get-colors("#DCE775",$cp-black),
-"400":get-colors("#D4E157",$cp-black),
-"500":get-colors("#CDDC39",$cp-black),
-"600":get-colors("#C0CA33",$cp-black),
-"700":get-colors("#AFB42B",$cp-black),
-"800":get-colors("#9E9D24",$cp-black),
-"900":get-colors("#827717",$cp-white),
-"A100":get-colors("#F4FF81",$cp-black),
-"A200":get-colors("#EEFF41",$cp-black),
-"A400":get-colors("#C6FF00",$cp-black),
-"A700":get-colors("#AEEA00",$cp-black)
-);
+$cp-indigo-accent:("#8C9EFF",0),("#536DFE",1),("#3D5AFE",1),("#304FFE",1);
 
-$cp-yellow:(
-"50":get-colors("#FFFDE7",$cp-black),
-"100":get-colors("#FFF9C4",$cp-black),
-"200":get-colors("#FFF59D",$cp-black),
-"300":get-colors("#FFF176",$cp-black),
-"400":get-colors("#FFEE58",$cp-black),
-"500":get-colors("#FFEB3B",$cp-black),
-"600":get-colors("#FDD835",$cp-black),
-"700":get-colors("#FBC02D",$cp-black),
-"800":get-colors("#F9A825",$cp-black),
-"900":get-colors("#F57F17",$cp-black),
-"A100":get-colors("#FFFF8D",$cp-black),
-"A200":get-colors("#FFFF00",$cp-black),
-"A400":get-colors("#FFEA00",$cp-black),
-"A700":get-colors("#FFD600",$cp-black)
-);
+$cp-indigo:get-colors-list($cp-indigo-normal,$cp-indigo-accent);
+
+$cp-blue-normal:("#E3F2FD",0),("#BBDEFB",0),("#90CAF9",0),("#64B5F6",0),
+("#42A5F5",0),("#2196F3",0),("#1E88E5",1),("#1976D2",1),("#1565C0",1),
+("#0D47A1",1);
+
+$cp-blue-accent:("#82B1FF",0),("#448AFF",1),("#2979FF",1),("#2962FF",1);
+
+$cp-blue:get-colors-list($cp-blue-normal,$cp-blue-accent);
+
+$cp-lightblue-normal:("#E1F5FE",0),("#B3E5FC",0),("#81D4FA",0),("#4FC3F7",0),
+("#29B6F6",0),("#03A9F4",0),("#039BE5",0),("#0288D1",1),("#0277BD",1),
+("#01579B",1);
+
+$cp-lightblue-accent:("#80D8FF",0),("#40C4FF",0),("#00B0FF",0),("#0091EA",1);
+
+$cp-lightblue:get-colors-list($cp-lightblue-normal,$cp-lightblue-accent);
+
+$cp-cyan-normal:("#E0F7FA",0),("#B2EBF2",0),("#80DEEA",0),("#4DD0E1",0),
+("#26C6DA",0),("#00BCD4",0),("#00ACC1",0),("#0097A7",1),("#00838F",1),
+("#006064",1);
+
+$cp-cyan-accent:("#84FFFF",0),("#18FFFF",0),("#00E5FF",0),("#00B8D4",0);
+
+$cp-cyan:get-colors-list($cp-cyan-normal,$cp-cyan-accent);
+
+$cp-teal-normal:("#E0F2F1",0),("#B2DFDB",0),("#80CBC4",0),("#4DB6AC",0),
+("#26A69A",0),("#009688",1),("#00897B",1),("#00796B",1),("#00695C",1),
+("#004D40",1);
+
+$cp-teal-accent:("#A7FFEB",0),("#64FFDA",0),("#1DE9B6",0),("#00BFA5",0);
+
+$cp-teal:get-colors-list($cp-teal-normal,$cp-teal-accent);
 
 
-$cp-amber:(
-"50":get-colors("#FFF8E1",$cp-black),
-"100":get-colors("#FFECB3",$cp-black),
-"200":get-colors("#FFE082",$cp-black),
-"300":get-colors("#FFD54F",$cp-black),
-"400":get-colors("#FFCA28",$cp-black),
-"500":get-colors("#FFC107",$cp-black),
-"600":get-colors("#FFB300",$cp-black),
-"700":get-colors("#FFA000",$cp-black),
-"800":get-colors("#FF8F00",$cp-black),
-"900":get-colors("#FF6F00",$cp-black),
-"A100":get-colors("#FFE57F",$cp-black),
-"A200":get-colors("#FFD740",$cp-black),
-"A400":get-colors("#FFC400",$cp-black),
-"A700":get-colors("#FFAB00",$cp-black)
-);
+$cp-green-normal:("#E8F5E9",0),("#C8E6C9",0),("#A5D6A7",0),("#81C784",0),
+("#66BB6A",0),("#4CAF50",0),("#43A047",1),("#388E3C",1),("#2E7D32",1),
+("#1B5E20",1);
 
-$cp-orange:(
-"50":get-colors("#FFF3E0",$cp-black),
-"100":get-colors("#FFE0B2",$cp-black),
-"200":get-colors("#FFCC80",$cp-black),
-"300":get-colors("#FFB74D",$cp-black),
-"400":get-colors("#FFA726",$cp-black),
-"500":get-colors("#FF9800",$cp-black),
-"600":get-colors("#FB8C00",$cp-black),
-"700":get-colors("#F57C00",$cp-black),
-"800":get-colors("#EF6C00",$cp-black),
-"900":get-colors("#E65100",$cp-white),
-"A100":get-colors("#FFD180",$cp-black),
-"A200":get-colors("#FFAB40",$cp-black),
-"A400":get-colors("#FF9100",$cp-black),
-"A700":get-colors("#FF6D00",$cp-black)
-);
+$cp-green-accent:("#B9F6CA",0),("#69F0AE",0),("#00E676",0),("#00C853",0);
 
-$cp-deeporange:(
-"50":get-colors("#FBE9E7",$cp-black),
-"100":get-colors("#FFCCBC",$cp-black),
-"200":get-colors("#FFAB91",$cp-black),
-"300":get-colors("#FF8A65",$cp-black),
-"400":get-colors("#FF7043",$cp-black),
-"500":get-colors("#FF5722",$cp-black),
-"600":get-colors("#F4511E",$cp-white),
-"700":get-colors("#E64A19",$cp-white),
-"800":get-colors("#D84315",$cp-white),
-"900":get-colors("#BF360C",$cp-white),
-"A100":get-colors("#FF9E80",$cp-black),
-"A200":get-colors("#FF6E40",$cp-black),
-"A400":get-colors("#FF3D00",$cp-white),
-"A700":get-colors("#DD2C00",$cp-white)
-);
+$cp-green:get-colors-list($cp-green-normal,$cp-green-accent);
 
-$cp-brown:(
-"50":get-colors("#EFEBE9",$cp-black),
-"100":get-colors("#D7CCC8",$cp-black),
-"200":get-colors("#BCAAA4",$cp-black),
-"300":get-colors("#A1887F",$cp-white),
-"400":get-colors("#8D6E63",$cp-white),
-"500":get-colors("#795548",$cp-white),
-"600":get-colors("#6D4C41",$cp-white),
-"700":get-colors("#5D4037",$cp-white),
-"800":get-colors("#4E342E",$cp-white),
-"900":get-colors("#3E2723",$cp-white)
-);
+$cp-lightgreen-normal:("#F1F8E9",0),("#DCEDC8",0),("#C5E1A5",0),("#AED581",0),
+("#9CCC65",0),("#8BC34A",0),("#7CB342",0),("#689F38",0),("#558B2F",1),
+("#33691E",1);
 
-$cp-gray:(
-"50":get-colors("#FAFAFA",$cp-black),
-"100":get-colors("#F5F5F5",$cp-black),
-"200":get-colors("#EEEEEE",$cp-black),
-"300":get-colors("#E0E0E0",$cp-black),
-"400":get-colors("#BDBDBD",$cp-black),
-"500":get-colors("#9E9E9E",$cp-black),
-"600":get-colors("#757575",$cp-white),
-"700":get-colors("#616161",$cp-white),
-"800":get-colors("#424242",$cp-white),
-"900":get-colors("#212121",$cp-white)
-);
+$cp-lightgreen-accent:("#CCFF90",0),("#B2FF59",0),("#76FF03",0),("#64DD17",0);
 
-$cp-bluegray:(
-"50":get-colors("#ECEFF1",$cp-black),
-"100":get-colors("#CFD8DC",$cp-black),
-"200":get-colors("#B0BEC5",$cp-black),
-"300":get-colors("#90A4AE",$cp-black),
-"400":get-colors("#78909C",$cp-white),
-"500":get-colors("#607D8B",$cp-white),
-"600":get-colors("#546E7A",$cp-white),
-"700":get-colors("#455A64",$cp-white),
-"800":get-colors("#37474F",$cp-white),
-"900":get-colors("#263238",$cp-white)
-);
+$cp-lightgreen:get-colors-list($cp-lightgreen-normal,$cp-lightgreen-accent);
+$cp-lime-normal:("#F9FBE7",0),("#F0F4C3",0),("#E6EE9C",0),("#DCE775",0),
+("#D4E157",0),("#CDDC39",0),("#C0CA33",0),("#AFB42B",0),("#9E9D24",0),
+("#827717",1);
+
+$cp-lime-accent:("#F4FF81",0),("#EEFF41",0),("#C6FF00",0),("#AEEA00",0);
+$cp-lime:get-colors-list($cp-lime-normal,$cp-lime-accent);
+
+$cp-yellow-normal:("#FFFDE7",0),("#FFF9C4",0),("#FFF59D",0),("#FFF176",0),
+("#FFEE58",0),("#FFEB3B",0),("#FDD835",0),("#FBC02D",0),("#F9A825",0),
+("#F57F17",0);
+$cp-yellow-accent:("#FFFF8D",0),("#FFFF00",0),("#FFEA00",0),("#FFD600",0);
+
+$cp-yellow:get-colors-list($cp-yellow-normal,$cp-yellow-accent);
+
+$cp-amber-normal:("#FFF8E1",0),("#FFECB3",0),("#FFE082",0),("#FFD54F",0),
+("#FFCA28",0),("#FFC107",0),("#FFB300",0),("#FFA000",0),("#FF8F00",0),
+("#FF6F00",0);
+$cp-amber-accent:("#FFE57F",0),("#FFD740",0),("#FFC400",0),("#FFAB00",0);
+
+$cp-amber:get-colors-list($cp-amber-normal,$cp-amber-accent);
+
+$cp-orange-normal:("#FFF3E0",0),("#FFE0B2",0),("#FFCC80",0),("#FFB74D",0),
+("#FFA726",0),("#FF9800",0),("#FB8C00",0),("#F57C00",0),("#EF6C00",0),
+("#E65100",1);
+$cp-orange-accent:("#FFD180",0),("#FFAB40",0),("#FF9100",0),("#FF6D00",0);
+
+$cp-orange:get-colors-list($cp-orange-normal,$cp-orange-accent);
+
+$cp-deeporange-normal:("#FBE9E7",0),("#FFCCBC",0),("#FFAB91",0),("#FF8A65",0),
+("#FF7043",0),("#FF5722",0),("#F4511E",1),("#E64A19",1),("#D84315",1),
+("#BF360C",1);
+
+$cp-deeporange-accent:("#FF9E80",0),("#FF6E40",0),("#FF3D00",1),("#DD2C00",1);
+
+$cp-deeporange:get-colors-list($cp-deeporange-normal,$cp-deeporange-accent);
+
+$cp-brown-normal:("#EFEBE9",0),("#D7CCC8",0),("#BCAAA4",0),("#A1887F",1),
+("#8D6E63",1),("#795548",1),("#6D4C41",1),("#5D4037",1),("#4E342E",1),
+("#3E2723",1);
+
+$cp-brown:get-colors-list($cp-brown-normal);
+
+$cp-gray-normal:("#FAFAFA",0),("#F5F5F5",0),("#EEEEEE",0),("#E0E0E0",0),
+("#BDBDBD",0),("#9E9E9E",0),("#757575",1),("#616161",1),("#424242",1),
+("#212121",1);
+
+$cp-gray:get-colors-list($cp-gray-normal);
+
+$cp-bluegray-normal:("#ECEFF1",0),("#CFD8DC",0),("#B0BEC5",0),("#90A4AE",0),
+("#78909C",1),("#607D8B",1),("#546E7A",1),("#455A64",1),("#37474F",1),
+("#263238",1);
+
+$cp-bluegray:get-colors-list($cp-bluegray-normal);
 
 $cp-basic:(
-"white":get-colors("#FFFFFF",$cp-black),
-"black":get-colors("#000000",$cp-white)
+"white":get-colors("#FFFFFF",rgba(0,0,0,.87)),
+"black":get-colors("#000000",rgba(255,255,255,.87))
 );
 
 $cp-colors:(
@@ -389,11 +222,11 @@ $cp-colors:(
 "brown":$cp-brown,
 "gray":$cp-gray,
 "bluegray":$cp-bluegray,
-"basic":$cp-basic);
+"":$cp-basic);
 
 @each $name-color,$palete-color in $cp-colors{
   @each $index,$value in $palete-color{
-    .cp-#{$name-color}#{$index}{
+    .#{$name-color}#{$index}{
       background-color: map-get($value,bg);
       color: map-get($value,c);
     } 
