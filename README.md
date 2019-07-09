@@ -392,6 +392,10 @@ para las propiedades css no integradas por los grandes frameworks
 [bgc-name.min.css](./css-dist/bgc-name.min.css)   
 [bgc-name.scss](./bgc-name.scss)
 
+>Colores para elemento provenientes de la paleta de colores de material.io  
+>Propiedad css **color** y **background-color**
+>Enlace de referencia [material.io paleta de colores](https://material.io/design/color/the-color-system.html#tools-for-picking-colors)
+
 |class name|background|color|
 |:---|:----|:----|
 |red50|#FFEBEE|rgba(0, 0, 0, .87)|
