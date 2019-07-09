@@ -412,6 +412,9 @@ para las propiedades css no integradas por los grandes frameworks
 |redA200|#FF5252|rgba(255, 255, 255, .87)|
 |redA300|#FF1744|rgba(255, 255, 255, .87)|
 |redA400|#D50000|rgba(255, 255, 255, .87)|
+
+|class name|background|color|
+|:---|:----|:----|
 |pink50|#FCE4EC|rgba(0, 0, 0, .87)|
 |pink100|#F8BBD0|rgba(0, 0, 0, .87)|
 |pink200|#F48FB1|rgba(0, 0, 0, .87)|
@@ -426,6 +429,9 @@ para las propiedades css no integradas por los grandes frameworks
 |pinkA200|#FF4081|rgba(255, 255, 255, .87)|
 |pinkA300|#F50057|rgba(255, 255, 255, .87)|
 |pinkA400|#C51162|rgba(255, 255, 255, .87)|
+
+|class name|background|color|
+|:---|:----|:----|
 |purple50|#F3E5F5|rgba(0, 0, 0, .87)|
 |purple100|#E1BEE7|rgba(0, 0, 0, .87)|
 |purple200|#CE93D8|rgba(0, 0, 0, .87)|
@@ -440,6 +446,9 @@ para las propiedades css no integradas por los grandes frameworks
 |purpleA200|#E040FB|rgba(255, 255, 255, .87)|
 |purpleA300|#D500F9|rgba(255, 255, 255, .87)|
 |purpleA400|#AA00FF|rgba(255, 255, 255, .87)|
+
+|class name|background|color|
+|:---|:----|:----|
 |deeppurple50|#EDE7F6|rgba(0, 0, 0, .87)|
 |deeppurple100|#D1C4E9|rgba(0, 0, 0, .87)|
 |deeppurple200|#B39DDB|rgba(0, 0, 0, .87)|
@@ -454,6 +463,9 @@ para las propiedades css no integradas por los grandes frameworks
 |deeppurpleA200|#7C4DFF|rgba(255, 255, 255, .87)|
 |deeppurpleA300|#651FFF|rgba(255, 255, 255, .87)|
 |deeppurpleA400|#6200EA|rgba(255, 255, 255, .87)|
+
+|class name|background|color|
+|:---|:----|:----|
 |indigo50|#E8EAF6|rgba(0, 0, 0, .87)|
 |indigo100|#C5CAE9|rgba(0, 0, 0, .87)|
 |indigo200|#9FA8DA|rgba(0, 0, 0, .87)|
@@ -468,6 +480,9 @@ para las propiedades css no integradas por los grandes frameworks
 |indigoA200|#536DFE|rgba(255, 255, 255, .87)|
 |indigoA300|#3D5AFE|rgba(255, 255, 255, .87)|
 |indigoA400|#304FFE|rgba(255, 255, 255, .87)|
+
+|class name|background|color|
+|:---|:----|:----|
 |blue50|#E3F2FD|rgba(0, 0, 0, .87)|
 |blue100|#BBDEFB|rgba(0, 0, 0, .87)|
 |blue200|#90CAF9|rgba(0, 0, 0, .87)|
@@ -482,6 +497,9 @@ para las propiedades css no integradas por los grandes frameworks
 |blueA200|#448AFF|rgba(255, 255, 255, .87)|
 |blueA300|#2979FF|rgba(255, 255, 255, .87)|
 |blueA400|#2962FF|rgba(255, 255, 255, .87)|
+
+|class name|background|color|
+|:---|:----|:----|
 |lightblue50|#E1F5FE|rgba(0, 0, 0, .87)|
 |lightblue100|#B3E5FC|rgba(0, 0, 0, .87)|
 |lightblue200|#81D4FA|rgba(0, 0, 0, .87)|
@@ -496,6 +514,9 @@ para las propiedades css no integradas por los grandes frameworks
 |lightblueA200|#40C4FF|rgba(0, 0, 0, .87)|
 |lightblueA300|#00B0FF|rgba(0, 0, 0, .87)|
 |lightblueA400|#0091EA|rgba(255, 255, 255, .87)|
+
+|class name|background|color|
+|:---|:----|:----|
 |cyan50|#E0F7FA|rgba(0, 0, 0, .87)|
 |cyan100|#B2EBF2|rgba(0, 0, 0, .87)|
 |cyan200|#80DEEA|rgba(0, 0, 0, .87)|
@@ -510,6 +531,9 @@ para las propiedades css no integradas por los grandes frameworks
 |cyanA200|#18FFFF|rgba(0, 0, 0, .87)|
 |cyanA300|#00E5FF|rgba(0, 0, 0, .87)|
 |cyanA400|#00B8D4|rgba(0, 0, 0, .87)|
+
+|class name|background|color|
+|:---|:----|:----|
 |teal50|#E0F2F1|rgba(0, 0, 0, .87)|
 |teal100|#B2DFDB|rgba(0, 0, 0, .87)|
 |teal200|#80CBC4|rgba(0, 0, 0, .87)|
@@ -524,6 +548,9 @@ para las propiedades css no integradas por los grandes frameworks
 |tealA200|#64FFDA|rgba(0, 0, 0, .87)|
 |tealA300|#1DE9B6|rgba(0, 0, 0, .87)|
 |tealA400|#00BFA5|rgba(0, 0, 0, .87)|
+
+|class name|background|color|
+|:---|:----|:----|
 |green50|#E8F5E9|rgba(0, 0, 0, .87)|
 |green100|#C8E6C9|rgba(0, 0, 0, .87)|
 |green200|#A5D6A7|rgba(0, 0, 0, .87)|
@@ -538,6 +565,9 @@ para las propiedades css no integradas por los grandes frameworks
 |greenA200|#69F0AE|rgba(0, 0, 0, .87)|
 |greenA300|#00E676|rgba(0, 0, 0, .87)|
 |greenA400|#00C853|rgba(0, 0, 0, .87)|
+
+|class name|background|color|
+|:---|:----|:----|
 |lightgreen50|#F1F8E9|rgba(0, 0, 0, .87)|
 |lightgreen100|#DCEDC8|rgba(0, 0, 0, .87)|
 |lightgreen200|#C5E1A5|rgba(0, 0, 0, .87)|
@@ -552,6 +582,9 @@ para las propiedades css no integradas por los grandes frameworks
 |lightgreenA200|#B2FF59|rgba(0, 0, 0, .87)|
 |lightgreenA300|#76FF03|rgba(0, 0, 0, .87)|
 |lightgreenA400|#64DD17|rgba(0, 0, 0, .87)|
+
+|class name|background|color|
+|:---|:----|:----|
 |lime50|#F9FBE7|rgba(0, 0, 0, .87)|
 |lime100|#F0F4C3|rgba(0, 0, 0, .87)|
 |lime200|#E6EE9C|rgba(0, 0, 0, .87)|
@@ -566,6 +599,9 @@ para las propiedades css no integradas por los grandes frameworks
 |limeA200|#EEFF41|rgba(0, 0, 0, .87)|
 |limeA300|#C6FF00|rgba(0, 0, 0, .87)|
 |limeA400|#AEEA00|rgba(0, 0, 0, .87)|
+
+|class name|background|color|
+|:---|:----|:----|
 |yellow50|#FFFDE7|rgba(0, 0, 0, .87)|
 |yellow100|#FFF9C4|rgba(0, 0, 0, .87)|
 |yellow200|#FFF59D|rgba(0, 0, 0, .87)|
@@ -580,6 +616,9 @@ para las propiedades css no integradas por los grandes frameworks
 |yellowA200|#FFFF00|rgba(0, 0, 0, .87)|
 |yellowA300|#FFEA00|rgba(0, 0, 0, .87)|
 |yellowA400|#FFD600|rgba(0, 0, 0, .87)|
+
+|class name|background|color|
+|:---|:----|:----|
 |amber50|#FFF8E1|rgba(0, 0, 0, .87)|
 |amber100|#FFECB3|rgba(0, 0, 0, .87)|
 |amber200|#FFE082|rgba(0, 0, 0, .87)|
@@ -594,6 +633,9 @@ para las propiedades css no integradas por los grandes frameworks
 |amberA200|#FFD740|rgba(0, 0, 0, .87)|
 |amberA300|#FFC400|rgba(0, 0, 0, .87)|
 |amberA400|#FFAB00|rgba(0, 0, 0, .87)|
+
+|class name|background|color|
+|:---|:----|:----|
 |orange50|#FFF3E0|rgba(0, 0, 0, .87)|
 |orange100|#FFE0B2|rgba(0, 0, 0, .87)|
 |orange200|#FFCC80|rgba(0, 0, 0, .87)|
@@ -608,6 +650,9 @@ para las propiedades css no integradas por los grandes frameworks
 |orangeA200|#FFAB40|rgba(0, 0, 0, .87)|
 |orangeA300|#FF9100|rgba(0, 0, 0, .87)|
 |orangeA400|#FF6D00|rgba(0, 0, 0, .87)|
+
+|class name|background|color|
+|:---|:----|:----|
 |deeporange50|#FBE9E7|rgba(0, 0, 0, .87)|
 |deeporange100|#FFCCBC|rgba(0, 0, 0, .87)|
 |deeporange200|#FFAB91|rgba(0, 0, 0, .87)|
@@ -622,6 +667,9 @@ para las propiedades css no integradas por los grandes frameworks
 |deeporangeA200|#FF6E40|rgba(0, 0, 0, .87)|
 |deeporangeA300|#FF3D00|rgba(255, 255, 255, .87)|
 |deeporangeA400|#DD2C00|rgba(255, 255, 255, .87)|
+
+|class name|background|color|
+|:---|:----|:----|
 |brown50|#EFEBE9|rgba(0, 0, 0, .87)|
 |brown100|#D7CCC8|rgba(0, 0, 0, .87)|
 |brown200|#BCAAA4|rgba(0, 0, 0, .87)|
@@ -632,6 +680,9 @@ para las propiedades css no integradas por los grandes frameworks
 |brown700|#5D4037|rgba(255, 255, 255, .87)|
 |brown800|#4E342E|rgba(255, 255, 255, .87)|
 |brown900|#3E2723|rgba(255, 255, 255, .87)|
+
+|class name|background|color|
+|:---|:----|:----|
 |gray50|#FAFAFA|rgba(0, 0, 0, .87)|
 |gray100|#F5F5F5|rgba(0, 0, 0, .87)|
 |gray200|#EEEEEE|rgba(0, 0, 0, .87)|
@@ -642,6 +693,9 @@ para las propiedades css no integradas por los grandes frameworks
 |gray700|#616161|rgba(255, 255, 255, .87)|
 |gray800|#424242|rgba(255, 255, 255, .87)|
 |gray900|#212121|rgba(255, 255, 255, .87)|
+
+|class name|background|color|
+|:---|:----|:----|
 |bluegray50|#ECEFF1|rgba(0, 0, 0, .87)|
 |bluegray100|#CFD8DC|rgba(0, 0, 0, .87)|
 |bluegray200|#B0BEC5|rgba(0, 0, 0, .87)|
@@ -652,5 +706,8 @@ para las propiedades css no integradas por los grandes frameworks
 |bluegray700|#455A64|rgba(255, 255, 255, .87)|
 |bluegray800|#37474F|rgba(255, 255, 255, .87)|
 |bluegray900|#263238|rgba(255, 255, 255, .87)|
+
+|class name|background|color|
+|:---|:----|:----|
 |white|#FFFFFF|rgba(0, 0, 0, .87)|
 |black|#000000|rgba(255, 255, 255, .87)|
