@@ -1,4 +1,3 @@
-
 # css-utility  
 
 ## Introducción  
@@ -11,7 +10,7 @@ para las propiedades css no integradas por los grandes frameworks
 >Alineación del texto  
 >Propiedad css **text-align**  
 
-|name|align|
+|class name|align|
 |:---|:----|
 |tac |  center  |
 |tar |  right   |
@@ -27,7 +26,7 @@ para las propiedades css no integradas por los grandes frameworks
 >Espacio entre letras  
 >Propiedad css **letter-spacing**  
 
-|name|spacing|
+|class name|spacing|
 |:---|:----|
 |ls1|0.1rem|
 |ls2|0.2rem|
@@ -46,7 +45,7 @@ para las propiedades css no integradas por los grandes frameworks
 >Espacio entre lineas  
 >Propiedad css **line-height**  
 
-|name|height|
+|class name|height|
 |:---|:----|
 |lh1|1|
 |lh1-1|1.1|
@@ -67,7 +66,7 @@ para las propiedades css no integradas por los grandes frameworks
 >Transformación del texto  
 >Propiedad css **text-transform**  
 
-|name|transform|
+|class name|transform|
 |:---|:----|
 |t-uppercase|uppercase|
 |t-lowercase|lowercase|
@@ -80,7 +79,7 @@ para las propiedades css no integradas por los grandes frameworks
 >Estilo de la fuente 
 >Propiedad css **font-style**  
 
-|name|style|
+|class name|style|
 |:---|:----|
 |fs-normal| normal|
 |fs-italic| italic|
@@ -94,7 +93,7 @@ para las propiedades css no integradas por los grandes frameworks
 >Familia de la fuente  
 >Propiedad css **font-family**  
 
-|name|family|
+|class name|family|
 |:---|:----|
 |sans|"'Helvetica Neue', Helvetica, Arial, sans-serif"|
 |serif|"Merriweather, Georgia, serif"|
@@ -108,7 +107,7 @@ para las propiedades css no integradas por los grandes frameworks
 >Tamaño de la fuente    
 >Propiedad css **font-size**  
 
-|name|size|
+|class name|size|
 |:---|:----|
 |fs1|1px|
 |...|...|
@@ -121,7 +120,7 @@ para las propiedades css no integradas por los grandes frameworks
 >Grosor de la fuente    
 >Propiedad css **font-weight**  
 
-|name|wight|
+|class name|wight|
 |:---|:----|
 |fw-normal |  normal|
 |fw-bold |  bold|
@@ -158,7 +157,7 @@ para las propiedades css no integradas por los grandes frameworks
 >Posición de un objecto  
 >Propiedad css **position,top,left,right,bottom**  
 
-|name|position|
+|class name|position|
 |:---|:----|
 |relative |  relative|
 |absolute |  absolute|
@@ -180,7 +179,7 @@ para las propiedades css no integradas por los grandes frameworks
 >Visibilidad del elemento    
 >Propiedad css **visibility**  
 
-|name|visibility|
+|class name|visibility|
 |:---|:----|
 |relative |  visible|
 |absolute |  hidden|
@@ -196,7 +195,7 @@ para las propiedades css no integradas por los grandes frameworks
 >Visibilidad del elemento    
 >Propiedad css **overlow**  
 
-|name|visibility|
+|class name|visibility|
 |:---|:----|
 |ofh| overflow: hidden !important|
 |ofx|overflow-x: scroll !important;|
@@ -212,178 +211,178 @@ para las propiedades css no integradas por los grandes frameworks
 >Propiedad css **color** y **background-color**
 
 ### Rojo
-|name|color|
+|class name|color|
 |:---|:----|
-|c-color,bgc-color|indianred|
-|c-color,bgc-color|lightcoral|
-|c-color,bgc-color|salmon|
-|c-color,bgc-color|darksalmon|
-|c-color,bgc-color|lightsalmon|
-|c-color,bgc-color|crimson|
-|c-color,bgc-color|red|
-|c-color,bgc-color|firebrick|
-|c-color,bgc-color|darkred|
+|c-indianred , bgc-indianred|indianred|
+|c-lightcoral , bgc-lightcoral|lightcoral|
+|c-salmon , bgc-salmon|salmon|
+|c-darksalmon , bgc-darksalmon|darksalmon|
+|c-lightsalmon , bgc-lightsalmon|lightsalmon|
+|c-crimson , bgc-crimson|crimson|
+|c-red , bgc-red|red|
+|c-firebrick , bgc-firebrick|firebrick|
+|c-darkred , bgc-darkred|darkred|
 ### Rosado  
-|name|color|
+|class name|color|
 |:---|:----|
-|c-color,bgc-color|pink|
-|c-color,bgc-color|lightpink|
-|c-color,bgc-color|hotpink|
-|c-color,bgc-color|deeppink|
-|c-color,bgc-color|mediumvioletred|
-|c-color,bgc-color|palevioletred|
+|c-pink,bgc-pink|pink|
+|c-lightpink,bgc-lightpink|lightpink|
+|c-hotpink,bgc-hotpink|hotpink|
+|c-deeppink,bgc-deeppink|deeppink|
+|c-mediumvioletred,bgc-mediumvioletred|mediumvioletred|
+|c-palevioletred,bgc-palevioletred|palevioletred|
 ### Anaranjado
-|name|color|
+|class name|color|
 |:---|:----|
-|c-color,bgc-color|lightsalmon|
-|c-color,bgc-color|coral|
-|c-color,bgc-color|tomato|
-|c-color,bgc-color|orangered|
-|c-color,bgc-color|darkorange|
-|c-color,bgc-color|orange|
+|c-lightsalmon,bgc-lightsalmon|lightsalmon|
+|c-coral,bgc-coral|coral|
+|c-tomato,bgc-tomato|tomato|
+|c-orangered,bgc-orangered|orangered|
+|c-darkorange,bgc-darkorange|darkorange|
+|c-orange,bgc-orange|orange|
 ### Amarillo 
-|name|color|
+|class name|color|
 |:---|:----|
-|c-color,bgc-color|gold|
-|c-color,bgc-color|yellow|
-|c-color,bgc-color|lightyellow|
-|c-color,bgc-color|lemonchiffon|
-|c-color,bgc-color|lightgoldenrodyellow|
-|c-color,bgc-color|papayawhip|
-|c-color,bgc-color|moccasin|
-|c-color,bgc-color|peachpuff|
-|c-color,bgc-color|palegoldenrod|
-|c-color,bgc-color|khaki|
-|c-color,bgc-color|darkkhaki|
+|c-gold,bgc-gold|gold|
+|c-yellow,bgc-yellow|yellow|
+|c-lightyellow,bgc-lightyellow|lightyellow|
+|c-lemonchiffon,bgc-lemonchiffon|lemonchiffon|
+|c-lightgoldenrodyellow,bgc-lightgoldenrodyellow|lightgoldenrodyellow|
+|c-papayawhip,bgc-papayawhip|papayawhip|
+|c-moccasin,bgc-moccasin|moccasin|
+|c-peachpuff,bgc-peachpuff|peachpuff|
+|c-palegoldenrod,bgc-palegoldenrod|palegoldenrod|
+|c-khaki,bgc-khaki|khaki|
+|c-darkkhaki,bgc-darkkhaki|darkkhaki|
 ### Púrpura 
-|name|color|
+|class name|color|
 |:---|:----|
-|c-color,bgc-color|lavender|
-|c-color,bgc-color|thistle|
-|c-color,bgc-color|plum|
-|c-color,bgc-color|violet|
-|c-color,bgc-color|orchid|
-|c-color,bgc-color|fuchsia|
-|c-color,bgc-color|magenta|
-|c-color,bgc-color|mediumorchid|
-|c-color,bgc-color|mediumpurple|
-|c-color,bgc-color|rebeccapurple|
-|c-color,bgc-color|blueviolet|
-|c-color,bgc-color|darkviolet|
-|c-color,bgc-color|darkorchid|
-|c-color,bgc-color|darkmagenta|
-|c-color,bgc-color|purple|
-|c-color,bgc-color|indigo|
-|c-color,bgc-color|slateblue|
-|c-color,bgc-color|darkslateblue|
-|c-color,bgc-color|mediumslateblue|
+|c-lavender,bgc-lavender|lavender|
+|c-thistle,bgc-thistle|thistle|
+|c-plum,bgc-plum|plum|
+|c-violet,bgc-violet|violet|
+|c-orchid,bgc-orchid|orchid|
+|c-fuchsia,bgc-fuchsia|fuchsia|
+|c-magenta,bgc-magenta|magenta|
+|c-mediumorchid,bgc-mediumorchid|mediumorchid|
+|c-mediumpurple,bgc-mediumpurple|mediumpurple|
+|c-rebeccapurple,bgc-rebeccapurple|rebeccapurple|
+|c-blueviolet,bgc-blueviolet|blueviolet|
+|c-darkviolet,bgc-darkviolet|darkviolet|
+|c-darkorchid,bgc-darkorchid|darkorchid|
+|c-darkmagenta,bgc-darkmagenta|darkmagenta|
+|c-purple,bgc-purple|purple|
+|c-indigo,bgc-indigo|indigo|
+|c-slateblue,bgc-slateblue|slateblue|
+|c-darkslateblue,bgc-darkslateblue|darkslateblue|
+|c-mediumslateblue,bgc-mediumslateblue|mediumslateblue|
 ### Verde  
-|name|color|
+|class name|color|
 |:---|:----|
-|c-color,bgc-color|greenyellow|
-|c-color,bgc-color|chartreuse|
-|c-color,bgc-color|lawngreen|
-|c-color,bgc-color|lime|
-|c-color,bgc-color|limegreen|
-|c-color,bgc-color|palegreen|
-|c-color,bgc-color|lightgreen|
-|c-color,bgc-color|mediumspringgreen|
-|c-color,bgc-color|springgreen|
-|c-color,bgc-color|mediumseagreen|
-|c-color,bgc-color|seagreen|
-|c-color,bgc-color|forestgreen|
-|c-color,bgc-color|green|
-|c-color,bgc-color|darkgreen|
-|c-color,bgc-color|yellowgreen|
-|c-color,bgc-color|olivedrab|
-|c-color,bgc-color|olive|
-|c-color,bgc-color|darkolivegreen|
-|c-color,bgc-color|mediumaquamarine|
-|c-color,bgc-color|darkseagreen|
-|c-color,bgc-color|lightseagreen|
-|c-color,bgc-color|darkcyan|
-|c-color,bgc-color|teal|
+|c-greenyellow,bgc-greenyellow|greenyellow|
+|c-chartreuse,bgc-chartreuse|chartreuse|
+|c-lawngreen,bgc-lawngreen|lawngreen|
+|c-lime,bgc-lime|lime|
+|c-limegreen,bgc-limegreen|limegreen|
+|c-palegreen,bgc-palegreen|palegreen|
+|c-lightgreen,bgc-lightgreen|lightgreen|
+|c-mediumspringgreen,bgc-mediumspringgreen|mediumspringgreen|
+|c-springgreen,bgc-springgreen|springgreen|
+|c-mediumseagreen,bgc-mediumseagreen|mediumseagreen|
+|c-seagreen,bgc-seagreen|seagreen|
+|c-forestgreen,bgc-forestgreen|forestgreen|
+|c-green,bgc-green|green|
+|c-darkgreen,bgc-darkgreen|darkgreen|
+|c-yellowgreen,bgc-yellowgreen|yellowgreen|
+|c-olivedrab,bgc-olivedrab|olivedrab|
+|c-olive,bgc-olive|olive|
+|c-darkolivegreen,bgc-darkolivegreen|darkolivegreen|
+|c-mediumaquamarine,bgc-mediumaquamarine|mediumaquamarine|
+|c-darkseagreen,bgc-darkseagreen|darkseagreen|
+|c-lightseagreen,bgc-lightseagreen|lightseagreen|
+|c-darkcyan,bgc-darkcyan|darkcyan|
+|c-teal,bgc-teal|teal|
 ### Azul 
-|name|color|
+|class name|color|
 |:---|:----|
-|c-color,bgc-color|aqua|
-|c-color,bgc-color|cyan|
-|c-color,bgc-color|lightcyan|
-|c-color,bgc-color|paleturquoise|
-|c-color,bgc-color|aquamarine|
-|c-color,bgc-color|turquoise|
-|c-color,bgc-color|mediumturquoise|
-|c-color,bgc-color|darkturquoise|
-|c-color,bgc-color|cadetblue|
-|c-color,bgc-color|steelblue|
-|c-color,bgc-color|lightsteelblue|
-|c-color,bgc-color|powderblue|
-|c-color,bgc-color|lightblue|
-|c-color,bgc-color|skyblue|
-|c-color,bgc-color|lightskyblue|
-|c-color,bgc-color|deepskyblue|
-|c-color,bgc-color|dodgerblue|
-|c-color,bgc-color|cornflowerblue|
-|c-color,bgc-color|mediumslateblue|
-|c-color,bgc-color|royalblue|
-|c-color,bgc-color|blue|
-|c-color,bgc-color|mediumblue|
-|c-color,bgc-color|darkblue|
-|c-color,bgc-color|navy|
-|c-color,bgc-color|midnightblue|
+|c-aqua,bgc-aqua|aqua|
+|c-cyan,bgc-cyan|cyan|
+|c-lightcyan,bgc-lightcyan|lightcyan|
+|c-paleturquoise,bgc-paleturquoise|paleturquoise|
+|c-aquamarine,bgc-aquamarine|aquamarine|
+|c-turquoise,bgc-turquoise|turquoise|
+|c-mediumturquoise,bgc-mediumturquoise|mediumturquoise|
+|c-darkturquoise,bgc-darkturquoise|darkturquoise|
+|c-cadetblue,bgc-cadetblue|cadetblue|
+|c-steelblue,bgc-steelblue|steelblue|
+|c-lightsteelblue,bgc-lightsteelblue|lightsteelblue|
+|c-powderblue,bgc-powderblue|powderblue|
+|c-lightblue,bgc-lightblue|lightblue|
+|c-skyblue,bgc-skyblue|skyblue|
+|c-lightskyblue,bgc-lightskyblue|lightskyblue|
+|c-deepskyblue,bgc-deepskyblue|deepskyblue|
+|c-dodgerblue,bgc-dodgerblue|dodgerblue|
+|c-cornflowerblue,bgc-cornflowerblue|cornflowerblue|
+|c-mediumslateblue,bgc-mediumslateblue|mediumslateblue|
+|c-royalblue,bgc-royalblue|royalblue|
+|c-blue,bgc-blue|blue|
+|c-mediumblue,bgc-mediumblue|mediumblue|
+|c-darkblue,bgc-darkblue|darkblue|
+|c-navy,bgc-navy|navy|
+|c-midnightblue,bgc-midnightblue|midnightblue|
 ### Pardo / Café 
-|name|color|
+|class name|color|
 |:---|:----|
-|c-color,bgc-color|cornsilk|
-|c-color,bgc-color|blanchedalmond|
-|c-color,bgc-color|bisque|
-|c-color,bgc-color|navajowhite|
-|c-color,bgc-color|wheat|
-|c-color,bgc-color|burlywood|
-|c-color,bgc-color|tan|
-|c-color,bgc-color|rosybrown|
-|c-color,bgc-color|sandybrown|
-|c-color,bgc-color|goldenrod|
-|c-color,bgc-color|darkgoldenrod|
-|c-color,bgc-color|peru|
-|c-color,bgc-color|chocolate|
-|c-color,bgc-color|saddlebrown|
-|c-color,bgc-color|sienna|
-|c-color,bgc-color|brown|
-|c-color,bgc-color|maroon|
+|c-cornsilk,bgc-cornsilk|cornsilk|
+|c-blanchedalmond,bgc-blanchedalmond|blanchedalmond|
+|c-bisque,bgc-bisque|bisque|
+|c-navajowhite,bgc-navajowhite|navajowhite|
+|c-wheat,bgc-wheat|wheat|
+|c-burlywood,bgc-burlywood|burlywood|
+|c-tan,bgc-tan|tan|
+|c-rosybrown,bgc-rosybrown|rosybrown|
+|c-sandybrown,bgc-sandybrown|sandybrown|
+|c-goldenrod,bgc-goldenrod|goldenrod|
+|c-darkgoldenrod,bgc-darkgoldenrod|darkgoldenrod|
+|c-peru,bgc-peru|peru|
+|c-chocolate,bgc-chocolate|chocolate|
+|c-saddlebrown,bgc-saddlebrown|saddlebrown|
+|c-sienna,bgc-sienna|sienna|
+|c-brown,bgc-brown|brown|
+|c-maroon,bgc-maroon|maroon|
 ### Blanco  
-|name|color|
+|class name|color|
 |:---|:----|
-|c-color,bgc-color|white|
-|c-color,bgc-color|snow|
-|c-color,bgc-color|honeydew|
-|c-color,bgc-color|mintcream|
-|c-color,bgc-color|azure|
-|c-color,bgc-color|aliceblue|
-|c-color,bgc-color|ghostwhite|
-|c-color,bgc-color|whitesmoke|
-|c-color,bgc-color|seashell|
-|c-color,bgc-color|beige|
-|c-color,bgc-color|oldlace|
-|c-color,bgc-color|floralwhite|
-|c-color,bgc-color|ivory|
-|c-color,bgc-color|antiquewhite|
-|c-color,bgc-color|linen|
-|c-color,bgc-color|lavenderblush|
-|c-color,bgc-color|mistyrose|
+|c-white,bgc-white|white|
+|c-snow,bgc-snow|snow|
+|c-honeydew,bgc-honeydew|honeydew|
+|c-mintcream,bgc-mintcream|mintcream|
+|c-azure,bgc-azure|azure|
+|c-aliceblue,bgc-aliceblue|aliceblue|
+|c-ghostwhite,bgc-ghostwhite|ghostwhite|
+|c-whitesmoke,bgc-whitesmoke|whitesmoke|
+|c-seashell,bgc-seashell|seashell|
+|c-beige,bgc-beige|beige|
+|c-oldlace,bgc-oldlace|oldlace|
+|c-floralwhite,bgc-floralwhite|floralwhite|
+|c-ivory,bgc-ivory|ivory|
+|c-antiquewhite,bgc-antiquewhite|antiquewhite|
+|c-linen,bgc-linen|linen|
+|c-lavenderblush,bgc-lavenderblush|lavenderblush|
+|c-mistyrose,bgc-mistyrose|mistyrose|
 ### gris
-|name|color|
+|class name|color|
 |:---|:----|
-|c-color,bgc-color|gainsboro|
-|c-color,bgc-color|lightgray|
-|c-color,bgc-color|silver|
-|c-color,bgc-color|darkgray|
-|c-color,bgc-color|gray|
-|c-color,bgc-color|dimgray|
-|c-color,bgc-color|lightslategray|
-|c-color,bgc-color|slategray|
-|c-color,bgc-color|darkslategray|
-|c-color,bgc-color|black|
+|c-gainsboro,bgc-gainsboro|gainsboro|
+|c-lightgray,bgc-lightgray|lightgray|
+|c-silver,bgc-silver|silver|
+|c-darkgray,bgc-darkgray|darkgray|
+|c-gray,bgc-gray|gray|
+|c-dimgray,bgc-dimgray|dimgray|
+|c-lightslategray,bgc-lightslategray|lightslategray|
+|c-slategray,bgc-slategray|slategray|
+|c-darkslategray,bgc-darkslategray|darkslategray|
+|c-black,bgc-black|black|
 
 [color-name.css](./color-name.css)  
 [color-name.min.css](./css-dist/color-name.min.css)   
