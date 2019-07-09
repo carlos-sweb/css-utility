@@ -1,11 +1,11 @@
 # css-utility  
 
-## Introducción  
+## Introducción  / Introduction  
 
 css-utility fue creada con el proposito de presentar una ayuda
 para las propiedades css no integradas por los grandes frameworks
 
-## Manipulación de texto
+## Manipulación de texto / Text manipulation  
 
 >Alineación del texto  
 >Propiedad css **text-align**  
@@ -141,7 +141,7 @@ para las propiedades css no integradas por los grandes frameworks
 [font-weight.scss](./font-weight.scss)  
  
 
-### Herramienta de texto
+### Herramienta de texto / Text tool
 
 >El conjunto de archivos que manipulan el texto  
 >include text-align,letter-spacing,line-height,text-transform  
@@ -152,7 +152,7 @@ para las propiedades css no integradas por los grandes frameworks
 [tools-text.scss](./tools-text.scss)  
  
 
-## Manipulación de la posición
+## Manipulación de la posición / Position manipulation
 
 >Posición de un objecto  
 >Propiedad css **position,top,left,right,bottom**  
@@ -174,7 +174,7 @@ para las propiedades css no integradas por los grandes frameworks
 [position.scss](./position.scss)  
  
 
-## Manipulación de la visibilidad
+## Manipulación de la visibilidad / Manipulation of visibility
 
 >Visibilidad del elemento    
 >Propiedad css **visibility**  
@@ -190,7 +190,7 @@ para las propiedades css no integradas por los grandes frameworks
 [visibility.scss](./visibility.scss)  
  
 
-## Manipulación del desbordamineto
+## Manipulación del desbordamineto / Overflow Manipulation
 
 >Visibilidad del elemento    
 >Propiedad css **overlow**  
@@ -205,7 +205,7 @@ para las propiedades css no integradas por los grandes frameworks
 [overflow.min.css](./css-dist/overflow.min.css)  
 [overflow.scss](./overflow.scss)  
 
-## Manipulación de colores
+## Manipulación de colores / Colour manipulation 
 
 >Colores para elemento provenientes de un nombre de color  
 >Propiedad css **color** y **background-color**
