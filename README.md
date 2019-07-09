@@ -370,7 +370,7 @@ para las propiedades css no integradas por los grandes frameworks
 |c-linen,bgc-linen|linen|
 |c-lavenderblush,bgc-lavenderblush|lavenderblush|
 |c-mistyrose,bgc-mistyrose|mistyrose|
-### gris
+### Gris
 |class name|color|
 |:---|:----|
 |c-gainsboro,bgc-gainsboro|gainsboro|
