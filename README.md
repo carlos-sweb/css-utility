@@ -711,3 +711,7 @@ para las propiedades css no integradas por los grandes frameworks
 |:---|:----|:----|
 |white|#FFFFFF|rgba(0, 0, 0, .87)|
 |black|#000000|rgba(255, 255, 255, .87)|
+
+[cp-color.css](./cp-color.css)  
+[cp-color.min.css](./css-dist/cp-color.min.css)   
+[cp-color.scss](./cp-color.scss)
