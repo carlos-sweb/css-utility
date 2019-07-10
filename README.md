@@ -210,7 +210,7 @@ para las propiedades css no integradas por los grandes frameworks
 >Colores para elemento provenientes de un nombre de color  
 >Propiedad css **color** y **background-color**
 
-### Rojo
+### Rojo / Red
 |class name|color|
 |:---|:----|
 |c-indianred , bgc-indianred|indianred|
@@ -222,7 +222,7 @@ para las propiedades css no integradas por los grandes frameworks
 |c-red , bgc-red|red|
 |c-firebrick , bgc-firebrick|firebrick|
 |c-darkred , bgc-darkred|darkred|
-### Rosado  
+### Rosado  / Pink
 |class name|color|
 |:---|:----|
 |c-pink,bgc-pink|pink|
@@ -231,7 +231,7 @@ para las propiedades css no integradas por los grandes frameworks
 |c-deeppink,bgc-deeppink|deeppink|
 |c-mediumvioletred,bgc-mediumvioletred|mediumvioletred|
 |c-palevioletred,bgc-palevioletred|palevioletred|
-### Anaranjado
+### Anaranjado / Orange
 |class name|color|
 |:---|:----|
 |c-lightsalmon,bgc-lightsalmon|lightsalmon|
@@ -240,7 +240,7 @@ para las propiedades css no integradas por los grandes frameworks
 |c-orangered,bgc-orangered|orangered|
 |c-darkorange,bgc-darkorange|darkorange|
 |c-orange,bgc-orange|orange|
-### Amarillo 
+### Amarillo / Yellow
 |class name|color|
 |:---|:----|
 |c-gold,bgc-gold|gold|
@@ -254,7 +254,7 @@ para las propiedades css no integradas por los grandes frameworks
 |c-palegoldenrod,bgc-palegoldenrod|palegoldenrod|
 |c-khaki,bgc-khaki|khaki|
 |c-darkkhaki,bgc-darkkhaki|darkkhaki|
-### Púrpura 
+### Púrpura / Purple
 |class name|color|
 |:---|:----|
 |c-lavender,bgc-lavender|lavender|
@@ -276,7 +276,7 @@ para las propiedades css no integradas por los grandes frameworks
 |c-slateblue,bgc-slateblue|slateblue|
 |c-darkslateblue,bgc-darkslateblue|darkslateblue|
 |c-mediumslateblue,bgc-mediumslateblue|mediumslateblue|
-### Verde  
+### Verde / Green
 |class name|color|
 |:---|:----|
 |c-greenyellow,bgc-greenyellow|greenyellow|
@@ -302,7 +302,7 @@ para las propiedades css no integradas por los grandes frameworks
 |c-lightseagreen,bgc-lightseagreen|lightseagreen|
 |c-darkcyan,bgc-darkcyan|darkcyan|
 |c-teal,bgc-teal|teal|
-### Azul 
+### Azul / Blue
 |class name|color|
 |:---|:----|
 |c-aqua,bgc-aqua|aqua|
@@ -330,7 +330,7 @@ para las propiedades css no integradas por los grandes frameworks
 |c-darkblue,bgc-darkblue|darkblue|
 |c-navy,bgc-navy|navy|
 |c-midnightblue,bgc-midnightblue|midnightblue|
-### Pardo / Café 
+### Pardo / Brown
 |class name|color|
 |:---|:----|
 |c-cornsilk,bgc-cornsilk|cornsilk|
@@ -350,7 +350,7 @@ para las propiedades css no integradas por los grandes frameworks
 |c-sienna,bgc-sienna|sienna|
 |c-brown,bgc-brown|brown|
 |c-maroon,bgc-maroon|maroon|
-### Blanco  
+### Blanco / White 
 |class name|color|
 |:---|:----|
 |c-white,bgc-white|white|
@@ -370,7 +370,7 @@ para las propiedades css no integradas por los grandes frameworks
 |c-linen,bgc-linen|linen|
 |c-lavenderblush,bgc-lavenderblush|lavenderblush|
 |c-mistyrose,bgc-mistyrose|mistyrose|
-### Gris
+### Gris / Silver
 |class name|color|
 |:---|:----|
 |c-gainsboro,bgc-gainsboro|gainsboro|
@@ -394,8 +394,8 @@ para las propiedades css no integradas por los grandes frameworks
 
 >Colores para elemento provenientes de la paleta de colores de material.io  
 >Propiedad css **color** y **background-color**
->Enlace de referencia [material.io paleta de colores](https://material.io/design/color/the-color-system.html#tools-for-picking-colors)
-
+>Enlace de referencia [material.io paleta de colores](https://material.io/design/color/the-color-system.html#tools-for-picking-colors)  
+### Rojo / Red
 |class name|background|color|
 |:---|:----|:----|
 |red50|#FFEBEE|rgba(0, 0, 0, .87)|
@@ -412,7 +412,7 @@ para las propiedades css no integradas por los grandes frameworks
 |redA200|#FF5252|rgba(255, 255, 255, .87)|
 |redA300|#FF1744|rgba(255, 255, 255, .87)|
 |redA400|#D50000|rgba(255, 255, 255, .87)|
-
+### Rosado / Pink
 |class name|background|color|
 |:---|:----|:----|
 |pink50|#FCE4EC|rgba(0, 0, 0, .87)|
@@ -429,7 +429,7 @@ para las propiedades css no integradas por los grandes frameworks
 |pinkA200|#FF4081|rgba(255, 255, 255, .87)|
 |pinkA300|#F50057|rgba(255, 255, 255, .87)|
 |pinkA400|#C51162|rgba(255, 255, 255, .87)|
-
+### Púrpura / Purple
 |class name|background|color|
 |:---|:----|:----|
 |purple50|#F3E5F5|rgba(0, 0, 0, .87)|
@@ -446,7 +446,7 @@ para las propiedades css no integradas por los grandes frameworks
 |purpleA200|#E040FB|rgba(255, 255, 255, .87)|
 |purpleA300|#D500F9|rgba(255, 255, 255, .87)|
 |purpleA400|#AA00FF|rgba(255, 255, 255, .87)|
-
+### púrpura intenso  / Deep Purple  
 |class name|background|color|
 |:---|:----|:----|
 |deeppurple50|#EDE7F6|rgba(0, 0, 0, .87)|
@@ -463,7 +463,7 @@ para las propiedades css no integradas por los grandes frameworks
 |deeppurpleA200|#7C4DFF|rgba(255, 255, 255, .87)|
 |deeppurpleA300|#651FFF|rgba(255, 255, 255, .87)|
 |deeppurpleA400|#6200EA|rgba(255, 255, 255, .87)|
-
+### Añil  / Indigo
 |class name|background|color|
 |:---|:----|:----|
 |indigo50|#E8EAF6|rgba(0, 0, 0, .87)|
@@ -480,7 +480,7 @@ para las propiedades css no integradas por los grandes frameworks
 |indigoA200|#536DFE|rgba(255, 255, 255, .87)|
 |indigoA300|#3D5AFE|rgba(255, 255, 255, .87)|
 |indigoA400|#304FFE|rgba(255, 255, 255, .87)|
-
+### Azul  / Blue
 |class name|background|color|
 |:---|:----|:----|
 |blue50|#E3F2FD|rgba(0, 0, 0, .87)|
@@ -497,7 +497,7 @@ para las propiedades css no integradas por los grandes frameworks
 |blueA200|#448AFF|rgba(255, 255, 255, .87)|
 |blueA300|#2979FF|rgba(255, 255, 255, .87)|
 |blueA400|#2962FF|rgba(255, 255, 255, .87)|
-
+### Celeste  / lightblue
 |class name|background|color|
 |:---|:----|:----|
 |lightblue50|#E1F5FE|rgba(0, 0, 0, .87)|
@@ -514,7 +514,7 @@ para las propiedades css no integradas por los grandes frameworks
 |lightblueA200|#40C4FF|rgba(0, 0, 0, .87)|
 |lightblueA300|#00B0FF|rgba(0, 0, 0, .87)|
 |lightblueA400|#0091EA|rgba(255, 255, 255, .87)|
-
+### Cian  / Cyan
 |class name|background|color|
 |:---|:----|:----|
 |cyan50|#E0F7FA|rgba(0, 0, 0, .87)|
@@ -531,7 +531,7 @@ para las propiedades css no integradas por los grandes frameworks
 |cyanA200|#18FFFF|rgba(0, 0, 0, .87)|
 |cyanA300|#00E5FF|rgba(0, 0, 0, .87)|
 |cyanA400|#00B8D4|rgba(0, 0, 0, .87)|
-
+### Cerceta  / teal  
 |class name|background|color|
 |:---|:----|:----|
 |teal50|#E0F2F1|rgba(0, 0, 0, .87)|
@@ -548,7 +548,7 @@ para las propiedades css no integradas por los grandes frameworks
 |tealA200|#64FFDA|rgba(0, 0, 0, .87)|
 |tealA300|#1DE9B6|rgba(0, 0, 0, .87)|
 |tealA400|#00BFA5|rgba(0, 0, 0, .87)|
-
+### Verde  / Green
 |class name|background|color|
 |:---|:----|:----|
 |green50|#E8F5E9|rgba(0, 0, 0, .87)|
@@ -565,7 +565,7 @@ para las propiedades css no integradas por los grandes frameworks
 |greenA200|#69F0AE|rgba(0, 0, 0, .87)|
 |greenA300|#00E676|rgba(0, 0, 0, .87)|
 |greenA400|#00C853|rgba(0, 0, 0, .87)|
-
+### Verde Claro / Light Green
 |class name|background|color|
 |:---|:----|:----|
 |lightgreen50|#F1F8E9|rgba(0, 0, 0, .87)|
@@ -582,7 +582,7 @@ para las propiedades css no integradas por los grandes frameworks
 |lightgreenA200|#B2FF59|rgba(0, 0, 0, .87)|
 |lightgreenA300|#76FF03|rgba(0, 0, 0, .87)|
 |lightgreenA400|#64DD17|rgba(0, 0, 0, .87)|
-
+### Lima / Lime
 |class name|background|color|
 |:---|:----|:----|
 |lime50|#F9FBE7|rgba(0, 0, 0, .87)|
@@ -599,7 +599,7 @@ para las propiedades css no integradas por los grandes frameworks
 |limeA200|#EEFF41|rgba(0, 0, 0, .87)|
 |limeA300|#C6FF00|rgba(0, 0, 0, .87)|
 |limeA400|#AEEA00|rgba(0, 0, 0, .87)|
-
+### Amarillo / Yellow
 |class name|background|color|
 |:---|:----|:----|
 |yellow50|#FFFDE7|rgba(0, 0, 0, .87)|
@@ -616,7 +616,7 @@ para las propiedades css no integradas por los grandes frameworks
 |yellowA200|#FFFF00|rgba(0, 0, 0, .87)|
 |yellowA300|#FFEA00|rgba(0, 0, 0, .87)|
 |yellowA400|#FFD600|rgba(0, 0, 0, .87)|
-
+### Ámbar / Amber
 |class name|background|color|
 |:---|:----|:----|
 |amber50|#FFF8E1|rgba(0, 0, 0, .87)|
@@ -633,7 +633,7 @@ para las propiedades css no integradas por los grandes frameworks
 |amberA200|#FFD740|rgba(0, 0, 0, .87)|
 |amberA300|#FFC400|rgba(0, 0, 0, .87)|
 |amberA400|#FFAB00|rgba(0, 0, 0, .87)|
-
+### Naranjo / Orange
 |class name|background|color|
 |:---|:----|:----|
 |orange50|#FFF3E0|rgba(0, 0, 0, .87)|
@@ -650,7 +650,7 @@ para las propiedades css no integradas por los grandes frameworks
 |orangeA200|#FFAB40|rgba(0, 0, 0, .87)|
 |orangeA300|#FF9100|rgba(0, 0, 0, .87)|
 |orangeA400|#FF6D00|rgba(0, 0, 0, .87)|
-
+### Naranjo Intenso / Deep Orange
 |class name|background|color|
 |:---|:----|:----|
 |deeporange50|#FBE9E7|rgba(0, 0, 0, .87)|
@@ -667,7 +667,7 @@ para las propiedades css no integradas por los grandes frameworks
 |deeporangeA200|#FF6E40|rgba(0, 0, 0, .87)|
 |deeporangeA300|#FF3D00|rgba(255, 255, 255, .87)|
 |deeporangeA400|#DD2C00|rgba(255, 255, 255, .87)|
-
+### Pardo / Brown
 |class name|background|color|
 |:---|:----|:----|
 |brown50|#EFEBE9|rgba(0, 0, 0, .87)|
@@ -680,7 +680,7 @@ para las propiedades css no integradas por los grandes frameworks
 |brown700|#5D4037|rgba(255, 255, 255, .87)|
 |brown800|#4E342E|rgba(255, 255, 255, .87)|
 |brown900|#3E2723|rgba(255, 255, 255, .87)|
-
+### Gris / Gray
 |class name|background|color|
 |:---|:----|:----|
 |gray50|#FAFAFA|rgba(0, 0, 0, .87)|
@@ -693,7 +693,7 @@ para las propiedades css no integradas por los grandes frameworks
 |gray700|#616161|rgba(255, 255, 255, .87)|
 |gray800|#424242|rgba(255, 255, 255, .87)|
 |gray900|#212121|rgba(255, 255, 255, .87)|
-
+### Azul Gris / Blue Gray
 |class name|background|color|
 |:---|:----|:----|
 |bluegray50|#ECEFF1|rgba(0, 0, 0, .87)|
@@ -706,7 +706,7 @@ para las propiedades css no integradas por los grandes frameworks
 |bluegray700|#455A64|rgba(255, 255, 255, .87)|
 |bluegray800|#37474F|rgba(255, 255, 255, .87)|
 |bluegray900|#263238|rgba(255, 255, 255, .87)|
-
+### Blanco y Negro / White and Black
 |class name|background|color|
 |:---|:----|:----|
 |white|#FFFFFF|rgba(0, 0, 0, .87)|
