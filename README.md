@@ -446,7 +446,7 @@ para las propiedades css no integradas por los grandes frameworks
 |purpleA200|#E040FB|rgba(255, 255, 255, .87)|
 |purpleA300|#D500F9|rgba(255, 255, 255, .87)|
 |purpleA400|#AA00FF|rgba(255, 255, 255, .87)|
-### púrpura intenso  / Deep Purple  
+### Púrpura Intenso  / Deep Purple  
 |class name|background|color|
 |:---|:----|:----|
 |deeppurple50|#EDE7F6|rgba(0, 0, 0, .87)|
