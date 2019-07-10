@@ -205,10 +205,31 @@ para las propiedades css no integradas por los grandes frameworks
 [overflow.min.css](./css-dist/overflow.min.css)  
 [overflow.scss](./overflow.scss)  
 
+## Manipulación del Radio del borde / Edge radius manipulation
+
+>Radio del borde para el elemento
+>Propiedad css **border-radius**,**border-top-right-radius**,**border-bottom-right-radius**,**border-top-left-radius** y **border-bottom-left-radius**  
+
+|class name|border|
+|:---|:----|
+|br[1-10]| border-radius|
+|brl[1-10]| border-top-left-radius,border-bottom-left-radius|
+|brr[1-10]| border-top-right-radius,border-bottom-right-radius|
+|brt[1-10]| border-top-right-radius,border-top-left-radius|
+|brb[1-10]| border-bottom-right-radius,border-bottom-left-radius|
+|brtl[1-10]| border-top-left-radius|
+|brtr[1-10]| border-top-right-radius|
+|brbr[1-10]| border-bottom-right-radius|
+|brbl[1-10]| border-bottom-left-radius|
+
+[border-radius.css](./border-radius.css)  
+[border-radius.min.css](./css-dist/border-radius.min.css)  
+[border-radius.scss](./border-radius.scss)
+
 ## Manipulación de colores / Colour manipulation 
 
 >Colores para elemento provenientes de un nombre de color  
->Propiedad css **color** y **background-color**
+>Propiedad css **color** y **background-color**  
 
 ### Rojo / Red
 |class name|color|
