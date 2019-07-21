@@ -181,9 +181,9 @@ para las propiedades css no integradas por los grandes frameworks
 
 |class name|visibility|
 |:---|:----|
-|relative |  visible|
-|absolute |  hidden|
-|fixed |  collapse|
+|v-visible |  visible|
+|v-hidden |  hidden|
+|v-collapse |  collapse|
 
 [visibility.css](./visibility.css)  
 [visibility.min.css](./css-dist/visibility.min.css)  
