@@ -44,7 +44,7 @@ revise el sitio web [https://ci-css-utility.netlify.com/](https://ci-css-utility
 [letter-spacing.min.css](./css-dist/letter-spacing.min.css)  
 [letter-spacing.scss](./letter-spacing.scss)  
 
->Espacio entre lineas  
+>Ancho entre lineas  
 >Propiedad css **line-height**  
 
 |class name|height|
