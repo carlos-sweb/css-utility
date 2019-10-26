@@ -3,7 +3,11 @@
 <head>
 	<meta charset="UTF-8">
 	<meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> 
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' />
+	<style>.mdc-elevation--z1 {
+    box-shadow: 0px 2px 1px -1px rgba(0, 0, 0, 0.2), 0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 1px 3px 0px rgba(0, 0, 0, 0.12);}
+	</style>
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.css">
     <link rel="stylesheet" href="css-dist/text-align.min.css">
     <link rel="stylesheet" href="css-dist/text-transform.min.css">
@@ -13,10 +17,12 @@
     <link rel="stylesheet" href="css-dist/font-style.min.css">
     <link rel="stylesheet" href="css-dist/font-weight.min.css">
     <link rel="stylesheet" href="css-dist/font-basic.min.css">
+
     <link rel="stylesheet" href="css-dist/color-name.min.css">
     <link rel="stylesheet" href="css-dist/bgc-name.min.css">
     <link rel="stylesheet" href="css-dist/cp-color.min.css">
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/material-components-web/3.2.0/material-components-web.css">
+
+
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flexboxgrid/6.3.1/flexboxgrid.min.css" type="text/css" >
 	<link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre.min.css">
 	<link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre-exp.min.css">
@@ -36,6 +42,309 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.9.1/underscore-min.js" ></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/backbone.js/1.4.0/backbone-min.js" ></script>	
 <script type="text/javascript" >
+
+
+var cpcolor = {};
+
+cpcolor["red"] = ["red50",
+"red100",
+"red200",
+"red300",
+"red400",
+"red500",
+"red600",
+"red700",
+"red800",
+"red900",
+"redA100",
+"redA200",
+"redA300",
+"redA400"];
+cpcolor["pink"] = [
+"pink50",
+"pink100",
+"pink200",
+"pink300",
+"pink400",
+"pink500",
+"pink600",
+"pink700",
+"pink800",
+"pink900",
+"pinkA100",
+"pinkA200",
+"pinkA300",
+"pinkA400"];
+
+cpcolor["purple"]=[
+"purple50",
+"purple100",
+"purple200",
+"purple300",
+"purple400",
+"purple500",
+"purple600",
+"purple700",
+"purple800",
+"purple900",
+"purpleA100",
+"purpleA200",
+"purpleA300",
+"purpleA400"];
+
+cpcolor["deeppurple"]=[
+"deeppurple50",
+"deeppurple100",
+"deeppurple200",
+"deeppurple300",
+"deeppurple400",
+"deeppurple500",
+"deeppurple600",
+"deeppurple700",
+"deeppurple800",
+"deeppurple900",
+"deeppurpleA100",
+"deeppurpleA200",
+"deeppurpleA300",
+"deeppurpleA400"];
+
+cpcolor["indigo"]=[
+"indigo50",
+"indigo100",
+"indigo200",
+"indigo300",
+"indigo400",
+"indigo500",
+"indigo600",
+"indigo700",
+"indigo800",
+"indigo900",
+"indigoA100",
+"indigoA200",
+"indigoA300",
+"indigoA400"];
+
+cpcolor["blue"]=[
+"blue50",
+"blue100",
+"blue200",
+"blue300",
+"blue400",
+"blue500",
+"blue600",
+"blue700",
+"blue800",
+"blue900",
+"blueA100",
+"blueA200",
+"blueA300",
+"blueA400"];
+
+cpcolor["lightblue"]=[
+"lightblue50",
+"lightblue100",
+"lightblue200",
+"lightblue300",
+"lightblue400",
+"lightblue500",
+"lightblue600",
+"lightblue700",
+"lightblue800",
+"lightblue900",
+"lightblueA100",
+"lightblueA200",
+"lightblueA300",
+"lightblueA400"];
+
+cpcolor["cyan"]=[
+"cyan50",
+"cyan100",
+"cyan200",
+"cyan300",
+"cyan400",
+"cyan500",
+"cyan600",
+"cyan700",
+"cyan800",
+"cyan900",
+"cyanA100",
+"cyanA200",
+"cyanA300",
+"cyanA400"];
+
+cpcolor["teal"]=[
+"teal50",
+"teal100",
+"teal200",
+"teal300",
+"teal400",
+"teal500",
+"teal600",
+"teal700",
+"teal800",
+"teal900",
+"tealA100",
+"tealA200",
+"tealA300",
+"tealA400"];
+
+cpcolor["green"]=[
+"green50",
+"green100",
+"green200",
+"green300",
+"green400",
+"green500",
+"green600",
+"green700",
+"green800",
+"green900",
+"greenA100",
+"greenA200",
+"greenA300",
+"greenA400"];
+
+cpcolor["lightgreen"]=[
+"lightgreen50",
+"lightgreen100",
+"lightgreen200",
+"lightgreen300",
+"lightgreen400",
+"lightgreen500",
+"lightgreen600",
+"lightgreen700",
+"lightgreen800",
+"lightgreen900",
+"lightgreenA100",
+"lightgreenA200",
+"lightgreenA300",
+"lightgreenA400"];
+
+cpcolor["lime"]=[
+"lime50",
+"lime100",
+"lime200",
+"lime300",
+"lime400",
+"lime500",
+"lime600",
+"lime700",
+"lime800",
+"lime900",
+"limeA100",
+"limeA200",
+"limeA300",
+"limeA400"];
+
+cpcolor["yellow"]=[
+"yellow50",
+"yellow100",
+"yellow200",
+"yellow300",
+"yellow400",
+"yellow500",
+"yellow600",
+"yellow700",
+"yellow800",
+"yellow900",
+"yellowA100",
+"yellowA200",
+"yellowA300",
+"yellowA400"];
+
+cpcolor["amber"]=[
+"amber50",
+"amber100",
+"amber200",
+"amber300",
+"amber400",
+"amber500",
+"amber600",
+"amber700",
+"amber800",
+"amber900",
+"amberA100",
+"amberA200",
+"amberA300",
+"amberA400"];
+
+cpcolor["orange"]=[
+"orange50",
+"orange100",
+"orange200",
+"orange300",
+"orange400",
+"orange500",
+"orange600",
+"orange700",
+"orange800",
+"orange900",
+"orangeA100",
+"orangeA200",
+"orangeA300",
+"orangeA400"];
+
+cpcolor["deeporange"]=[
+"deeporange50",
+"deeporange100",
+"deeporange200",
+"deeporange300",
+"deeporange400",
+"deeporange500",
+"deeporange600",
+"deeporange700",
+"deeporange800",
+"deeporange900",
+"deeporangeA100",
+"deeporangeA200",
+"deeporangeA300",
+"deeporangeA400"];
+
+cpcolor["brown"]=[
+"brown50",
+"brown100",
+"brown200",
+"brown300",
+"brown400",
+"brown500",
+"brown600",
+"brown700",
+"brown800",
+"brown900"];
+
+cpcolor["gray"]=[
+"gray50",
+"gray100",
+"gray200",
+"gray300",
+"gray400",
+"gray500",
+"gray600",
+"gray700",
+"gray800",
+"gray900"];
+
+cpcolor["bluegray"]=[
+"bluegray50",
+"bluegray100",
+"bluegray200",
+"bluegray300",
+"bluegray400",
+"bluegray500",
+"bluegray600",
+"bluegray700",
+"bluegray800",
+"bluegray900"];
+
+cpcolor["basic"]=[
+"white",
+"black"]
+
+
+
+
+
+
 
 var colorname = {};
 	/*nombres de colores html roja*/
@@ -295,7 +604,11 @@ var modelCss = Backbone.Model.extend({
 		],
 		fontSize:fontSize,
 		fontWeight:fontWeight,
-		ColorName:colorname
+		ColorName:colorname,
+		defaultColorName:null,
+		defaultColorBackground:null,
+		cpColor:cpcolor,
+		cpColorDefault:null
 	}
 });
 var ModelCss = new modelCss(); 	
@@ -337,7 +650,7 @@ var app = Backbone.View.extend({
 		<div class="row">
 			
 
-			<div class="column" style="padding-bottom:20px;" >
+			<div class="column col-xs-12" style="padding-bottom:20px;" >
 				<div class="row">
 					
 				<div class="form-group column" >
@@ -353,7 +666,8 @@ var app = Backbone.View.extend({
 						<%});%>
 					</select>
 				</div>
-					<div class="form-group column" >
+
+				<div class="form-group column" >
 					<label>Name color </label>
 					<select id="colornameColor" class="form-select" >
 						<option value="" >None</option>
@@ -367,20 +681,30 @@ var app = Backbone.View.extend({
 					</select>
 				</div>
 				</div>
-				<div id="box-color-name" class="mdc-elevation--z1" style="max-width:380px;height:380px;margin:0px auto;" >
+				
+				<div id="box-color-name" class="mdc-elevation--z1" style="min-height:250px;" >
 					<p class="fs60 tac fw9" >Text</p>
 				</div>
+
 			</div>
 
-
-			
-			<div class="column">
-				<div class="form-group" >
-					<label>Color name</label>
-					<select class="form-select" >
+			<div class="column col-xs-12">
+				<div class="form-group column" >
+					<label>Name color </label>
+					<select id="cpColor" name="cpColor" class="form-select" >
+						<option value="" >None</option>
+						<%_.each(cpColor,function(color,group){%>
+							<optgroup label="<%=group%>" >
+							<%_.each(color,function(__name){%>
+								<option value="<%=__name%>" ><%=__name%></option>
+							<%});%>
+							</optgroup >
+						<%});%>
 					</select>
 				</div>
-				<div class="mdc-elevation--z1" style="max-width:380px;height:380px;margin:0px auto;" ></div>
+				<div id="box-cp-color" class="mdc-elevation--z1" style="min-height:250px;" >
+					<p class="fs60 tac fw9" >Text</p>
+				</div>
 			</div>
 
 
@@ -390,37 +714,43 @@ var app = Backbone.View.extend({
 	events:{
 		"change .textManipulation":"changeText",
 		"change #colornameBG":"changeBG",
-		"change #colornameColor":"changeColor"
+		"change #colornameColor":"changeColor",
+		"change #cpColor":"cpColor"
+	},
+	cpColor:function($event){
+		let val = $event.target.value;
+		console.log(val);
+		if( !_.isNull(this.model.get("cpColorDefault")) ){
+			$("#box-cp-color").removeClass(this.model.get("cpColorDefault"));
+		};
+		this.model.set("cpColorDefault",val);
+		$("#box-cp-color").addClass(val);
 	},
 	changeBG:function($event){
 		let val = "bgc-"+$event.target.value;
+		if( !_.isNull(this.model.get("defaultColorName")) ){
+			$("#box-color-name").removeClass(this.model.get("defaultColorName"));
+		};
+		this.model.set("defaultColorName",val);
 		$("#box-color-name").addClass(val);
-	
 	},
 	changeColor:function($event){
-		// Esto no funciona muy bien hayque mejorar
-		var ClassList = _.map(this.model.get("ColorName"),function(cn){
-					return cn.join(" ");
-		}).join(" ");
-		console.log(ClassList);
 		let val = "c-"+$event.target.value;
-		$("#box-color-name p").removeClass(ClassList).addClass(val);
+		if( !_.isNull(this.model.get("defaultColorBackground")) ){
+			$("#box-color-name p").removeClass(this.model.get("defaultColorBackground"));
+		};
+		this.model.set("defaultColorBackground",val);
+		$("#box-color-name p").addClass(val);
 	},
 	changeText:function($event){
-
 		let dataModel = $($event.target).attr("data").toString();
-
 		if( this.model.has(dataModel)  ){
-
 			let listClass = _.map(this.model.get(dataModel),function(option){
 				return option.val;
 			});
-
 			let Class = $event.target.value;
 			$("#paragraph").removeClass(listClass.join(" ")).addClass(Class);
-
 		};	
-		
 	},
 	initialize:function(){
 		this.render();
@@ -431,11 +761,6 @@ var app = Backbone.View.extend({
 });
 
 new app({model:ModelCss});
-
-
-	
 </script>
-
-
 </body>
 </html>
