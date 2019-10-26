@@ -1,0 +1,19 @@
+{
+  "name": "ci-css-utility-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carlos Illesca",
+  "license": "ISC",
+  "dependencies": {
+    "@material/elevation": "^3.1.0",
+    "backbone": "^1.4.0",
+    "flexboxgrid": "^6.3.1",
+    "jquery": "^3.4.1",
+    "spectre.css": "^0.5.8",
+    "voca": "^1.4.0"
+  }
+}

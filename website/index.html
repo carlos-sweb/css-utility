@@ -1,14 +1,447 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="es">
-  <head>
-    <!-- Required meta tags -->
-    <link rel="icon" type="image/png" href="static/icon.png">
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> 
-    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' />
-    <meta name="theme-color" content="#303F9F" />
-    <title>Css Utility</title>
-  </head>
-  <body>
+<head>
+	<meta charset="UTF-8">
+	<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.css">
+    
+    <!--<link rel="stylesheet" href="node_modules/milligram/dist/milligram.min.css">-->
+
+    <link rel="stylesheet" href="css-dist/text-align.min.css">
+    <link rel="stylesheet" href="css-dist/text-transform.min.css">
+    <link rel="stylesheet" href="css-dist/letter-spacing.min.css">
+    <link rel="stylesheet" href="css-dist/line-height.min.css">
+    <link rel="stylesheet" href="css-dist/font-size.min.css">
+    <link rel="stylesheet" href="css-dist/font-style.min.css">
+    <link rel="stylesheet" href="css-dist/font-weight.min.css">
+    <link rel="stylesheet" href="css-dist/font-basic.min.css">
+
+    <link rel="stylesheet" href="css-dist/color-name.min.css">
+    <link rel="stylesheet" href="css-dist/bgc-name.min.css">
+    <link rel="stylesheet" href="css-dist/cp-color.min.css">
+
+	
+	<link rel="stylesheet" href="node_modules/@material/elevation/dist/mdc.elevation.min.css">
+    <link rel="stylesheet" href="node_modules/flexboxgrid/dist/flexboxgrid.min.css" >
+    <link rel="stylesheet" href="node_modules/spectre.css/dist/spectre.min.css">
+	<link rel="stylesheet" href="node_modules/spectre.css/dist/spectre-exp.min.css">
+	<link rel="stylesheet" href="node_modules/spectre.css/dist/spectre-icons.min.css">
+	<title>carlos-sweb@css-utility</title>
+</head>
+<body>
+<div class="container">
+	<div class="col">
+		<h1 class="fs60 tac">Css Utility</h1>
+	</div>
+</div>	
+<div id="app" ></div>
+<div class="container" style="padding-top:100px;"></div>
+<script src="node_modules/voca/index.js" ></script>
+<script src="node_modules/jquery/dist/jquery.min.js" ></script>
+<script src="node_modules/underscore/underscore-min.js" ></script>
+<script src="node_modules/backbone/backbone-min.js" ></script>	
+<script type="text/javascript" >
+
+var colorname = {};
+	/*nombres de colores html roja*/
+colorname["red"]=[
+"indianred",
+"lightcoral",
+"salmon",
+"darksalmon",
+"lightsalmon",
+"crimson",
+"red",
+"firebrick",
+"darkred"];
+
+/*nombres de colores html rosa*/
+colorname["pink"]=[
+"pink",
+"lightpink",
+"hotpink",
+"deeppink",
+"mediumvioletred",
+"palevioletred"];
+
+/*nombres de colores html naranja*/
+colorname["orange"]=[
+"lightsalmon",
+"coral",
+"tomato",
+"orangered",
+"darkorange",
+"orange"];
+
+/*nombres de colores html amarilla*/
+colorname["yellow"]=[
+"gold",
+"yellow",
+"lightyellow",
+"lemonchiffon",
+"lightgoldenrodyellow",
+"papayawhip",
+"moccasin",
+"peachpuff",
+"palegoldenrod",
+"khaki",
+"darkkhaki"];
+
+/*nombres de colores html púrpura*/
+colorname["purple"]=[
+"lavender",
+"thistle",
+"plum",
+"violet",
+"orchid",
+"fuchsia",
+"magenta",
+"mediumorchid",
+"mediumpurple",
+"rebeccapurple",
+"blueviolet",
+"darkviolet",
+"darkorchid",
+"darkmagenta",
+"purple",
+"indigo",
+"slateblue",
+"darkslateblue",
+"mediumslateblue"];
+
+/*nombres de colores html verde*/
+colorname["green"]=[
+"greenyellow",
+"chartreuse",
+"lawngreen",
+"lime",
+"limegreen",
+"palegreen",
+"lightgreen",
+"mediumspringgreen",
+"springgreen",
+"mediumseagreen",
+"seagreen",
+"forestgreen",
+"green",
+"darkgreen",
+"yellowgreen",
+"olivedrab",
+"olive",
+"darkolivegreen",
+"mediumaquamarine",
+"darkseagreen",
+"lightseagreen",
+"darkcyan",
+"teal"];
+
+/*nombres de colores html azul*/
+colorname["blue"]=[
+"aqua",
+"cyan",
+"lightcyan",
+"paleturquoise",
+"aquamarine",
+"turquoise",
+"mediumturquoise",
+"darkturquoise",
+"cadetblue",
+"steelblue",
+"lightsteelblue",
+"powderblue",
+"lightblue",
+"skyblue",
+"lightskyblue",
+"deepskyblue",
+"dodgerblue",
+"cornflowerblue",
+"mediumslateblue",
+"royalblue",
+"blue",
+"mediumblue",
+"darkblue",
+"navy",
+"midnightblue"];
+
+/*nombres de colores html marrón*/
+colorname["brown"]=[
+"cornsilk",
+"blanchedalmond",
+"bisque",
+"navajowhite",
+"wheat",
+"burlywood",
+"tan",
+"rosybrown",
+"sandybrown",
+"goldenrod",
+"darkgoldenrod",
+"peru",
+"chocolate",
+"saddlebrown",
+"sienna",
+"brown",
+"maroon"];
+
+/*nombres de colores html blanco*/
+colorname["white"]=[
+"white",
+"snow",
+"honeydew",
+"mintcream",
+"azure",
+"aliceblue",
+"ghostwhite",
+"whitesmoke",
+"seashell",
+"beige",
+"oldlace",
+"floralwhite",
+"ivory",
+"antiquewhite",
+"linen",
+"lavenderblush",
+"mistyrose"];
+
+/*nombres de colores html gris*/
+colorname["gray"]=[
+"gainsboro",
+"lightgray",
+"silver",
+"darkgray",
+"gray",
+"dimgray",
+"lightslategray",
+"slategray",
+"darkslategray",
+"black"];
+
+
+var createObject = function(value,text){
+	return _.object(["text","val"],[text,value]);
+}
+
+var fontSize = [];
+for(var i = 1; i < 101;i++){
+	let val = "fs"+i.toString();
+	let text = val+" | "+i.toString()+"px"
+	fontSize.push( createObject( val ,text) );
+};
+
+
+var fontWeight = [
+	 createObject( "fw-normal" ,"fw-normal | normal"),
+	 createObject( "fw-bold" ,"fw-bold | bold"),
+	 createObject( "fw-bolder" ,"fw-bolder | bolder"),
+	 createObject( "fw-lighter" ,"fw-lighter | lighter"),
+];
+
+for(var i = 1; i < 10;i++){
+	let val = "fw"+i.toString()
+	let text = val+" | "+i.toString()+"00"
+	fontWeight.push( createObject( val ,text) );
+};
+
+var modelCss = Backbone.Model.extend({
+	defaults:{
+		textMap:[
+		"textAlign",
+		"letterSpacing",
+		"lineHeight",
+		"textTransform",
+		"fontStyle",
+		"fontFamily",
+		"fontSize",
+		"fontWeight"],
+		textAlign:[
+		createObject("tac","tac | center"),
+		createObject("tal","tac | left"),
+		createObject("tar","tac | right"),
+		createObject("taj","tac | justify"),
+		createObject("tai","tac | inherit")
+		],
+		letterSpacing:[
+		createObject("ls1","ls1 | 0.1rem"),
+		createObject("ls2","ls2 | 0.2rem"),
+		createObject("ls3","ls3 | 0.3rem"),
+		createObject("ls4","ls4 | 0.4rem"),
+		createObject("ls5","ls5 | 0.5rem"),
+		createObject("ls6","ls6 | 0.6rem"),
+		createObject("ls7","ls7 | 0.7rem"),
+		createObject("ls8","ls8 | 0.8rem"),
+		createObject("ls9","ls9 | 0.9rem"),
+		],
+		lineHeight:[
+		createObject("lh1",  "lh1-1 | 1."),
+		createObject("lh1-1","lh1-1 | 1.1"),
+		createObject("lh1-2","lh1-2 | 1.2"),
+		createObject("lh1-3","lh1-3 | 1.3"),
+		createObject("lh1-4","lh1-4 | 1.4"),
+		createObject("lh1-5","lh1-5 | 1.5"),
+		createObject("lh1-6","lh1-6 | 1.6"),
+		createObject("lh1-7","lh1-7 | 1.7"),
+		createObject("lh1-8","lh1-8 | 1.8"),
+		createObject("lh1-9","lh1-9 | 1.9"),
+		],
+		textTransform:[
+		createObject("t-uppercase",  "t-uppercase | uppercase"),
+		createObject("t-lowercase",  "t-lowercase | lowercase"),
+		createObject("t-capitalize", "t-capitalize 	| capitalize"),
+		],
+		fontStyle:[
+		createObject("fs-normal",  "fs-normal | normal"),
+		createObject("fs-italic",  "fs-italic | italic"),
+		createObject("fs-oblique",  "fs-oblique | oblique")
+		],
+		fontFamily:[
+		createObject("sans",  "sans | \"'Helvetica Neue', Helvetica, Arial, sans-serif\""),
+		createObject("serif",  "serif | \"Merriweather, Georgia, serif\""),
+		createObject("code",  "code | \"Consolas, Monaco, 'Andale Mono',monospace\"")
+		],
+		fontSize:fontSize,
+		fontWeight:fontWeight,
+		ColorName:colorname
+	}
+});
+var ModelCss = new modelCss(); 	
+
+var app = Backbone.View.extend({
+	el:$("#app"),
+	template:_.template(`
+	<div class="container gray200 ">
+	<div class="divider"></div>
+		<div class="tac" style="padding-bottom:30px;color:rgb(59, 67, 81);" >
+			<h3 class="fs25 fw7" >Text Manipulation / Manipulación del texto</h3>
+		</div>
+		<div class="row">
+		<%_.each(textMap,function(nameClass){%>
+			<div class="form-group col-xs-6 col-sm-3">
+				<label class="t-capitalize form-label" ><%=v.replaceAll(v.slugify(nameClass),"-"," ")%></label>	
+				<select data="<%=nameClass%>" class="textManipulation form-select"  >
+				<option value="">none</option>
+				<%_.each(eval(nameClass),function(option){%>
+					<option value="<%=option.val%>" ><%=option.text%></option>
+				<% })%>
+				</select>
+				</label>
+		  	</div>
+		<%});%>		
+		</div>
+
+	  	<div class="row center-xs">
+	  		<div class="col-xs-12 col-sm-10 mdc-elevation--z1 white" style="padding:20px;" >	
+		  	<p id="paragraph" >
+		  			Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+		  	</p>
+		  	</div>
+	  	</div>
+	  	<div class="divider"></div>
+	 	 <div class="tac" style="padding-bottom:30px;color:rgb(59, 67, 81);padding-top:20px;" >
+			<h3 class="fs25 fw7" >Manipulación de colores / Colour manipulation</h3>
+		</div>
+		<div class="row">
+			
+
+			<div class="column" style="padding-bottom:20px;" >
+				<div class="row">
+					
+				<div class="form-group column" >
+					<label>background Color </label>
+					<select id="colornameBG" class="form-select" >
+						<option value="" >None</option>
+						<%_.each(ColorName,function(color,group){%>
+							<optgroup label="<%=group%>" >
+							<%_.each(color,function(__name){%>
+								<option value="<%=__name%>" ><%=__name%></option>
+							<%});%>
+							</optgroup >
+						<%});%>
+					</select>
+				</div>
+					<div class="form-group column" >
+					<label>Name color </label>
+					<select id="colornameColor" class="form-select" >
+						<option value="" >None</option>
+						<%_.each(ColorName,function(color,group){%>
+							<optgroup label="<%=group%>" >
+							<%_.each(color,function(__name){%>
+								<option value="<%=__name%>" ><%=__name%></option>
+							<%});%>
+							</optgroup >
+						<%});%>
+					</select>
+				</div>
+				</div>
+				<div id="box-color-name" class="mdc-elevation--z1" style="width:380px;height:380px;margin:0px auto;" >
+					<p class="fs60 tac fw9" >Text</p>
+				</div>
+			</div>
+
+
+			
+			<div class="column">
+				<div class="form-group" >
+					<label>Color name</label>
+					<select class="form-select" >
+					</select>
+				</div>
+				<div class="mdc-elevation--z1" style="width:380px;height:380px;margin:0px auto;" ></div>
+			</div>
+
+
+		</div>
+	</div>
+		`),
+	events:{
+		"change .textManipulation":"changeText",
+		"change #colornameBG":"changeBG",
+		"change #colornameColor":"changeColor"
+	},
+	changeBG:function($event){
+		let val = "bgc-"+$event.target.value;
+		$("#box-color-name").addClass(val);
+	
+	},
+	changeColor:function($event){
+		// Esto no funciona muy bien hayque mejorar
+		var ClassList = _.map(this.model.get("ColorName"),function(cn){
+					return cn.join(" ");
+		}).join(" ");
+		console.log(ClassList);
+		let val = "c-"+$event.target.value;
+		$("#box-color-name p").removeClass(ClassList).addClass(val);
+	},
+	changeText:function($event){
+
+		let dataModel = $($event.target).attr("data").toString();
+
+		if( this.model.has(dataModel)  ){
+
+			let listClass = _.map(this.model.get(dataModel),function(option){
+				return option.val;
+			});
+
+			let Class = $event.target.value;
+			$("#paragraph").removeClass(listClass.join(" ")).addClass(Class);
+
+		};	
+		
+	},
+	initialize:function(){
+		this.render();
+	},
+	render:function(){
+		this.$el.html(this.template(this.model.attributes));
+	}
+});
+
+new app({model:ModelCss});
+
+
+	
+</script>
+
+
 </body>
 </html>
