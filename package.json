@@ -4,7 +4,7 @@
   "description": "A utility css ",
   "main": "readme.md",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "gradle": "gradle -q css-init"
   },
   "repository": {
     "type": "git",

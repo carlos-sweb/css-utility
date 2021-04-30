@@ -1,0 +1,20 @@
+@import "var.scss";
+
+@for $i from 1 through 10 {
+	.ls#{$i}{
+		letter-spacing:#{"."}#{$i}em;
+	}
+}
+
+@each $sizeScreen, $pixel in $screen{
+
+	@media (min-width: #{$pixel}#{px}) {
+
+		@for $i from 1 through 10 {
+			.#{$sizeScreen}-ls#{$i}{
+				letter-spacing:#{"."}#{$i}em;
+			}
+		}
+	}
+
+}

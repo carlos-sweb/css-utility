@@ -1,0 +1,15 @@
+@import "var.scss";
+@each $i in $tt{
+	.text-#{$i}{
+		text-transform:#{$i};
+	}
+}
+@each $sizeScreen, $pixel in $screen{
+	@media (min-width: #{$pixel}#{px}) {
+		@each $i in $tt{
+			.#{$sizeScreen}-text-#{$i}{
+				text-transform:#{$i};
+			}
+		}
+	}
+}

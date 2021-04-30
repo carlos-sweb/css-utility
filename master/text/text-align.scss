@@ -1,0 +1,15 @@
+@import "var.scss";
+@each $key, $value in $textAlign{
+	.#{$key}{
+		text-align:#{$value};
+	}
+}
+@each $sizeScreen, $pixel in $screen{
+	@media (min-width: #{$pixel}#{px}) {
+		@each $key, $value in $textAlign{
+			.#{$sizeScreen}-#{$key}{
+				text-align:#{$value};
+			}
+		}
+	}
+}

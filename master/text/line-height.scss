@@ -1,0 +1,15 @@
+@import "var.scss";
+@each $key,$vl in $lineheight{
+	.lh#{$key}{
+		line-height:#{$vl};
+	}
+}
+@each $sizeScreen, $pixel in $screen{
+	@media (min-width: #{$pixel}#{px}) {
+		@each $key,$vl in $lineheight{
+			.#{$sizeScreen}-lh#{$key}{
+				line-height:#{$vl};
+			}
+		}
+	}
+}
