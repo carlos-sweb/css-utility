@@ -1,3 +1,29 @@
-{
-	"name":"hello"
+{	
+	"screen":{
+
+		"sm":{
+			"max-width":640
+		},
+
+		"md":{
+			"max-width":768
+		},
+
+		"lg":{
+			"max-width":1024
+		}
+
+	},
+	
+	"property":{
+		"text":{
+			"compress":true,
+			"screen":["sm","md","lg"],
+			"attr":{
+				"text-align":["center","left","right"],
+				"text-transform":["uppercase","lowercase","capitalize"],
+			}
+		}
+	}
+
 }

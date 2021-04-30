@@ -1,15 +1,63 @@
 import groovy.json.JsonSlurper 
 
+tasks.register('screen'){
+	doLast {
 
-tasks.register('css-init') {
-	dependsOn 'letterSpacing' , 'textAlign' , 'spacing' ,'textTransform','lineHeight','allText'
+		println "hello i am screen"
+
+	}
+};
+
+tasks.register('css-init') {	
     doLast {
 
-
 		def inputFile = new File("pp-style.json")
-		def json = new JsonSlurper().parseText(inputFile.text)		
 
-		println json.name
+		def json = new JsonSlurper().parseText(inputFile.text)
+
+		def config_screen =  json.containsKey("screen");
+
+		def config_property = json.containsKey("property");
+
+		if ( config_screen ) {
+
+			def newFile = new File("master/screen.scss")
+			newFile.createNewFile()
+			String cadena = '$screen:(\n';
+
+			json.screen.eachWithIndex { name, item , index ->
+
+				println "-------------------------------"
+				println name
+				println item
+				println index
+				println json.screen
+				println "-------------------------------"
+				cadena += '	'+name+':max:200px,\n'
+
+			}
+			cadena += ');';
+			newFile.write( cadena );
+
+
+			/*
+			for( (_screen,i) in json.screen) {
+
+				newFile.write('$screen_'+_screen+':(max,min)');
+
+			}*/
+
+			println 'Existe una configuracion para screen'
+		}
+
+
+		if(  config_property ){
+
+			println ' hay propiedades '
+
+		}
+
+
     	println 'Done'
     }
 }
