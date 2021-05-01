@@ -148,23 +148,3 @@ tasks.register('css-init') {
     	println 'Done'
     }
 }
-
-task letterSpacing( type:Exec ){
-	commandLine 'sass','--no-source-map','master/text/letter-spacing.scss','dist/text/letter-spacing.min.css'//,'--style','compressed'
-}
-task textAlign(type:Exec){
-	commandLine 'sass','--no-source-map','master/text/text-align.scss','dist/text/text-align.min.css'//,'--style','compressed'	
-}
-task spacing(type:Exec){
-	commandLine 'sass','--no-source-map','master/text/spacing.scss','dist/text/spacing.min.css'//,'--style','compressed'
-}
-task textTransform(type:Exec){
-	commandLine 'sass','--no-source-map','master/text/text-transform.scss','dist/text/text-transform.min.css'//,'--style','compressed'
-}
-task lineHeight(type:Exec){
-	commandLine 'sass','--no-source-map','master/text/line-height.scss','dist/text/line-height.min.css'//,'--style','compressed'
-}
-
-task allText(type:Exec){
-	commandLine 'sass','--no-source-map','master/text/all.scss','dist/text/all.min.css'//,'--style','compressed'
-}

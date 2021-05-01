@@ -1,1 +1,0 @@
-dependsOn 'letterSpacing' , 'textAlign' , 'spacing' ,'textTransform','lineHeight','allText'
