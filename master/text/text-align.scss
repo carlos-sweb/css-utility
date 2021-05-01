@@ -1,12 +1,12 @@
-@import "var.scss";
-@each $key, $value in $textAlign{
+@import "../screen.scss";
+@each $key, $value in (tal:left,tac:center,tar:right,tai:inherit,taj:justify){
 	.#{$key}{
 		text-align:#{$value};
 	}
-}
+};
 @each $sizeScreen, $pixel in $screen{
-	@media (min-width: #{$pixel}#{px}) {
-		@each $key, $value in $textAlign{
+	@media (min-width: #{map-get($pixel,max)}#{px}) {
+		@each $key, $value in (tal:left,tac:center,tar:right,tai:inherit,taj:justify){
 			.#{$sizeScreen}-#{$key}{
 				text-align:#{$value};
 			}

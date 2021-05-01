@@ -1,14 +1,14 @@
-@import "var.scss";
-@each $key,$vl in $lineheight{
-	.lh#{$key}{
-		line-height:#{$vl};
+@import "../screen.scss";
+@each $key, $value in (lh1:1,lh1-1:1.1,lh1-2:1.2,lh1-3:1.3,lh1-4:1.4,lh1-5:1.5,lh1-6:1.6,lh1-7:1.7,lh1-8:1.8,lh1-9:1.9){
+	.#{$key}{
+		line-height:#{$value};
 	}
-}
+};
 @each $sizeScreen, $pixel in $screen{
-	@media (min-width: #{$pixel}#{px}) {
-		@each $key,$vl in $lineheight{
-			.#{$sizeScreen}-lh#{$key}{
-				line-height:#{$vl};
+	@media (min-width: #{map-get($pixel,max)}#{px}) {
+		@each $key, $value in (lh1:1,lh1-1:1.1,lh1-2:1.2,lh1-3:1.3,lh1-4:1.4,lh1-5:1.5,lh1-6:1.6,lh1-7:1.7,lh1-8:1.8,lh1-9:1.9){
+			.#{$sizeScreen}-#{$key}{
+				line-height:#{$value};
 			}
 		}
 	}

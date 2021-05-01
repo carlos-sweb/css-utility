@@ -1,14 +1,14 @@
-@import "var.scss";
-@each $i in $tt{
-	.text-#{$i}{
-		text-transform:#{$i};
+@import "../screen.scss";
+@each $key, $value in (ttu:uppercase,ttl:uppercase,ttc:capitalize){
+	.#{$key}{
+		text-transform:#{$value};
 	}
-}
+};
 @each $sizeScreen, $pixel in $screen{
-	@media (min-width: #{$pixel}#{px}) {
-		@each $i in $tt{
-			.#{$sizeScreen}-text-#{$i}{
-				text-transform:#{$i};
+	@media (min-width: #{map-get($pixel,max)}#{px}) {
+		@each $key, $value in (ttu:uppercase,ttl:uppercase,ttc:capitalize){
+			.#{$sizeScreen}-#{$key}{
+				text-transform:#{$value};
 			}
 		}
 	}

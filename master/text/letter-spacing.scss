@@ -1,20 +1,15 @@
-@import "var.scss";
-
-@for $i from 1 through 10 {
-	.ls#{$i}{
-		letter-spacing:#{"."}#{$i}em;
+@import "../screen.scss";
+@each $key, $value in (ls1:.1em,ls2:.2em,ls3:.3em,ls4:.4em,ls5:.5em,ls6:.6em,ls7:.7em,ls8:.8em,ls9:.9em){
+	.#{$key}{
+		letter-spacing:#{$value};
 	}
-}
-
+};
 @each $sizeScreen, $pixel in $screen{
-
-	@media (min-width: #{$pixel}#{px}) {
-
-		@for $i from 1 through 10 {
-			.#{$sizeScreen}-ls#{$i}{
-				letter-spacing:#{"."}#{$i}em;
+	@media (min-width: #{map-get($pixel,max)}#{px}) {
+		@each $key, $value in (ls1:.1em,ls2:.2em,ls3:.3em,ls4:.4em,ls5:.5em,ls6:.6em,ls7:.7em,ls8:.8em,ls9:.9em){
+			.#{$sizeScreen}-#{$key}{
+				letter-spacing:#{$value};
 			}
 		}
 	}
-
 }
