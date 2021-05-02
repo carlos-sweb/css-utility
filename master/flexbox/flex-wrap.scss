@@ -1,0 +1,15 @@
+@import "../screen.scss";
+@each $key, $value in (flex-wrap:wrap,flex-wrap-reverse:wrap-reverse,flex-nowrap:nowrap){
+	.#{$key}{
+		flex-wrap:#{$value};
+	}
+};
+@each $sizeScreen, $pixel in $screen{
+	@media (min-width: #{map-get($pixel,max)}#{px}) {
+		@each $key, $value in (flex-wrap:wrap,flex-wrap-reverse:wrap-reverse,flex-nowrap:nowrap){
+			.#{$sizeScreen}-#{$key}{
+				flex-wrap:#{$value};
+			}
+		}
+	}
+}

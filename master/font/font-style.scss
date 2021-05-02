@@ -1,6 +1,0 @@
-$textStyle:normal,italic,oblique;
-@each $i in $textStyle{
-	.fs-#{$i}{
-		font-style:#{$i};
-	}
-}

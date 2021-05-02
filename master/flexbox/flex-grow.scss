@@ -1,0 +1,15 @@
+@import "../screen.scss";
+@each $key, $value in (flex-grow-0:0,flex-grow:1){
+	.#{$key}{
+		flex-grow:#{$value};
+	}
+};
+@each $sizeScreen, $pixel in $screen{
+	@media (min-width: #{map-get($pixel,max)}#{px}) {
+		@each $key, $value in (flex-grow-0:0,flex-grow:1){
+			.#{$sizeScreen}-#{$key}{
+				flex-grow:#{$value};
+			}
+		}
+	}
+}

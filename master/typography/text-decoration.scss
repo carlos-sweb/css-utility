@@ -1,0 +1,15 @@
+@import "../screen.scss";
+@each $key, $value in (underline:underline,line-through:line-through,no-underline:none){
+	.#{$key}{
+		text-decoration:#{$value};
+	}
+};
+@each $sizeScreen, $pixel in $screen{
+	@media (min-width: #{map-get($pixel,max)}#{px}) {
+		@each $key, $value in (underline:underline,line-through:line-through,no-underline:none){
+			.#{$sizeScreen}-#{$key}{
+				text-decoration:#{$value};
+			}
+		}
+	}
+}

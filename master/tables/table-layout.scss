@@ -1,0 +1,15 @@
+@import "../screen.scss";
+@each $key, $value in (table-auto:auto,table-fixed:fixed){
+	.#{$key}{
+		table-layout:#{$value};
+	}
+};
+@each $sizeScreen, $pixel in $screen{
+	@media (min-width: #{map-get($pixel,max)}#{px}) {
+		@each $key, $value in (table-auto:auto,table-fixed:fixed){
+			.#{$sizeScreen}-#{$key}{
+				table-layout:#{$value};
+			}
+		}
+	}
+}

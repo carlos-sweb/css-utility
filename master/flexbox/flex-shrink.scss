@@ -1,0 +1,15 @@
+@import "../screen.scss";
+@each $key, $value in (flex-shrink-0:0,flex-shrink:1){
+	.#{$key}{
+		flex-shrink:#{$value};
+	}
+};
+@each $sizeScreen, $pixel in $screen{
+	@media (min-width: #{map-get($pixel,max)}#{px}) {
+		@each $key, $value in (flex-shrink-0:0,flex-shrink:1){
+			.#{$sizeScreen}-#{$key}{
+				flex-shrink:#{$value};
+			}
+		}
+	}
+}

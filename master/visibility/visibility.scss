@@ -1,6 +1,0 @@
-$visibility:visible,hidden,collapse;
-@each $i in $visibility{
-	.v-#{$i}{
-		visibility:#{$i};
-	}
-}

@@ -1,0 +1,15 @@
+@import "../screen.scss";
+@each $key, $value in (italic:italic,no-italic:normal){
+	.#{$key}{
+		font-style:#{$value};
+	}
+};
+@each $sizeScreen, $pixel in $screen{
+	@media (min-width: #{map-get($pixel,max)}#{px}) {
+		@each $key, $value in (italic:italic,no-italic:normal){
+			.#{$sizeScreen}-#{$key}{
+				font-style:#{$value};
+			}
+		}
+	}
+}

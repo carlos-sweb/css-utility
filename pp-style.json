@@ -15,45 +15,171 @@
 
 	},
 	"property":{
-		"text":{
+		"flexbox":{
+			"compress":false,
+			"screen":["sm"],
+			"attr":{
+				"flex-direction":{
+					"flex-row":"row",
+					"flex-row-reverse":"row-reverse",
+					"flex-col":"column",
+					"flex-col-reverse":"column-reverse"
+				},
+				"flex-wrap":{
+					"flex-wrap":"wrap",
+					"flex-wrap-reverse":"wrap-reverse",
+					"flex-nowrap":"nowrap"
+				},
+				"flex":{
+					"flex-1":"1 1 0%",
+					"flex-auto":"1 1 auto",
+					"flex-initial":"0 1 auto",
+					"flex-none":"none"
+				},
+				"flex-grow":{
+					"flex-grow-0":"0",
+					"flex-grow":"1"
+				},
+				"flex-shrink":{
+					"flex-shrink-0":"0",
+					"flex-shrink":"1"
+				},
+				"order":{
+					"order-1":"1",
+					"order-2":"2",
+					"order-3":"3",
+					"order-4":"4",
+					"order-5":"5",
+					"order-6":"6",
+					"order-7":"7",
+					"order-8":"8",
+					"order-9":"9",
+					"order-10":"10",
+					"order-11":"11",
+					"order-12":"12",
+					"order-first":"-9999",
+					"order-last":"9999",
+					"order-none":"none"				
+				}
+			}
+		},
+		"tables":{
+			"compress":false,
+			"screen":["sm"],
+			"attr":{
+				"border-collapse":{
+					"border-collapse":"collapse",
+					"border-separate":"separate"
+				},
+				"table-layout":{
+					"table-auto":"auto",
+					"table-fixed":"fixed"
+				}
+			}
+		},
+		"backgrounds":{
+			"compress":false,
+			"screen":["sm"],
+			"attr":{
+				"background-attachment":{
+					"bg-fixed":"fixed",
+					"bg-local":"local",
+					"bg-scroll":"scroll"
+				},
+				"background-clip":{
+					"bg-clip-border":"border-box",
+					"bg-clip-padding":"padding-box",
+					"bg-clip-content":"content-box",
+					"bg-clip-text":" text"
+				},
+				"background-position":{
+					"bg-bottom":"bottom",
+					"bg-center":"center",
+					"bg-left":"left",
+					"bg-left-bottom":"left-bottom",
+					"bg-left-top":"left-top",
+					"bg-right":"right",
+					"bg-right-bottom":"right-bottom",
+					"bg-right-top":"right-top",
+					"bg-top":"top"
+				},
+				"background-repeat":{
+					"bg-repeat":"repeat",
+					"bg-no-repeat":"no-repeat",
+					"bg-repeat-x":"repeat-x",
+					"bg-repeat-y":"repeat-y",
+					"bg-repeat-round":"round",
+					"bg-repeat-space":"space"
+				},
+				"background-size":{
+					"bg-auto":"auto",
+					"bg-cover":"cover",
+					"bg-contain":"contain"
+				}
+			}
+		},
+
+		"typography":{
 			"compress":false,
 			"screen":["sm","md","lg"],
 			"attr":{
 				"text-align":{					
-					"tal":"left",
-					"tac":"center",
-					"tar":"right",
-					"tai":"inherit",
-					"taj":"justify",
+					"text-left":"left",
+					"text-center":"center",
+					"text-right":"right",
+					"text-inherit":"inherit",
+					"text-justify":"justify"
 				},
 				"text-transform":{
-					"ttu":"uppercase",
-					"ttl":"uppercase",
-					"ttc":"capitalize"
+					"uppercase":"uppercase",
+					"lowercase":"lowercase",
+					"capitalize":"capitalize",
+					"normal-case":"none"
+				},
+				"text-decoration":{
+					"underline":"underline",
+					"line-through":"line-through",					
+					"no-underline":"none"
 				},
 				"line-height":{
-					"lh1":1,
-					"lh1-1":1.1,
-					"lh1-2":1.2,
-					"lh1-3":1.3,
-					"lh1-4":1.4,
-					"lh1-5":1.5,
-					"lh1-6":1.6,
-					"lh1-7":1.7,
-					"lh1-8":1.8,
-					"lh1-9":1.9
+					"leading-3":"0.75rem",
+					"leading-4":"1rem",
+					"leading-5":"1.25rem",
+					"leading-6":"1.5rem",
+					"leading-7":"1.75rem",
+					"leading-8":"2rem",
+					"leading-9":"2.25rem",
+					"leading-10":"2.5rem",
+					"leading-none":"1",
+					"leading-tight":" 1.25",
+					"leading-snug":"1.375",
+					"leading-normal":"1.5",
+					"leading-relaxed":"1.625",
+					"leading-loose":"2"
 				},
 				"letter-spacing":{
-					"ls1" :".1em",
-					"ls2" :".2em",
-					"ls3" :".3em",
-					"ls4" :".4em",
-					"ls5" :".5em",
-					"ls6" :".6em",
-					"ls7" :".7em",
-					"ls8" :".8em",
-					"ls9" :".9em",					
-				}
+					"tracking-tighter" :"-0.05em",
+					"tracking-tight" :"-0.025em",
+					"tracking-normal" :"0em",
+					"tracking-wide" :"0.025em",
+					"tracking-wider" :"0.05em",
+					"tracking-widest" :"0.1em"										
+				},
+				"font-style":{
+					"italic":"italic",
+					"no-italic":"normal"
+				},
+				"font-weight":{
+					"font-thin":"100",
+					"font-extralight":"200",
+					"font-light":"300",
+					"font-normal":"400",
+					"font-medium":"500",
+					"font-tsemiboldhin":"600",
+					"font-bold":"700",
+					"font-extrabold":"800",
+					"font-black":"900"
+				}				
 			}
 		}
 	}

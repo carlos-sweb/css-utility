@@ -1,0 +1,15 @@
+@import "../screen.scss";
+@each $key, $value in (border-collapse:collapse,border-separate:separate){
+	.#{$key}{
+		border-collapse:#{$value};
+	}
+};
+@each $sizeScreen, $pixel in $screen{
+	@media (min-width: #{map-get($pixel,max)}#{px}) {
+		@each $key, $value in (border-collapse:collapse,border-separate:separate){
+			.#{$sizeScreen}-#{$key}{
+				border-collapse:#{$value};
+			}
+		}
+	}
+}

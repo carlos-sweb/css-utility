@@ -1,7 +1,7 @@
 import groovy.json.JsonSlurper 
 // -------------------------------------------------------------------------------
 tasks.register('screen'){
-	doLast {
+	doLast {			
 
 		println "hello i am screen"
 
@@ -56,8 +56,6 @@ tasks.register('css-init') {
 				if( !p_folder.exists() ){
 					 p_folder.mkdirs()
 				}
-
-
 				// <!--------------------
 				// SI LOS ARCHIVOS ESTARAN COMPRIMIDOS	
 				Boolean compress = true;
