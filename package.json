@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/carlos-sweb/css-utility/issues"
   },
-  "homepage": "https://github.com/carlos-sweb/css-utility#readme"
+  "homepage": "https://github.com/carlos-sweb/css-utility#readme",
+  "dependencies": {
+    "tailwindcss": "^2.1.2"
+  }
 }

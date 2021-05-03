@@ -7,7 +7,7 @@
 @each $sizeScreen, $pixel in $screen{
 	@media (min-width: #{map-get($pixel,max)}#{px}) {
 		@each $key, $value in (bg-bottom:bottom,bg-center:center,bg-left:left,bg-left-bottom:left-bottom,bg-left-top:left-top,bg-right:right,bg-right-bottom:right-bottom,bg-right-top:right-top,bg-top:top){
-			.#{$sizeScreen}-#{$key}{
+			.#{$sizeScreen}\:#{$key}{
 				background-position:#{$value};
 			}
 		}

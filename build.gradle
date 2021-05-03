@@ -113,7 +113,7 @@ tasks.register('css-init') {
 						attr_cadena += '@each $sizeScreen, $pixel in $screen{\n';						
 						attr_cadena += '	@media (min-width: #{map-get($pixel,max)}#{px}) {\n';
 						attr_cadena += '		@each $key, $value in ('+attr_cadena_array+'){\n';
-						attr_cadena += '			.#{$sizeScreen}-#{$key}{\n';
+						attr_cadena += '			.#{$sizeScreen}\\:#{$key}{\n';
 						attr_cadena += '				'+_name+':#{$value};\n';
 						attr_cadena += '			}\n';
 						attr_cadena += '		}\n';

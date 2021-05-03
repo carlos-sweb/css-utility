@@ -7,7 +7,7 @@
 @each $sizeScreen, $pixel in $screen{
 	@media (min-width: #{map-get($pixel,max)}#{px}) {
 		@each $key, $value in (table-auto:auto,table-fixed:fixed){
-			.#{$sizeScreen}-#{$key}{
+			.#{$sizeScreen}\:#{$key}{
 				table-layout:#{$value};
 			}
 		}

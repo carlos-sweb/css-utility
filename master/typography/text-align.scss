@@ -7,7 +7,7 @@
 @each $sizeScreen, $pixel in $screen{
 	@media (min-width: #{map-get($pixel,max)}#{px}) {
 		@each $key, $value in (text-left:left,text-center:center,text-right:right,text-inherit:inherit,text-justify:justify){
-			.#{$sizeScreen}-#{$key}{
+			.#{$sizeScreen}\:#{$key}{
 				text-align:#{$value};
 			}
 		}

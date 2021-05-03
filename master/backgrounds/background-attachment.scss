@@ -7,7 +7,7 @@
 @each $sizeScreen, $pixel in $screen{
 	@media (min-width: #{map-get($pixel,max)}#{px}) {
 		@each $key, $value in (bg-fixed:fixed,bg-local:local,bg-scroll:scroll){
-			.#{$sizeScreen}-#{$key}{
+			.#{$sizeScreen}\:#{$key}{
 				background-attachment:#{$value};
 			}
 		}

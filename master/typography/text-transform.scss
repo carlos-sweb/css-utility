@@ -7,7 +7,7 @@
 @each $sizeScreen, $pixel in $screen{
 	@media (min-width: #{map-get($pixel,max)}#{px}) {
 		@each $key, $value in (uppercase:uppercase,lowercase:lowercase,capitalize:capitalize,normal-case:none){
-			.#{$sizeScreen}-#{$key}{
+			.#{$sizeScreen}\:#{$key}{
 				text-transform:#{$value};
 			}
 		}

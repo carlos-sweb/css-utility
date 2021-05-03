@@ -7,7 +7,7 @@
 @each $sizeScreen, $pixel in $screen{
 	@media (min-width: #{map-get($pixel,max)}#{px}) {
 		@each $key, $value in (flex-wrap:wrap,flex-wrap-reverse:wrap-reverse,flex-nowrap:nowrap){
-			.#{$sizeScreen}-#{$key}{
+			.#{$sizeScreen}\:#{$key}{
 				flex-wrap:#{$value};
 			}
 		}
