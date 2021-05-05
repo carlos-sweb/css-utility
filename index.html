@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Utility</title>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap" rel="stylesheet">
+    <style>
+        *{
+            font-family: 'JetBrains Mono', monospace;
+        }
+    </style>
+</head>
+<body>
+
+
+<div>
+    <div>
+        <ul id="lista" >
+
+        </ul>
+    </div>
+    <div></div>
+</div>    
+
+    
+<script type="text/javascript">
+
+
+var lista = document.querySelector("#lista");
+
+
+
+
+function reqListener () {
+
+  var text = "";  
+
+  var response =   JSON.parse( this.responseText );
+  
+  var propertys =  Object.keys(response.property);
+    
+    propertys.forEach(function(group){
+        
+        text += `<h3>${group}</h3>`;
+        text += `<ul>`;
+        // ---------------------------------------------------------------
+        Object.keys(response.property[group].attr).forEach(function( attributes ){
+            console.log( attributes );
+            text +=  `<li><a href="#/${group}/${attributes}">${attributes}</a></li>`;
+        });
+        // ---------------------------------------------------------------
+        text += `</ul>`;
+    });
+
+  lista.innerHTML = text;  
+
+}
+
+var oReq = new XMLHttpRequest();
+oReq.addEventListener("load", reqListener);
+oReq.open("GET", "pp-style.json");
+oReq.send();
+
+</script>    
+</body>
+</html>
