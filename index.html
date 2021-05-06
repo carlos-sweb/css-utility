@@ -13,7 +13,6 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" integrity="sha512-NhSC1YmyruXifcj/KFRWoC561YpHpc5Jtzgvbuzx5VozKpWvQ+4nXhPdFgmx8xqexRcpAglTj9sIBWINXa8x5w==" crossorigin="anonymous" />
 </head>
 <body>
-
 <div class="w-full flex items-stretch flex-shrink-0 h-13 deeppurple400 text-white">
     <span class="uppercase">css utility</span>
 </div>
@@ -21,11 +20,6 @@
     <div class="" ><ul id="lista" ></ul></div>
     <div class="w-full p-8" id="view" ></div>
 </div>   
-
-
-
-
-
 <script src="https://cdn.jsdelivr.net/npm/pp-router.js@1.0.7/pp-router.min.js" ></script>
 <script type="text/javascript">
 
@@ -47,26 +41,34 @@ var router = new ppRouter({
          
          var class_text = '';
 
+         var colorlight = false;
+
          for( var i = 0; i < _keys.length ; i ++  ){
-             class_text += '<div class="grid grid-cols-2">';
-                class_text += '<div>'+_keys[i].replace("\\","")+'</div>';
-                class_text += '<div>'+params.attribute+':'+_propoerty[_keys[i]]+';</div>';
-             class_text += '</div>';
+
+            class_text += `
+                <div class="grid grid-cols-2 p-3 ${colorlight ? 'green100':'green50' }">
+                    <div>${_keys[i].replace("\\","")}</div>
+                    <div>${params.attribute}:${_propoerty[_keys[i]]}</div>
+                </div>`;
+             
+             colorlight = !colorlight;
          }
 
          
          
 
+         
          view .innerHTML = `
             <h3>${params.group}/</h3>
             <h1>${params.attribute.replace("-","&nbsp;")}</h1>
             <div class="grid w-full">
-                <div class="grid grid-cols-2">
+                <div class="grid grid-cols-2 green200 font-bold p-3">
                     <div>Class Name</div><div>Property</div>
                 </div>
                 ${class_text}               
             </div>
          `;
+
 
 
         }
