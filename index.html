@@ -67,7 +67,7 @@ var router = new ppRouter({
                          
          view .innerHTML = `
             <h1 class="uppercase" >${params.attribute.replace("-","&nbsp;")}</h1>    
-            <div class="grid w-full elevation-4">                
+            <div class="grid w-full elevation-4 overflow-hidden" style="border-radius:0.25rem;">                
                 <div class="grid grid-cols-2 deeppurple400 font-bold p-3 text-white">
                     <div>Class Name</div><div>Property</div>
                 </div>

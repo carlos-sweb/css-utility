@@ -1,0 +1,10 @@
+{
+    "name": "pp-css",
+    "version": "0.0.1",
+    "author": "Carlos Illesca",
+    "description": "pp-css Gui",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    }
+}
