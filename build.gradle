@@ -135,7 +135,7 @@ tasks.register('css-init') {
 
 					}
 
-					println 'Tienen attr para aplicar'								
+					println 'Compiled '+name
 				}
 				// <!--------------------							
 			}			
@@ -143,6 +143,6 @@ tasks.register('css-init') {
 		// -------------------------------------------------------------------------------
 		// -------------------------------------------------------------------------------
 
-    	println 'Done'
+    	println 'Done !'
     }
 }
