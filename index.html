@@ -46,31 +46,24 @@ var router = new ppRouter({
          for( var i = 0; i < _keys.length ; i ++  ){
 
             class_text += `
-                <div class="grid grid-cols-2 p-3 ${colorlight ? 'green100':'green50' }">
+                <div class="grid grid-cols-2 p-3 ${colorlight ? 'deeppurple100':'deeppurple50' }">
                     <div>${_keys[i].replace("\\","")}</div>
                     <div>${params.attribute}:${_propoerty[_keys[i]]}</div>
                 </div>`;
              
              colorlight = !colorlight;
          }
-
-         
-         
-
-         
+                         
          view .innerHTML = `
             <h3>${params.group}/</h3>
             <h1>${params.attribute.replace("-","&nbsp;")}</h1>
             <div class="grid w-full">
-                <div class="grid grid-cols-2 green200 font-bold p-3">
+                <div class="grid grid-cols-2 deeppurple400 font-bold p-3 text-white">
                     <div>Class Name</div><div>Property</div>
                 </div>
                 ${class_text}               
             </div>
          `;
-
-
-
         }
     }
 });
@@ -97,7 +90,7 @@ function reqListener () {
         text += `<ul class="list-none list-outside p-0" >`;
         // ---------------------------------------------------------------
         Object.keys(response.property[group].attr).forEach(function( attributes ){            
-            text +=  `<li><a class='no-underline' href="#/${group}/${attributes}">${attributes.replace("-"," ")}</a></li>`;
+            text +=  `<li class="p-1"><a class='no-underline' href="#/${group}/${attributes}">${attributes.replace("-"," ").replace("-"," ")}</a></li>`;
             var link = document.createElement('link');
             link.setAttribute("href","dist/"+group+"/"+attributes+".css");
             link.setAttribute("rel","stylesheet");
