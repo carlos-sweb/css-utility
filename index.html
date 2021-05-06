@@ -8,62 +8,116 @@
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap" rel="stylesheet">
     <style>
-        *{
-            font-family: 'JetBrains Mono', monospace;
-        }
+        *{font-family: 'JetBrains Mono', monospace;}
     </style>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" integrity="sha512-NhSC1YmyruXifcj/KFRWoC561YpHpc5Jtzgvbuzx5VozKpWvQ+4nXhPdFgmx8xqexRcpAglTj9sIBWINXa8x5w==" crossorigin="anonymous" />
 </head>
 <body>
 
+<div class="w-full flex items-stretch flex-shrink-0 h-13 deeppurple400 text-white">
+    <span>hola</span>
+</div>
+<div class="w-full flex flex-row" >    
+    <div class="" ><ul id="lista" ></ul></div>
+    <div class="w-full p-8" id="view" ></div>
+</div>   
 
-<div>
-    <div>
-        <ul id="lista" >
 
-        </ul>
-    </div>
-    <div></div>
-</div>    
 
-    
+
+
+<script src="https://cdn.jsdelivr.net/npm/pp-router.js@1.0.7/pp-router.min.js" ></script>
 <script type="text/javascript">
+
+
+var router = new ppRouter({
+    "/":{
+        controller:function(){
+
+        }
+    },
+    "/:group(string)/:attribute(string)":{
+        controller:function(params){
+
+         var view = document.getElementById("view");  
+
+         var _propoerty = window.cssUtility[params.group].attr[params.attribute];
+
+         var _keys = Object.keys( _propoerty );
+         
+         var class_text = '';
+
+         for( var i = 0; i < _keys.length ; i ++  ){
+             class_text += '<div class="grid grid-cols-2">';
+                class_text += '<div>'+_keys[i].replace("\\","")+'</div>';
+                class_text += '<div>'+params.attribute+':'+_propoerty[_keys[i]]+';</div>';
+             class_text += '</div>';
+         }
+
+         
+         
+
+         view .innerHTML = `
+            <h3>${params.group}/</h3>
+            <h1>${params.attribute.replace("-","&nbsp;")}</h1>
+            <div class="grid w-full">
+                <div class="grid grid-cols-2">
+                    <div>Class Name</div><div>Property</div>
+                </div>
+                ${class_text}               
+            </div>
+         `;
+
+
+        }
+    }
+});
+
 
 
 var lista = document.querySelector("#lista");
 
-
-
-
 function reqListener () {
+
+  
 
   var text = "";  
 
   var response =   JSON.parse( this.responseText );
   
   var propertys =  Object.keys(response.property);
+
+  window.cssUtility =   response.property;
     
     propertys.forEach(function(group){
         
         text += `<h3>${group}</h3>`;
-        text += `<ul>`;
+        text += `<ul class="list-none list-outside p-0" >`;
         // ---------------------------------------------------------------
-        Object.keys(response.property[group].attr).forEach(function( attributes ){
-            console.log( attributes );
-            text +=  `<li><a href="#/${group}/${attributes}">${attributes}</a></li>`;
+        Object.keys(response.property[group].attr).forEach(function( attributes ){            
+            text +=  `<li><a class='no-underline' href="#/${group}/${attributes}">${attributes.replace("-"," ")}</a></li>`;
+            var link = document.createElement('link');
+            link.setAttribute("href","dist/"+group+"/"+attributes+".css");
+            link.setAttribute("rel","stylesheet");
+            document.head.append(link);
         });
+        
         // ---------------------------------------------------------------
         text += `</ul>`;
     });
 
-  lista.innerHTML = text;  
+  lista.innerHTML = text; 
+  
+  router.start();
 
 }
-
+// ------------------------------------------------------------------------------------------
 var oReq = new XMLHttpRequest();
 oReq.addEventListener("load", reqListener);
 oReq.open("GET", "pp-style.json");
+oReq.setRequestHeader('Cache-Control', 'no-cache');
 oReq.send();
-
+// ------------------------------------------------------------------------------------------
 </script>    
 </body>
 </html>
