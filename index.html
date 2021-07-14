@@ -19,15 +19,15 @@
     <div class="box-inherit align-stretch flex flex-shrink-0 h-13" >
         <div class="align-center flex flex-grow-0 flex-shrink-0 pl-4 leading-3" >
             <h3>Power Panel Css</h3>
-        </div>        
+        </div>
     </div>
 </div>
 <!-- navbar -->
 
-<div class="w-full flex flex-row pt-14 elevation-3" >    
+<div class="w-full flex flex-row pt-14 elevation-3" >
     <div class="h-full" ><ul id="lista" ></ul></div>
     <div class="w-full p-8" id="view" ></div>
-</div>   
+</div>
 <script src="https://cdn.jsdelivr.net/npm/pp-router.js@1.0.7/pp-router.min.js" ></script>
 <script type="text/javascript">
 
@@ -48,12 +48,12 @@ var router = new ppRouter({
 
         controller:function(params){
 
-         var view = document.getElementById("view");  
+         var view = document.getElementById("view");
 
          var _propoerty = window.cssUtility[params.group].attr[params.attribute];
 
          var _keys = Object.keys( _propoerty );
-         
+
          var class_text = '';
 
          var colorlight = false;
@@ -65,17 +65,17 @@ var router = new ppRouter({
                     <div><span class="text-bluegray900 font-bold" >${_keys[i].replace("\\","")}</span></div>
                     <div><span class="text-indigo900" >${params.attribute}</span>:<span class="text-orange800">${ _propoerty[_keys[i]].replace("'","").replace("'","") }</span><img onclick="copy(event)" alt="copy" class="float-right cursor-pointer" src="copy.svg"/></div>
                 </div>`;
-             
+
              colorlight = !colorlight;
          }
-                         
+
          view .innerHTML = `
-            <h1 class="uppercase" >${params.attribute.replace("-","&nbsp;")}</h1>    
-            <div class="grid w-full elevation-4 overflow-hidden" style="border-radius:0.25rem;">                
+            <h1 class="uppercase" >${params.attribute.replace("-","&nbsp;")}</h1>
+            <div class="grid w-full elevation-4 overflow-hidden" style="border-radius:0.25rem;">
                 <div class="grid grid-cols-2 deeppurple400 font-bold p-3 text-white">
                     <div>Class Name</div><div>Property</div>
                 </div>
-                ${class_text}               
+                ${class_text}
             </div>
          `;
         }
@@ -87,33 +87,33 @@ var lista = document.querySelector("#lista");
 
 function reqListener () {
 
-  var text = "";  
+  var text = "";
 
   var response =   JSON.parse( this.responseText );
-  
+
   var propertys =  Object.keys(response.property);
 
   window.cssUtility =   response.property;
-    
+
     propertys.forEach(function(group){
-        
-        text += `<h3>${group}</h3>`;
-        text += `<ul class="list-none list-outside p-0" >`;
+
+        text += `<h3  >${group} <img class='cursor-pointer' src='down.svg' /> </h3>`;
+        text += `<ul class="list-none list-outside p-0 " >`;
         // ---------------------------------------------------------------
-        Object.keys(response.property[group].attr).forEach(function( attributes ){            
+        Object.keys(response.property[group].attr).forEach(function( attributes ){
             text +=  `<li class="p-1"><a class='no-underline' href="#/${group}/${attributes}">${attributes.replace("-"," ").replace("-"," ")}</a></li>`;
             var link = document.createElement('link');
             link.setAttribute("href","dist/"+group+"/"+attributes+".css");
             link.setAttribute("rel","stylesheet");
             document.head.append(link);
         });
-        
+
         // ---------------------------------------------------------------
         text += `</ul>`;
     });
 
-  lista.innerHTML = text; 
-  
+  lista.innerHTML = text;
+
   router.start();
 
 }
@@ -124,6 +124,6 @@ oReq.open("GET", "pp-style.json");
 oReq.setRequestHeader('Cache-Control', 'no-cache');
 oReq.send();
 // ------------------------------------------------------------------------------------------
-</script>    
+</script>
 </body>
 </html>
