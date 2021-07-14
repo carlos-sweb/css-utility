@@ -7,16 +7,17 @@
     <title>CSS Utility</title>
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap" rel="stylesheet">
-    <style>
-        *{font-family: 'JetBrains Mono', monospace;}
-    </style>
+    <style>*{font-family: 'JetBrains Mono', monospace;}</style>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" integrity="sha512-NhSC1YmyruXifcj/KFRWoC561YpHpc5Jtzgvbuzx5VozKpWvQ+4nXhPdFgmx8xqexRcpAglTj9sIBWINXa8x5w==" crossorigin="anonymous" />
 </head>
 <body>
-
 <!-- navbar -->
 <div class="w-full flex fixed items-stretch flex-shrink-0 h-13 deeppurple400 text-white elevation-2">
     <div class="box-inherit align-stretch flex flex-shrink-0 h-13" >
+
+        <div class="align-center flex flex-grow-0 flex-shrink-0 pl-4 leading-3" >
+            <img onclick="openMenu(event)" class="cursor-pointer" src="menu.svg" alt="">
+        </div>
         <div class="align-center flex flex-grow-0 flex-shrink-0 pl-4 leading-3" >
             <h3>Power Panel Css</h3>
         </div>
@@ -28,8 +29,15 @@
     <div class="h-full" ><ul id="lista" ></ul></div>
     <div class="w-full p-8" id="view" ></div>
 </div>
+
 <script src="https://cdn.jsdelivr.net/npm/pp-router.js@1.0.7/pp-router.min.js" ></script>
+
 <script type="text/javascript">
+
+
+var openMenu = function(){
+  console.log("Estamos trabajando para Abrir Un menu");
+}
 
 
 function copy( event ){
