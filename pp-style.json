@@ -1,7 +1,8 @@
 {
+	"compress":true,
 	"screen":{
 		"xs":{
-			
+
 		},
 		"sm":{
 			"max":640

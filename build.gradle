@@ -1,20 +1,20 @@
-import groovy.json.JsonSlurper 
+import groovy.json.JsonSlurper
 // -------------------------------------------------------------------------------
 tasks.register('screen'){
-	doLast {			
+	doLast {
 
 		println "hello i am screen"
 
 	}
 };
 // -------------------------------------------------------------------------------
-tasks.register('css-init') {	
+tasks.register('css-init') {
     doLast {
     	// BUSCAMOS EL ARCHIVO DE CONFIGURACIÓN
 		def inputFile = new File("pp-style.json")
 		// ANALIZAMOS EL ARCHIVO JSON
-		def json = new JsonSlurper().parseText(inputFile.text)		
-		// REVISAMOS QUE ESTE LA VARIABLE SCREEN 
+		def json = new JsonSlurper().parseText(inputFile.text)
+		// REVISAMOS QUE ESTE LA VARIABLE SCREEN
 		if ( json.containsKey("screen") ) {
 			// ASIGNAMOS UN NUEVO ARCHIVO
 			def screenFile = new File("master/screen.scss")
@@ -24,8 +24,8 @@ tasks.register('css-init') {
 			String cadena = '$screen:(\n';
 			// CREAMOS LA CADENA QUE ESCRIBIREMOS
 
-			json.screen.eachWithIndex { nameScreen, item , index ->								
-				
+			json.screen.eachWithIndex { nameScreen, item , index ->
+
 				//GRABAMOS EL CONTENIDO
 				//cadena += '	'+nameScreen+':(max:'+item.max+'px),\n';
 				if( json.screen[nameScreen].containsKey('max') ){
@@ -43,13 +43,13 @@ tasks.register('css-init') {
 			// INFORMAMOS EN PANTALLA QUE SE HA CREADO EL ARCHIVO SCREEN.SCSS
 			println 'created file screen.scss'
 		}
-		// REVISAMOS QUE ESTE LA VARIABLE SCREEN 
+		// REVISAMOS QUE ESTE LA VARIABLE SCREEN
 		// -------------------------------------------------------------------------------
 		// -------------------------------------------------------------------------------
 		// REVISAMOS QUE ESTE LA VARIABLE PROPERTY
 		if( json.containsKey("property") ){
 			// RECOREMOS LA PROPIEDAD
-			json.property.eachWithIndex { name , item , index ->				
+			json.property.eachWithIndex { name , item , index ->
 				// creamos el directorio
 				def p_folder = new File('master/'+name);
 				// verificamos si extra creado el directorio
@@ -57,9 +57,9 @@ tasks.register('css-init') {
 					 p_folder.mkdirs()
 				}
 				// <!--------------------
-				// SI LOS ARCHIVOS ESTARAN COMPRIMIDOS	
+				// SI LOS ARCHIVOS ESTARAN COMPRIMIDOS
 				Boolean compress = true;
-				// verificamos que la variable compress este creada 
+				// verificamos que la variable compress este creada
 				// si no esta creada colocaremos la variable tru
 				if( json.property[name].containsKey("compress") ){
 					// si esta creada colocamos la variable que viene del archivo
@@ -68,23 +68,23 @@ tasks.register('css-init') {
 				// <!--------------------
 				// VERIFICAREMOS PARA LOS SCREEN QUE SE NECESITAN
 				def p_screen = [];
-				// revisamos que este creada la llave y asignamos los 
+				// revisamos que este creada la llave y asignamos los
 				// valores
 				if( json.property[name].containsKey("screen") ){
 
 					p_screen = json.property[name].screen;
-					
+
 				}
 				// <!--------------------
 				if( json.property[name].containsKey("attr") ){
-					
-					json.property[name].attr.eachWithIndex { _name , _item , _index ->						
+
+					json.property[name].attr.eachWithIndex { _name , _item , _index ->
 
 						def attr_file = new File('master/'+name+"/"+_name+".scss");
 
-						String attr_cadena = '@import "../screen.scss";\n';						
+						String attr_cadena = '@import "../screen.scss";\n';
 
-						String attr_cadena_array = '';						
+						String attr_cadena_array = '';
 
 						json.property[name].attr[_name].eachWithIndex { __name, __item , __index ->
 
@@ -97,8 +97,8 @@ tasks.register('css-init') {
 
 							}
 
-						};												
-					
+						};
+
 						attr_cadena += '@each $key, $value in ('+attr_cadena_array+'){\n';
 
 						attr_cadena += '	.#{$key}{\n';
@@ -110,7 +110,7 @@ tasks.register('css-init') {
 						attr_cadena += '};\n'
 
 
-						attr_cadena += '@each $sizeScreen, $pixel in $screen{\n';						
+						attr_cadena += '@each $sizeScreen, $pixel in $screen{\n';
 						attr_cadena += '	@media (min-width: #{map-get($pixel,max)}#{px}) {\n';
 						attr_cadena += '		@each $key, $value in ('+attr_cadena_array+'){\n';
 						attr_cadena += '			.#{$sizeScreen}\\:#{$key}{\n';
@@ -118,27 +118,27 @@ tasks.register('css-init') {
 						attr_cadena += '			}\n';
 						attr_cadena += '		}\n';
 						attr_cadena += '	}\n';
-						attr_cadena += '}\n';						
+						attr_cadena += '}\n';
 
 						attr_file.createNewFile();
 
-						attr_file.write(attr_cadena);						
+						attr_file.write(attr_cadena);
 
 						exec{
-							if( compress ){
-								commandLine 'sass','--no-source-map','master/'+name+'/'+_name+'.scss','dist/'+name+'/'+_name+'.min.css','--style','compressed'	
+							if( false ){
+								commandLine 'sass','--no-source-map','master/'+name+'/'+_name+'.scss','dist/'+name+'/'+_name+'.min.css','--style','compressed'
 							}else{
 								commandLine 'sass','--no-source-map','master/'+name+'/'+_name+'.scss','dist/'+name+'/'+_name+'.css'
 							}
-							
+
 						}
 
 					}
 
 					println 'Compiled '+name
 				}
-				// <!--------------------							
-			}			
+				// <!--------------------
+			}
 		}
 		// -------------------------------------------------------------------------------
 		// -------------------------------------------------------------------------------
