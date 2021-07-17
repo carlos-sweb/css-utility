@@ -82,6 +82,7 @@ tasks.register('css-init') {
 				// <!--------------------
 				if( json.property[name].containsKey("attr") ){
 
+					println 'Start '+name
 					json.property[name].attr.eachWithIndex { _name , _item , _index ->
 
 						def attr_file = new File('master/'+name+"/"+_name+".scss");
@@ -120,8 +121,7 @@ tasks.register('css-init') {
 						// hay que trabajar en esta linea
 						attr_cadena += '	@media (min-width: #{map-get($pixel,min)}#{px}) and (max-width: #{map-get($pixel,max)}#{px}){\n';
 						// ------------------------------
-
-
+						
 						attr_cadena += '		@each $key, $value in ('+attr_cadena_array+'){\n';
 						attr_cadena += '			.#{$sizeScreen}\\:#{$key}{\n';
 						attr_cadena += '				'+_name+':#{$value};\n';
@@ -142,7 +142,7 @@ tasks.register('css-init') {
 							}
 
 						}
-
+								println '    --- '+_name
 					}
 
 					println 'Compiled '+name
