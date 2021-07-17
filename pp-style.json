@@ -16,7 +16,7 @@
 
 		"lg":{
 			"min":1024,
-			"max":2000			
+			"max":2000
 		}
 	},
 	"property":{
@@ -1869,6 +1869,14 @@
 					"text-slategray":"slategray",
 					"text-darkslategray":"darkslategray",
 					"text-black":"black"
+				},
+				"vertical-align":{
+					"align-baseline":"baseline",
+					"align-top":"top",
+					"align-middle":"middle",
+					"align-bottom":"bottom",
+					"align-text-top":"text-top",
+					"align-text-bottom":"text-bottom"	
 				},
 				"text-align":{
 					"text-left":"left",

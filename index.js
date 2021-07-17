@@ -1,3 +1,8 @@
+
+console.log( cssdescription );
+
+
+
 var drawer = new ppDrawer("main")
 var openMenu = function(){ drawer.open(); }
 
@@ -35,9 +40,6 @@ var router = new ppRouter({
 
          for( var i = 0; i < _keys.length ; i ++  ){
             var isUnselect = unselect.includes(  _keys[i]  );
-            console.log( unselect );
-            console.log( _keys[i] );
-            console.log( isUnselect );
 
             class_text += `
                 <div style="grid-template-columns: 30px 1fr 1fr" class="grid p-3 ${colorlight ? 'deeppurple100':'deeppurple50' }">
@@ -49,8 +51,21 @@ var router = new ppRouter({
              colorlight = !colorlight;
          }
 
+
+
+         console.log( params.attribute );
+
+         if( cssdescription[ params.attribute ]  ){
+           console.log( cssdescription[ params.attribute ]["es"] )
+         }
+
+
          view .innerHTML = `
             <h1 class="uppercase" >${params.attribute.replace("-","&nbsp;")}</h1>
+            <p>${ cssdescription[ params.attribute ] ? cssdescription[ params.attribute ]["es"] : "" }</p>
+
+            <input type="text" class="block text-gray700 font-bold mb-2 appearance-none p-2"  />
+            <br><br>
             <div class="grid w-full elevation-4 overflow-hidden" style="border-radius:0.25rem;">
                 <div style="grid-template-columns: 30px 1fr 1fr" class="grid deeppurple400 font-bold p-3 text-white">
                     <div>&nbsp;</div>
@@ -98,7 +113,7 @@ function reqListener () {
                 setTimeout(function(){
                   document.body.style.display = '';
                 },300);
-                
+
 
               }
             }
