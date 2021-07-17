@@ -1,12 +1,12 @@
 @import "../screen.scss";
-@each $key, $value in (bg-fixed:fixed,bg-local:local,bg-scroll:scroll){
+@each $key, $value in (bg-fixed:'fixed',bg-local:'local',bg-scroll:'scroll'){
 	.#{$key}{
 		background-attachment:#{$value};
 	}
 };
 @each $sizeScreen, $pixel in $screen{
-	@media (min-width: #{map-get($pixel,max)}#{px}) {
-		@each $key, $value in (bg-fixed:fixed,bg-local:local,bg-scroll:scroll){
+	@media (min-width: #{map-get($pixel,min)}#{px}) and (max-width: #{map-get($pixel,max)}#{px}){
+		@each $key, $value in (bg-fixed:'fixed',bg-local:'local',bg-scroll:'scroll'){
 			.#{$sizeScreen}\:#{$key}{
 				background-attachment:#{$value};
 			}

@@ -1,12 +1,12 @@
 @import "../screen.scss";
-@each $key, $value in (bg-auto:auto,bg-cover:cover,bg-contain:contain){
+@each $key, $value in (bg-auto:'auto',bg-cover:'cover',bg-contain:'contain'){
 	.#{$key}{
 		background-size:#{$value};
 	}
 };
 @each $sizeScreen, $pixel in $screen{
-	@media (min-width: #{map-get($pixel,max)}#{px}) {
-		@each $key, $value in (bg-auto:auto,bg-cover:cover,bg-contain:contain){
+	@media (min-width: #{map-get($pixel,min)}#{px}) and (max-width: #{map-get($pixel,max)}#{px}){
+		@each $key, $value in (bg-auto:'auto',bg-cover:'cover',bg-contain:'contain'){
 			.#{$sizeScreen}\:#{$key}{
 				background-size:#{$value};
 			}

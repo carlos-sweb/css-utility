@@ -1,12 +1,12 @@
 @import "../screen.scss";
-@each $key, $value in (font-thin:100,font-extralight:200,font-light:300,font-normal:400,font-medium:500,font-tsemiboldhin:600,font-bold:700,font-extrabold:800,font-black:900){
+@each $key, $value in (font-thin:'100',font-extralight:'200',font-light:'300',font-normal:'400',font-medium:'500',font-tsemiboldhin:'600',font-bold:'700',font-extrabold:'800',font-black:'900'){
 	.#{$key}{
 		font-weight:#{$value};
 	}
 };
 @each $sizeScreen, $pixel in $screen{
-	@media (min-width: #{map-get($pixel,max)}#{px}) {
-		@each $key, $value in (font-thin:100,font-extralight:200,font-light:300,font-normal:400,font-medium:500,font-tsemiboldhin:600,font-bold:700,font-extrabold:800,font-black:900){
+	@media (min-width: #{map-get($pixel,min)}#{px}) and (max-width: #{map-get($pixel,max)}#{px}){
+		@each $key, $value in (font-thin:'100',font-extralight:'200',font-light:'300',font-normal:'400',font-medium:'500',font-tsemiboldhin:'600',font-bold:'700',font-extrabold:'800',font-black:'900'){
 			.#{$sizeScreen}\:#{$key}{
 				font-weight:#{$value};
 			}

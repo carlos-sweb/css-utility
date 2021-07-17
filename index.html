@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="bc-white" >
 <head>
     <!-- ELECTRON  -->
     <meta http-equiv="Content-Security-Policy" content="script-src 'self' 'unsafe-inline';" />
@@ -9,10 +9,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CSS Utility</title>
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="font/font.css">
     <style>*{font-family: 'JetBrains Mono', monospace;}</style>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" integrity="sha512-NhSC1YmyruXifcj/KFRWoC561YpHpc5Jtzgvbuzx5VozKpWvQ+4nXhPdFgmx8xqexRcpAglTj9sIBWINXa8x5w==" crossorigin="anonymous" />
+    <link rel="stylesheet" href="node_modules/normalize.css/normalize.css">
 
     <link rel="stylesheet" href="node_modules/pp-drawer.js/pp-drawer.min.css">
     <script src="node_modules/pp-drawer.js/pp-drawer.min.js" ></script>
@@ -30,146 +29,26 @@
 <div class="w-full flex fixed items-stretch flex-shrink-0 h-13 deeppurple400 text-white elevation-2">
     <div class="box-inherit align-stretch flex flex-shrink-0 h-13" >
 
-        <div class="align-center flex flex-grow-0 flex-shrink-0 pl-4 leading-3 sm:hidden" >
+        <div class="align-center flex flex-grow-0 flex-shrink-0 pl-4 leading-3" >
             <img onclick="openMenu(event)" class="cursor-pointer" src="menu.svg" alt="">
         </div>
         <div class="align-center flex flex-grow-0 flex-shrink-0 pl-4 leading-3" >
             <h3>Power Panel Css</h3>
         </div>
+        <div class="align-center pl-4 leading-3" >
+            <button class="bc-white cursor-pointer justify-content-center pb-2 pt-2 pr-1 pl-1 text-center" >Build</button>
+        </div>
+
     </div>
 </div>
 <!-- navbar -->
 
 <div class="w-full flex flex-row pt-14 elevation-3" >
-    <div class="h-full" ><ul class="xs:hidden" list="lista" ></ul></div>
+    <div class="h-full" ></div>
     <div class="w-full p-8" id="view" ></div>
 </div>
 
 <script src="node_modules/pp-router.js/pp-router.min.js" ></script>
-
-<script type="text/javascript">
-
-var drawer = new ppDrawer("main")
-var openMenu = function(){ drawer.open(); }
-
-
-function copy( event ){
-    console.log(event);
-};
-
-var router = new ppRouter({
-    "/":{
-        controller:function(){
-
-
-
-        }
-    },
-    "/:group(string)/:attribute(string)":{
-
-        controller:function(params){
-
-        // si el drawer esta abierto lo cerramos para ver el contenido
-        if( drawer.isOpen() ){ drawer.close() }
-
-         var view = document.getElementById("view");
-
-         var _propoerty = window.cssUtility[params.group].attr[params.attribute];
-
-         var _keys = Object.keys( _propoerty );
-
-         var class_text = '';
-
-         var colorlight = false;
-
-         for( var i = 0; i < _keys.length ; i ++  ){
-
-            class_text += `
-                <div class="grid grid-cols-2 p-3 ${colorlight ? 'deeppurple100':'deeppurple50' }">
-                    <div><span class="text-bluegray900 font-bold" >${_keys[i].replace("\\","")}</span></div>
-                    <div><span class="text-indigo900" >${params.attribute}</span>:<span class="text-orange800">${ _propoerty[_keys[i]].replace("'","").replace("'","") }</span><img onclick="copy(event)" alt="copy" class="float-right cursor-pointer" src="copy.svg"/></div>
-                </div>`;
-
-             colorlight = !colorlight;
-         }
-
-         view .innerHTML = `
-            <h1 class="uppercase" >${params.attribute.replace("-","&nbsp;")}</h1>
-            <div class="grid w-full elevation-4 overflow-hidden" style="border-radius:0.25rem;">
-                <div class="grid grid-cols-2 deeppurple400 font-bold p-3 text-white">
-                    <div>Class Name</div><div>Property</div>
-                </div>
-                ${class_text}
-            </div>
-         `;
-        }
-    }
-});
-
-
-var lista = document.querySelectorAll("ul[list=lista]");
-
-function reqListener () {
-
-  var cssIndice = 1;
-
-  var text = "";
-
-  var response =   JSON.parse( this.responseText );
-
-  var propertys =  Object.keys(response.property);
-
-  window.cssUtility =   response.property;
-
-    propertys.forEach(function(group){
-
-        text += `<h4 class='select-none' >${group} <img class='cursor-pointer' src='down.svg' /> </h4>`;
-        text += `<ul class="list-none list-outside p-0 " >`;
-        // ---------------------------------------------------------------
-        // Agregamos link por link
-        Object.keys(response.property[group].attr).forEach(function( attributes ){
-            text +=  `<li class="p-1"><a class='no-underline' href="#/${group}/${attributes}">${attributes.replace("-"," ").replace("-"," ")}</a></li>`;
-            var link = document.createElement('link');
-            link.setAttribute("href","dist/"+group+"/"+attributes+".css");
-            link.setAttribute("rel","stylesheet");
-            <!--  -->
-            link.onload = function(){
-              cssIndice++
-              if( cssIndice == propertys.length ){
-                setTimeout(function(){
-                  document.body.style.display = '';
-                },300);
-
-              }
-            }
-
-            link.onerror = function(){
-              console.log("Encontramos con un error");
-            }
-
-
-            document.head.append(link);
-        });
-        // ---------------------------------------------------------------
-        text += `</ul>`;
-    });
-
-  lista.forEach(function(eLista){
-    eLista.innerHTML = text;
-  });
-
-
-
-  router.start();
-
-}
-// ------------------------------------------------------------------------------------------
-var oReq = new XMLHttpRequest();
-oReq.addEventListener("load", reqListener);
-oReq.open("GET", "pp-style.json");
-oReq.setRequestHeader('Cache-Control', 'no-cache');
-oReq.send();
-// ------------------------------------------------------------------------------------------
-</script>
+<script src="index.js" ></script>
 </body>
 </html>

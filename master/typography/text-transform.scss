@@ -1,12 +1,12 @@
 @import "../screen.scss";
-@each $key, $value in (uppercase:uppercase,lowercase:lowercase,capitalize:capitalize,normal-case:none){
+@each $key, $value in (uppercase:'uppercase',lowercase:'lowercase',capitalize:'capitalize',normal-case:'none'){
 	.#{$key}{
 		text-transform:#{$value};
 	}
 };
 @each $sizeScreen, $pixel in $screen{
-	@media (min-width: #{map-get($pixel,max)}#{px}) {
-		@each $key, $value in (uppercase:uppercase,lowercase:lowercase,capitalize:capitalize,normal-case:none){
+	@media (min-width: #{map-get($pixel,min)}#{px}) and (max-width: #{map-get($pixel,max)}#{px}){
+		@each $key, $value in (uppercase:'uppercase',lowercase:'lowercase',capitalize:'capitalize',normal-case:'none'){
 			.#{$sizeScreen}\:#{$key}{
 				text-transform:#{$value};
 			}

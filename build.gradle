@@ -29,7 +29,11 @@ tasks.register('css-init') {
 				//GRABAMOS EL CONTENIDO
 				//cadena += '	'+nameScreen+':(max:'+item.max+'px),\n';
 				if( json.screen[nameScreen].containsKey('max') ){
-					cadena += nameScreen+":(max:"+item.max+")";
+
+					// manejador del maximo y el minimo
+
+					cadena += nameScreen+":(max:"+item.max+",min:"+item.min+")";
+
 					if( json.screen.size() > ( index +1 ) ){
 						cadena += ","
 					}
@@ -89,7 +93,7 @@ tasks.register('css-init') {
 						json.property[name].attr[_name].eachWithIndex { __name, __item , __index ->
 
 
-							attr_cadena_array += __name+':'+__item;
+							attr_cadena_array += __name+":'"+__item+"'";
 
 							if( json.property[name].attr[_name].size() > (__index +1) ){
 
@@ -111,7 +115,13 @@ tasks.register('css-init') {
 
 
 						attr_cadena += '@each $sizeScreen, $pixel in $screen{\n';
-						attr_cadena += '	@media (min-width: #{map-get($pixel,max)}#{px}) {\n';
+
+
+						// hay que trabajar en esta linea
+						attr_cadena += '	@media (min-width: #{map-get($pixel,min)}#{px}) and (max-width: #{map-get($pixel,max)}#{px}){\n';
+						// ------------------------------
+
+
 						attr_cadena += '		@each $key, $value in ('+attr_cadena_array+'){\n';
 						attr_cadena += '			.#{$sizeScreen}\\:#{$key}{\n';
 						attr_cadena += '				'+_name+':#{$value};\n';

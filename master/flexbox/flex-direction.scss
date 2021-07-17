@@ -1,12 +1,12 @@
 @import "../screen.scss";
-@each $key, $value in (flex-row:row,flex-row-reverse:row-reverse,flex-col:column,flex-col-reverse:column-reverse){
+@each $key, $value in (flex-row:'row',flex-row-reverse:'row-reverse',flex-col:'column',flex-col-reverse:'column-reverse'){
 	.#{$key}{
 		flex-direction:#{$value};
 	}
 };
 @each $sizeScreen, $pixel in $screen{
-	@media (min-width: #{map-get($pixel,max)}#{px}) {
-		@each $key, $value in (flex-row:row,flex-row-reverse:row-reverse,flex-col:column,flex-col-reverse:column-reverse){
+	@media (min-width: #{map-get($pixel,min)}#{px}) and (max-width: #{map-get($pixel,max)}#{px}){
+		@each $key, $value in (flex-row:'row',flex-row-reverse:'row-reverse',flex-col:'column',flex-col-reverse:'column-reverse'){
 			.#{$sizeScreen}\:#{$key}{
 				flex-direction:#{$value};
 			}

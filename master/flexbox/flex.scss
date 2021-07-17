@@ -1,12 +1,12 @@
 @import "../screen.scss";
-@each $key, $value in (flex-1:1 1 0%,flex-auto:1 1 auto,flex-initial:0 1 auto,flex-none:none){
+@each $key, $value in (flex-1:'1 1 0%',flex-auto:'1 1 auto',flex-initial:'0 1 auto',flex-none:'none'){
 	.#{$key}{
 		flex:#{$value};
 	}
 };
 @each $sizeScreen, $pixel in $screen{
-	@media (min-width: #{map-get($pixel,max)}#{px}) {
-		@each $key, $value in (flex-1:1 1 0%,flex-auto:1 1 auto,flex-initial:0 1 auto,flex-none:none){
+	@media (min-width: #{map-get($pixel,min)}#{px}) and (max-width: #{map-get($pixel,max)}#{px}){
+		@each $key, $value in (flex-1:'1 1 0%',flex-auto:'1 1 auto',flex-initial:'0 1 auto',flex-none:'none'){
 			.#{$sizeScreen}\:#{$key}{
 				flex:#{$value};
 			}

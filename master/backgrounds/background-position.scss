@@ -1,12 +1,12 @@
 @import "../screen.scss";
-@each $key, $value in (bg-bottom:bottom,bg-center:center,bg-left:left,bg-left-bottom:left-bottom,bg-left-top:left-top,bg-right:right,bg-right-bottom:right-bottom,bg-right-top:right-top,bg-top:top){
+@each $key, $value in (bg-bottom:'bottom',bg-center:'center',bg-left:'left',bg-left-bottom:'left-bottom',bg-left-top:'left-top',bg-right:'right',bg-right-bottom:'right-bottom',bg-right-top:'right-top',bg-top:'top'){
 	.#{$key}{
 		background-position:#{$value};
 	}
 };
 @each $sizeScreen, $pixel in $screen{
-	@media (min-width: #{map-get($pixel,max)}#{px}) {
-		@each $key, $value in (bg-bottom:bottom,bg-center:center,bg-left:left,bg-left-bottom:left-bottom,bg-left-top:left-top,bg-right:right,bg-right-bottom:right-bottom,bg-right-top:right-top,bg-top:top){
+	@media (min-width: #{map-get($pixel,min)}#{px}) and (max-width: #{map-get($pixel,max)}#{px}){
+		@each $key, $value in (bg-bottom:'bottom',bg-center:'center',bg-left:'left',bg-left-bottom:'left-bottom',bg-left-top:'left-top',bg-right:'right',bg-right-bottom:'right-bottom',bg-right-top:'right-top',bg-top:'top'){
 			.#{$sizeScreen}\:#{$key}{
 				background-position:#{$value};
 			}
