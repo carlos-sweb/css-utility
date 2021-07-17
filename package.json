@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/carlos-sweb/css-utility#readme",
   "dependencies": {
-    "tailwindcss": "^2.1.2"
+    "pp-drawer.js": "^1.0.6",
+    "pp-router.js": "^1.1.1"
   }
 }

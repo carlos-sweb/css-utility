@@ -4,7 +4,7 @@ const path = require('path')
 
 function createWindow () {
   const win = new BrowserWindow({
-    show:false,    
+    show:false,
     webPreferences: {
       preload: path.join(__dirname, 'preload.js')
     }
@@ -13,6 +13,7 @@ function createWindow () {
   win.setMenu(null)
   win.maximize()
   win.show()
+  win.webContents.openDevTools()
 
 }
 
