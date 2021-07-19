@@ -10,6 +10,9 @@ tasks.register('screen'){
 // -------------------------------------------------------------------------------
 tasks.register('css-init') {
     doLast {
+
+		List<String> cLineMaster = [ 'uglifycss']
+			
     	// BUSCAMOS EL ARCHIVO DE CONFIGURACIÓN
 		def inputFile = new File("pp-style.json")
 		// ANALIZAMOS EL ARCHIVO JSON
@@ -53,7 +56,10 @@ tasks.register('css-init') {
 		// REVISAMOS QUE ESTE LA VARIABLE PROPERTY
 		if( json.containsKey("property") ){
 			// RECOREMOS LA PROPIEDAD
+
 			json.property.eachWithIndex { name , item , index ->
+
+				cLineMaster.add( 'dist/'+name+'/'+name+'.css' )
 				// creamos el directorio
 				def p_folder = new File('master/'+name);
 				// verificamos si extra creado el directorio
@@ -80,10 +86,16 @@ tasks.register('css-init') {
 
 				}
 				// <!--------------------
+
 				if( json.property[name].containsKey("attr") ){
 
 					println 'Start '+name
+
+					List<String> cLine = [ 'uglifycss']
+
 					json.property[name].attr.eachWithIndex { _name , _item , _index ->
+
+						cLine.add( "dist/"+name+"/"+_name+".css");
 
 						def attr_file = new File('master/'+name+"/"+_name+".scss");
 
@@ -121,7 +133,7 @@ tasks.register('css-init') {
 						// hay que trabajar en esta linea
 						attr_cadena += '	@media (min-width: #{map-get($pixel,min)}#{px}) and (max-width: #{map-get($pixel,max)}#{px}){\n';
 						// ------------------------------
-						
+
 						attr_cadena += '		@each $key, $value in ('+attr_cadena_array+'){\n';
 						attr_cadena += '			.#{$sizeScreen}\\:#{$key}{\n';
 						attr_cadena += '				'+_name+':#{$value};\n';
@@ -145,14 +157,31 @@ tasks.register('css-init') {
 								println '    --- '+_name
 					}
 
+
+					//commandLine 'minify',localListcss.join(' '),'>',name+".css"
+
+
+					cLine.add('--output')
+					cLine.add( 'dist/'+name+'/'+name+'.css' )
+
+					exec{
+						commandLine cLine
+					}
+
 					println 'Compiled '+name
+
+
 				}
 				// <!--------------------
 			}
 		}
 		// -------------------------------------------------------------------------------
 		// -------------------------------------------------------------------------------
-
+			cLineMaster.add('--output')
+			cLineMaster.add('dist/master.css')
+			exec{
+				commandLine cLineMaster
+			}
     	println 'Done !'
     }
 }

@@ -102,31 +102,14 @@ function reqListener () {
         // Agregamos link por link
         Object.keys(response.property[group].attr).forEach(function( attributes ){
             text +=  `<li class="p-1"><a class='no-underline' href="#/${group}/${attributes}">${attributes.replace("-"," ").replace("-"," ")}</a></li>`;
-            var link = document.createElement('link');
-            link.setAttribute("href","dist/"+group+"/"+attributes+".css");
-            link.setAttribute("rel","stylesheet");
-            <!--  -->
-            link.onload = function(){
-              cssIndice++
-              if( cssIndice == propertys.length ){
-
-                setTimeout(function(){
-                  document.body.style.display = '';
-                },300);
-
-
-              }
-            }
-
-            link.onerror = function(){
-              console.log("Encontramos con un error");
-            }
-
-
-            document.head.append(link);
         });
         // ---------------------------------------------------------------
         text += `</ul>`;
+
+        setTimeout(function(){
+          document.body.classList.remove('hidden');
+        },400);
+
     });
 
   lista.forEach(function(eLista){
