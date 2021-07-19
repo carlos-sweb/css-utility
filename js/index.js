@@ -19,6 +19,45 @@ var router = new ppRouter({
 
         }
     },
+
+    "/projects/:project(string)":{
+      controller:function(){
+          console.log("Runnnn");
+      }
+    },
+    "/projects":{
+      controller:function(){
+
+        var view = document.getElementById("view");
+        view.innerHTML = ''
+
+
+        var req = new XMLHttpRequest();
+        req.addEventListener("load", function( dataProjects ){
+
+            var response =   JSON.parse( this.responseText );
+            console.log(response);
+            var textHtml = `<ul>`;
+            Object.keys(response).forEach(function(indice){
+                textHtml += `<li><a href='#/projects/${indice}' >${indice}</a></li>`;
+            });
+            textHtml += `</ul>`;
+            view.innerHTML = textHtml
+
+        } );
+        req.open("GET", "config/projects.json");
+        req.setRequestHeader('Cache-Control', 'no-cache');
+        req.send();
+
+
+
+
+
+
+
+      }
+    },
+
     "/:group(string)/:attribute(string)":{
 
         controller:function(params){
@@ -45,7 +84,7 @@ var router = new ppRouter({
                 <div style="grid-template-columns: 30px 1fr 1fr" class="grid p-3 ${colorlight ? 'deeppurple100':'deeppurple50' }">
                     <div><input ${isUnselect ? '':'checked'} type='checkbox' class='h-5 w-5' /></div>
                     <div><span class="text-bluegray900 font-bold" >${_keys[i].replace("\\","")}</span></div>
-                    <div><span class="text-indigo900" >${params.attribute}</span>:<span class="text-orange800">${ _propoerty[_keys[i]].replace("'","").replace("'","") }</span><img onclick="copy(event)" alt="copy" class="float-right cursor-pointer" src="copy.svg"/></div>
+                    <div><span class="text-indigo900" >${params.attribute}</span>:<span class="text-orange800">${ _propoerty[_keys[i]].replace("'","").replace("'","") }</span><img onclick="copy(event)" alt="copy" class="float-right cursor-pointer" src="img/copy.svg"/></div>
                 </div>`;
 
              colorlight = !colorlight;
@@ -96,7 +135,7 @@ function reqListener () {
 
     propertys.forEach(function(group){
 
-        text += `<h4 class='select-none' >${group} <img class='cursor-pointer' src='down.svg' /> </h4>`;
+        text += `<h4 class='select-none' >${group} <img class='cursor-pointer' src='img/down.svg' /> </h4>`;
         text += `<ul class="list-none list-outside p-0 " >`;
         // ---------------------------------------------------------------
         // Agregamos link por link
@@ -124,7 +163,7 @@ function reqListener () {
 // ------------------------------------------------------------------------------------------
 var oReq = new XMLHttpRequest();
 oReq.addEventListener("load", reqListener);
-oReq.open("GET", "pp-style.json");
+oReq.open("GET", "config/pp-style.json");
 oReq.setRequestHeader('Cache-Control', 'no-cache');
 oReq.send();
 // ------------------------------------------------------------------------------------------

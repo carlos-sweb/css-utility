@@ -869,7 +869,7 @@
 				"justify-content":{
 					"justify-start":"flex-start",
 					"justify-end":"flex-end",
-					"justify-center":"flex-center",
+					"justify-center":"center",					
 					"justify-between":"flex-between",
 					"justify-around":"flex-around",
 					"justify-evenly":"flex-evenly"
@@ -1876,7 +1876,7 @@
 					"align-middle":"middle",
 					"align-bottom":"bottom",
 					"align-text-top":"text-top",
-					"align-text-bottom":"text-bottom"	
+					"align-text-bottom":"text-bottom"
 				},
 				"text-align":{
 					"text-left":"left",

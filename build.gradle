@@ -12,9 +12,9 @@ tasks.register('css-init') {
     doLast {
 
 		List<String> cLineMaster = [ 'uglifycss']
-			
+
     	// BUSCAMOS EL ARCHIVO DE CONFIGURACIÓN
-		def inputFile = new File("pp-style.json")
+		def inputFile = new File("config/pp-style.json")
 		// ANALIZAMOS EL ARCHIVO JSON
 		def json = new JsonSlurper().parseText(inputFile.text)
 		// REVISAMOS QUE ESTE LA VARIABLE SCREEN
