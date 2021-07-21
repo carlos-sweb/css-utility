@@ -1,8 +1,14 @@
 @import "../screen.scss";
+@import "../state.scss";
 @each $key, $value in (table-auto:'auto',table-fixed:'fixed'){
 	.#{$key}{
 		table-layout:#{$value};
 	}
+ @each $valueState in $state{
+	.#{$key}\:#{$valueState}:#{$valueState}{
+		table-layout:#{$value};
+	}
+ }
 };
 @each $sizeScreen, $pixel in $screen{
 	@media (min-width: #{map-get($pixel,min)}#{px}) and (max-width: #{map-get($pixel,max)}#{px}){
@@ -10,6 +16,11 @@
 			.#{$sizeScreen}\:#{$key}{
 				table-layout:#{$value};
 			}
+      @each $valueState in $state{
+	     .#{$sizeScreen}\:#{$key}\:#{$valueState}:#{$valueState}{
+		     table-layout:#{$value};
+	     }
+      }
 		}
 	}
 }

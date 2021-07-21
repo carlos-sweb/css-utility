@@ -1,8 +1,14 @@
 @import "../screen.scss";
+@import "../state.scss";
 @each $key, $value in (flex-grow-0:'0',flex-grow:'1'){
 	.#{$key}{
 		flex-grow:#{$value};
 	}
+ @each $valueState in $state{
+	.#{$key}\:#{$valueState}:#{$valueState}{
+		flex-grow:#{$value};
+	}
+ }
 };
 @each $sizeScreen, $pixel in $screen{
 	@media (min-width: #{map-get($pixel,min)}#{px}) and (max-width: #{map-get($pixel,max)}#{px}){
@@ -10,6 +16,11 @@
 			.#{$sizeScreen}\:#{$key}{
 				flex-grow:#{$value};
 			}
+      @each $valueState in $state{
+	     .#{$sizeScreen}\:#{$key}\:#{$valueState}:#{$valueState}{
+		     flex-grow:#{$value};
+	     }
+      }
 		}
 	}
 }

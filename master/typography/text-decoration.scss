@@ -1,8 +1,14 @@
 @import "../screen.scss";
+@import "../state.scss";
 @each $key, $value in (underline:'underline',line-through:'line-through',no-underline:'none'){
 	.#{$key}{
 		text-decoration:#{$value};
 	}
+ @each $valueState in $state{
+	.#{$key}\:#{$valueState}:#{$valueState}{
+		text-decoration:#{$value};
+	}
+ }
 };
 @each $sizeScreen, $pixel in $screen{
 	@media (min-width: #{map-get($pixel,min)}#{px}) and (max-width: #{map-get($pixel,max)}#{px}){
@@ -10,6 +16,11 @@
 			.#{$sizeScreen}\:#{$key}{
 				text-decoration:#{$value};
 			}
+      @each $valueState in $state{
+	     .#{$sizeScreen}\:#{$key}\:#{$valueState}:#{$valueState}{
+		     text-decoration:#{$value};
+	     }
+      }
 		}
 	}
 }

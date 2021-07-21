@@ -29,10 +29,11 @@ var router = new ppRouter({
       controller:function(){
 
         var view = document.getElementById("view");
+
         view.innerHTML = ''
 
-
         var req = new XMLHttpRequest();
+        
         req.addEventListener("load", function( dataProjects ){
 
             var response =   JSON.parse( this.responseText );
@@ -46,13 +47,10 @@ var router = new ppRouter({
 
         } );
         req.open("GET", "config/projects.json");
+
         req.setRequestHeader('Cache-Control', 'no-cache');
+
         req.send();
-
-
-
-
-
 
 
       }

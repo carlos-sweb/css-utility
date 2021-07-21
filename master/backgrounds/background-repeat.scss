@@ -1,8 +1,14 @@
 @import "../screen.scss";
+@import "../state.scss";
 @each $key, $value in (bg-repeat:'repeat',bg-no-repeat:'no-repeat',bg-repeat-x:'repeat-x',bg-repeat-y:'repeat-y',bg-repeat-round:'round',bg-repeat-space:'space'){
 	.#{$key}{
 		background-repeat:#{$value};
 	}
+ @each $valueState in $state{
+	.#{$key}\:#{$valueState}:#{$valueState}{
+		background-repeat:#{$value};
+	}
+ }
 };
 @each $sizeScreen, $pixel in $screen{
 	@media (min-width: #{map-get($pixel,min)}#{px}) and (max-width: #{map-get($pixel,max)}#{px}){
@@ -10,6 +16,11 @@
 			.#{$sizeScreen}\:#{$key}{
 				background-repeat:#{$value};
 			}
+      @each $valueState in $state{
+	     .#{$sizeScreen}\:#{$key}\:#{$valueState}:#{$valueState}{
+		     background-repeat:#{$value};
+	     }
+      }
 		}
 	}
 }

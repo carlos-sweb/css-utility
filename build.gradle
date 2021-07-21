@@ -1,13 +1,4 @@
 import groovy.json.JsonSlurper
-// -------------------------------------------------------------------------------
-tasks.register('screen'){
-	doLast {
-
-		println "hello i am screen"
-
-	}
-};
-// -------------------------------------------------------------------------------
 tasks.register('css-init') {
     doLast {
 
@@ -17,6 +8,33 @@ tasks.register('css-init') {
 		def inputFile = new File("config/pp-style.json")
 		// ANALIZAMOS EL ARCHIVO JSON
 		def json = new JsonSlurper().parseText(inputFile.text)
+
+		if( json.containsKey("state") ){
+
+			def stateFile = new File("master/state.scss")
+			// CREAMOS EL NUEVO ARCHIVO
+			stateFile.createNewFile()
+
+			String cadenaState = '$state:'
+
+			json.state.eachWithIndex { nameState , index ->
+			     cadenaState += "'"+nameState+"'";
+					 Number indexPlus = index +1;
+					 if(  !(indexPlus === json.state.size() )  ){
+						 	cadenaState += ",";
+					 }
+			}
+
+			cadenaState +=';'
+			// ESCRIBIMOS LA CADENA
+			stateFile.write( cadenaState );
+			// INFORMAMOS EN PANTALLA QUE SE HA CREADO EL ARCHIVO SCREEN.SCSS
+			println 'created file state.scss'
+
+		}
+
+
+
 		// REVISAMOS QUE ESTE LA VARIABLE SCREEN
 		if ( json.containsKey("screen") ) {
 			// ASIGNAMOS UN NUEVO ARCHIVO
@@ -99,7 +117,8 @@ tasks.register('css-init') {
 
 						def attr_file = new File('master/'+name+"/"+_name+".scss");
 
-						String attr_cadena = '@import "../screen.scss";\n';
+						String attr_cadena  = '@import "../screen.scss";\n';
+						       attr_cadena += '@import "../state.scss";\n';
 
 						String attr_cadena_array = '';
 
@@ -123,6 +142,13 @@ tasks.register('css-init') {
 						attr_cadena += '		'+_name+':#{$value};\n';
 
 						attr_cadena += '	}\n';
+						// TRABAJANDO AQUI
+						attr_cadena += ' @each $valueState in $state{\n'
+					  attr_cadena += '	.#{$key}\\:#{$valueState}:#{$valueState}{\n';
+					  attr_cadena += '		'+_name+':#{$value};\n';
+						attr_cadena += '	}\n';
+						attr_cadena += ' }\n'
+						// TRABAJANDO AQUI
 
 						attr_cadena += '};\n'
 
@@ -138,6 +164,16 @@ tasks.register('css-init') {
 						attr_cadena += '			.#{$sizeScreen}\\:#{$key}{\n';
 						attr_cadena += '				'+_name+':#{$value};\n';
 						attr_cadena += '			}\n';
+						// state
+						// TRABAJANDO AQUI
+						attr_cadena += '      @each $valueState in $state{\n'
+						attr_cadena += '	     .#{$sizeScreen}\\:#{$key}\\:#{$valueState}:#{$valueState}{\n';
+						attr_cadena += '		     '+_name+':#{$value};\n';
+						attr_cadena += '	     }\n';
+						attr_cadena += '      }\n'
+						// TRABAJANDO AQUI
+
+						// state
 						attr_cadena += '		}\n';
 						attr_cadena += '	}\n';
 						attr_cadena += '}\n';

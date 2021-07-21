@@ -1,8 +1,14 @@
 @import "../screen.scss";
+@import "../state.scss";
 @each $key, $value in (order-1:'1',order-2:'2',order-3:'3',order-4:'4',order-5:'5',order-6:'6',order-7:'7',order-8:'8',order-9:'9',order-10:'10',order-11:'11',order-12:'12',order-first:'-9999',order-last:'9999',order-none:'none'){
 	.#{$key}{
 		order:#{$value};
 	}
+ @each $valueState in $state{
+	.#{$key}\:#{$valueState}:#{$valueState}{
+		order:#{$value};
+	}
+ }
 };
 @each $sizeScreen, $pixel in $screen{
 	@media (min-width: #{map-get($pixel,min)}#{px}) and (max-width: #{map-get($pixel,max)}#{px}){
@@ -10,6 +16,11 @@
 			.#{$sizeScreen}\:#{$key}{
 				order:#{$value};
 			}
+      @each $valueState in $state{
+	     .#{$sizeScreen}\:#{$key}\:#{$valueState}:#{$valueState}{
+		     order:#{$value};
+	     }
+      }
 		}
 	}
 }
