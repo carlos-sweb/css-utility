@@ -1,7 +1,7 @@
 {
   "pp-drawer":{
       "class":{
-        "":""
+        "pp-drawer-scrim":["w-full","h-full","fixed","z-50","m-0","p-0"]
       }
   }
 

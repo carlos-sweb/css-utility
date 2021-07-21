@@ -33,7 +33,7 @@ var router = new ppRouter({
         view.innerHTML = ''
 
         var req = new XMLHttpRequest();
-        
+
         req.addEventListener("load", function( dataProjects ){
 
             var response =   JSON.parse( this.responseText );
@@ -101,7 +101,8 @@ var router = new ppRouter({
             <h1 class="uppercase" >${params.attribute.replace("-","&nbsp;")}</h1>
             <p>${ cssdescription[ params.attribute ] ? cssdescription[ params.attribute ]["es"] : "" }</p>
 
-            <input type="text" class="block text-gray700 font-bold mb-2 appearance-none p-2"  />
+
+            <input type="text" class="w-full max-w-full bg-white rounded-md m-0 p-2.5" placeholder="Text Input" style="border:solid 1px transparent;border-color: #dbdbdb;box-shadow: inset 0 0.0625em 0.125em rgb(10 10 10 / 5%);" />
             <br><br>
             <div class="grid w-full elevation-4 overflow-hidden" style="border-radius:0.25rem;">
                 <div style="grid-template-columns: 30px 1fr 1fr" class="grid deeppurple400 font-bold p-3 text-white">
