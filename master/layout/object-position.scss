@@ -1,0 +1,26 @@
+@import "../screen.scss";
+@import "../state.scss";
+@each $key, $value in (object-bottom:'bottom',object-center:'center',object-left:'left',object-left-bottom:'left-bottom',object-left-top:'left-top',object-right:'right',object-right-bottom:'right-bottom',object-right-top:'right-top',object-top:'top'){
+	.#{$key}{
+		object-position:#{$value};
+	}
+ @each $valueState in $state{
+	.#{$key}\:#{$valueState}:#{$valueState}{
+		object-position:#{$value};
+	}
+ }
+};
+@each $sizeScreen, $pixel in $screen{
+	@media (min-width: #{map-get($pixel,min)}#{px}) and (max-width: #{map-get($pixel,max)}#{px}){
+		@each $key, $value in (object-bottom:'bottom',object-center:'center',object-left:'left',object-left-bottom:'left-bottom',object-left-top:'left-top',object-right:'right',object-right-bottom:'right-bottom',object-right-top:'right-top',object-top:'top'){
+			.#{$sizeScreen}\:#{$key}{
+				object-position:#{$value};
+			}
+      @each $valueState in $state{
+	     .#{$sizeScreen}\:#{$key}\:#{$valueState}:#{$valueState}{
+		     object-position:#{$value};
+	     }
+      }
+		}
+	}
+}

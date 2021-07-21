@@ -1,0 +1,1444 @@
+.object-bottom {
+  object-position: bottom;
+}
+
+.object-bottom\:active:active {
+  object-position: bottom;
+}
+
+.object-bottom\:checked:checked {
+  object-position: bottom;
+}
+
+.object-bottom\:disabled:disabled {
+  object-position: bottom;
+}
+
+.object-bottom\:focus:focus {
+  object-position: bottom;
+}
+
+.object-bottom\:hover:hover {
+  object-position: bottom;
+}
+
+.object-bottom\:required:required {
+  object-position: bottom;
+}
+
+.object-bottom\:visited:visited {
+  object-position: bottom;
+}
+
+.object-center {
+  object-position: center;
+}
+
+.object-center\:active:active {
+  object-position: center;
+}
+
+.object-center\:checked:checked {
+  object-position: center;
+}
+
+.object-center\:disabled:disabled {
+  object-position: center;
+}
+
+.object-center\:focus:focus {
+  object-position: center;
+}
+
+.object-center\:hover:hover {
+  object-position: center;
+}
+
+.object-center\:required:required {
+  object-position: center;
+}
+
+.object-center\:visited:visited {
+  object-position: center;
+}
+
+.object-left {
+  object-position: left;
+}
+
+.object-left\:active:active {
+  object-position: left;
+}
+
+.object-left\:checked:checked {
+  object-position: left;
+}
+
+.object-left\:disabled:disabled {
+  object-position: left;
+}
+
+.object-left\:focus:focus {
+  object-position: left;
+}
+
+.object-left\:hover:hover {
+  object-position: left;
+}
+
+.object-left\:required:required {
+  object-position: left;
+}
+
+.object-left\:visited:visited {
+  object-position: left;
+}
+
+.object-left-bottom {
+  object-position: left-bottom;
+}
+
+.object-left-bottom\:active:active {
+  object-position: left-bottom;
+}
+
+.object-left-bottom\:checked:checked {
+  object-position: left-bottom;
+}
+
+.object-left-bottom\:disabled:disabled {
+  object-position: left-bottom;
+}
+
+.object-left-bottom\:focus:focus {
+  object-position: left-bottom;
+}
+
+.object-left-bottom\:hover:hover {
+  object-position: left-bottom;
+}
+
+.object-left-bottom\:required:required {
+  object-position: left-bottom;
+}
+
+.object-left-bottom\:visited:visited {
+  object-position: left-bottom;
+}
+
+.object-left-top {
+  object-position: left-top;
+}
+
+.object-left-top\:active:active {
+  object-position: left-top;
+}
+
+.object-left-top\:checked:checked {
+  object-position: left-top;
+}
+
+.object-left-top\:disabled:disabled {
+  object-position: left-top;
+}
+
+.object-left-top\:focus:focus {
+  object-position: left-top;
+}
+
+.object-left-top\:hover:hover {
+  object-position: left-top;
+}
+
+.object-left-top\:required:required {
+  object-position: left-top;
+}
+
+.object-left-top\:visited:visited {
+  object-position: left-top;
+}
+
+.object-right {
+  object-position: right;
+}
+
+.object-right\:active:active {
+  object-position: right;
+}
+
+.object-right\:checked:checked {
+  object-position: right;
+}
+
+.object-right\:disabled:disabled {
+  object-position: right;
+}
+
+.object-right\:focus:focus {
+  object-position: right;
+}
+
+.object-right\:hover:hover {
+  object-position: right;
+}
+
+.object-right\:required:required {
+  object-position: right;
+}
+
+.object-right\:visited:visited {
+  object-position: right;
+}
+
+.object-right-bottom {
+  object-position: right-bottom;
+}
+
+.object-right-bottom\:active:active {
+  object-position: right-bottom;
+}
+
+.object-right-bottom\:checked:checked {
+  object-position: right-bottom;
+}
+
+.object-right-bottom\:disabled:disabled {
+  object-position: right-bottom;
+}
+
+.object-right-bottom\:focus:focus {
+  object-position: right-bottom;
+}
+
+.object-right-bottom\:hover:hover {
+  object-position: right-bottom;
+}
+
+.object-right-bottom\:required:required {
+  object-position: right-bottom;
+}
+
+.object-right-bottom\:visited:visited {
+  object-position: right-bottom;
+}
+
+.object-right-top {
+  object-position: right-top;
+}
+
+.object-right-top\:active:active {
+  object-position: right-top;
+}
+
+.object-right-top\:checked:checked {
+  object-position: right-top;
+}
+
+.object-right-top\:disabled:disabled {
+  object-position: right-top;
+}
+
+.object-right-top\:focus:focus {
+  object-position: right-top;
+}
+
+.object-right-top\:hover:hover {
+  object-position: right-top;
+}
+
+.object-right-top\:required:required {
+  object-position: right-top;
+}
+
+.object-right-top\:visited:visited {
+  object-position: right-top;
+}
+
+.object-top {
+  object-position: top;
+}
+
+.object-top\:active:active {
+  object-position: top;
+}
+
+.object-top\:checked:checked {
+  object-position: top;
+}
+
+.object-top\:disabled:disabled {
+  object-position: top;
+}
+
+.object-top\:focus:focus {
+  object-position: top;
+}
+
+.object-top\:hover:hover {
+  object-position: top;
+}
+
+.object-top\:required:required {
+  object-position: top;
+}
+
+.object-top\:visited:visited {
+  object-position: top;
+}
+
+@media (min-width: 0px) and (max-width: 639px) {
+  .xs\:object-bottom {
+    object-position: bottom;
+  }
+
+  .xs\:object-bottom\:active:active {
+    object-position: bottom;
+  }
+
+  .xs\:object-bottom\:checked:checked {
+    object-position: bottom;
+  }
+
+  .xs\:object-bottom\:disabled:disabled {
+    object-position: bottom;
+  }
+
+  .xs\:object-bottom\:focus:focus {
+    object-position: bottom;
+  }
+
+  .xs\:object-bottom\:hover:hover {
+    object-position: bottom;
+  }
+
+  .xs\:object-bottom\:required:required {
+    object-position: bottom;
+  }
+
+  .xs\:object-bottom\:visited:visited {
+    object-position: bottom;
+  }
+
+  .xs\:object-center {
+    object-position: center;
+  }
+
+  .xs\:object-center\:active:active {
+    object-position: center;
+  }
+
+  .xs\:object-center\:checked:checked {
+    object-position: center;
+  }
+
+  .xs\:object-center\:disabled:disabled {
+    object-position: center;
+  }
+
+  .xs\:object-center\:focus:focus {
+    object-position: center;
+  }
+
+  .xs\:object-center\:hover:hover {
+    object-position: center;
+  }
+
+  .xs\:object-center\:required:required {
+    object-position: center;
+  }
+
+  .xs\:object-center\:visited:visited {
+    object-position: center;
+  }
+
+  .xs\:object-left {
+    object-position: left;
+  }
+
+  .xs\:object-left\:active:active {
+    object-position: left;
+  }
+
+  .xs\:object-left\:checked:checked {
+    object-position: left;
+  }
+
+  .xs\:object-left\:disabled:disabled {
+    object-position: left;
+  }
+
+  .xs\:object-left\:focus:focus {
+    object-position: left;
+  }
+
+  .xs\:object-left\:hover:hover {
+    object-position: left;
+  }
+
+  .xs\:object-left\:required:required {
+    object-position: left;
+  }
+
+  .xs\:object-left\:visited:visited {
+    object-position: left;
+  }
+
+  .xs\:object-left-bottom {
+    object-position: left-bottom;
+  }
+
+  .xs\:object-left-bottom\:active:active {
+    object-position: left-bottom;
+  }
+
+  .xs\:object-left-bottom\:checked:checked {
+    object-position: left-bottom;
+  }
+
+  .xs\:object-left-bottom\:disabled:disabled {
+    object-position: left-bottom;
+  }
+
+  .xs\:object-left-bottom\:focus:focus {
+    object-position: left-bottom;
+  }
+
+  .xs\:object-left-bottom\:hover:hover {
+    object-position: left-bottom;
+  }
+
+  .xs\:object-left-bottom\:required:required {
+    object-position: left-bottom;
+  }
+
+  .xs\:object-left-bottom\:visited:visited {
+    object-position: left-bottom;
+  }
+
+  .xs\:object-left-top {
+    object-position: left-top;
+  }
+
+  .xs\:object-left-top\:active:active {
+    object-position: left-top;
+  }
+
+  .xs\:object-left-top\:checked:checked {
+    object-position: left-top;
+  }
+
+  .xs\:object-left-top\:disabled:disabled {
+    object-position: left-top;
+  }
+
+  .xs\:object-left-top\:focus:focus {
+    object-position: left-top;
+  }
+
+  .xs\:object-left-top\:hover:hover {
+    object-position: left-top;
+  }
+
+  .xs\:object-left-top\:required:required {
+    object-position: left-top;
+  }
+
+  .xs\:object-left-top\:visited:visited {
+    object-position: left-top;
+  }
+
+  .xs\:object-right {
+    object-position: right;
+  }
+
+  .xs\:object-right\:active:active {
+    object-position: right;
+  }
+
+  .xs\:object-right\:checked:checked {
+    object-position: right;
+  }
+
+  .xs\:object-right\:disabled:disabled {
+    object-position: right;
+  }
+
+  .xs\:object-right\:focus:focus {
+    object-position: right;
+  }
+
+  .xs\:object-right\:hover:hover {
+    object-position: right;
+  }
+
+  .xs\:object-right\:required:required {
+    object-position: right;
+  }
+
+  .xs\:object-right\:visited:visited {
+    object-position: right;
+  }
+
+  .xs\:object-right-bottom {
+    object-position: right-bottom;
+  }
+
+  .xs\:object-right-bottom\:active:active {
+    object-position: right-bottom;
+  }
+
+  .xs\:object-right-bottom\:checked:checked {
+    object-position: right-bottom;
+  }
+
+  .xs\:object-right-bottom\:disabled:disabled {
+    object-position: right-bottom;
+  }
+
+  .xs\:object-right-bottom\:focus:focus {
+    object-position: right-bottom;
+  }
+
+  .xs\:object-right-bottom\:hover:hover {
+    object-position: right-bottom;
+  }
+
+  .xs\:object-right-bottom\:required:required {
+    object-position: right-bottom;
+  }
+
+  .xs\:object-right-bottom\:visited:visited {
+    object-position: right-bottom;
+  }
+
+  .xs\:object-right-top {
+    object-position: right-top;
+  }
+
+  .xs\:object-right-top\:active:active {
+    object-position: right-top;
+  }
+
+  .xs\:object-right-top\:checked:checked {
+    object-position: right-top;
+  }
+
+  .xs\:object-right-top\:disabled:disabled {
+    object-position: right-top;
+  }
+
+  .xs\:object-right-top\:focus:focus {
+    object-position: right-top;
+  }
+
+  .xs\:object-right-top\:hover:hover {
+    object-position: right-top;
+  }
+
+  .xs\:object-right-top\:required:required {
+    object-position: right-top;
+  }
+
+  .xs\:object-right-top\:visited:visited {
+    object-position: right-top;
+  }
+
+  .xs\:object-top {
+    object-position: top;
+  }
+
+  .xs\:object-top\:active:active {
+    object-position: top;
+  }
+
+  .xs\:object-top\:checked:checked {
+    object-position: top;
+  }
+
+  .xs\:object-top\:disabled:disabled {
+    object-position: top;
+  }
+
+  .xs\:object-top\:focus:focus {
+    object-position: top;
+  }
+
+  .xs\:object-top\:hover:hover {
+    object-position: top;
+  }
+
+  .xs\:object-top\:required:required {
+    object-position: top;
+  }
+
+  .xs\:object-top\:visited:visited {
+    object-position: top;
+  }
+}
+@media (min-width: 640px) and (max-width: 767px) {
+  .sm\:object-bottom {
+    object-position: bottom;
+  }
+
+  .sm\:object-bottom\:active:active {
+    object-position: bottom;
+  }
+
+  .sm\:object-bottom\:checked:checked {
+    object-position: bottom;
+  }
+
+  .sm\:object-bottom\:disabled:disabled {
+    object-position: bottom;
+  }
+
+  .sm\:object-bottom\:focus:focus {
+    object-position: bottom;
+  }
+
+  .sm\:object-bottom\:hover:hover {
+    object-position: bottom;
+  }
+
+  .sm\:object-bottom\:required:required {
+    object-position: bottom;
+  }
+
+  .sm\:object-bottom\:visited:visited {
+    object-position: bottom;
+  }
+
+  .sm\:object-center {
+    object-position: center;
+  }
+
+  .sm\:object-center\:active:active {
+    object-position: center;
+  }
+
+  .sm\:object-center\:checked:checked {
+    object-position: center;
+  }
+
+  .sm\:object-center\:disabled:disabled {
+    object-position: center;
+  }
+
+  .sm\:object-center\:focus:focus {
+    object-position: center;
+  }
+
+  .sm\:object-center\:hover:hover {
+    object-position: center;
+  }
+
+  .sm\:object-center\:required:required {
+    object-position: center;
+  }
+
+  .sm\:object-center\:visited:visited {
+    object-position: center;
+  }
+
+  .sm\:object-left {
+    object-position: left;
+  }
+
+  .sm\:object-left\:active:active {
+    object-position: left;
+  }
+
+  .sm\:object-left\:checked:checked {
+    object-position: left;
+  }
+
+  .sm\:object-left\:disabled:disabled {
+    object-position: left;
+  }
+
+  .sm\:object-left\:focus:focus {
+    object-position: left;
+  }
+
+  .sm\:object-left\:hover:hover {
+    object-position: left;
+  }
+
+  .sm\:object-left\:required:required {
+    object-position: left;
+  }
+
+  .sm\:object-left\:visited:visited {
+    object-position: left;
+  }
+
+  .sm\:object-left-bottom {
+    object-position: left-bottom;
+  }
+
+  .sm\:object-left-bottom\:active:active {
+    object-position: left-bottom;
+  }
+
+  .sm\:object-left-bottom\:checked:checked {
+    object-position: left-bottom;
+  }
+
+  .sm\:object-left-bottom\:disabled:disabled {
+    object-position: left-bottom;
+  }
+
+  .sm\:object-left-bottom\:focus:focus {
+    object-position: left-bottom;
+  }
+
+  .sm\:object-left-bottom\:hover:hover {
+    object-position: left-bottom;
+  }
+
+  .sm\:object-left-bottom\:required:required {
+    object-position: left-bottom;
+  }
+
+  .sm\:object-left-bottom\:visited:visited {
+    object-position: left-bottom;
+  }
+
+  .sm\:object-left-top {
+    object-position: left-top;
+  }
+
+  .sm\:object-left-top\:active:active {
+    object-position: left-top;
+  }
+
+  .sm\:object-left-top\:checked:checked {
+    object-position: left-top;
+  }
+
+  .sm\:object-left-top\:disabled:disabled {
+    object-position: left-top;
+  }
+
+  .sm\:object-left-top\:focus:focus {
+    object-position: left-top;
+  }
+
+  .sm\:object-left-top\:hover:hover {
+    object-position: left-top;
+  }
+
+  .sm\:object-left-top\:required:required {
+    object-position: left-top;
+  }
+
+  .sm\:object-left-top\:visited:visited {
+    object-position: left-top;
+  }
+
+  .sm\:object-right {
+    object-position: right;
+  }
+
+  .sm\:object-right\:active:active {
+    object-position: right;
+  }
+
+  .sm\:object-right\:checked:checked {
+    object-position: right;
+  }
+
+  .sm\:object-right\:disabled:disabled {
+    object-position: right;
+  }
+
+  .sm\:object-right\:focus:focus {
+    object-position: right;
+  }
+
+  .sm\:object-right\:hover:hover {
+    object-position: right;
+  }
+
+  .sm\:object-right\:required:required {
+    object-position: right;
+  }
+
+  .sm\:object-right\:visited:visited {
+    object-position: right;
+  }
+
+  .sm\:object-right-bottom {
+    object-position: right-bottom;
+  }
+
+  .sm\:object-right-bottom\:active:active {
+    object-position: right-bottom;
+  }
+
+  .sm\:object-right-bottom\:checked:checked {
+    object-position: right-bottom;
+  }
+
+  .sm\:object-right-bottom\:disabled:disabled {
+    object-position: right-bottom;
+  }
+
+  .sm\:object-right-bottom\:focus:focus {
+    object-position: right-bottom;
+  }
+
+  .sm\:object-right-bottom\:hover:hover {
+    object-position: right-bottom;
+  }
+
+  .sm\:object-right-bottom\:required:required {
+    object-position: right-bottom;
+  }
+
+  .sm\:object-right-bottom\:visited:visited {
+    object-position: right-bottom;
+  }
+
+  .sm\:object-right-top {
+    object-position: right-top;
+  }
+
+  .sm\:object-right-top\:active:active {
+    object-position: right-top;
+  }
+
+  .sm\:object-right-top\:checked:checked {
+    object-position: right-top;
+  }
+
+  .sm\:object-right-top\:disabled:disabled {
+    object-position: right-top;
+  }
+
+  .sm\:object-right-top\:focus:focus {
+    object-position: right-top;
+  }
+
+  .sm\:object-right-top\:hover:hover {
+    object-position: right-top;
+  }
+
+  .sm\:object-right-top\:required:required {
+    object-position: right-top;
+  }
+
+  .sm\:object-right-top\:visited:visited {
+    object-position: right-top;
+  }
+
+  .sm\:object-top {
+    object-position: top;
+  }
+
+  .sm\:object-top\:active:active {
+    object-position: top;
+  }
+
+  .sm\:object-top\:checked:checked {
+    object-position: top;
+  }
+
+  .sm\:object-top\:disabled:disabled {
+    object-position: top;
+  }
+
+  .sm\:object-top\:focus:focus {
+    object-position: top;
+  }
+
+  .sm\:object-top\:hover:hover {
+    object-position: top;
+  }
+
+  .sm\:object-top\:required:required {
+    object-position: top;
+  }
+
+  .sm\:object-top\:visited:visited {
+    object-position: top;
+  }
+}
+@media (min-width: 768px) and (max-width: 1023px) {
+  .md\:object-bottom {
+    object-position: bottom;
+  }
+
+  .md\:object-bottom\:active:active {
+    object-position: bottom;
+  }
+
+  .md\:object-bottom\:checked:checked {
+    object-position: bottom;
+  }
+
+  .md\:object-bottom\:disabled:disabled {
+    object-position: bottom;
+  }
+
+  .md\:object-bottom\:focus:focus {
+    object-position: bottom;
+  }
+
+  .md\:object-bottom\:hover:hover {
+    object-position: bottom;
+  }
+
+  .md\:object-bottom\:required:required {
+    object-position: bottom;
+  }
+
+  .md\:object-bottom\:visited:visited {
+    object-position: bottom;
+  }
+
+  .md\:object-center {
+    object-position: center;
+  }
+
+  .md\:object-center\:active:active {
+    object-position: center;
+  }
+
+  .md\:object-center\:checked:checked {
+    object-position: center;
+  }
+
+  .md\:object-center\:disabled:disabled {
+    object-position: center;
+  }
+
+  .md\:object-center\:focus:focus {
+    object-position: center;
+  }
+
+  .md\:object-center\:hover:hover {
+    object-position: center;
+  }
+
+  .md\:object-center\:required:required {
+    object-position: center;
+  }
+
+  .md\:object-center\:visited:visited {
+    object-position: center;
+  }
+
+  .md\:object-left {
+    object-position: left;
+  }
+
+  .md\:object-left\:active:active {
+    object-position: left;
+  }
+
+  .md\:object-left\:checked:checked {
+    object-position: left;
+  }
+
+  .md\:object-left\:disabled:disabled {
+    object-position: left;
+  }
+
+  .md\:object-left\:focus:focus {
+    object-position: left;
+  }
+
+  .md\:object-left\:hover:hover {
+    object-position: left;
+  }
+
+  .md\:object-left\:required:required {
+    object-position: left;
+  }
+
+  .md\:object-left\:visited:visited {
+    object-position: left;
+  }
+
+  .md\:object-left-bottom {
+    object-position: left-bottom;
+  }
+
+  .md\:object-left-bottom\:active:active {
+    object-position: left-bottom;
+  }
+
+  .md\:object-left-bottom\:checked:checked {
+    object-position: left-bottom;
+  }
+
+  .md\:object-left-bottom\:disabled:disabled {
+    object-position: left-bottom;
+  }
+
+  .md\:object-left-bottom\:focus:focus {
+    object-position: left-bottom;
+  }
+
+  .md\:object-left-bottom\:hover:hover {
+    object-position: left-bottom;
+  }
+
+  .md\:object-left-bottom\:required:required {
+    object-position: left-bottom;
+  }
+
+  .md\:object-left-bottom\:visited:visited {
+    object-position: left-bottom;
+  }
+
+  .md\:object-left-top {
+    object-position: left-top;
+  }
+
+  .md\:object-left-top\:active:active {
+    object-position: left-top;
+  }
+
+  .md\:object-left-top\:checked:checked {
+    object-position: left-top;
+  }
+
+  .md\:object-left-top\:disabled:disabled {
+    object-position: left-top;
+  }
+
+  .md\:object-left-top\:focus:focus {
+    object-position: left-top;
+  }
+
+  .md\:object-left-top\:hover:hover {
+    object-position: left-top;
+  }
+
+  .md\:object-left-top\:required:required {
+    object-position: left-top;
+  }
+
+  .md\:object-left-top\:visited:visited {
+    object-position: left-top;
+  }
+
+  .md\:object-right {
+    object-position: right;
+  }
+
+  .md\:object-right\:active:active {
+    object-position: right;
+  }
+
+  .md\:object-right\:checked:checked {
+    object-position: right;
+  }
+
+  .md\:object-right\:disabled:disabled {
+    object-position: right;
+  }
+
+  .md\:object-right\:focus:focus {
+    object-position: right;
+  }
+
+  .md\:object-right\:hover:hover {
+    object-position: right;
+  }
+
+  .md\:object-right\:required:required {
+    object-position: right;
+  }
+
+  .md\:object-right\:visited:visited {
+    object-position: right;
+  }
+
+  .md\:object-right-bottom {
+    object-position: right-bottom;
+  }
+
+  .md\:object-right-bottom\:active:active {
+    object-position: right-bottom;
+  }
+
+  .md\:object-right-bottom\:checked:checked {
+    object-position: right-bottom;
+  }
+
+  .md\:object-right-bottom\:disabled:disabled {
+    object-position: right-bottom;
+  }
+
+  .md\:object-right-bottom\:focus:focus {
+    object-position: right-bottom;
+  }
+
+  .md\:object-right-bottom\:hover:hover {
+    object-position: right-bottom;
+  }
+
+  .md\:object-right-bottom\:required:required {
+    object-position: right-bottom;
+  }
+
+  .md\:object-right-bottom\:visited:visited {
+    object-position: right-bottom;
+  }
+
+  .md\:object-right-top {
+    object-position: right-top;
+  }
+
+  .md\:object-right-top\:active:active {
+    object-position: right-top;
+  }
+
+  .md\:object-right-top\:checked:checked {
+    object-position: right-top;
+  }
+
+  .md\:object-right-top\:disabled:disabled {
+    object-position: right-top;
+  }
+
+  .md\:object-right-top\:focus:focus {
+    object-position: right-top;
+  }
+
+  .md\:object-right-top\:hover:hover {
+    object-position: right-top;
+  }
+
+  .md\:object-right-top\:required:required {
+    object-position: right-top;
+  }
+
+  .md\:object-right-top\:visited:visited {
+    object-position: right-top;
+  }
+
+  .md\:object-top {
+    object-position: top;
+  }
+
+  .md\:object-top\:active:active {
+    object-position: top;
+  }
+
+  .md\:object-top\:checked:checked {
+    object-position: top;
+  }
+
+  .md\:object-top\:disabled:disabled {
+    object-position: top;
+  }
+
+  .md\:object-top\:focus:focus {
+    object-position: top;
+  }
+
+  .md\:object-top\:hover:hover {
+    object-position: top;
+  }
+
+  .md\:object-top\:required:required {
+    object-position: top;
+  }
+
+  .md\:object-top\:visited:visited {
+    object-position: top;
+  }
+}
+@media (min-width: 1024px) and (max-width: 2000px) {
+  .lg\:object-bottom {
+    object-position: bottom;
+  }
+
+  .lg\:object-bottom\:active:active {
+    object-position: bottom;
+  }
+
+  .lg\:object-bottom\:checked:checked {
+    object-position: bottom;
+  }
+
+  .lg\:object-bottom\:disabled:disabled {
+    object-position: bottom;
+  }
+
+  .lg\:object-bottom\:focus:focus {
+    object-position: bottom;
+  }
+
+  .lg\:object-bottom\:hover:hover {
+    object-position: bottom;
+  }
+
+  .lg\:object-bottom\:required:required {
+    object-position: bottom;
+  }
+
+  .lg\:object-bottom\:visited:visited {
+    object-position: bottom;
+  }
+
+  .lg\:object-center {
+    object-position: center;
+  }
+
+  .lg\:object-center\:active:active {
+    object-position: center;
+  }
+
+  .lg\:object-center\:checked:checked {
+    object-position: center;
+  }
+
+  .lg\:object-center\:disabled:disabled {
+    object-position: center;
+  }
+
+  .lg\:object-center\:focus:focus {
+    object-position: center;
+  }
+
+  .lg\:object-center\:hover:hover {
+    object-position: center;
+  }
+
+  .lg\:object-center\:required:required {
+    object-position: center;
+  }
+
+  .lg\:object-center\:visited:visited {
+    object-position: center;
+  }
+
+  .lg\:object-left {
+    object-position: left;
+  }
+
+  .lg\:object-left\:active:active {
+    object-position: left;
+  }
+
+  .lg\:object-left\:checked:checked {
+    object-position: left;
+  }
+
+  .lg\:object-left\:disabled:disabled {
+    object-position: left;
+  }
+
+  .lg\:object-left\:focus:focus {
+    object-position: left;
+  }
+
+  .lg\:object-left\:hover:hover {
+    object-position: left;
+  }
+
+  .lg\:object-left\:required:required {
+    object-position: left;
+  }
+
+  .lg\:object-left\:visited:visited {
+    object-position: left;
+  }
+
+  .lg\:object-left-bottom {
+    object-position: left-bottom;
+  }
+
+  .lg\:object-left-bottom\:active:active {
+    object-position: left-bottom;
+  }
+
+  .lg\:object-left-bottom\:checked:checked {
+    object-position: left-bottom;
+  }
+
+  .lg\:object-left-bottom\:disabled:disabled {
+    object-position: left-bottom;
+  }
+
+  .lg\:object-left-bottom\:focus:focus {
+    object-position: left-bottom;
+  }
+
+  .lg\:object-left-bottom\:hover:hover {
+    object-position: left-bottom;
+  }
+
+  .lg\:object-left-bottom\:required:required {
+    object-position: left-bottom;
+  }
+
+  .lg\:object-left-bottom\:visited:visited {
+    object-position: left-bottom;
+  }
+
+  .lg\:object-left-top {
+    object-position: left-top;
+  }
+
+  .lg\:object-left-top\:active:active {
+    object-position: left-top;
+  }
+
+  .lg\:object-left-top\:checked:checked {
+    object-position: left-top;
+  }
+
+  .lg\:object-left-top\:disabled:disabled {
+    object-position: left-top;
+  }
+
+  .lg\:object-left-top\:focus:focus {
+    object-position: left-top;
+  }
+
+  .lg\:object-left-top\:hover:hover {
+    object-position: left-top;
+  }
+
+  .lg\:object-left-top\:required:required {
+    object-position: left-top;
+  }
+
+  .lg\:object-left-top\:visited:visited {
+    object-position: left-top;
+  }
+
+  .lg\:object-right {
+    object-position: right;
+  }
+
+  .lg\:object-right\:active:active {
+    object-position: right;
+  }
+
+  .lg\:object-right\:checked:checked {
+    object-position: right;
+  }
+
+  .lg\:object-right\:disabled:disabled {
+    object-position: right;
+  }
+
+  .lg\:object-right\:focus:focus {
+    object-position: right;
+  }
+
+  .lg\:object-right\:hover:hover {
+    object-position: right;
+  }
+
+  .lg\:object-right\:required:required {
+    object-position: right;
+  }
+
+  .lg\:object-right\:visited:visited {
+    object-position: right;
+  }
+
+  .lg\:object-right-bottom {
+    object-position: right-bottom;
+  }
+
+  .lg\:object-right-bottom\:active:active {
+    object-position: right-bottom;
+  }
+
+  .lg\:object-right-bottom\:checked:checked {
+    object-position: right-bottom;
+  }
+
+  .lg\:object-right-bottom\:disabled:disabled {
+    object-position: right-bottom;
+  }
+
+  .lg\:object-right-bottom\:focus:focus {
+    object-position: right-bottom;
+  }
+
+  .lg\:object-right-bottom\:hover:hover {
+    object-position: right-bottom;
+  }
+
+  .lg\:object-right-bottom\:required:required {
+    object-position: right-bottom;
+  }
+
+  .lg\:object-right-bottom\:visited:visited {
+    object-position: right-bottom;
+  }
+
+  .lg\:object-right-top {
+    object-position: right-top;
+  }
+
+  .lg\:object-right-top\:active:active {
+    object-position: right-top;
+  }
+
+  .lg\:object-right-top\:checked:checked {
+    object-position: right-top;
+  }
+
+  .lg\:object-right-top\:disabled:disabled {
+    object-position: right-top;
+  }
+
+  .lg\:object-right-top\:focus:focus {
+    object-position: right-top;
+  }
+
+  .lg\:object-right-top\:hover:hover {
+    object-position: right-top;
+  }
+
+  .lg\:object-right-top\:required:required {
+    object-position: right-top;
+  }
+
+  .lg\:object-right-top\:visited:visited {
+    object-position: right-top;
+  }
+
+  .lg\:object-top {
+    object-position: top;
+  }
+
+  .lg\:object-top\:active:active {
+    object-position: top;
+  }
+
+  .lg\:object-top\:checked:checked {
+    object-position: top;
+  }
+
+  .lg\:object-top\:disabled:disabled {
+    object-position: top;
+  }
+
+  .lg\:object-top\:focus:focus {
+    object-position: top;
+  }
+
+  .lg\:object-top\:hover:hover {
+    object-position: top;
+  }
+
+  .lg\:object-top\:required:required {
+    object-position: top;
+  }
+
+  .lg\:object-top\:visited:visited {
+    object-position: top;
+  }
+}

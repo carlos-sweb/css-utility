@@ -1,0 +1,26 @@
+@import "../screen.scss";
+@import "../state.scss";
+@each $key, $value in (clear-left:'left',clear-right:'right',clear-both:'both',clear-none:'none'){
+	.#{$key}{
+		clear:#{$value};
+	}
+ @each $valueState in $state{
+	.#{$key}\:#{$valueState}:#{$valueState}{
+		clear:#{$value};
+	}
+ }
+};
+@each $sizeScreen, $pixel in $screen{
+	@media (min-width: #{map-get($pixel,min)}#{px}) and (max-width: #{map-get($pixel,max)}#{px}){
+		@each $key, $value in (clear-left:'left',clear-right:'right',clear-both:'both',clear-none:'none'){
+			.#{$sizeScreen}\:#{$key}{
+				clear:#{$value};
+			}
+      @each $valueState in $state{
+	     .#{$sizeScreen}\:#{$key}\:#{$valueState}:#{$valueState}{
+		     clear:#{$value};
+	     }
+      }
+		}
+	}
+}

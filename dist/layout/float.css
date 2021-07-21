@@ -1,0 +1,484 @@
+.float-left {
+  float: left;
+}
+
+.float-left\:active:active {
+  float: left;
+}
+
+.float-left\:checked:checked {
+  float: left;
+}
+
+.float-left\:disabled:disabled {
+  float: left;
+}
+
+.float-left\:focus:focus {
+  float: left;
+}
+
+.float-left\:hover:hover {
+  float: left;
+}
+
+.float-left\:required:required {
+  float: left;
+}
+
+.float-left\:visited:visited {
+  float: left;
+}
+
+.float-right {
+  float: right;
+}
+
+.float-right\:active:active {
+  float: right;
+}
+
+.float-right\:checked:checked {
+  float: right;
+}
+
+.float-right\:disabled:disabled {
+  float: right;
+}
+
+.float-right\:focus:focus {
+  float: right;
+}
+
+.float-right\:hover:hover {
+  float: right;
+}
+
+.float-right\:required:required {
+  float: right;
+}
+
+.float-right\:visited:visited {
+  float: right;
+}
+
+.float-none {
+  float: none;
+}
+
+.float-none\:active:active {
+  float: none;
+}
+
+.float-none\:checked:checked {
+  float: none;
+}
+
+.float-none\:disabled:disabled {
+  float: none;
+}
+
+.float-none\:focus:focus {
+  float: none;
+}
+
+.float-none\:hover:hover {
+  float: none;
+}
+
+.float-none\:required:required {
+  float: none;
+}
+
+.float-none\:visited:visited {
+  float: none;
+}
+
+@media (min-width: 0px) and (max-width: 639px) {
+  .xs\:float-left {
+    float: left;
+  }
+
+  .xs\:float-left\:active:active {
+    float: left;
+  }
+
+  .xs\:float-left\:checked:checked {
+    float: left;
+  }
+
+  .xs\:float-left\:disabled:disabled {
+    float: left;
+  }
+
+  .xs\:float-left\:focus:focus {
+    float: left;
+  }
+
+  .xs\:float-left\:hover:hover {
+    float: left;
+  }
+
+  .xs\:float-left\:required:required {
+    float: left;
+  }
+
+  .xs\:float-left\:visited:visited {
+    float: left;
+  }
+
+  .xs\:float-right {
+    float: right;
+  }
+
+  .xs\:float-right\:active:active {
+    float: right;
+  }
+
+  .xs\:float-right\:checked:checked {
+    float: right;
+  }
+
+  .xs\:float-right\:disabled:disabled {
+    float: right;
+  }
+
+  .xs\:float-right\:focus:focus {
+    float: right;
+  }
+
+  .xs\:float-right\:hover:hover {
+    float: right;
+  }
+
+  .xs\:float-right\:required:required {
+    float: right;
+  }
+
+  .xs\:float-right\:visited:visited {
+    float: right;
+  }
+
+  .xs\:float-none {
+    float: none;
+  }
+
+  .xs\:float-none\:active:active {
+    float: none;
+  }
+
+  .xs\:float-none\:checked:checked {
+    float: none;
+  }
+
+  .xs\:float-none\:disabled:disabled {
+    float: none;
+  }
+
+  .xs\:float-none\:focus:focus {
+    float: none;
+  }
+
+  .xs\:float-none\:hover:hover {
+    float: none;
+  }
+
+  .xs\:float-none\:required:required {
+    float: none;
+  }
+
+  .xs\:float-none\:visited:visited {
+    float: none;
+  }
+}
+@media (min-width: 640px) and (max-width: 767px) {
+  .sm\:float-left {
+    float: left;
+  }
+
+  .sm\:float-left\:active:active {
+    float: left;
+  }
+
+  .sm\:float-left\:checked:checked {
+    float: left;
+  }
+
+  .sm\:float-left\:disabled:disabled {
+    float: left;
+  }
+
+  .sm\:float-left\:focus:focus {
+    float: left;
+  }
+
+  .sm\:float-left\:hover:hover {
+    float: left;
+  }
+
+  .sm\:float-left\:required:required {
+    float: left;
+  }
+
+  .sm\:float-left\:visited:visited {
+    float: left;
+  }
+
+  .sm\:float-right {
+    float: right;
+  }
+
+  .sm\:float-right\:active:active {
+    float: right;
+  }
+
+  .sm\:float-right\:checked:checked {
+    float: right;
+  }
+
+  .sm\:float-right\:disabled:disabled {
+    float: right;
+  }
+
+  .sm\:float-right\:focus:focus {
+    float: right;
+  }
+
+  .sm\:float-right\:hover:hover {
+    float: right;
+  }
+
+  .sm\:float-right\:required:required {
+    float: right;
+  }
+
+  .sm\:float-right\:visited:visited {
+    float: right;
+  }
+
+  .sm\:float-none {
+    float: none;
+  }
+
+  .sm\:float-none\:active:active {
+    float: none;
+  }
+
+  .sm\:float-none\:checked:checked {
+    float: none;
+  }
+
+  .sm\:float-none\:disabled:disabled {
+    float: none;
+  }
+
+  .sm\:float-none\:focus:focus {
+    float: none;
+  }
+
+  .sm\:float-none\:hover:hover {
+    float: none;
+  }
+
+  .sm\:float-none\:required:required {
+    float: none;
+  }
+
+  .sm\:float-none\:visited:visited {
+    float: none;
+  }
+}
+@media (min-width: 768px) and (max-width: 1023px) {
+  .md\:float-left {
+    float: left;
+  }
+
+  .md\:float-left\:active:active {
+    float: left;
+  }
+
+  .md\:float-left\:checked:checked {
+    float: left;
+  }
+
+  .md\:float-left\:disabled:disabled {
+    float: left;
+  }
+
+  .md\:float-left\:focus:focus {
+    float: left;
+  }
+
+  .md\:float-left\:hover:hover {
+    float: left;
+  }
+
+  .md\:float-left\:required:required {
+    float: left;
+  }
+
+  .md\:float-left\:visited:visited {
+    float: left;
+  }
+
+  .md\:float-right {
+    float: right;
+  }
+
+  .md\:float-right\:active:active {
+    float: right;
+  }
+
+  .md\:float-right\:checked:checked {
+    float: right;
+  }
+
+  .md\:float-right\:disabled:disabled {
+    float: right;
+  }
+
+  .md\:float-right\:focus:focus {
+    float: right;
+  }
+
+  .md\:float-right\:hover:hover {
+    float: right;
+  }
+
+  .md\:float-right\:required:required {
+    float: right;
+  }
+
+  .md\:float-right\:visited:visited {
+    float: right;
+  }
+
+  .md\:float-none {
+    float: none;
+  }
+
+  .md\:float-none\:active:active {
+    float: none;
+  }
+
+  .md\:float-none\:checked:checked {
+    float: none;
+  }
+
+  .md\:float-none\:disabled:disabled {
+    float: none;
+  }
+
+  .md\:float-none\:focus:focus {
+    float: none;
+  }
+
+  .md\:float-none\:hover:hover {
+    float: none;
+  }
+
+  .md\:float-none\:required:required {
+    float: none;
+  }
+
+  .md\:float-none\:visited:visited {
+    float: none;
+  }
+}
+@media (min-width: 1024px) and (max-width: 2000px) {
+  .lg\:float-left {
+    float: left;
+  }
+
+  .lg\:float-left\:active:active {
+    float: left;
+  }
+
+  .lg\:float-left\:checked:checked {
+    float: left;
+  }
+
+  .lg\:float-left\:disabled:disabled {
+    float: left;
+  }
+
+  .lg\:float-left\:focus:focus {
+    float: left;
+  }
+
+  .lg\:float-left\:hover:hover {
+    float: left;
+  }
+
+  .lg\:float-left\:required:required {
+    float: left;
+  }
+
+  .lg\:float-left\:visited:visited {
+    float: left;
+  }
+
+  .lg\:float-right {
+    float: right;
+  }
+
+  .lg\:float-right\:active:active {
+    float: right;
+  }
+
+  .lg\:float-right\:checked:checked {
+    float: right;
+  }
+
+  .lg\:float-right\:disabled:disabled {
+    float: right;
+  }
+
+  .lg\:float-right\:focus:focus {
+    float: right;
+  }
+
+  .lg\:float-right\:hover:hover {
+    float: right;
+  }
+
+  .lg\:float-right\:required:required {
+    float: right;
+  }
+
+  .lg\:float-right\:visited:visited {
+    float: right;
+  }
+
+  .lg\:float-none {
+    float: none;
+  }
+
+  .lg\:float-none\:active:active {
+    float: none;
+  }
+
+  .lg\:float-none\:checked:checked {
+    float: none;
+  }
+
+  .lg\:float-none\:disabled:disabled {
+    float: none;
+  }
+
+  .lg\:float-none\:focus:focus {
+    float: none;
+  }
+
+  .lg\:float-none\:hover:hover {
+    float: none;
+  }
+
+  .lg\:float-none\:required:required {
+    float: none;
+  }
+
+  .lg\:float-none\:visited:visited {
+    float: none;
+  }
+}

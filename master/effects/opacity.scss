@@ -1,0 +1,26 @@
+@import "../screen.scss";
+@import "../state.scss";
+@each $key, $value in (opacity-0:'0',opacity-5:'0.5',opacity-10:'0.10',opacity-20:'0.20',opacity-25:'0.25',opacity-30:'0.3',opacity-40:'0.4',opacity-50:'0.5',opacity-60:'0.6',opacity-70:'0.7',opacity-75:'0.75',opacity-80:'0.80',opacity-90:'0.90',opacity-95:'0.95',opacity-100:'1'){
+	.#{$key}{
+		opacity:#{$value};
+	}
+ @each $valueState in $state{
+	.#{$key}\:#{$valueState}:#{$valueState}{
+		opacity:#{$value};
+	}
+ }
+};
+@each $sizeScreen, $pixel in $screen{
+	@media (min-width: #{map-get($pixel,min)}#{px}) and (max-width: #{map-get($pixel,max)}#{px}){
+		@each $key, $value in (opacity-0:'0',opacity-5:'0.5',opacity-10:'0.10',opacity-20:'0.20',opacity-25:'0.25',opacity-30:'0.3',opacity-40:'0.4',opacity-50:'0.5',opacity-60:'0.6',opacity-70:'0.7',opacity-75:'0.75',opacity-80:'0.80',opacity-90:'0.90',opacity-95:'0.95',opacity-100:'1'){
+			.#{$sizeScreen}\:#{$key}{
+				opacity:#{$value};
+			}
+      @each $valueState in $state{
+	     .#{$sizeScreen}\:#{$key}\:#{$valueState}:#{$valueState}{
+		     opacity:#{$value};
+	     }
+      }
+		}
+	}
+}

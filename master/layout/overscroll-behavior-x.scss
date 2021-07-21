@@ -1,0 +1,26 @@
+@import "../screen.scss";
+@import "../state.scss";
+@each $key, $value in (overscroll-x-auto:'auto',overscroll-x-contain:'contain',overscroll-x-none:'none'){
+	.#{$key}{
+		overscroll-behavior-x:#{$value};
+	}
+ @each $valueState in $state{
+	.#{$key}\:#{$valueState}:#{$valueState}{
+		overscroll-behavior-x:#{$value};
+	}
+ }
+};
+@each $sizeScreen, $pixel in $screen{
+	@media (min-width: #{map-get($pixel,min)}#{px}) and (max-width: #{map-get($pixel,max)}#{px}){
+		@each $key, $value in (overscroll-x-auto:'auto',overscroll-x-contain:'contain',overscroll-x-none:'none'){
+			.#{$sizeScreen}\:#{$key}{
+				overscroll-behavior-x:#{$value};
+			}
+      @each $valueState in $state{
+	     .#{$sizeScreen}\:#{$key}\:#{$valueState}:#{$valueState}{
+		     overscroll-behavior-x:#{$value};
+	     }
+      }
+		}
+	}
+}

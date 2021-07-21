@@ -1,0 +1,644 @@
+.select-none {
+  user-select: none;
+}
+
+.select-none\:active:active {
+  user-select: none;
+}
+
+.select-none\:checked:checked {
+  user-select: none;
+}
+
+.select-none\:disabled:disabled {
+  user-select: none;
+}
+
+.select-none\:focus:focus {
+  user-select: none;
+}
+
+.select-none\:hover:hover {
+  user-select: none;
+}
+
+.select-none\:required:required {
+  user-select: none;
+}
+
+.select-none\:visited:visited {
+  user-select: none;
+}
+
+.select-text {
+  user-select: text;
+}
+
+.select-text\:active:active {
+  user-select: text;
+}
+
+.select-text\:checked:checked {
+  user-select: text;
+}
+
+.select-text\:disabled:disabled {
+  user-select: text;
+}
+
+.select-text\:focus:focus {
+  user-select: text;
+}
+
+.select-text\:hover:hover {
+  user-select: text;
+}
+
+.select-text\:required:required {
+  user-select: text;
+}
+
+.select-text\:visited:visited {
+  user-select: text;
+}
+
+.select-all {
+  user-select: all;
+}
+
+.select-all\:active:active {
+  user-select: all;
+}
+
+.select-all\:checked:checked {
+  user-select: all;
+}
+
+.select-all\:disabled:disabled {
+  user-select: all;
+}
+
+.select-all\:focus:focus {
+  user-select: all;
+}
+
+.select-all\:hover:hover {
+  user-select: all;
+}
+
+.select-all\:required:required {
+  user-select: all;
+}
+
+.select-all\:visited:visited {
+  user-select: all;
+}
+
+.select-auto {
+  user-select: auto;
+}
+
+.select-auto\:active:active {
+  user-select: auto;
+}
+
+.select-auto\:checked:checked {
+  user-select: auto;
+}
+
+.select-auto\:disabled:disabled {
+  user-select: auto;
+}
+
+.select-auto\:focus:focus {
+  user-select: auto;
+}
+
+.select-auto\:hover:hover {
+  user-select: auto;
+}
+
+.select-auto\:required:required {
+  user-select: auto;
+}
+
+.select-auto\:visited:visited {
+  user-select: auto;
+}
+
+@media (min-width: 0px) and (max-width: 639px) {
+  .xs\:select-none {
+    user-select: none;
+  }
+
+  .xs\:select-none\:active:active {
+    user-select: none;
+  }
+
+  .xs\:select-none\:checked:checked {
+    user-select: none;
+  }
+
+  .xs\:select-none\:disabled:disabled {
+    user-select: none;
+  }
+
+  .xs\:select-none\:focus:focus {
+    user-select: none;
+  }
+
+  .xs\:select-none\:hover:hover {
+    user-select: none;
+  }
+
+  .xs\:select-none\:required:required {
+    user-select: none;
+  }
+
+  .xs\:select-none\:visited:visited {
+    user-select: none;
+  }
+
+  .xs\:select-text {
+    user-select: text;
+  }
+
+  .xs\:select-text\:active:active {
+    user-select: text;
+  }
+
+  .xs\:select-text\:checked:checked {
+    user-select: text;
+  }
+
+  .xs\:select-text\:disabled:disabled {
+    user-select: text;
+  }
+
+  .xs\:select-text\:focus:focus {
+    user-select: text;
+  }
+
+  .xs\:select-text\:hover:hover {
+    user-select: text;
+  }
+
+  .xs\:select-text\:required:required {
+    user-select: text;
+  }
+
+  .xs\:select-text\:visited:visited {
+    user-select: text;
+  }
+
+  .xs\:select-all {
+    user-select: all;
+  }
+
+  .xs\:select-all\:active:active {
+    user-select: all;
+  }
+
+  .xs\:select-all\:checked:checked {
+    user-select: all;
+  }
+
+  .xs\:select-all\:disabled:disabled {
+    user-select: all;
+  }
+
+  .xs\:select-all\:focus:focus {
+    user-select: all;
+  }
+
+  .xs\:select-all\:hover:hover {
+    user-select: all;
+  }
+
+  .xs\:select-all\:required:required {
+    user-select: all;
+  }
+
+  .xs\:select-all\:visited:visited {
+    user-select: all;
+  }
+
+  .xs\:select-auto {
+    user-select: auto;
+  }
+
+  .xs\:select-auto\:active:active {
+    user-select: auto;
+  }
+
+  .xs\:select-auto\:checked:checked {
+    user-select: auto;
+  }
+
+  .xs\:select-auto\:disabled:disabled {
+    user-select: auto;
+  }
+
+  .xs\:select-auto\:focus:focus {
+    user-select: auto;
+  }
+
+  .xs\:select-auto\:hover:hover {
+    user-select: auto;
+  }
+
+  .xs\:select-auto\:required:required {
+    user-select: auto;
+  }
+
+  .xs\:select-auto\:visited:visited {
+    user-select: auto;
+  }
+}
+@media (min-width: 640px) and (max-width: 767px) {
+  .sm\:select-none {
+    user-select: none;
+  }
+
+  .sm\:select-none\:active:active {
+    user-select: none;
+  }
+
+  .sm\:select-none\:checked:checked {
+    user-select: none;
+  }
+
+  .sm\:select-none\:disabled:disabled {
+    user-select: none;
+  }
+
+  .sm\:select-none\:focus:focus {
+    user-select: none;
+  }
+
+  .sm\:select-none\:hover:hover {
+    user-select: none;
+  }
+
+  .sm\:select-none\:required:required {
+    user-select: none;
+  }
+
+  .sm\:select-none\:visited:visited {
+    user-select: none;
+  }
+
+  .sm\:select-text {
+    user-select: text;
+  }
+
+  .sm\:select-text\:active:active {
+    user-select: text;
+  }
+
+  .sm\:select-text\:checked:checked {
+    user-select: text;
+  }
+
+  .sm\:select-text\:disabled:disabled {
+    user-select: text;
+  }
+
+  .sm\:select-text\:focus:focus {
+    user-select: text;
+  }
+
+  .sm\:select-text\:hover:hover {
+    user-select: text;
+  }
+
+  .sm\:select-text\:required:required {
+    user-select: text;
+  }
+
+  .sm\:select-text\:visited:visited {
+    user-select: text;
+  }
+
+  .sm\:select-all {
+    user-select: all;
+  }
+
+  .sm\:select-all\:active:active {
+    user-select: all;
+  }
+
+  .sm\:select-all\:checked:checked {
+    user-select: all;
+  }
+
+  .sm\:select-all\:disabled:disabled {
+    user-select: all;
+  }
+
+  .sm\:select-all\:focus:focus {
+    user-select: all;
+  }
+
+  .sm\:select-all\:hover:hover {
+    user-select: all;
+  }
+
+  .sm\:select-all\:required:required {
+    user-select: all;
+  }
+
+  .sm\:select-all\:visited:visited {
+    user-select: all;
+  }
+
+  .sm\:select-auto {
+    user-select: auto;
+  }
+
+  .sm\:select-auto\:active:active {
+    user-select: auto;
+  }
+
+  .sm\:select-auto\:checked:checked {
+    user-select: auto;
+  }
+
+  .sm\:select-auto\:disabled:disabled {
+    user-select: auto;
+  }
+
+  .sm\:select-auto\:focus:focus {
+    user-select: auto;
+  }
+
+  .sm\:select-auto\:hover:hover {
+    user-select: auto;
+  }
+
+  .sm\:select-auto\:required:required {
+    user-select: auto;
+  }
+
+  .sm\:select-auto\:visited:visited {
+    user-select: auto;
+  }
+}
+@media (min-width: 768px) and (max-width: 1023px) {
+  .md\:select-none {
+    user-select: none;
+  }
+
+  .md\:select-none\:active:active {
+    user-select: none;
+  }
+
+  .md\:select-none\:checked:checked {
+    user-select: none;
+  }
+
+  .md\:select-none\:disabled:disabled {
+    user-select: none;
+  }
+
+  .md\:select-none\:focus:focus {
+    user-select: none;
+  }
+
+  .md\:select-none\:hover:hover {
+    user-select: none;
+  }
+
+  .md\:select-none\:required:required {
+    user-select: none;
+  }
+
+  .md\:select-none\:visited:visited {
+    user-select: none;
+  }
+
+  .md\:select-text {
+    user-select: text;
+  }
+
+  .md\:select-text\:active:active {
+    user-select: text;
+  }
+
+  .md\:select-text\:checked:checked {
+    user-select: text;
+  }
+
+  .md\:select-text\:disabled:disabled {
+    user-select: text;
+  }
+
+  .md\:select-text\:focus:focus {
+    user-select: text;
+  }
+
+  .md\:select-text\:hover:hover {
+    user-select: text;
+  }
+
+  .md\:select-text\:required:required {
+    user-select: text;
+  }
+
+  .md\:select-text\:visited:visited {
+    user-select: text;
+  }
+
+  .md\:select-all {
+    user-select: all;
+  }
+
+  .md\:select-all\:active:active {
+    user-select: all;
+  }
+
+  .md\:select-all\:checked:checked {
+    user-select: all;
+  }
+
+  .md\:select-all\:disabled:disabled {
+    user-select: all;
+  }
+
+  .md\:select-all\:focus:focus {
+    user-select: all;
+  }
+
+  .md\:select-all\:hover:hover {
+    user-select: all;
+  }
+
+  .md\:select-all\:required:required {
+    user-select: all;
+  }
+
+  .md\:select-all\:visited:visited {
+    user-select: all;
+  }
+
+  .md\:select-auto {
+    user-select: auto;
+  }
+
+  .md\:select-auto\:active:active {
+    user-select: auto;
+  }
+
+  .md\:select-auto\:checked:checked {
+    user-select: auto;
+  }
+
+  .md\:select-auto\:disabled:disabled {
+    user-select: auto;
+  }
+
+  .md\:select-auto\:focus:focus {
+    user-select: auto;
+  }
+
+  .md\:select-auto\:hover:hover {
+    user-select: auto;
+  }
+
+  .md\:select-auto\:required:required {
+    user-select: auto;
+  }
+
+  .md\:select-auto\:visited:visited {
+    user-select: auto;
+  }
+}
+@media (min-width: 1024px) and (max-width: 2000px) {
+  .lg\:select-none {
+    user-select: none;
+  }
+
+  .lg\:select-none\:active:active {
+    user-select: none;
+  }
+
+  .lg\:select-none\:checked:checked {
+    user-select: none;
+  }
+
+  .lg\:select-none\:disabled:disabled {
+    user-select: none;
+  }
+
+  .lg\:select-none\:focus:focus {
+    user-select: none;
+  }
+
+  .lg\:select-none\:hover:hover {
+    user-select: none;
+  }
+
+  .lg\:select-none\:required:required {
+    user-select: none;
+  }
+
+  .lg\:select-none\:visited:visited {
+    user-select: none;
+  }
+
+  .lg\:select-text {
+    user-select: text;
+  }
+
+  .lg\:select-text\:active:active {
+    user-select: text;
+  }
+
+  .lg\:select-text\:checked:checked {
+    user-select: text;
+  }
+
+  .lg\:select-text\:disabled:disabled {
+    user-select: text;
+  }
+
+  .lg\:select-text\:focus:focus {
+    user-select: text;
+  }
+
+  .lg\:select-text\:hover:hover {
+    user-select: text;
+  }
+
+  .lg\:select-text\:required:required {
+    user-select: text;
+  }
+
+  .lg\:select-text\:visited:visited {
+    user-select: text;
+  }
+
+  .lg\:select-all {
+    user-select: all;
+  }
+
+  .lg\:select-all\:active:active {
+    user-select: all;
+  }
+
+  .lg\:select-all\:checked:checked {
+    user-select: all;
+  }
+
+  .lg\:select-all\:disabled:disabled {
+    user-select: all;
+  }
+
+  .lg\:select-all\:focus:focus {
+    user-select: all;
+  }
+
+  .lg\:select-all\:hover:hover {
+    user-select: all;
+  }
+
+  .lg\:select-all\:required:required {
+    user-select: all;
+  }
+
+  .lg\:select-all\:visited:visited {
+    user-select: all;
+  }
+
+  .lg\:select-auto {
+    user-select: auto;
+  }
+
+  .lg\:select-auto\:active:active {
+    user-select: auto;
+  }
+
+  .lg\:select-auto\:checked:checked {
+    user-select: auto;
+  }
+
+  .lg\:select-auto\:disabled:disabled {
+    user-select: auto;
+  }
+
+  .lg\:select-auto\:focus:focus {
+    user-select: auto;
+  }
+
+  .lg\:select-auto\:hover:hover {
+    user-select: auto;
+  }
+
+  .lg\:select-auto\:required:required {
+    user-select: auto;
+  }
+
+  .lg\:select-auto\:visited:visited {
+    user-select: auto;
+  }
+}

@@ -1,0 +1,26 @@
+@import "../screen.scss";
+@import "../state.scss";
+@each $key, $value in (select-none:'none',select-text:'text',select-all:'all',select-auto:'auto'){
+	.#{$key}{
+		user-select:#{$value};
+	}
+ @each $valueState in $state{
+	.#{$key}\:#{$valueState}:#{$valueState}{
+		user-select:#{$value};
+	}
+ }
+};
+@each $sizeScreen, $pixel in $screen{
+	@media (min-width: #{map-get($pixel,min)}#{px}) and (max-width: #{map-get($pixel,max)}#{px}){
+		@each $key, $value in (select-none:'none',select-text:'text',select-all:'all',select-auto:'auto'){
+			.#{$sizeScreen}\:#{$key}{
+				user-select:#{$value};
+			}
+      @each $valueState in $state{
+	     .#{$sizeScreen}\:#{$key}\:#{$valueState}:#{$valueState}{
+		     user-select:#{$value};
+	     }
+      }
+		}
+	}
+}

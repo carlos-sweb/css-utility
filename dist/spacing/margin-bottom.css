@@ -1,0 +1,5604 @@
+.mb-0 {
+  margin-bottom: 0px;
+}
+
+.mb-0\:active:active {
+  margin-bottom: 0px;
+}
+
+.mb-0\:checked:checked {
+  margin-bottom: 0px;
+}
+
+.mb-0\:disabled:disabled {
+  margin-bottom: 0px;
+}
+
+.mb-0\:focus:focus {
+  margin-bottom: 0px;
+}
+
+.mb-0\:hover:hover {
+  margin-bottom: 0px;
+}
+
+.mb-0\:required:required {
+  margin-bottom: 0px;
+}
+
+.mb-0\:visited:visited {
+  margin-bottom: 0px;
+}
+
+.mb-0\.5 {
+  margin-bottom: 0.125rem;
+}
+
+.mb-0\.5\:active:active {
+  margin-bottom: 0.125rem;
+}
+
+.mb-0\.5\:checked:checked {
+  margin-bottom: 0.125rem;
+}
+
+.mb-0\.5\:disabled:disabled {
+  margin-bottom: 0.125rem;
+}
+
+.mb-0\.5\:focus:focus {
+  margin-bottom: 0.125rem;
+}
+
+.mb-0\.5\:hover:hover {
+  margin-bottom: 0.125rem;
+}
+
+.mb-0\.5\:required:required {
+  margin-bottom: 0.125rem;
+}
+
+.mb-0\.5\:visited:visited {
+  margin-bottom: 0.125rem;
+}
+
+.mb-1 {
+  margin-bottom: 0.25rem;
+}
+
+.mb-1\:active:active {
+  margin-bottom: 0.25rem;
+}
+
+.mb-1\:checked:checked {
+  margin-bottom: 0.25rem;
+}
+
+.mb-1\:disabled:disabled {
+  margin-bottom: 0.25rem;
+}
+
+.mb-1\:focus:focus {
+  margin-bottom: 0.25rem;
+}
+
+.mb-1\:hover:hover {
+  margin-bottom: 0.25rem;
+}
+
+.mb-1\:required:required {
+  margin-bottom: 0.25rem;
+}
+
+.mb-1\:visited:visited {
+  margin-bottom: 0.25rem;
+}
+
+.mb-1\.5 {
+  margin-bottom: 0.375rem;
+}
+
+.mb-1\.5\:active:active {
+  margin-bottom: 0.375rem;
+}
+
+.mb-1\.5\:checked:checked {
+  margin-bottom: 0.375rem;
+}
+
+.mb-1\.5\:disabled:disabled {
+  margin-bottom: 0.375rem;
+}
+
+.mb-1\.5\:focus:focus {
+  margin-bottom: 0.375rem;
+}
+
+.mb-1\.5\:hover:hover {
+  margin-bottom: 0.375rem;
+}
+
+.mb-1\.5\:required:required {
+  margin-bottom: 0.375rem;
+}
+
+.mb-1\.5\:visited:visited {
+  margin-bottom: 0.375rem;
+}
+
+.mb-2 {
+  margin-bottom: 0.5rem;
+}
+
+.mb-2\:active:active {
+  margin-bottom: 0.5rem;
+}
+
+.mb-2\:checked:checked {
+  margin-bottom: 0.5rem;
+}
+
+.mb-2\:disabled:disabled {
+  margin-bottom: 0.5rem;
+}
+
+.mb-2\:focus:focus {
+  margin-bottom: 0.5rem;
+}
+
+.mb-2\:hover:hover {
+  margin-bottom: 0.5rem;
+}
+
+.mb-2\:required:required {
+  margin-bottom: 0.5rem;
+}
+
+.mb-2\:visited:visited {
+  margin-bottom: 0.5rem;
+}
+
+.mb-2\.5 {
+  margin-bottom: 0.625rem;
+}
+
+.mb-2\.5\:active:active {
+  margin-bottom: 0.625rem;
+}
+
+.mb-2\.5\:checked:checked {
+  margin-bottom: 0.625rem;
+}
+
+.mb-2\.5\:disabled:disabled {
+  margin-bottom: 0.625rem;
+}
+
+.mb-2\.5\:focus:focus {
+  margin-bottom: 0.625rem;
+}
+
+.mb-2\.5\:hover:hover {
+  margin-bottom: 0.625rem;
+}
+
+.mb-2\.5\:required:required {
+  margin-bottom: 0.625rem;
+}
+
+.mb-2\.5\:visited:visited {
+  margin-bottom: 0.625rem;
+}
+
+.mb-3 {
+  margin-bottom: 0.75rem;
+}
+
+.mb-3\:active:active {
+  margin-bottom: 0.75rem;
+}
+
+.mb-3\:checked:checked {
+  margin-bottom: 0.75rem;
+}
+
+.mb-3\:disabled:disabled {
+  margin-bottom: 0.75rem;
+}
+
+.mb-3\:focus:focus {
+  margin-bottom: 0.75rem;
+}
+
+.mb-3\:hover:hover {
+  margin-bottom: 0.75rem;
+}
+
+.mb-3\:required:required {
+  margin-bottom: 0.75rem;
+}
+
+.mb-3\:visited:visited {
+  margin-bottom: 0.75rem;
+}
+
+.mb-3\.5 {
+  margin-bottom: 0.875rem;
+}
+
+.mb-3\.5\:active:active {
+  margin-bottom: 0.875rem;
+}
+
+.mb-3\.5\:checked:checked {
+  margin-bottom: 0.875rem;
+}
+
+.mb-3\.5\:disabled:disabled {
+  margin-bottom: 0.875rem;
+}
+
+.mb-3\.5\:focus:focus {
+  margin-bottom: 0.875rem;
+}
+
+.mb-3\.5\:hover:hover {
+  margin-bottom: 0.875rem;
+}
+
+.mb-3\.5\:required:required {
+  margin-bottom: 0.875rem;
+}
+
+.mb-3\.5\:visited:visited {
+  margin-bottom: 0.875rem;
+}
+
+.mb-4 {
+  margin-bottom: 1rem;
+}
+
+.mb-4\:active:active {
+  margin-bottom: 1rem;
+}
+
+.mb-4\:checked:checked {
+  margin-bottom: 1rem;
+}
+
+.mb-4\:disabled:disabled {
+  margin-bottom: 1rem;
+}
+
+.mb-4\:focus:focus {
+  margin-bottom: 1rem;
+}
+
+.mb-4\:hover:hover {
+  margin-bottom: 1rem;
+}
+
+.mb-4\:required:required {
+  margin-bottom: 1rem;
+}
+
+.mb-4\:visited:visited {
+  margin-bottom: 1rem;
+}
+
+.mb-5 {
+  margin-bottom: 1.25rem;
+}
+
+.mb-5\:active:active {
+  margin-bottom: 1.25rem;
+}
+
+.mb-5\:checked:checked {
+  margin-bottom: 1.25rem;
+}
+
+.mb-5\:disabled:disabled {
+  margin-bottom: 1.25rem;
+}
+
+.mb-5\:focus:focus {
+  margin-bottom: 1.25rem;
+}
+
+.mb-5\:hover:hover {
+  margin-bottom: 1.25rem;
+}
+
+.mb-5\:required:required {
+  margin-bottom: 1.25rem;
+}
+
+.mb-5\:visited:visited {
+  margin-bottom: 1.25rem;
+}
+
+.mb-6 {
+  margin-bottom: 1.5rem;
+}
+
+.mb-6\:active:active {
+  margin-bottom: 1.5rem;
+}
+
+.mb-6\:checked:checked {
+  margin-bottom: 1.5rem;
+}
+
+.mb-6\:disabled:disabled {
+  margin-bottom: 1.5rem;
+}
+
+.mb-6\:focus:focus {
+  margin-bottom: 1.5rem;
+}
+
+.mb-6\:hover:hover {
+  margin-bottom: 1.5rem;
+}
+
+.mb-6\:required:required {
+  margin-bottom: 1.5rem;
+}
+
+.mb-6\:visited:visited {
+  margin-bottom: 1.5rem;
+}
+
+.mb-7 {
+  margin-bottom: 1.75rem;
+}
+
+.mb-7\:active:active {
+  margin-bottom: 1.75rem;
+}
+
+.mb-7\:checked:checked {
+  margin-bottom: 1.75rem;
+}
+
+.mb-7\:disabled:disabled {
+  margin-bottom: 1.75rem;
+}
+
+.mb-7\:focus:focus {
+  margin-bottom: 1.75rem;
+}
+
+.mb-7\:hover:hover {
+  margin-bottom: 1.75rem;
+}
+
+.mb-7\:required:required {
+  margin-bottom: 1.75rem;
+}
+
+.mb-7\:visited:visited {
+  margin-bottom: 1.75rem;
+}
+
+.mb-8 {
+  margin-bottom: 2rem;
+}
+
+.mb-8\:active:active {
+  margin-bottom: 2rem;
+}
+
+.mb-8\:checked:checked {
+  margin-bottom: 2rem;
+}
+
+.mb-8\:disabled:disabled {
+  margin-bottom: 2rem;
+}
+
+.mb-8\:focus:focus {
+  margin-bottom: 2rem;
+}
+
+.mb-8\:hover:hover {
+  margin-bottom: 2rem;
+}
+
+.mb-8\:required:required {
+  margin-bottom: 2rem;
+}
+
+.mb-8\:visited:visited {
+  margin-bottom: 2rem;
+}
+
+.mb-9 {
+  margin-bottom: 2.25rem;
+}
+
+.mb-9\:active:active {
+  margin-bottom: 2.25rem;
+}
+
+.mb-9\:checked:checked {
+  margin-bottom: 2.25rem;
+}
+
+.mb-9\:disabled:disabled {
+  margin-bottom: 2.25rem;
+}
+
+.mb-9\:focus:focus {
+  margin-bottom: 2.25rem;
+}
+
+.mb-9\:hover:hover {
+  margin-bottom: 2.25rem;
+}
+
+.mb-9\:required:required {
+  margin-bottom: 2.25rem;
+}
+
+.mb-9\:visited:visited {
+  margin-bottom: 2.25rem;
+}
+
+.mb-10 {
+  margin-bottom: 2.5rem;
+}
+
+.mb-10\:active:active {
+  margin-bottom: 2.5rem;
+}
+
+.mb-10\:checked:checked {
+  margin-bottom: 2.5rem;
+}
+
+.mb-10\:disabled:disabled {
+  margin-bottom: 2.5rem;
+}
+
+.mb-10\:focus:focus {
+  margin-bottom: 2.5rem;
+}
+
+.mb-10\:hover:hover {
+  margin-bottom: 2.5rem;
+}
+
+.mb-10\:required:required {
+  margin-bottom: 2.5rem;
+}
+
+.mb-10\:visited:visited {
+  margin-bottom: 2.5rem;
+}
+
+.mb-11 {
+  margin-bottom: 2.75rem;
+}
+
+.mb-11\:active:active {
+  margin-bottom: 2.75rem;
+}
+
+.mb-11\:checked:checked {
+  margin-bottom: 2.75rem;
+}
+
+.mb-11\:disabled:disabled {
+  margin-bottom: 2.75rem;
+}
+
+.mb-11\:focus:focus {
+  margin-bottom: 2.75rem;
+}
+
+.mb-11\:hover:hover {
+  margin-bottom: 2.75rem;
+}
+
+.mb-11\:required:required {
+  margin-bottom: 2.75rem;
+}
+
+.mb-11\:visited:visited {
+  margin-bottom: 2.75rem;
+}
+
+.mb-12 {
+  margin-bottom: 3rem;
+}
+
+.mb-12\:active:active {
+  margin-bottom: 3rem;
+}
+
+.mb-12\:checked:checked {
+  margin-bottom: 3rem;
+}
+
+.mb-12\:disabled:disabled {
+  margin-bottom: 3rem;
+}
+
+.mb-12\:focus:focus {
+  margin-bottom: 3rem;
+}
+
+.mb-12\:hover:hover {
+  margin-bottom: 3rem;
+}
+
+.mb-12\:required:required {
+  margin-bottom: 3rem;
+}
+
+.mb-12\:visited:visited {
+  margin-bottom: 3rem;
+}
+
+.mb-14 {
+  margin-bottom: 3.5rem;
+}
+
+.mb-14\:active:active {
+  margin-bottom: 3.5rem;
+}
+
+.mb-14\:checked:checked {
+  margin-bottom: 3.5rem;
+}
+
+.mb-14\:disabled:disabled {
+  margin-bottom: 3.5rem;
+}
+
+.mb-14\:focus:focus {
+  margin-bottom: 3.5rem;
+}
+
+.mb-14\:hover:hover {
+  margin-bottom: 3.5rem;
+}
+
+.mb-14\:required:required {
+  margin-bottom: 3.5rem;
+}
+
+.mb-14\:visited:visited {
+  margin-bottom: 3.5rem;
+}
+
+.mb-16 {
+  margin-bottom: 4rem;
+}
+
+.mb-16\:active:active {
+  margin-bottom: 4rem;
+}
+
+.mb-16\:checked:checked {
+  margin-bottom: 4rem;
+}
+
+.mb-16\:disabled:disabled {
+  margin-bottom: 4rem;
+}
+
+.mb-16\:focus:focus {
+  margin-bottom: 4rem;
+}
+
+.mb-16\:hover:hover {
+  margin-bottom: 4rem;
+}
+
+.mb-16\:required:required {
+  margin-bottom: 4rem;
+}
+
+.mb-16\:visited:visited {
+  margin-bottom: 4rem;
+}
+
+.mb-20 {
+  margin-bottom: 5rem;
+}
+
+.mb-20\:active:active {
+  margin-bottom: 5rem;
+}
+
+.mb-20\:checked:checked {
+  margin-bottom: 5rem;
+}
+
+.mb-20\:disabled:disabled {
+  margin-bottom: 5rem;
+}
+
+.mb-20\:focus:focus {
+  margin-bottom: 5rem;
+}
+
+.mb-20\:hover:hover {
+  margin-bottom: 5rem;
+}
+
+.mb-20\:required:required {
+  margin-bottom: 5rem;
+}
+
+.mb-20\:visited:visited {
+  margin-bottom: 5rem;
+}
+
+.mb-24 {
+  margin-bottom: 6rem;
+}
+
+.mb-24\:active:active {
+  margin-bottom: 6rem;
+}
+
+.mb-24\:checked:checked {
+  margin-bottom: 6rem;
+}
+
+.mb-24\:disabled:disabled {
+  margin-bottom: 6rem;
+}
+
+.mb-24\:focus:focus {
+  margin-bottom: 6rem;
+}
+
+.mb-24\:hover:hover {
+  margin-bottom: 6rem;
+}
+
+.mb-24\:required:required {
+  margin-bottom: 6rem;
+}
+
+.mb-24\:visited:visited {
+  margin-bottom: 6rem;
+}
+
+.mb-28 {
+  margin-bottom: 7rem;
+}
+
+.mb-28\:active:active {
+  margin-bottom: 7rem;
+}
+
+.mb-28\:checked:checked {
+  margin-bottom: 7rem;
+}
+
+.mb-28\:disabled:disabled {
+  margin-bottom: 7rem;
+}
+
+.mb-28\:focus:focus {
+  margin-bottom: 7rem;
+}
+
+.mb-28\:hover:hover {
+  margin-bottom: 7rem;
+}
+
+.mb-28\:required:required {
+  margin-bottom: 7rem;
+}
+
+.mb-28\:visited:visited {
+  margin-bottom: 7rem;
+}
+
+.mb-32 {
+  margin-bottom: 8rem;
+}
+
+.mb-32\:active:active {
+  margin-bottom: 8rem;
+}
+
+.mb-32\:checked:checked {
+  margin-bottom: 8rem;
+}
+
+.mb-32\:disabled:disabled {
+  margin-bottom: 8rem;
+}
+
+.mb-32\:focus:focus {
+  margin-bottom: 8rem;
+}
+
+.mb-32\:hover:hover {
+  margin-bottom: 8rem;
+}
+
+.mb-32\:required:required {
+  margin-bottom: 8rem;
+}
+
+.mb-32\:visited:visited {
+  margin-bottom: 8rem;
+}
+
+.mb-36 {
+  margin-bottom: 9rem;
+}
+
+.mb-36\:active:active {
+  margin-bottom: 9rem;
+}
+
+.mb-36\:checked:checked {
+  margin-bottom: 9rem;
+}
+
+.mb-36\:disabled:disabled {
+  margin-bottom: 9rem;
+}
+
+.mb-36\:focus:focus {
+  margin-bottom: 9rem;
+}
+
+.mb-36\:hover:hover {
+  margin-bottom: 9rem;
+}
+
+.mb-36\:required:required {
+  margin-bottom: 9rem;
+}
+
+.mb-36\:visited:visited {
+  margin-bottom: 9rem;
+}
+
+.mb-40 {
+  margin-bottom: 10rem;
+}
+
+.mb-40\:active:active {
+  margin-bottom: 10rem;
+}
+
+.mb-40\:checked:checked {
+  margin-bottom: 10rem;
+}
+
+.mb-40\:disabled:disabled {
+  margin-bottom: 10rem;
+}
+
+.mb-40\:focus:focus {
+  margin-bottom: 10rem;
+}
+
+.mb-40\:hover:hover {
+  margin-bottom: 10rem;
+}
+
+.mb-40\:required:required {
+  margin-bottom: 10rem;
+}
+
+.mb-40\:visited:visited {
+  margin-bottom: 10rem;
+}
+
+.mb-44 {
+  margin-bottom: 11rem;
+}
+
+.mb-44\:active:active {
+  margin-bottom: 11rem;
+}
+
+.mb-44\:checked:checked {
+  margin-bottom: 11rem;
+}
+
+.mb-44\:disabled:disabled {
+  margin-bottom: 11rem;
+}
+
+.mb-44\:focus:focus {
+  margin-bottom: 11rem;
+}
+
+.mb-44\:hover:hover {
+  margin-bottom: 11rem;
+}
+
+.mb-44\:required:required {
+  margin-bottom: 11rem;
+}
+
+.mb-44\:visited:visited {
+  margin-bottom: 11rem;
+}
+
+.mb-48 {
+  margin-bottom: 12rem;
+}
+
+.mb-48\:active:active {
+  margin-bottom: 12rem;
+}
+
+.mb-48\:checked:checked {
+  margin-bottom: 12rem;
+}
+
+.mb-48\:disabled:disabled {
+  margin-bottom: 12rem;
+}
+
+.mb-48\:focus:focus {
+  margin-bottom: 12rem;
+}
+
+.mb-48\:hover:hover {
+  margin-bottom: 12rem;
+}
+
+.mb-48\:required:required {
+  margin-bottom: 12rem;
+}
+
+.mb-48\:visited:visited {
+  margin-bottom: 12rem;
+}
+
+.mb-52 {
+  margin-bottom: 13rem;
+}
+
+.mb-52\:active:active {
+  margin-bottom: 13rem;
+}
+
+.mb-52\:checked:checked {
+  margin-bottom: 13rem;
+}
+
+.mb-52\:disabled:disabled {
+  margin-bottom: 13rem;
+}
+
+.mb-52\:focus:focus {
+  margin-bottom: 13rem;
+}
+
+.mb-52\:hover:hover {
+  margin-bottom: 13rem;
+}
+
+.mb-52\:required:required {
+  margin-bottom: 13rem;
+}
+
+.mb-52\:visited:visited {
+  margin-bottom: 13rem;
+}
+
+.mb-56 {
+  margin-bottom: 14rem;
+}
+
+.mb-56\:active:active {
+  margin-bottom: 14rem;
+}
+
+.mb-56\:checked:checked {
+  margin-bottom: 14rem;
+}
+
+.mb-56\:disabled:disabled {
+  margin-bottom: 14rem;
+}
+
+.mb-56\:focus:focus {
+  margin-bottom: 14rem;
+}
+
+.mb-56\:hover:hover {
+  margin-bottom: 14rem;
+}
+
+.mb-56\:required:required {
+  margin-bottom: 14rem;
+}
+
+.mb-56\:visited:visited {
+  margin-bottom: 14rem;
+}
+
+.mb-60 {
+  margin-bottom: 15rem;
+}
+
+.mb-60\:active:active {
+  margin-bottom: 15rem;
+}
+
+.mb-60\:checked:checked {
+  margin-bottom: 15rem;
+}
+
+.mb-60\:disabled:disabled {
+  margin-bottom: 15rem;
+}
+
+.mb-60\:focus:focus {
+  margin-bottom: 15rem;
+}
+
+.mb-60\:hover:hover {
+  margin-bottom: 15rem;
+}
+
+.mb-60\:required:required {
+  margin-bottom: 15rem;
+}
+
+.mb-60\:visited:visited {
+  margin-bottom: 15rem;
+}
+
+.mb-64 {
+  margin-bottom: 16rem;
+}
+
+.mb-64\:active:active {
+  margin-bottom: 16rem;
+}
+
+.mb-64\:checked:checked {
+  margin-bottom: 16rem;
+}
+
+.mb-64\:disabled:disabled {
+  margin-bottom: 16rem;
+}
+
+.mb-64\:focus:focus {
+  margin-bottom: 16rem;
+}
+
+.mb-64\:hover:hover {
+  margin-bottom: 16rem;
+}
+
+.mb-64\:required:required {
+  margin-bottom: 16rem;
+}
+
+.mb-64\:visited:visited {
+  margin-bottom: 16rem;
+}
+
+.mb-72 {
+  margin-bottom: 18rem;
+}
+
+.mb-72\:active:active {
+  margin-bottom: 18rem;
+}
+
+.mb-72\:checked:checked {
+  margin-bottom: 18rem;
+}
+
+.mb-72\:disabled:disabled {
+  margin-bottom: 18rem;
+}
+
+.mb-72\:focus:focus {
+  margin-bottom: 18rem;
+}
+
+.mb-72\:hover:hover {
+  margin-bottom: 18rem;
+}
+
+.mb-72\:required:required {
+  margin-bottom: 18rem;
+}
+
+.mb-72\:visited:visited {
+  margin-bottom: 18rem;
+}
+
+.mb-80 {
+  margin-bottom: 20rem;
+}
+
+.mb-80\:active:active {
+  margin-bottom: 20rem;
+}
+
+.mb-80\:checked:checked {
+  margin-bottom: 20rem;
+}
+
+.mb-80\:disabled:disabled {
+  margin-bottom: 20rem;
+}
+
+.mb-80\:focus:focus {
+  margin-bottom: 20rem;
+}
+
+.mb-80\:hover:hover {
+  margin-bottom: 20rem;
+}
+
+.mb-80\:required:required {
+  margin-bottom: 20rem;
+}
+
+.mb-80\:visited:visited {
+  margin-bottom: 20rem;
+}
+
+.mb-96 {
+  margin-bottom: 24rem;
+}
+
+.mb-96\:active:active {
+  margin-bottom: 24rem;
+}
+
+.mb-96\:checked:checked {
+  margin-bottom: 24rem;
+}
+
+.mb-96\:disabled:disabled {
+  margin-bottom: 24rem;
+}
+
+.mb-96\:focus:focus {
+  margin-bottom: 24rem;
+}
+
+.mb-96\:hover:hover {
+  margin-bottom: 24rem;
+}
+
+.mb-96\:required:required {
+  margin-bottom: 24rem;
+}
+
+.mb-96\:visited:visited {
+  margin-bottom: 24rem;
+}
+
+.mb-auto {
+  margin-bottom: auto;
+}
+
+.mb-auto\:active:active {
+  margin-bottom: auto;
+}
+
+.mb-auto\:checked:checked {
+  margin-bottom: auto;
+}
+
+.mb-auto\:disabled:disabled {
+  margin-bottom: auto;
+}
+
+.mb-auto\:focus:focus {
+  margin-bottom: auto;
+}
+
+.mb-auto\:hover:hover {
+  margin-bottom: auto;
+}
+
+.mb-auto\:required:required {
+  margin-bottom: auto;
+}
+
+.mb-auto\:visited:visited {
+  margin-bottom: auto;
+}
+
+@media (min-width: 0px) and (max-width: 639px) {
+  .xs\:mb-0 {
+    margin-bottom: 0px;
+  }
+
+  .xs\:mb-0\:active:active {
+    margin-bottom: 0px;
+  }
+
+  .xs\:mb-0\:checked:checked {
+    margin-bottom: 0px;
+  }
+
+  .xs\:mb-0\:disabled:disabled {
+    margin-bottom: 0px;
+  }
+
+  .xs\:mb-0\:focus:focus {
+    margin-bottom: 0px;
+  }
+
+  .xs\:mb-0\:hover:hover {
+    margin-bottom: 0px;
+  }
+
+  .xs\:mb-0\:required:required {
+    margin-bottom: 0px;
+  }
+
+  .xs\:mb-0\:visited:visited {
+    margin-bottom: 0px;
+  }
+
+  .xs\:mb-0\.5 {
+    margin-bottom: 0.125rem;
+  }
+
+  .xs\:mb-0\.5\:active:active {
+    margin-bottom: 0.125rem;
+  }
+
+  .xs\:mb-0\.5\:checked:checked {
+    margin-bottom: 0.125rem;
+  }
+
+  .xs\:mb-0\.5\:disabled:disabled {
+    margin-bottom: 0.125rem;
+  }
+
+  .xs\:mb-0\.5\:focus:focus {
+    margin-bottom: 0.125rem;
+  }
+
+  .xs\:mb-0\.5\:hover:hover {
+    margin-bottom: 0.125rem;
+  }
+
+  .xs\:mb-0\.5\:required:required {
+    margin-bottom: 0.125rem;
+  }
+
+  .xs\:mb-0\.5\:visited:visited {
+    margin-bottom: 0.125rem;
+  }
+
+  .xs\:mb-1 {
+    margin-bottom: 0.25rem;
+  }
+
+  .xs\:mb-1\:active:active {
+    margin-bottom: 0.25rem;
+  }
+
+  .xs\:mb-1\:checked:checked {
+    margin-bottom: 0.25rem;
+  }
+
+  .xs\:mb-1\:disabled:disabled {
+    margin-bottom: 0.25rem;
+  }
+
+  .xs\:mb-1\:focus:focus {
+    margin-bottom: 0.25rem;
+  }
+
+  .xs\:mb-1\:hover:hover {
+    margin-bottom: 0.25rem;
+  }
+
+  .xs\:mb-1\:required:required {
+    margin-bottom: 0.25rem;
+  }
+
+  .xs\:mb-1\:visited:visited {
+    margin-bottom: 0.25rem;
+  }
+
+  .xs\:mb-1\.5 {
+    margin-bottom: 0.375rem;
+  }
+
+  .xs\:mb-1\.5\:active:active {
+    margin-bottom: 0.375rem;
+  }
+
+  .xs\:mb-1\.5\:checked:checked {
+    margin-bottom: 0.375rem;
+  }
+
+  .xs\:mb-1\.5\:disabled:disabled {
+    margin-bottom: 0.375rem;
+  }
+
+  .xs\:mb-1\.5\:focus:focus {
+    margin-bottom: 0.375rem;
+  }
+
+  .xs\:mb-1\.5\:hover:hover {
+    margin-bottom: 0.375rem;
+  }
+
+  .xs\:mb-1\.5\:required:required {
+    margin-bottom: 0.375rem;
+  }
+
+  .xs\:mb-1\.5\:visited:visited {
+    margin-bottom: 0.375rem;
+  }
+
+  .xs\:mb-2 {
+    margin-bottom: 0.5rem;
+  }
+
+  .xs\:mb-2\:active:active {
+    margin-bottom: 0.5rem;
+  }
+
+  .xs\:mb-2\:checked:checked {
+    margin-bottom: 0.5rem;
+  }
+
+  .xs\:mb-2\:disabled:disabled {
+    margin-bottom: 0.5rem;
+  }
+
+  .xs\:mb-2\:focus:focus {
+    margin-bottom: 0.5rem;
+  }
+
+  .xs\:mb-2\:hover:hover {
+    margin-bottom: 0.5rem;
+  }
+
+  .xs\:mb-2\:required:required {
+    margin-bottom: 0.5rem;
+  }
+
+  .xs\:mb-2\:visited:visited {
+    margin-bottom: 0.5rem;
+  }
+
+  .xs\:mb-2\.5 {
+    margin-bottom: 0.625rem;
+  }
+
+  .xs\:mb-2\.5\:active:active {
+    margin-bottom: 0.625rem;
+  }
+
+  .xs\:mb-2\.5\:checked:checked {
+    margin-bottom: 0.625rem;
+  }
+
+  .xs\:mb-2\.5\:disabled:disabled {
+    margin-bottom: 0.625rem;
+  }
+
+  .xs\:mb-2\.5\:focus:focus {
+    margin-bottom: 0.625rem;
+  }
+
+  .xs\:mb-2\.5\:hover:hover {
+    margin-bottom: 0.625rem;
+  }
+
+  .xs\:mb-2\.5\:required:required {
+    margin-bottom: 0.625rem;
+  }
+
+  .xs\:mb-2\.5\:visited:visited {
+    margin-bottom: 0.625rem;
+  }
+
+  .xs\:mb-3 {
+    margin-bottom: 0.75rem;
+  }
+
+  .xs\:mb-3\:active:active {
+    margin-bottom: 0.75rem;
+  }
+
+  .xs\:mb-3\:checked:checked {
+    margin-bottom: 0.75rem;
+  }
+
+  .xs\:mb-3\:disabled:disabled {
+    margin-bottom: 0.75rem;
+  }
+
+  .xs\:mb-3\:focus:focus {
+    margin-bottom: 0.75rem;
+  }
+
+  .xs\:mb-3\:hover:hover {
+    margin-bottom: 0.75rem;
+  }
+
+  .xs\:mb-3\:required:required {
+    margin-bottom: 0.75rem;
+  }
+
+  .xs\:mb-3\:visited:visited {
+    margin-bottom: 0.75rem;
+  }
+
+  .xs\:mb-3\.5 {
+    margin-bottom: 0.875rem;
+  }
+
+  .xs\:mb-3\.5\:active:active {
+    margin-bottom: 0.875rem;
+  }
+
+  .xs\:mb-3\.5\:checked:checked {
+    margin-bottom: 0.875rem;
+  }
+
+  .xs\:mb-3\.5\:disabled:disabled {
+    margin-bottom: 0.875rem;
+  }
+
+  .xs\:mb-3\.5\:focus:focus {
+    margin-bottom: 0.875rem;
+  }
+
+  .xs\:mb-3\.5\:hover:hover {
+    margin-bottom: 0.875rem;
+  }
+
+  .xs\:mb-3\.5\:required:required {
+    margin-bottom: 0.875rem;
+  }
+
+  .xs\:mb-3\.5\:visited:visited {
+    margin-bottom: 0.875rem;
+  }
+
+  .xs\:mb-4 {
+    margin-bottom: 1rem;
+  }
+
+  .xs\:mb-4\:active:active {
+    margin-bottom: 1rem;
+  }
+
+  .xs\:mb-4\:checked:checked {
+    margin-bottom: 1rem;
+  }
+
+  .xs\:mb-4\:disabled:disabled {
+    margin-bottom: 1rem;
+  }
+
+  .xs\:mb-4\:focus:focus {
+    margin-bottom: 1rem;
+  }
+
+  .xs\:mb-4\:hover:hover {
+    margin-bottom: 1rem;
+  }
+
+  .xs\:mb-4\:required:required {
+    margin-bottom: 1rem;
+  }
+
+  .xs\:mb-4\:visited:visited {
+    margin-bottom: 1rem;
+  }
+
+  .xs\:mb-5 {
+    margin-bottom: 1.25rem;
+  }
+
+  .xs\:mb-5\:active:active {
+    margin-bottom: 1.25rem;
+  }
+
+  .xs\:mb-5\:checked:checked {
+    margin-bottom: 1.25rem;
+  }
+
+  .xs\:mb-5\:disabled:disabled {
+    margin-bottom: 1.25rem;
+  }
+
+  .xs\:mb-5\:focus:focus {
+    margin-bottom: 1.25rem;
+  }
+
+  .xs\:mb-5\:hover:hover {
+    margin-bottom: 1.25rem;
+  }
+
+  .xs\:mb-5\:required:required {
+    margin-bottom: 1.25rem;
+  }
+
+  .xs\:mb-5\:visited:visited {
+    margin-bottom: 1.25rem;
+  }
+
+  .xs\:mb-6 {
+    margin-bottom: 1.5rem;
+  }
+
+  .xs\:mb-6\:active:active {
+    margin-bottom: 1.5rem;
+  }
+
+  .xs\:mb-6\:checked:checked {
+    margin-bottom: 1.5rem;
+  }
+
+  .xs\:mb-6\:disabled:disabled {
+    margin-bottom: 1.5rem;
+  }
+
+  .xs\:mb-6\:focus:focus {
+    margin-bottom: 1.5rem;
+  }
+
+  .xs\:mb-6\:hover:hover {
+    margin-bottom: 1.5rem;
+  }
+
+  .xs\:mb-6\:required:required {
+    margin-bottom: 1.5rem;
+  }
+
+  .xs\:mb-6\:visited:visited {
+    margin-bottom: 1.5rem;
+  }
+
+  .xs\:mb-7 {
+    margin-bottom: 1.75rem;
+  }
+
+  .xs\:mb-7\:active:active {
+    margin-bottom: 1.75rem;
+  }
+
+  .xs\:mb-7\:checked:checked {
+    margin-bottom: 1.75rem;
+  }
+
+  .xs\:mb-7\:disabled:disabled {
+    margin-bottom: 1.75rem;
+  }
+
+  .xs\:mb-7\:focus:focus {
+    margin-bottom: 1.75rem;
+  }
+
+  .xs\:mb-7\:hover:hover {
+    margin-bottom: 1.75rem;
+  }
+
+  .xs\:mb-7\:required:required {
+    margin-bottom: 1.75rem;
+  }
+
+  .xs\:mb-7\:visited:visited {
+    margin-bottom: 1.75rem;
+  }
+
+  .xs\:mb-8 {
+    margin-bottom: 2rem;
+  }
+
+  .xs\:mb-8\:active:active {
+    margin-bottom: 2rem;
+  }
+
+  .xs\:mb-8\:checked:checked {
+    margin-bottom: 2rem;
+  }
+
+  .xs\:mb-8\:disabled:disabled {
+    margin-bottom: 2rem;
+  }
+
+  .xs\:mb-8\:focus:focus {
+    margin-bottom: 2rem;
+  }
+
+  .xs\:mb-8\:hover:hover {
+    margin-bottom: 2rem;
+  }
+
+  .xs\:mb-8\:required:required {
+    margin-bottom: 2rem;
+  }
+
+  .xs\:mb-8\:visited:visited {
+    margin-bottom: 2rem;
+  }
+
+  .xs\:mb-9 {
+    margin-bottom: 2.25rem;
+  }
+
+  .xs\:mb-9\:active:active {
+    margin-bottom: 2.25rem;
+  }
+
+  .xs\:mb-9\:checked:checked {
+    margin-bottom: 2.25rem;
+  }
+
+  .xs\:mb-9\:disabled:disabled {
+    margin-bottom: 2.25rem;
+  }
+
+  .xs\:mb-9\:focus:focus {
+    margin-bottom: 2.25rem;
+  }
+
+  .xs\:mb-9\:hover:hover {
+    margin-bottom: 2.25rem;
+  }
+
+  .xs\:mb-9\:required:required {
+    margin-bottom: 2.25rem;
+  }
+
+  .xs\:mb-9\:visited:visited {
+    margin-bottom: 2.25rem;
+  }
+
+  .xs\:mb-10 {
+    margin-bottom: 2.5rem;
+  }
+
+  .xs\:mb-10\:active:active {
+    margin-bottom: 2.5rem;
+  }
+
+  .xs\:mb-10\:checked:checked {
+    margin-bottom: 2.5rem;
+  }
+
+  .xs\:mb-10\:disabled:disabled {
+    margin-bottom: 2.5rem;
+  }
+
+  .xs\:mb-10\:focus:focus {
+    margin-bottom: 2.5rem;
+  }
+
+  .xs\:mb-10\:hover:hover {
+    margin-bottom: 2.5rem;
+  }
+
+  .xs\:mb-10\:required:required {
+    margin-bottom: 2.5rem;
+  }
+
+  .xs\:mb-10\:visited:visited {
+    margin-bottom: 2.5rem;
+  }
+
+  .xs\:mb-11 {
+    margin-bottom: 2.75rem;
+  }
+
+  .xs\:mb-11\:active:active {
+    margin-bottom: 2.75rem;
+  }
+
+  .xs\:mb-11\:checked:checked {
+    margin-bottom: 2.75rem;
+  }
+
+  .xs\:mb-11\:disabled:disabled {
+    margin-bottom: 2.75rem;
+  }
+
+  .xs\:mb-11\:focus:focus {
+    margin-bottom: 2.75rem;
+  }
+
+  .xs\:mb-11\:hover:hover {
+    margin-bottom: 2.75rem;
+  }
+
+  .xs\:mb-11\:required:required {
+    margin-bottom: 2.75rem;
+  }
+
+  .xs\:mb-11\:visited:visited {
+    margin-bottom: 2.75rem;
+  }
+
+  .xs\:mb-12 {
+    margin-bottom: 3rem;
+  }
+
+  .xs\:mb-12\:active:active {
+    margin-bottom: 3rem;
+  }
+
+  .xs\:mb-12\:checked:checked {
+    margin-bottom: 3rem;
+  }
+
+  .xs\:mb-12\:disabled:disabled {
+    margin-bottom: 3rem;
+  }
+
+  .xs\:mb-12\:focus:focus {
+    margin-bottom: 3rem;
+  }
+
+  .xs\:mb-12\:hover:hover {
+    margin-bottom: 3rem;
+  }
+
+  .xs\:mb-12\:required:required {
+    margin-bottom: 3rem;
+  }
+
+  .xs\:mb-12\:visited:visited {
+    margin-bottom: 3rem;
+  }
+
+  .xs\:mb-14 {
+    margin-bottom: 3.5rem;
+  }
+
+  .xs\:mb-14\:active:active {
+    margin-bottom: 3.5rem;
+  }
+
+  .xs\:mb-14\:checked:checked {
+    margin-bottom: 3.5rem;
+  }
+
+  .xs\:mb-14\:disabled:disabled {
+    margin-bottom: 3.5rem;
+  }
+
+  .xs\:mb-14\:focus:focus {
+    margin-bottom: 3.5rem;
+  }
+
+  .xs\:mb-14\:hover:hover {
+    margin-bottom: 3.5rem;
+  }
+
+  .xs\:mb-14\:required:required {
+    margin-bottom: 3.5rem;
+  }
+
+  .xs\:mb-14\:visited:visited {
+    margin-bottom: 3.5rem;
+  }
+
+  .xs\:mb-16 {
+    margin-bottom: 4rem;
+  }
+
+  .xs\:mb-16\:active:active {
+    margin-bottom: 4rem;
+  }
+
+  .xs\:mb-16\:checked:checked {
+    margin-bottom: 4rem;
+  }
+
+  .xs\:mb-16\:disabled:disabled {
+    margin-bottom: 4rem;
+  }
+
+  .xs\:mb-16\:focus:focus {
+    margin-bottom: 4rem;
+  }
+
+  .xs\:mb-16\:hover:hover {
+    margin-bottom: 4rem;
+  }
+
+  .xs\:mb-16\:required:required {
+    margin-bottom: 4rem;
+  }
+
+  .xs\:mb-16\:visited:visited {
+    margin-bottom: 4rem;
+  }
+
+  .xs\:mb-20 {
+    margin-bottom: 5rem;
+  }
+
+  .xs\:mb-20\:active:active {
+    margin-bottom: 5rem;
+  }
+
+  .xs\:mb-20\:checked:checked {
+    margin-bottom: 5rem;
+  }
+
+  .xs\:mb-20\:disabled:disabled {
+    margin-bottom: 5rem;
+  }
+
+  .xs\:mb-20\:focus:focus {
+    margin-bottom: 5rem;
+  }
+
+  .xs\:mb-20\:hover:hover {
+    margin-bottom: 5rem;
+  }
+
+  .xs\:mb-20\:required:required {
+    margin-bottom: 5rem;
+  }
+
+  .xs\:mb-20\:visited:visited {
+    margin-bottom: 5rem;
+  }
+
+  .xs\:mb-24 {
+    margin-bottom: 6rem;
+  }
+
+  .xs\:mb-24\:active:active {
+    margin-bottom: 6rem;
+  }
+
+  .xs\:mb-24\:checked:checked {
+    margin-bottom: 6rem;
+  }
+
+  .xs\:mb-24\:disabled:disabled {
+    margin-bottom: 6rem;
+  }
+
+  .xs\:mb-24\:focus:focus {
+    margin-bottom: 6rem;
+  }
+
+  .xs\:mb-24\:hover:hover {
+    margin-bottom: 6rem;
+  }
+
+  .xs\:mb-24\:required:required {
+    margin-bottom: 6rem;
+  }
+
+  .xs\:mb-24\:visited:visited {
+    margin-bottom: 6rem;
+  }
+
+  .xs\:mb-28 {
+    margin-bottom: 7rem;
+  }
+
+  .xs\:mb-28\:active:active {
+    margin-bottom: 7rem;
+  }
+
+  .xs\:mb-28\:checked:checked {
+    margin-bottom: 7rem;
+  }
+
+  .xs\:mb-28\:disabled:disabled {
+    margin-bottom: 7rem;
+  }
+
+  .xs\:mb-28\:focus:focus {
+    margin-bottom: 7rem;
+  }
+
+  .xs\:mb-28\:hover:hover {
+    margin-bottom: 7rem;
+  }
+
+  .xs\:mb-28\:required:required {
+    margin-bottom: 7rem;
+  }
+
+  .xs\:mb-28\:visited:visited {
+    margin-bottom: 7rem;
+  }
+
+  .xs\:mb-32 {
+    margin-bottom: 8rem;
+  }
+
+  .xs\:mb-32\:active:active {
+    margin-bottom: 8rem;
+  }
+
+  .xs\:mb-32\:checked:checked {
+    margin-bottom: 8rem;
+  }
+
+  .xs\:mb-32\:disabled:disabled {
+    margin-bottom: 8rem;
+  }
+
+  .xs\:mb-32\:focus:focus {
+    margin-bottom: 8rem;
+  }
+
+  .xs\:mb-32\:hover:hover {
+    margin-bottom: 8rem;
+  }
+
+  .xs\:mb-32\:required:required {
+    margin-bottom: 8rem;
+  }
+
+  .xs\:mb-32\:visited:visited {
+    margin-bottom: 8rem;
+  }
+
+  .xs\:mb-36 {
+    margin-bottom: 9rem;
+  }
+
+  .xs\:mb-36\:active:active {
+    margin-bottom: 9rem;
+  }
+
+  .xs\:mb-36\:checked:checked {
+    margin-bottom: 9rem;
+  }
+
+  .xs\:mb-36\:disabled:disabled {
+    margin-bottom: 9rem;
+  }
+
+  .xs\:mb-36\:focus:focus {
+    margin-bottom: 9rem;
+  }
+
+  .xs\:mb-36\:hover:hover {
+    margin-bottom: 9rem;
+  }
+
+  .xs\:mb-36\:required:required {
+    margin-bottom: 9rem;
+  }
+
+  .xs\:mb-36\:visited:visited {
+    margin-bottom: 9rem;
+  }
+
+  .xs\:mb-40 {
+    margin-bottom: 10rem;
+  }
+
+  .xs\:mb-40\:active:active {
+    margin-bottom: 10rem;
+  }
+
+  .xs\:mb-40\:checked:checked {
+    margin-bottom: 10rem;
+  }
+
+  .xs\:mb-40\:disabled:disabled {
+    margin-bottom: 10rem;
+  }
+
+  .xs\:mb-40\:focus:focus {
+    margin-bottom: 10rem;
+  }
+
+  .xs\:mb-40\:hover:hover {
+    margin-bottom: 10rem;
+  }
+
+  .xs\:mb-40\:required:required {
+    margin-bottom: 10rem;
+  }
+
+  .xs\:mb-40\:visited:visited {
+    margin-bottom: 10rem;
+  }
+
+  .xs\:mb-44 {
+    margin-bottom: 11rem;
+  }
+
+  .xs\:mb-44\:active:active {
+    margin-bottom: 11rem;
+  }
+
+  .xs\:mb-44\:checked:checked {
+    margin-bottom: 11rem;
+  }
+
+  .xs\:mb-44\:disabled:disabled {
+    margin-bottom: 11rem;
+  }
+
+  .xs\:mb-44\:focus:focus {
+    margin-bottom: 11rem;
+  }
+
+  .xs\:mb-44\:hover:hover {
+    margin-bottom: 11rem;
+  }
+
+  .xs\:mb-44\:required:required {
+    margin-bottom: 11rem;
+  }
+
+  .xs\:mb-44\:visited:visited {
+    margin-bottom: 11rem;
+  }
+
+  .xs\:mb-48 {
+    margin-bottom: 12rem;
+  }
+
+  .xs\:mb-48\:active:active {
+    margin-bottom: 12rem;
+  }
+
+  .xs\:mb-48\:checked:checked {
+    margin-bottom: 12rem;
+  }
+
+  .xs\:mb-48\:disabled:disabled {
+    margin-bottom: 12rem;
+  }
+
+  .xs\:mb-48\:focus:focus {
+    margin-bottom: 12rem;
+  }
+
+  .xs\:mb-48\:hover:hover {
+    margin-bottom: 12rem;
+  }
+
+  .xs\:mb-48\:required:required {
+    margin-bottom: 12rem;
+  }
+
+  .xs\:mb-48\:visited:visited {
+    margin-bottom: 12rem;
+  }
+
+  .xs\:mb-52 {
+    margin-bottom: 13rem;
+  }
+
+  .xs\:mb-52\:active:active {
+    margin-bottom: 13rem;
+  }
+
+  .xs\:mb-52\:checked:checked {
+    margin-bottom: 13rem;
+  }
+
+  .xs\:mb-52\:disabled:disabled {
+    margin-bottom: 13rem;
+  }
+
+  .xs\:mb-52\:focus:focus {
+    margin-bottom: 13rem;
+  }
+
+  .xs\:mb-52\:hover:hover {
+    margin-bottom: 13rem;
+  }
+
+  .xs\:mb-52\:required:required {
+    margin-bottom: 13rem;
+  }
+
+  .xs\:mb-52\:visited:visited {
+    margin-bottom: 13rem;
+  }
+
+  .xs\:mb-56 {
+    margin-bottom: 14rem;
+  }
+
+  .xs\:mb-56\:active:active {
+    margin-bottom: 14rem;
+  }
+
+  .xs\:mb-56\:checked:checked {
+    margin-bottom: 14rem;
+  }
+
+  .xs\:mb-56\:disabled:disabled {
+    margin-bottom: 14rem;
+  }
+
+  .xs\:mb-56\:focus:focus {
+    margin-bottom: 14rem;
+  }
+
+  .xs\:mb-56\:hover:hover {
+    margin-bottom: 14rem;
+  }
+
+  .xs\:mb-56\:required:required {
+    margin-bottom: 14rem;
+  }
+
+  .xs\:mb-56\:visited:visited {
+    margin-bottom: 14rem;
+  }
+
+  .xs\:mb-60 {
+    margin-bottom: 15rem;
+  }
+
+  .xs\:mb-60\:active:active {
+    margin-bottom: 15rem;
+  }
+
+  .xs\:mb-60\:checked:checked {
+    margin-bottom: 15rem;
+  }
+
+  .xs\:mb-60\:disabled:disabled {
+    margin-bottom: 15rem;
+  }
+
+  .xs\:mb-60\:focus:focus {
+    margin-bottom: 15rem;
+  }
+
+  .xs\:mb-60\:hover:hover {
+    margin-bottom: 15rem;
+  }
+
+  .xs\:mb-60\:required:required {
+    margin-bottom: 15rem;
+  }
+
+  .xs\:mb-60\:visited:visited {
+    margin-bottom: 15rem;
+  }
+
+  .xs\:mb-64 {
+    margin-bottom: 16rem;
+  }
+
+  .xs\:mb-64\:active:active {
+    margin-bottom: 16rem;
+  }
+
+  .xs\:mb-64\:checked:checked {
+    margin-bottom: 16rem;
+  }
+
+  .xs\:mb-64\:disabled:disabled {
+    margin-bottom: 16rem;
+  }
+
+  .xs\:mb-64\:focus:focus {
+    margin-bottom: 16rem;
+  }
+
+  .xs\:mb-64\:hover:hover {
+    margin-bottom: 16rem;
+  }
+
+  .xs\:mb-64\:required:required {
+    margin-bottom: 16rem;
+  }
+
+  .xs\:mb-64\:visited:visited {
+    margin-bottom: 16rem;
+  }
+
+  .xs\:mb-72 {
+    margin-bottom: 18rem;
+  }
+
+  .xs\:mb-72\:active:active {
+    margin-bottom: 18rem;
+  }
+
+  .xs\:mb-72\:checked:checked {
+    margin-bottom: 18rem;
+  }
+
+  .xs\:mb-72\:disabled:disabled {
+    margin-bottom: 18rem;
+  }
+
+  .xs\:mb-72\:focus:focus {
+    margin-bottom: 18rem;
+  }
+
+  .xs\:mb-72\:hover:hover {
+    margin-bottom: 18rem;
+  }
+
+  .xs\:mb-72\:required:required {
+    margin-bottom: 18rem;
+  }
+
+  .xs\:mb-72\:visited:visited {
+    margin-bottom: 18rem;
+  }
+
+  .xs\:mb-80 {
+    margin-bottom: 20rem;
+  }
+
+  .xs\:mb-80\:active:active {
+    margin-bottom: 20rem;
+  }
+
+  .xs\:mb-80\:checked:checked {
+    margin-bottom: 20rem;
+  }
+
+  .xs\:mb-80\:disabled:disabled {
+    margin-bottom: 20rem;
+  }
+
+  .xs\:mb-80\:focus:focus {
+    margin-bottom: 20rem;
+  }
+
+  .xs\:mb-80\:hover:hover {
+    margin-bottom: 20rem;
+  }
+
+  .xs\:mb-80\:required:required {
+    margin-bottom: 20rem;
+  }
+
+  .xs\:mb-80\:visited:visited {
+    margin-bottom: 20rem;
+  }
+
+  .xs\:mb-96 {
+    margin-bottom: 24rem;
+  }
+
+  .xs\:mb-96\:active:active {
+    margin-bottom: 24rem;
+  }
+
+  .xs\:mb-96\:checked:checked {
+    margin-bottom: 24rem;
+  }
+
+  .xs\:mb-96\:disabled:disabled {
+    margin-bottom: 24rem;
+  }
+
+  .xs\:mb-96\:focus:focus {
+    margin-bottom: 24rem;
+  }
+
+  .xs\:mb-96\:hover:hover {
+    margin-bottom: 24rem;
+  }
+
+  .xs\:mb-96\:required:required {
+    margin-bottom: 24rem;
+  }
+
+  .xs\:mb-96\:visited:visited {
+    margin-bottom: 24rem;
+  }
+
+  .xs\:mb-auto {
+    margin-bottom: auto;
+  }
+
+  .xs\:mb-auto\:active:active {
+    margin-bottom: auto;
+  }
+
+  .xs\:mb-auto\:checked:checked {
+    margin-bottom: auto;
+  }
+
+  .xs\:mb-auto\:disabled:disabled {
+    margin-bottom: auto;
+  }
+
+  .xs\:mb-auto\:focus:focus {
+    margin-bottom: auto;
+  }
+
+  .xs\:mb-auto\:hover:hover {
+    margin-bottom: auto;
+  }
+
+  .xs\:mb-auto\:required:required {
+    margin-bottom: auto;
+  }
+
+  .xs\:mb-auto\:visited:visited {
+    margin-bottom: auto;
+  }
+}
+@media (min-width: 640px) and (max-width: 767px) {
+  .sm\:mb-0 {
+    margin-bottom: 0px;
+  }
+
+  .sm\:mb-0\:active:active {
+    margin-bottom: 0px;
+  }
+
+  .sm\:mb-0\:checked:checked {
+    margin-bottom: 0px;
+  }
+
+  .sm\:mb-0\:disabled:disabled {
+    margin-bottom: 0px;
+  }
+
+  .sm\:mb-0\:focus:focus {
+    margin-bottom: 0px;
+  }
+
+  .sm\:mb-0\:hover:hover {
+    margin-bottom: 0px;
+  }
+
+  .sm\:mb-0\:required:required {
+    margin-bottom: 0px;
+  }
+
+  .sm\:mb-0\:visited:visited {
+    margin-bottom: 0px;
+  }
+
+  .sm\:mb-0\.5 {
+    margin-bottom: 0.125rem;
+  }
+
+  .sm\:mb-0\.5\:active:active {
+    margin-bottom: 0.125rem;
+  }
+
+  .sm\:mb-0\.5\:checked:checked {
+    margin-bottom: 0.125rem;
+  }
+
+  .sm\:mb-0\.5\:disabled:disabled {
+    margin-bottom: 0.125rem;
+  }
+
+  .sm\:mb-0\.5\:focus:focus {
+    margin-bottom: 0.125rem;
+  }
+
+  .sm\:mb-0\.5\:hover:hover {
+    margin-bottom: 0.125rem;
+  }
+
+  .sm\:mb-0\.5\:required:required {
+    margin-bottom: 0.125rem;
+  }
+
+  .sm\:mb-0\.5\:visited:visited {
+    margin-bottom: 0.125rem;
+  }
+
+  .sm\:mb-1 {
+    margin-bottom: 0.25rem;
+  }
+
+  .sm\:mb-1\:active:active {
+    margin-bottom: 0.25rem;
+  }
+
+  .sm\:mb-1\:checked:checked {
+    margin-bottom: 0.25rem;
+  }
+
+  .sm\:mb-1\:disabled:disabled {
+    margin-bottom: 0.25rem;
+  }
+
+  .sm\:mb-1\:focus:focus {
+    margin-bottom: 0.25rem;
+  }
+
+  .sm\:mb-1\:hover:hover {
+    margin-bottom: 0.25rem;
+  }
+
+  .sm\:mb-1\:required:required {
+    margin-bottom: 0.25rem;
+  }
+
+  .sm\:mb-1\:visited:visited {
+    margin-bottom: 0.25rem;
+  }
+
+  .sm\:mb-1\.5 {
+    margin-bottom: 0.375rem;
+  }
+
+  .sm\:mb-1\.5\:active:active {
+    margin-bottom: 0.375rem;
+  }
+
+  .sm\:mb-1\.5\:checked:checked {
+    margin-bottom: 0.375rem;
+  }
+
+  .sm\:mb-1\.5\:disabled:disabled {
+    margin-bottom: 0.375rem;
+  }
+
+  .sm\:mb-1\.5\:focus:focus {
+    margin-bottom: 0.375rem;
+  }
+
+  .sm\:mb-1\.5\:hover:hover {
+    margin-bottom: 0.375rem;
+  }
+
+  .sm\:mb-1\.5\:required:required {
+    margin-bottom: 0.375rem;
+  }
+
+  .sm\:mb-1\.5\:visited:visited {
+    margin-bottom: 0.375rem;
+  }
+
+  .sm\:mb-2 {
+    margin-bottom: 0.5rem;
+  }
+
+  .sm\:mb-2\:active:active {
+    margin-bottom: 0.5rem;
+  }
+
+  .sm\:mb-2\:checked:checked {
+    margin-bottom: 0.5rem;
+  }
+
+  .sm\:mb-2\:disabled:disabled {
+    margin-bottom: 0.5rem;
+  }
+
+  .sm\:mb-2\:focus:focus {
+    margin-bottom: 0.5rem;
+  }
+
+  .sm\:mb-2\:hover:hover {
+    margin-bottom: 0.5rem;
+  }
+
+  .sm\:mb-2\:required:required {
+    margin-bottom: 0.5rem;
+  }
+
+  .sm\:mb-2\:visited:visited {
+    margin-bottom: 0.5rem;
+  }
+
+  .sm\:mb-2\.5 {
+    margin-bottom: 0.625rem;
+  }
+
+  .sm\:mb-2\.5\:active:active {
+    margin-bottom: 0.625rem;
+  }
+
+  .sm\:mb-2\.5\:checked:checked {
+    margin-bottom: 0.625rem;
+  }
+
+  .sm\:mb-2\.5\:disabled:disabled {
+    margin-bottom: 0.625rem;
+  }
+
+  .sm\:mb-2\.5\:focus:focus {
+    margin-bottom: 0.625rem;
+  }
+
+  .sm\:mb-2\.5\:hover:hover {
+    margin-bottom: 0.625rem;
+  }
+
+  .sm\:mb-2\.5\:required:required {
+    margin-bottom: 0.625rem;
+  }
+
+  .sm\:mb-2\.5\:visited:visited {
+    margin-bottom: 0.625rem;
+  }
+
+  .sm\:mb-3 {
+    margin-bottom: 0.75rem;
+  }
+
+  .sm\:mb-3\:active:active {
+    margin-bottom: 0.75rem;
+  }
+
+  .sm\:mb-3\:checked:checked {
+    margin-bottom: 0.75rem;
+  }
+
+  .sm\:mb-3\:disabled:disabled {
+    margin-bottom: 0.75rem;
+  }
+
+  .sm\:mb-3\:focus:focus {
+    margin-bottom: 0.75rem;
+  }
+
+  .sm\:mb-3\:hover:hover {
+    margin-bottom: 0.75rem;
+  }
+
+  .sm\:mb-3\:required:required {
+    margin-bottom: 0.75rem;
+  }
+
+  .sm\:mb-3\:visited:visited {
+    margin-bottom: 0.75rem;
+  }
+
+  .sm\:mb-3\.5 {
+    margin-bottom: 0.875rem;
+  }
+
+  .sm\:mb-3\.5\:active:active {
+    margin-bottom: 0.875rem;
+  }
+
+  .sm\:mb-3\.5\:checked:checked {
+    margin-bottom: 0.875rem;
+  }
+
+  .sm\:mb-3\.5\:disabled:disabled {
+    margin-bottom: 0.875rem;
+  }
+
+  .sm\:mb-3\.5\:focus:focus {
+    margin-bottom: 0.875rem;
+  }
+
+  .sm\:mb-3\.5\:hover:hover {
+    margin-bottom: 0.875rem;
+  }
+
+  .sm\:mb-3\.5\:required:required {
+    margin-bottom: 0.875rem;
+  }
+
+  .sm\:mb-3\.5\:visited:visited {
+    margin-bottom: 0.875rem;
+  }
+
+  .sm\:mb-4 {
+    margin-bottom: 1rem;
+  }
+
+  .sm\:mb-4\:active:active {
+    margin-bottom: 1rem;
+  }
+
+  .sm\:mb-4\:checked:checked {
+    margin-bottom: 1rem;
+  }
+
+  .sm\:mb-4\:disabled:disabled {
+    margin-bottom: 1rem;
+  }
+
+  .sm\:mb-4\:focus:focus {
+    margin-bottom: 1rem;
+  }
+
+  .sm\:mb-4\:hover:hover {
+    margin-bottom: 1rem;
+  }
+
+  .sm\:mb-4\:required:required {
+    margin-bottom: 1rem;
+  }
+
+  .sm\:mb-4\:visited:visited {
+    margin-bottom: 1rem;
+  }
+
+  .sm\:mb-5 {
+    margin-bottom: 1.25rem;
+  }
+
+  .sm\:mb-5\:active:active {
+    margin-bottom: 1.25rem;
+  }
+
+  .sm\:mb-5\:checked:checked {
+    margin-bottom: 1.25rem;
+  }
+
+  .sm\:mb-5\:disabled:disabled {
+    margin-bottom: 1.25rem;
+  }
+
+  .sm\:mb-5\:focus:focus {
+    margin-bottom: 1.25rem;
+  }
+
+  .sm\:mb-5\:hover:hover {
+    margin-bottom: 1.25rem;
+  }
+
+  .sm\:mb-5\:required:required {
+    margin-bottom: 1.25rem;
+  }
+
+  .sm\:mb-5\:visited:visited {
+    margin-bottom: 1.25rem;
+  }
+
+  .sm\:mb-6 {
+    margin-bottom: 1.5rem;
+  }
+
+  .sm\:mb-6\:active:active {
+    margin-bottom: 1.5rem;
+  }
+
+  .sm\:mb-6\:checked:checked {
+    margin-bottom: 1.5rem;
+  }
+
+  .sm\:mb-6\:disabled:disabled {
+    margin-bottom: 1.5rem;
+  }
+
+  .sm\:mb-6\:focus:focus {
+    margin-bottom: 1.5rem;
+  }
+
+  .sm\:mb-6\:hover:hover {
+    margin-bottom: 1.5rem;
+  }
+
+  .sm\:mb-6\:required:required {
+    margin-bottom: 1.5rem;
+  }
+
+  .sm\:mb-6\:visited:visited {
+    margin-bottom: 1.5rem;
+  }
+
+  .sm\:mb-7 {
+    margin-bottom: 1.75rem;
+  }
+
+  .sm\:mb-7\:active:active {
+    margin-bottom: 1.75rem;
+  }
+
+  .sm\:mb-7\:checked:checked {
+    margin-bottom: 1.75rem;
+  }
+
+  .sm\:mb-7\:disabled:disabled {
+    margin-bottom: 1.75rem;
+  }
+
+  .sm\:mb-7\:focus:focus {
+    margin-bottom: 1.75rem;
+  }
+
+  .sm\:mb-7\:hover:hover {
+    margin-bottom: 1.75rem;
+  }
+
+  .sm\:mb-7\:required:required {
+    margin-bottom: 1.75rem;
+  }
+
+  .sm\:mb-7\:visited:visited {
+    margin-bottom: 1.75rem;
+  }
+
+  .sm\:mb-8 {
+    margin-bottom: 2rem;
+  }
+
+  .sm\:mb-8\:active:active {
+    margin-bottom: 2rem;
+  }
+
+  .sm\:mb-8\:checked:checked {
+    margin-bottom: 2rem;
+  }
+
+  .sm\:mb-8\:disabled:disabled {
+    margin-bottom: 2rem;
+  }
+
+  .sm\:mb-8\:focus:focus {
+    margin-bottom: 2rem;
+  }
+
+  .sm\:mb-8\:hover:hover {
+    margin-bottom: 2rem;
+  }
+
+  .sm\:mb-8\:required:required {
+    margin-bottom: 2rem;
+  }
+
+  .sm\:mb-8\:visited:visited {
+    margin-bottom: 2rem;
+  }
+
+  .sm\:mb-9 {
+    margin-bottom: 2.25rem;
+  }
+
+  .sm\:mb-9\:active:active {
+    margin-bottom: 2.25rem;
+  }
+
+  .sm\:mb-9\:checked:checked {
+    margin-bottom: 2.25rem;
+  }
+
+  .sm\:mb-9\:disabled:disabled {
+    margin-bottom: 2.25rem;
+  }
+
+  .sm\:mb-9\:focus:focus {
+    margin-bottom: 2.25rem;
+  }
+
+  .sm\:mb-9\:hover:hover {
+    margin-bottom: 2.25rem;
+  }
+
+  .sm\:mb-9\:required:required {
+    margin-bottom: 2.25rem;
+  }
+
+  .sm\:mb-9\:visited:visited {
+    margin-bottom: 2.25rem;
+  }
+
+  .sm\:mb-10 {
+    margin-bottom: 2.5rem;
+  }
+
+  .sm\:mb-10\:active:active {
+    margin-bottom: 2.5rem;
+  }
+
+  .sm\:mb-10\:checked:checked {
+    margin-bottom: 2.5rem;
+  }
+
+  .sm\:mb-10\:disabled:disabled {
+    margin-bottom: 2.5rem;
+  }
+
+  .sm\:mb-10\:focus:focus {
+    margin-bottom: 2.5rem;
+  }
+
+  .sm\:mb-10\:hover:hover {
+    margin-bottom: 2.5rem;
+  }
+
+  .sm\:mb-10\:required:required {
+    margin-bottom: 2.5rem;
+  }
+
+  .sm\:mb-10\:visited:visited {
+    margin-bottom: 2.5rem;
+  }
+
+  .sm\:mb-11 {
+    margin-bottom: 2.75rem;
+  }
+
+  .sm\:mb-11\:active:active {
+    margin-bottom: 2.75rem;
+  }
+
+  .sm\:mb-11\:checked:checked {
+    margin-bottom: 2.75rem;
+  }
+
+  .sm\:mb-11\:disabled:disabled {
+    margin-bottom: 2.75rem;
+  }
+
+  .sm\:mb-11\:focus:focus {
+    margin-bottom: 2.75rem;
+  }
+
+  .sm\:mb-11\:hover:hover {
+    margin-bottom: 2.75rem;
+  }
+
+  .sm\:mb-11\:required:required {
+    margin-bottom: 2.75rem;
+  }
+
+  .sm\:mb-11\:visited:visited {
+    margin-bottom: 2.75rem;
+  }
+
+  .sm\:mb-12 {
+    margin-bottom: 3rem;
+  }
+
+  .sm\:mb-12\:active:active {
+    margin-bottom: 3rem;
+  }
+
+  .sm\:mb-12\:checked:checked {
+    margin-bottom: 3rem;
+  }
+
+  .sm\:mb-12\:disabled:disabled {
+    margin-bottom: 3rem;
+  }
+
+  .sm\:mb-12\:focus:focus {
+    margin-bottom: 3rem;
+  }
+
+  .sm\:mb-12\:hover:hover {
+    margin-bottom: 3rem;
+  }
+
+  .sm\:mb-12\:required:required {
+    margin-bottom: 3rem;
+  }
+
+  .sm\:mb-12\:visited:visited {
+    margin-bottom: 3rem;
+  }
+
+  .sm\:mb-14 {
+    margin-bottom: 3.5rem;
+  }
+
+  .sm\:mb-14\:active:active {
+    margin-bottom: 3.5rem;
+  }
+
+  .sm\:mb-14\:checked:checked {
+    margin-bottom: 3.5rem;
+  }
+
+  .sm\:mb-14\:disabled:disabled {
+    margin-bottom: 3.5rem;
+  }
+
+  .sm\:mb-14\:focus:focus {
+    margin-bottom: 3.5rem;
+  }
+
+  .sm\:mb-14\:hover:hover {
+    margin-bottom: 3.5rem;
+  }
+
+  .sm\:mb-14\:required:required {
+    margin-bottom: 3.5rem;
+  }
+
+  .sm\:mb-14\:visited:visited {
+    margin-bottom: 3.5rem;
+  }
+
+  .sm\:mb-16 {
+    margin-bottom: 4rem;
+  }
+
+  .sm\:mb-16\:active:active {
+    margin-bottom: 4rem;
+  }
+
+  .sm\:mb-16\:checked:checked {
+    margin-bottom: 4rem;
+  }
+
+  .sm\:mb-16\:disabled:disabled {
+    margin-bottom: 4rem;
+  }
+
+  .sm\:mb-16\:focus:focus {
+    margin-bottom: 4rem;
+  }
+
+  .sm\:mb-16\:hover:hover {
+    margin-bottom: 4rem;
+  }
+
+  .sm\:mb-16\:required:required {
+    margin-bottom: 4rem;
+  }
+
+  .sm\:mb-16\:visited:visited {
+    margin-bottom: 4rem;
+  }
+
+  .sm\:mb-20 {
+    margin-bottom: 5rem;
+  }
+
+  .sm\:mb-20\:active:active {
+    margin-bottom: 5rem;
+  }
+
+  .sm\:mb-20\:checked:checked {
+    margin-bottom: 5rem;
+  }
+
+  .sm\:mb-20\:disabled:disabled {
+    margin-bottom: 5rem;
+  }
+
+  .sm\:mb-20\:focus:focus {
+    margin-bottom: 5rem;
+  }
+
+  .sm\:mb-20\:hover:hover {
+    margin-bottom: 5rem;
+  }
+
+  .sm\:mb-20\:required:required {
+    margin-bottom: 5rem;
+  }
+
+  .sm\:mb-20\:visited:visited {
+    margin-bottom: 5rem;
+  }
+
+  .sm\:mb-24 {
+    margin-bottom: 6rem;
+  }
+
+  .sm\:mb-24\:active:active {
+    margin-bottom: 6rem;
+  }
+
+  .sm\:mb-24\:checked:checked {
+    margin-bottom: 6rem;
+  }
+
+  .sm\:mb-24\:disabled:disabled {
+    margin-bottom: 6rem;
+  }
+
+  .sm\:mb-24\:focus:focus {
+    margin-bottom: 6rem;
+  }
+
+  .sm\:mb-24\:hover:hover {
+    margin-bottom: 6rem;
+  }
+
+  .sm\:mb-24\:required:required {
+    margin-bottom: 6rem;
+  }
+
+  .sm\:mb-24\:visited:visited {
+    margin-bottom: 6rem;
+  }
+
+  .sm\:mb-28 {
+    margin-bottom: 7rem;
+  }
+
+  .sm\:mb-28\:active:active {
+    margin-bottom: 7rem;
+  }
+
+  .sm\:mb-28\:checked:checked {
+    margin-bottom: 7rem;
+  }
+
+  .sm\:mb-28\:disabled:disabled {
+    margin-bottom: 7rem;
+  }
+
+  .sm\:mb-28\:focus:focus {
+    margin-bottom: 7rem;
+  }
+
+  .sm\:mb-28\:hover:hover {
+    margin-bottom: 7rem;
+  }
+
+  .sm\:mb-28\:required:required {
+    margin-bottom: 7rem;
+  }
+
+  .sm\:mb-28\:visited:visited {
+    margin-bottom: 7rem;
+  }
+
+  .sm\:mb-32 {
+    margin-bottom: 8rem;
+  }
+
+  .sm\:mb-32\:active:active {
+    margin-bottom: 8rem;
+  }
+
+  .sm\:mb-32\:checked:checked {
+    margin-bottom: 8rem;
+  }
+
+  .sm\:mb-32\:disabled:disabled {
+    margin-bottom: 8rem;
+  }
+
+  .sm\:mb-32\:focus:focus {
+    margin-bottom: 8rem;
+  }
+
+  .sm\:mb-32\:hover:hover {
+    margin-bottom: 8rem;
+  }
+
+  .sm\:mb-32\:required:required {
+    margin-bottom: 8rem;
+  }
+
+  .sm\:mb-32\:visited:visited {
+    margin-bottom: 8rem;
+  }
+
+  .sm\:mb-36 {
+    margin-bottom: 9rem;
+  }
+
+  .sm\:mb-36\:active:active {
+    margin-bottom: 9rem;
+  }
+
+  .sm\:mb-36\:checked:checked {
+    margin-bottom: 9rem;
+  }
+
+  .sm\:mb-36\:disabled:disabled {
+    margin-bottom: 9rem;
+  }
+
+  .sm\:mb-36\:focus:focus {
+    margin-bottom: 9rem;
+  }
+
+  .sm\:mb-36\:hover:hover {
+    margin-bottom: 9rem;
+  }
+
+  .sm\:mb-36\:required:required {
+    margin-bottom: 9rem;
+  }
+
+  .sm\:mb-36\:visited:visited {
+    margin-bottom: 9rem;
+  }
+
+  .sm\:mb-40 {
+    margin-bottom: 10rem;
+  }
+
+  .sm\:mb-40\:active:active {
+    margin-bottom: 10rem;
+  }
+
+  .sm\:mb-40\:checked:checked {
+    margin-bottom: 10rem;
+  }
+
+  .sm\:mb-40\:disabled:disabled {
+    margin-bottom: 10rem;
+  }
+
+  .sm\:mb-40\:focus:focus {
+    margin-bottom: 10rem;
+  }
+
+  .sm\:mb-40\:hover:hover {
+    margin-bottom: 10rem;
+  }
+
+  .sm\:mb-40\:required:required {
+    margin-bottom: 10rem;
+  }
+
+  .sm\:mb-40\:visited:visited {
+    margin-bottom: 10rem;
+  }
+
+  .sm\:mb-44 {
+    margin-bottom: 11rem;
+  }
+
+  .sm\:mb-44\:active:active {
+    margin-bottom: 11rem;
+  }
+
+  .sm\:mb-44\:checked:checked {
+    margin-bottom: 11rem;
+  }
+
+  .sm\:mb-44\:disabled:disabled {
+    margin-bottom: 11rem;
+  }
+
+  .sm\:mb-44\:focus:focus {
+    margin-bottom: 11rem;
+  }
+
+  .sm\:mb-44\:hover:hover {
+    margin-bottom: 11rem;
+  }
+
+  .sm\:mb-44\:required:required {
+    margin-bottom: 11rem;
+  }
+
+  .sm\:mb-44\:visited:visited {
+    margin-bottom: 11rem;
+  }
+
+  .sm\:mb-48 {
+    margin-bottom: 12rem;
+  }
+
+  .sm\:mb-48\:active:active {
+    margin-bottom: 12rem;
+  }
+
+  .sm\:mb-48\:checked:checked {
+    margin-bottom: 12rem;
+  }
+
+  .sm\:mb-48\:disabled:disabled {
+    margin-bottom: 12rem;
+  }
+
+  .sm\:mb-48\:focus:focus {
+    margin-bottom: 12rem;
+  }
+
+  .sm\:mb-48\:hover:hover {
+    margin-bottom: 12rem;
+  }
+
+  .sm\:mb-48\:required:required {
+    margin-bottom: 12rem;
+  }
+
+  .sm\:mb-48\:visited:visited {
+    margin-bottom: 12rem;
+  }
+
+  .sm\:mb-52 {
+    margin-bottom: 13rem;
+  }
+
+  .sm\:mb-52\:active:active {
+    margin-bottom: 13rem;
+  }
+
+  .sm\:mb-52\:checked:checked {
+    margin-bottom: 13rem;
+  }
+
+  .sm\:mb-52\:disabled:disabled {
+    margin-bottom: 13rem;
+  }
+
+  .sm\:mb-52\:focus:focus {
+    margin-bottom: 13rem;
+  }
+
+  .sm\:mb-52\:hover:hover {
+    margin-bottom: 13rem;
+  }
+
+  .sm\:mb-52\:required:required {
+    margin-bottom: 13rem;
+  }
+
+  .sm\:mb-52\:visited:visited {
+    margin-bottom: 13rem;
+  }
+
+  .sm\:mb-56 {
+    margin-bottom: 14rem;
+  }
+
+  .sm\:mb-56\:active:active {
+    margin-bottom: 14rem;
+  }
+
+  .sm\:mb-56\:checked:checked {
+    margin-bottom: 14rem;
+  }
+
+  .sm\:mb-56\:disabled:disabled {
+    margin-bottom: 14rem;
+  }
+
+  .sm\:mb-56\:focus:focus {
+    margin-bottom: 14rem;
+  }
+
+  .sm\:mb-56\:hover:hover {
+    margin-bottom: 14rem;
+  }
+
+  .sm\:mb-56\:required:required {
+    margin-bottom: 14rem;
+  }
+
+  .sm\:mb-56\:visited:visited {
+    margin-bottom: 14rem;
+  }
+
+  .sm\:mb-60 {
+    margin-bottom: 15rem;
+  }
+
+  .sm\:mb-60\:active:active {
+    margin-bottom: 15rem;
+  }
+
+  .sm\:mb-60\:checked:checked {
+    margin-bottom: 15rem;
+  }
+
+  .sm\:mb-60\:disabled:disabled {
+    margin-bottom: 15rem;
+  }
+
+  .sm\:mb-60\:focus:focus {
+    margin-bottom: 15rem;
+  }
+
+  .sm\:mb-60\:hover:hover {
+    margin-bottom: 15rem;
+  }
+
+  .sm\:mb-60\:required:required {
+    margin-bottom: 15rem;
+  }
+
+  .sm\:mb-60\:visited:visited {
+    margin-bottom: 15rem;
+  }
+
+  .sm\:mb-64 {
+    margin-bottom: 16rem;
+  }
+
+  .sm\:mb-64\:active:active {
+    margin-bottom: 16rem;
+  }
+
+  .sm\:mb-64\:checked:checked {
+    margin-bottom: 16rem;
+  }
+
+  .sm\:mb-64\:disabled:disabled {
+    margin-bottom: 16rem;
+  }
+
+  .sm\:mb-64\:focus:focus {
+    margin-bottom: 16rem;
+  }
+
+  .sm\:mb-64\:hover:hover {
+    margin-bottom: 16rem;
+  }
+
+  .sm\:mb-64\:required:required {
+    margin-bottom: 16rem;
+  }
+
+  .sm\:mb-64\:visited:visited {
+    margin-bottom: 16rem;
+  }
+
+  .sm\:mb-72 {
+    margin-bottom: 18rem;
+  }
+
+  .sm\:mb-72\:active:active {
+    margin-bottom: 18rem;
+  }
+
+  .sm\:mb-72\:checked:checked {
+    margin-bottom: 18rem;
+  }
+
+  .sm\:mb-72\:disabled:disabled {
+    margin-bottom: 18rem;
+  }
+
+  .sm\:mb-72\:focus:focus {
+    margin-bottom: 18rem;
+  }
+
+  .sm\:mb-72\:hover:hover {
+    margin-bottom: 18rem;
+  }
+
+  .sm\:mb-72\:required:required {
+    margin-bottom: 18rem;
+  }
+
+  .sm\:mb-72\:visited:visited {
+    margin-bottom: 18rem;
+  }
+
+  .sm\:mb-80 {
+    margin-bottom: 20rem;
+  }
+
+  .sm\:mb-80\:active:active {
+    margin-bottom: 20rem;
+  }
+
+  .sm\:mb-80\:checked:checked {
+    margin-bottom: 20rem;
+  }
+
+  .sm\:mb-80\:disabled:disabled {
+    margin-bottom: 20rem;
+  }
+
+  .sm\:mb-80\:focus:focus {
+    margin-bottom: 20rem;
+  }
+
+  .sm\:mb-80\:hover:hover {
+    margin-bottom: 20rem;
+  }
+
+  .sm\:mb-80\:required:required {
+    margin-bottom: 20rem;
+  }
+
+  .sm\:mb-80\:visited:visited {
+    margin-bottom: 20rem;
+  }
+
+  .sm\:mb-96 {
+    margin-bottom: 24rem;
+  }
+
+  .sm\:mb-96\:active:active {
+    margin-bottom: 24rem;
+  }
+
+  .sm\:mb-96\:checked:checked {
+    margin-bottom: 24rem;
+  }
+
+  .sm\:mb-96\:disabled:disabled {
+    margin-bottom: 24rem;
+  }
+
+  .sm\:mb-96\:focus:focus {
+    margin-bottom: 24rem;
+  }
+
+  .sm\:mb-96\:hover:hover {
+    margin-bottom: 24rem;
+  }
+
+  .sm\:mb-96\:required:required {
+    margin-bottom: 24rem;
+  }
+
+  .sm\:mb-96\:visited:visited {
+    margin-bottom: 24rem;
+  }
+
+  .sm\:mb-auto {
+    margin-bottom: auto;
+  }
+
+  .sm\:mb-auto\:active:active {
+    margin-bottom: auto;
+  }
+
+  .sm\:mb-auto\:checked:checked {
+    margin-bottom: auto;
+  }
+
+  .sm\:mb-auto\:disabled:disabled {
+    margin-bottom: auto;
+  }
+
+  .sm\:mb-auto\:focus:focus {
+    margin-bottom: auto;
+  }
+
+  .sm\:mb-auto\:hover:hover {
+    margin-bottom: auto;
+  }
+
+  .sm\:mb-auto\:required:required {
+    margin-bottom: auto;
+  }
+
+  .sm\:mb-auto\:visited:visited {
+    margin-bottom: auto;
+  }
+}
+@media (min-width: 768px) and (max-width: 1023px) {
+  .md\:mb-0 {
+    margin-bottom: 0px;
+  }
+
+  .md\:mb-0\:active:active {
+    margin-bottom: 0px;
+  }
+
+  .md\:mb-0\:checked:checked {
+    margin-bottom: 0px;
+  }
+
+  .md\:mb-0\:disabled:disabled {
+    margin-bottom: 0px;
+  }
+
+  .md\:mb-0\:focus:focus {
+    margin-bottom: 0px;
+  }
+
+  .md\:mb-0\:hover:hover {
+    margin-bottom: 0px;
+  }
+
+  .md\:mb-0\:required:required {
+    margin-bottom: 0px;
+  }
+
+  .md\:mb-0\:visited:visited {
+    margin-bottom: 0px;
+  }
+
+  .md\:mb-0\.5 {
+    margin-bottom: 0.125rem;
+  }
+
+  .md\:mb-0\.5\:active:active {
+    margin-bottom: 0.125rem;
+  }
+
+  .md\:mb-0\.5\:checked:checked {
+    margin-bottom: 0.125rem;
+  }
+
+  .md\:mb-0\.5\:disabled:disabled {
+    margin-bottom: 0.125rem;
+  }
+
+  .md\:mb-0\.5\:focus:focus {
+    margin-bottom: 0.125rem;
+  }
+
+  .md\:mb-0\.5\:hover:hover {
+    margin-bottom: 0.125rem;
+  }
+
+  .md\:mb-0\.5\:required:required {
+    margin-bottom: 0.125rem;
+  }
+
+  .md\:mb-0\.5\:visited:visited {
+    margin-bottom: 0.125rem;
+  }
+
+  .md\:mb-1 {
+    margin-bottom: 0.25rem;
+  }
+
+  .md\:mb-1\:active:active {
+    margin-bottom: 0.25rem;
+  }
+
+  .md\:mb-1\:checked:checked {
+    margin-bottom: 0.25rem;
+  }
+
+  .md\:mb-1\:disabled:disabled {
+    margin-bottom: 0.25rem;
+  }
+
+  .md\:mb-1\:focus:focus {
+    margin-bottom: 0.25rem;
+  }
+
+  .md\:mb-1\:hover:hover {
+    margin-bottom: 0.25rem;
+  }
+
+  .md\:mb-1\:required:required {
+    margin-bottom: 0.25rem;
+  }
+
+  .md\:mb-1\:visited:visited {
+    margin-bottom: 0.25rem;
+  }
+
+  .md\:mb-1\.5 {
+    margin-bottom: 0.375rem;
+  }
+
+  .md\:mb-1\.5\:active:active {
+    margin-bottom: 0.375rem;
+  }
+
+  .md\:mb-1\.5\:checked:checked {
+    margin-bottom: 0.375rem;
+  }
+
+  .md\:mb-1\.5\:disabled:disabled {
+    margin-bottom: 0.375rem;
+  }
+
+  .md\:mb-1\.5\:focus:focus {
+    margin-bottom: 0.375rem;
+  }
+
+  .md\:mb-1\.5\:hover:hover {
+    margin-bottom: 0.375rem;
+  }
+
+  .md\:mb-1\.5\:required:required {
+    margin-bottom: 0.375rem;
+  }
+
+  .md\:mb-1\.5\:visited:visited {
+    margin-bottom: 0.375rem;
+  }
+
+  .md\:mb-2 {
+    margin-bottom: 0.5rem;
+  }
+
+  .md\:mb-2\:active:active {
+    margin-bottom: 0.5rem;
+  }
+
+  .md\:mb-2\:checked:checked {
+    margin-bottom: 0.5rem;
+  }
+
+  .md\:mb-2\:disabled:disabled {
+    margin-bottom: 0.5rem;
+  }
+
+  .md\:mb-2\:focus:focus {
+    margin-bottom: 0.5rem;
+  }
+
+  .md\:mb-2\:hover:hover {
+    margin-bottom: 0.5rem;
+  }
+
+  .md\:mb-2\:required:required {
+    margin-bottom: 0.5rem;
+  }
+
+  .md\:mb-2\:visited:visited {
+    margin-bottom: 0.5rem;
+  }
+
+  .md\:mb-2\.5 {
+    margin-bottom: 0.625rem;
+  }
+
+  .md\:mb-2\.5\:active:active {
+    margin-bottom: 0.625rem;
+  }
+
+  .md\:mb-2\.5\:checked:checked {
+    margin-bottom: 0.625rem;
+  }
+
+  .md\:mb-2\.5\:disabled:disabled {
+    margin-bottom: 0.625rem;
+  }
+
+  .md\:mb-2\.5\:focus:focus {
+    margin-bottom: 0.625rem;
+  }
+
+  .md\:mb-2\.5\:hover:hover {
+    margin-bottom: 0.625rem;
+  }
+
+  .md\:mb-2\.5\:required:required {
+    margin-bottom: 0.625rem;
+  }
+
+  .md\:mb-2\.5\:visited:visited {
+    margin-bottom: 0.625rem;
+  }
+
+  .md\:mb-3 {
+    margin-bottom: 0.75rem;
+  }
+
+  .md\:mb-3\:active:active {
+    margin-bottom: 0.75rem;
+  }
+
+  .md\:mb-3\:checked:checked {
+    margin-bottom: 0.75rem;
+  }
+
+  .md\:mb-3\:disabled:disabled {
+    margin-bottom: 0.75rem;
+  }
+
+  .md\:mb-3\:focus:focus {
+    margin-bottom: 0.75rem;
+  }
+
+  .md\:mb-3\:hover:hover {
+    margin-bottom: 0.75rem;
+  }
+
+  .md\:mb-3\:required:required {
+    margin-bottom: 0.75rem;
+  }
+
+  .md\:mb-3\:visited:visited {
+    margin-bottom: 0.75rem;
+  }
+
+  .md\:mb-3\.5 {
+    margin-bottom: 0.875rem;
+  }
+
+  .md\:mb-3\.5\:active:active {
+    margin-bottom: 0.875rem;
+  }
+
+  .md\:mb-3\.5\:checked:checked {
+    margin-bottom: 0.875rem;
+  }
+
+  .md\:mb-3\.5\:disabled:disabled {
+    margin-bottom: 0.875rem;
+  }
+
+  .md\:mb-3\.5\:focus:focus {
+    margin-bottom: 0.875rem;
+  }
+
+  .md\:mb-3\.5\:hover:hover {
+    margin-bottom: 0.875rem;
+  }
+
+  .md\:mb-3\.5\:required:required {
+    margin-bottom: 0.875rem;
+  }
+
+  .md\:mb-3\.5\:visited:visited {
+    margin-bottom: 0.875rem;
+  }
+
+  .md\:mb-4 {
+    margin-bottom: 1rem;
+  }
+
+  .md\:mb-4\:active:active {
+    margin-bottom: 1rem;
+  }
+
+  .md\:mb-4\:checked:checked {
+    margin-bottom: 1rem;
+  }
+
+  .md\:mb-4\:disabled:disabled {
+    margin-bottom: 1rem;
+  }
+
+  .md\:mb-4\:focus:focus {
+    margin-bottom: 1rem;
+  }
+
+  .md\:mb-4\:hover:hover {
+    margin-bottom: 1rem;
+  }
+
+  .md\:mb-4\:required:required {
+    margin-bottom: 1rem;
+  }
+
+  .md\:mb-4\:visited:visited {
+    margin-bottom: 1rem;
+  }
+
+  .md\:mb-5 {
+    margin-bottom: 1.25rem;
+  }
+
+  .md\:mb-5\:active:active {
+    margin-bottom: 1.25rem;
+  }
+
+  .md\:mb-5\:checked:checked {
+    margin-bottom: 1.25rem;
+  }
+
+  .md\:mb-5\:disabled:disabled {
+    margin-bottom: 1.25rem;
+  }
+
+  .md\:mb-5\:focus:focus {
+    margin-bottom: 1.25rem;
+  }
+
+  .md\:mb-5\:hover:hover {
+    margin-bottom: 1.25rem;
+  }
+
+  .md\:mb-5\:required:required {
+    margin-bottom: 1.25rem;
+  }
+
+  .md\:mb-5\:visited:visited {
+    margin-bottom: 1.25rem;
+  }
+
+  .md\:mb-6 {
+    margin-bottom: 1.5rem;
+  }
+
+  .md\:mb-6\:active:active {
+    margin-bottom: 1.5rem;
+  }
+
+  .md\:mb-6\:checked:checked {
+    margin-bottom: 1.5rem;
+  }
+
+  .md\:mb-6\:disabled:disabled {
+    margin-bottom: 1.5rem;
+  }
+
+  .md\:mb-6\:focus:focus {
+    margin-bottom: 1.5rem;
+  }
+
+  .md\:mb-6\:hover:hover {
+    margin-bottom: 1.5rem;
+  }
+
+  .md\:mb-6\:required:required {
+    margin-bottom: 1.5rem;
+  }
+
+  .md\:mb-6\:visited:visited {
+    margin-bottom: 1.5rem;
+  }
+
+  .md\:mb-7 {
+    margin-bottom: 1.75rem;
+  }
+
+  .md\:mb-7\:active:active {
+    margin-bottom: 1.75rem;
+  }
+
+  .md\:mb-7\:checked:checked {
+    margin-bottom: 1.75rem;
+  }
+
+  .md\:mb-7\:disabled:disabled {
+    margin-bottom: 1.75rem;
+  }
+
+  .md\:mb-7\:focus:focus {
+    margin-bottom: 1.75rem;
+  }
+
+  .md\:mb-7\:hover:hover {
+    margin-bottom: 1.75rem;
+  }
+
+  .md\:mb-7\:required:required {
+    margin-bottom: 1.75rem;
+  }
+
+  .md\:mb-7\:visited:visited {
+    margin-bottom: 1.75rem;
+  }
+
+  .md\:mb-8 {
+    margin-bottom: 2rem;
+  }
+
+  .md\:mb-8\:active:active {
+    margin-bottom: 2rem;
+  }
+
+  .md\:mb-8\:checked:checked {
+    margin-bottom: 2rem;
+  }
+
+  .md\:mb-8\:disabled:disabled {
+    margin-bottom: 2rem;
+  }
+
+  .md\:mb-8\:focus:focus {
+    margin-bottom: 2rem;
+  }
+
+  .md\:mb-8\:hover:hover {
+    margin-bottom: 2rem;
+  }
+
+  .md\:mb-8\:required:required {
+    margin-bottom: 2rem;
+  }
+
+  .md\:mb-8\:visited:visited {
+    margin-bottom: 2rem;
+  }
+
+  .md\:mb-9 {
+    margin-bottom: 2.25rem;
+  }
+
+  .md\:mb-9\:active:active {
+    margin-bottom: 2.25rem;
+  }
+
+  .md\:mb-9\:checked:checked {
+    margin-bottom: 2.25rem;
+  }
+
+  .md\:mb-9\:disabled:disabled {
+    margin-bottom: 2.25rem;
+  }
+
+  .md\:mb-9\:focus:focus {
+    margin-bottom: 2.25rem;
+  }
+
+  .md\:mb-9\:hover:hover {
+    margin-bottom: 2.25rem;
+  }
+
+  .md\:mb-9\:required:required {
+    margin-bottom: 2.25rem;
+  }
+
+  .md\:mb-9\:visited:visited {
+    margin-bottom: 2.25rem;
+  }
+
+  .md\:mb-10 {
+    margin-bottom: 2.5rem;
+  }
+
+  .md\:mb-10\:active:active {
+    margin-bottom: 2.5rem;
+  }
+
+  .md\:mb-10\:checked:checked {
+    margin-bottom: 2.5rem;
+  }
+
+  .md\:mb-10\:disabled:disabled {
+    margin-bottom: 2.5rem;
+  }
+
+  .md\:mb-10\:focus:focus {
+    margin-bottom: 2.5rem;
+  }
+
+  .md\:mb-10\:hover:hover {
+    margin-bottom: 2.5rem;
+  }
+
+  .md\:mb-10\:required:required {
+    margin-bottom: 2.5rem;
+  }
+
+  .md\:mb-10\:visited:visited {
+    margin-bottom: 2.5rem;
+  }
+
+  .md\:mb-11 {
+    margin-bottom: 2.75rem;
+  }
+
+  .md\:mb-11\:active:active {
+    margin-bottom: 2.75rem;
+  }
+
+  .md\:mb-11\:checked:checked {
+    margin-bottom: 2.75rem;
+  }
+
+  .md\:mb-11\:disabled:disabled {
+    margin-bottom: 2.75rem;
+  }
+
+  .md\:mb-11\:focus:focus {
+    margin-bottom: 2.75rem;
+  }
+
+  .md\:mb-11\:hover:hover {
+    margin-bottom: 2.75rem;
+  }
+
+  .md\:mb-11\:required:required {
+    margin-bottom: 2.75rem;
+  }
+
+  .md\:mb-11\:visited:visited {
+    margin-bottom: 2.75rem;
+  }
+
+  .md\:mb-12 {
+    margin-bottom: 3rem;
+  }
+
+  .md\:mb-12\:active:active {
+    margin-bottom: 3rem;
+  }
+
+  .md\:mb-12\:checked:checked {
+    margin-bottom: 3rem;
+  }
+
+  .md\:mb-12\:disabled:disabled {
+    margin-bottom: 3rem;
+  }
+
+  .md\:mb-12\:focus:focus {
+    margin-bottom: 3rem;
+  }
+
+  .md\:mb-12\:hover:hover {
+    margin-bottom: 3rem;
+  }
+
+  .md\:mb-12\:required:required {
+    margin-bottom: 3rem;
+  }
+
+  .md\:mb-12\:visited:visited {
+    margin-bottom: 3rem;
+  }
+
+  .md\:mb-14 {
+    margin-bottom: 3.5rem;
+  }
+
+  .md\:mb-14\:active:active {
+    margin-bottom: 3.5rem;
+  }
+
+  .md\:mb-14\:checked:checked {
+    margin-bottom: 3.5rem;
+  }
+
+  .md\:mb-14\:disabled:disabled {
+    margin-bottom: 3.5rem;
+  }
+
+  .md\:mb-14\:focus:focus {
+    margin-bottom: 3.5rem;
+  }
+
+  .md\:mb-14\:hover:hover {
+    margin-bottom: 3.5rem;
+  }
+
+  .md\:mb-14\:required:required {
+    margin-bottom: 3.5rem;
+  }
+
+  .md\:mb-14\:visited:visited {
+    margin-bottom: 3.5rem;
+  }
+
+  .md\:mb-16 {
+    margin-bottom: 4rem;
+  }
+
+  .md\:mb-16\:active:active {
+    margin-bottom: 4rem;
+  }
+
+  .md\:mb-16\:checked:checked {
+    margin-bottom: 4rem;
+  }
+
+  .md\:mb-16\:disabled:disabled {
+    margin-bottom: 4rem;
+  }
+
+  .md\:mb-16\:focus:focus {
+    margin-bottom: 4rem;
+  }
+
+  .md\:mb-16\:hover:hover {
+    margin-bottom: 4rem;
+  }
+
+  .md\:mb-16\:required:required {
+    margin-bottom: 4rem;
+  }
+
+  .md\:mb-16\:visited:visited {
+    margin-bottom: 4rem;
+  }
+
+  .md\:mb-20 {
+    margin-bottom: 5rem;
+  }
+
+  .md\:mb-20\:active:active {
+    margin-bottom: 5rem;
+  }
+
+  .md\:mb-20\:checked:checked {
+    margin-bottom: 5rem;
+  }
+
+  .md\:mb-20\:disabled:disabled {
+    margin-bottom: 5rem;
+  }
+
+  .md\:mb-20\:focus:focus {
+    margin-bottom: 5rem;
+  }
+
+  .md\:mb-20\:hover:hover {
+    margin-bottom: 5rem;
+  }
+
+  .md\:mb-20\:required:required {
+    margin-bottom: 5rem;
+  }
+
+  .md\:mb-20\:visited:visited {
+    margin-bottom: 5rem;
+  }
+
+  .md\:mb-24 {
+    margin-bottom: 6rem;
+  }
+
+  .md\:mb-24\:active:active {
+    margin-bottom: 6rem;
+  }
+
+  .md\:mb-24\:checked:checked {
+    margin-bottom: 6rem;
+  }
+
+  .md\:mb-24\:disabled:disabled {
+    margin-bottom: 6rem;
+  }
+
+  .md\:mb-24\:focus:focus {
+    margin-bottom: 6rem;
+  }
+
+  .md\:mb-24\:hover:hover {
+    margin-bottom: 6rem;
+  }
+
+  .md\:mb-24\:required:required {
+    margin-bottom: 6rem;
+  }
+
+  .md\:mb-24\:visited:visited {
+    margin-bottom: 6rem;
+  }
+
+  .md\:mb-28 {
+    margin-bottom: 7rem;
+  }
+
+  .md\:mb-28\:active:active {
+    margin-bottom: 7rem;
+  }
+
+  .md\:mb-28\:checked:checked {
+    margin-bottom: 7rem;
+  }
+
+  .md\:mb-28\:disabled:disabled {
+    margin-bottom: 7rem;
+  }
+
+  .md\:mb-28\:focus:focus {
+    margin-bottom: 7rem;
+  }
+
+  .md\:mb-28\:hover:hover {
+    margin-bottom: 7rem;
+  }
+
+  .md\:mb-28\:required:required {
+    margin-bottom: 7rem;
+  }
+
+  .md\:mb-28\:visited:visited {
+    margin-bottom: 7rem;
+  }
+
+  .md\:mb-32 {
+    margin-bottom: 8rem;
+  }
+
+  .md\:mb-32\:active:active {
+    margin-bottom: 8rem;
+  }
+
+  .md\:mb-32\:checked:checked {
+    margin-bottom: 8rem;
+  }
+
+  .md\:mb-32\:disabled:disabled {
+    margin-bottom: 8rem;
+  }
+
+  .md\:mb-32\:focus:focus {
+    margin-bottom: 8rem;
+  }
+
+  .md\:mb-32\:hover:hover {
+    margin-bottom: 8rem;
+  }
+
+  .md\:mb-32\:required:required {
+    margin-bottom: 8rem;
+  }
+
+  .md\:mb-32\:visited:visited {
+    margin-bottom: 8rem;
+  }
+
+  .md\:mb-36 {
+    margin-bottom: 9rem;
+  }
+
+  .md\:mb-36\:active:active {
+    margin-bottom: 9rem;
+  }
+
+  .md\:mb-36\:checked:checked {
+    margin-bottom: 9rem;
+  }
+
+  .md\:mb-36\:disabled:disabled {
+    margin-bottom: 9rem;
+  }
+
+  .md\:mb-36\:focus:focus {
+    margin-bottom: 9rem;
+  }
+
+  .md\:mb-36\:hover:hover {
+    margin-bottom: 9rem;
+  }
+
+  .md\:mb-36\:required:required {
+    margin-bottom: 9rem;
+  }
+
+  .md\:mb-36\:visited:visited {
+    margin-bottom: 9rem;
+  }
+
+  .md\:mb-40 {
+    margin-bottom: 10rem;
+  }
+
+  .md\:mb-40\:active:active {
+    margin-bottom: 10rem;
+  }
+
+  .md\:mb-40\:checked:checked {
+    margin-bottom: 10rem;
+  }
+
+  .md\:mb-40\:disabled:disabled {
+    margin-bottom: 10rem;
+  }
+
+  .md\:mb-40\:focus:focus {
+    margin-bottom: 10rem;
+  }
+
+  .md\:mb-40\:hover:hover {
+    margin-bottom: 10rem;
+  }
+
+  .md\:mb-40\:required:required {
+    margin-bottom: 10rem;
+  }
+
+  .md\:mb-40\:visited:visited {
+    margin-bottom: 10rem;
+  }
+
+  .md\:mb-44 {
+    margin-bottom: 11rem;
+  }
+
+  .md\:mb-44\:active:active {
+    margin-bottom: 11rem;
+  }
+
+  .md\:mb-44\:checked:checked {
+    margin-bottom: 11rem;
+  }
+
+  .md\:mb-44\:disabled:disabled {
+    margin-bottom: 11rem;
+  }
+
+  .md\:mb-44\:focus:focus {
+    margin-bottom: 11rem;
+  }
+
+  .md\:mb-44\:hover:hover {
+    margin-bottom: 11rem;
+  }
+
+  .md\:mb-44\:required:required {
+    margin-bottom: 11rem;
+  }
+
+  .md\:mb-44\:visited:visited {
+    margin-bottom: 11rem;
+  }
+
+  .md\:mb-48 {
+    margin-bottom: 12rem;
+  }
+
+  .md\:mb-48\:active:active {
+    margin-bottom: 12rem;
+  }
+
+  .md\:mb-48\:checked:checked {
+    margin-bottom: 12rem;
+  }
+
+  .md\:mb-48\:disabled:disabled {
+    margin-bottom: 12rem;
+  }
+
+  .md\:mb-48\:focus:focus {
+    margin-bottom: 12rem;
+  }
+
+  .md\:mb-48\:hover:hover {
+    margin-bottom: 12rem;
+  }
+
+  .md\:mb-48\:required:required {
+    margin-bottom: 12rem;
+  }
+
+  .md\:mb-48\:visited:visited {
+    margin-bottom: 12rem;
+  }
+
+  .md\:mb-52 {
+    margin-bottom: 13rem;
+  }
+
+  .md\:mb-52\:active:active {
+    margin-bottom: 13rem;
+  }
+
+  .md\:mb-52\:checked:checked {
+    margin-bottom: 13rem;
+  }
+
+  .md\:mb-52\:disabled:disabled {
+    margin-bottom: 13rem;
+  }
+
+  .md\:mb-52\:focus:focus {
+    margin-bottom: 13rem;
+  }
+
+  .md\:mb-52\:hover:hover {
+    margin-bottom: 13rem;
+  }
+
+  .md\:mb-52\:required:required {
+    margin-bottom: 13rem;
+  }
+
+  .md\:mb-52\:visited:visited {
+    margin-bottom: 13rem;
+  }
+
+  .md\:mb-56 {
+    margin-bottom: 14rem;
+  }
+
+  .md\:mb-56\:active:active {
+    margin-bottom: 14rem;
+  }
+
+  .md\:mb-56\:checked:checked {
+    margin-bottom: 14rem;
+  }
+
+  .md\:mb-56\:disabled:disabled {
+    margin-bottom: 14rem;
+  }
+
+  .md\:mb-56\:focus:focus {
+    margin-bottom: 14rem;
+  }
+
+  .md\:mb-56\:hover:hover {
+    margin-bottom: 14rem;
+  }
+
+  .md\:mb-56\:required:required {
+    margin-bottom: 14rem;
+  }
+
+  .md\:mb-56\:visited:visited {
+    margin-bottom: 14rem;
+  }
+
+  .md\:mb-60 {
+    margin-bottom: 15rem;
+  }
+
+  .md\:mb-60\:active:active {
+    margin-bottom: 15rem;
+  }
+
+  .md\:mb-60\:checked:checked {
+    margin-bottom: 15rem;
+  }
+
+  .md\:mb-60\:disabled:disabled {
+    margin-bottom: 15rem;
+  }
+
+  .md\:mb-60\:focus:focus {
+    margin-bottom: 15rem;
+  }
+
+  .md\:mb-60\:hover:hover {
+    margin-bottom: 15rem;
+  }
+
+  .md\:mb-60\:required:required {
+    margin-bottom: 15rem;
+  }
+
+  .md\:mb-60\:visited:visited {
+    margin-bottom: 15rem;
+  }
+
+  .md\:mb-64 {
+    margin-bottom: 16rem;
+  }
+
+  .md\:mb-64\:active:active {
+    margin-bottom: 16rem;
+  }
+
+  .md\:mb-64\:checked:checked {
+    margin-bottom: 16rem;
+  }
+
+  .md\:mb-64\:disabled:disabled {
+    margin-bottom: 16rem;
+  }
+
+  .md\:mb-64\:focus:focus {
+    margin-bottom: 16rem;
+  }
+
+  .md\:mb-64\:hover:hover {
+    margin-bottom: 16rem;
+  }
+
+  .md\:mb-64\:required:required {
+    margin-bottom: 16rem;
+  }
+
+  .md\:mb-64\:visited:visited {
+    margin-bottom: 16rem;
+  }
+
+  .md\:mb-72 {
+    margin-bottom: 18rem;
+  }
+
+  .md\:mb-72\:active:active {
+    margin-bottom: 18rem;
+  }
+
+  .md\:mb-72\:checked:checked {
+    margin-bottom: 18rem;
+  }
+
+  .md\:mb-72\:disabled:disabled {
+    margin-bottom: 18rem;
+  }
+
+  .md\:mb-72\:focus:focus {
+    margin-bottom: 18rem;
+  }
+
+  .md\:mb-72\:hover:hover {
+    margin-bottom: 18rem;
+  }
+
+  .md\:mb-72\:required:required {
+    margin-bottom: 18rem;
+  }
+
+  .md\:mb-72\:visited:visited {
+    margin-bottom: 18rem;
+  }
+
+  .md\:mb-80 {
+    margin-bottom: 20rem;
+  }
+
+  .md\:mb-80\:active:active {
+    margin-bottom: 20rem;
+  }
+
+  .md\:mb-80\:checked:checked {
+    margin-bottom: 20rem;
+  }
+
+  .md\:mb-80\:disabled:disabled {
+    margin-bottom: 20rem;
+  }
+
+  .md\:mb-80\:focus:focus {
+    margin-bottom: 20rem;
+  }
+
+  .md\:mb-80\:hover:hover {
+    margin-bottom: 20rem;
+  }
+
+  .md\:mb-80\:required:required {
+    margin-bottom: 20rem;
+  }
+
+  .md\:mb-80\:visited:visited {
+    margin-bottom: 20rem;
+  }
+
+  .md\:mb-96 {
+    margin-bottom: 24rem;
+  }
+
+  .md\:mb-96\:active:active {
+    margin-bottom: 24rem;
+  }
+
+  .md\:mb-96\:checked:checked {
+    margin-bottom: 24rem;
+  }
+
+  .md\:mb-96\:disabled:disabled {
+    margin-bottom: 24rem;
+  }
+
+  .md\:mb-96\:focus:focus {
+    margin-bottom: 24rem;
+  }
+
+  .md\:mb-96\:hover:hover {
+    margin-bottom: 24rem;
+  }
+
+  .md\:mb-96\:required:required {
+    margin-bottom: 24rem;
+  }
+
+  .md\:mb-96\:visited:visited {
+    margin-bottom: 24rem;
+  }
+
+  .md\:mb-auto {
+    margin-bottom: auto;
+  }
+
+  .md\:mb-auto\:active:active {
+    margin-bottom: auto;
+  }
+
+  .md\:mb-auto\:checked:checked {
+    margin-bottom: auto;
+  }
+
+  .md\:mb-auto\:disabled:disabled {
+    margin-bottom: auto;
+  }
+
+  .md\:mb-auto\:focus:focus {
+    margin-bottom: auto;
+  }
+
+  .md\:mb-auto\:hover:hover {
+    margin-bottom: auto;
+  }
+
+  .md\:mb-auto\:required:required {
+    margin-bottom: auto;
+  }
+
+  .md\:mb-auto\:visited:visited {
+    margin-bottom: auto;
+  }
+}
+@media (min-width: 1024px) and (max-width: 2000px) {
+  .lg\:mb-0 {
+    margin-bottom: 0px;
+  }
+
+  .lg\:mb-0\:active:active {
+    margin-bottom: 0px;
+  }
+
+  .lg\:mb-0\:checked:checked {
+    margin-bottom: 0px;
+  }
+
+  .lg\:mb-0\:disabled:disabled {
+    margin-bottom: 0px;
+  }
+
+  .lg\:mb-0\:focus:focus {
+    margin-bottom: 0px;
+  }
+
+  .lg\:mb-0\:hover:hover {
+    margin-bottom: 0px;
+  }
+
+  .lg\:mb-0\:required:required {
+    margin-bottom: 0px;
+  }
+
+  .lg\:mb-0\:visited:visited {
+    margin-bottom: 0px;
+  }
+
+  .lg\:mb-0\.5 {
+    margin-bottom: 0.125rem;
+  }
+
+  .lg\:mb-0\.5\:active:active {
+    margin-bottom: 0.125rem;
+  }
+
+  .lg\:mb-0\.5\:checked:checked {
+    margin-bottom: 0.125rem;
+  }
+
+  .lg\:mb-0\.5\:disabled:disabled {
+    margin-bottom: 0.125rem;
+  }
+
+  .lg\:mb-0\.5\:focus:focus {
+    margin-bottom: 0.125rem;
+  }
+
+  .lg\:mb-0\.5\:hover:hover {
+    margin-bottom: 0.125rem;
+  }
+
+  .lg\:mb-0\.5\:required:required {
+    margin-bottom: 0.125rem;
+  }
+
+  .lg\:mb-0\.5\:visited:visited {
+    margin-bottom: 0.125rem;
+  }
+
+  .lg\:mb-1 {
+    margin-bottom: 0.25rem;
+  }
+
+  .lg\:mb-1\:active:active {
+    margin-bottom: 0.25rem;
+  }
+
+  .lg\:mb-1\:checked:checked {
+    margin-bottom: 0.25rem;
+  }
+
+  .lg\:mb-1\:disabled:disabled {
+    margin-bottom: 0.25rem;
+  }
+
+  .lg\:mb-1\:focus:focus {
+    margin-bottom: 0.25rem;
+  }
+
+  .lg\:mb-1\:hover:hover {
+    margin-bottom: 0.25rem;
+  }
+
+  .lg\:mb-1\:required:required {
+    margin-bottom: 0.25rem;
+  }
+
+  .lg\:mb-1\:visited:visited {
+    margin-bottom: 0.25rem;
+  }
+
+  .lg\:mb-1\.5 {
+    margin-bottom: 0.375rem;
+  }
+
+  .lg\:mb-1\.5\:active:active {
+    margin-bottom: 0.375rem;
+  }
+
+  .lg\:mb-1\.5\:checked:checked {
+    margin-bottom: 0.375rem;
+  }
+
+  .lg\:mb-1\.5\:disabled:disabled {
+    margin-bottom: 0.375rem;
+  }
+
+  .lg\:mb-1\.5\:focus:focus {
+    margin-bottom: 0.375rem;
+  }
+
+  .lg\:mb-1\.5\:hover:hover {
+    margin-bottom: 0.375rem;
+  }
+
+  .lg\:mb-1\.5\:required:required {
+    margin-bottom: 0.375rem;
+  }
+
+  .lg\:mb-1\.5\:visited:visited {
+    margin-bottom: 0.375rem;
+  }
+
+  .lg\:mb-2 {
+    margin-bottom: 0.5rem;
+  }
+
+  .lg\:mb-2\:active:active {
+    margin-bottom: 0.5rem;
+  }
+
+  .lg\:mb-2\:checked:checked {
+    margin-bottom: 0.5rem;
+  }
+
+  .lg\:mb-2\:disabled:disabled {
+    margin-bottom: 0.5rem;
+  }
+
+  .lg\:mb-2\:focus:focus {
+    margin-bottom: 0.5rem;
+  }
+
+  .lg\:mb-2\:hover:hover {
+    margin-bottom: 0.5rem;
+  }
+
+  .lg\:mb-2\:required:required {
+    margin-bottom: 0.5rem;
+  }
+
+  .lg\:mb-2\:visited:visited {
+    margin-bottom: 0.5rem;
+  }
+
+  .lg\:mb-2\.5 {
+    margin-bottom: 0.625rem;
+  }
+
+  .lg\:mb-2\.5\:active:active {
+    margin-bottom: 0.625rem;
+  }
+
+  .lg\:mb-2\.5\:checked:checked {
+    margin-bottom: 0.625rem;
+  }
+
+  .lg\:mb-2\.5\:disabled:disabled {
+    margin-bottom: 0.625rem;
+  }
+
+  .lg\:mb-2\.5\:focus:focus {
+    margin-bottom: 0.625rem;
+  }
+
+  .lg\:mb-2\.5\:hover:hover {
+    margin-bottom: 0.625rem;
+  }
+
+  .lg\:mb-2\.5\:required:required {
+    margin-bottom: 0.625rem;
+  }
+
+  .lg\:mb-2\.5\:visited:visited {
+    margin-bottom: 0.625rem;
+  }
+
+  .lg\:mb-3 {
+    margin-bottom: 0.75rem;
+  }
+
+  .lg\:mb-3\:active:active {
+    margin-bottom: 0.75rem;
+  }
+
+  .lg\:mb-3\:checked:checked {
+    margin-bottom: 0.75rem;
+  }
+
+  .lg\:mb-3\:disabled:disabled {
+    margin-bottom: 0.75rem;
+  }
+
+  .lg\:mb-3\:focus:focus {
+    margin-bottom: 0.75rem;
+  }
+
+  .lg\:mb-3\:hover:hover {
+    margin-bottom: 0.75rem;
+  }
+
+  .lg\:mb-3\:required:required {
+    margin-bottom: 0.75rem;
+  }
+
+  .lg\:mb-3\:visited:visited {
+    margin-bottom: 0.75rem;
+  }
+
+  .lg\:mb-3\.5 {
+    margin-bottom: 0.875rem;
+  }
+
+  .lg\:mb-3\.5\:active:active {
+    margin-bottom: 0.875rem;
+  }
+
+  .lg\:mb-3\.5\:checked:checked {
+    margin-bottom: 0.875rem;
+  }
+
+  .lg\:mb-3\.5\:disabled:disabled {
+    margin-bottom: 0.875rem;
+  }
+
+  .lg\:mb-3\.5\:focus:focus {
+    margin-bottom: 0.875rem;
+  }
+
+  .lg\:mb-3\.5\:hover:hover {
+    margin-bottom: 0.875rem;
+  }
+
+  .lg\:mb-3\.5\:required:required {
+    margin-bottom: 0.875rem;
+  }
+
+  .lg\:mb-3\.5\:visited:visited {
+    margin-bottom: 0.875rem;
+  }
+
+  .lg\:mb-4 {
+    margin-bottom: 1rem;
+  }
+
+  .lg\:mb-4\:active:active {
+    margin-bottom: 1rem;
+  }
+
+  .lg\:mb-4\:checked:checked {
+    margin-bottom: 1rem;
+  }
+
+  .lg\:mb-4\:disabled:disabled {
+    margin-bottom: 1rem;
+  }
+
+  .lg\:mb-4\:focus:focus {
+    margin-bottom: 1rem;
+  }
+
+  .lg\:mb-4\:hover:hover {
+    margin-bottom: 1rem;
+  }
+
+  .lg\:mb-4\:required:required {
+    margin-bottom: 1rem;
+  }
+
+  .lg\:mb-4\:visited:visited {
+    margin-bottom: 1rem;
+  }
+
+  .lg\:mb-5 {
+    margin-bottom: 1.25rem;
+  }
+
+  .lg\:mb-5\:active:active {
+    margin-bottom: 1.25rem;
+  }
+
+  .lg\:mb-5\:checked:checked {
+    margin-bottom: 1.25rem;
+  }
+
+  .lg\:mb-5\:disabled:disabled {
+    margin-bottom: 1.25rem;
+  }
+
+  .lg\:mb-5\:focus:focus {
+    margin-bottom: 1.25rem;
+  }
+
+  .lg\:mb-5\:hover:hover {
+    margin-bottom: 1.25rem;
+  }
+
+  .lg\:mb-5\:required:required {
+    margin-bottom: 1.25rem;
+  }
+
+  .lg\:mb-5\:visited:visited {
+    margin-bottom: 1.25rem;
+  }
+
+  .lg\:mb-6 {
+    margin-bottom: 1.5rem;
+  }
+
+  .lg\:mb-6\:active:active {
+    margin-bottom: 1.5rem;
+  }
+
+  .lg\:mb-6\:checked:checked {
+    margin-bottom: 1.5rem;
+  }
+
+  .lg\:mb-6\:disabled:disabled {
+    margin-bottom: 1.5rem;
+  }
+
+  .lg\:mb-6\:focus:focus {
+    margin-bottom: 1.5rem;
+  }
+
+  .lg\:mb-6\:hover:hover {
+    margin-bottom: 1.5rem;
+  }
+
+  .lg\:mb-6\:required:required {
+    margin-bottom: 1.5rem;
+  }
+
+  .lg\:mb-6\:visited:visited {
+    margin-bottom: 1.5rem;
+  }
+
+  .lg\:mb-7 {
+    margin-bottom: 1.75rem;
+  }
+
+  .lg\:mb-7\:active:active {
+    margin-bottom: 1.75rem;
+  }
+
+  .lg\:mb-7\:checked:checked {
+    margin-bottom: 1.75rem;
+  }
+
+  .lg\:mb-7\:disabled:disabled {
+    margin-bottom: 1.75rem;
+  }
+
+  .lg\:mb-7\:focus:focus {
+    margin-bottom: 1.75rem;
+  }
+
+  .lg\:mb-7\:hover:hover {
+    margin-bottom: 1.75rem;
+  }
+
+  .lg\:mb-7\:required:required {
+    margin-bottom: 1.75rem;
+  }
+
+  .lg\:mb-7\:visited:visited {
+    margin-bottom: 1.75rem;
+  }
+
+  .lg\:mb-8 {
+    margin-bottom: 2rem;
+  }
+
+  .lg\:mb-8\:active:active {
+    margin-bottom: 2rem;
+  }
+
+  .lg\:mb-8\:checked:checked {
+    margin-bottom: 2rem;
+  }
+
+  .lg\:mb-8\:disabled:disabled {
+    margin-bottom: 2rem;
+  }
+
+  .lg\:mb-8\:focus:focus {
+    margin-bottom: 2rem;
+  }
+
+  .lg\:mb-8\:hover:hover {
+    margin-bottom: 2rem;
+  }
+
+  .lg\:mb-8\:required:required {
+    margin-bottom: 2rem;
+  }
+
+  .lg\:mb-8\:visited:visited {
+    margin-bottom: 2rem;
+  }
+
+  .lg\:mb-9 {
+    margin-bottom: 2.25rem;
+  }
+
+  .lg\:mb-9\:active:active {
+    margin-bottom: 2.25rem;
+  }
+
+  .lg\:mb-9\:checked:checked {
+    margin-bottom: 2.25rem;
+  }
+
+  .lg\:mb-9\:disabled:disabled {
+    margin-bottom: 2.25rem;
+  }
+
+  .lg\:mb-9\:focus:focus {
+    margin-bottom: 2.25rem;
+  }
+
+  .lg\:mb-9\:hover:hover {
+    margin-bottom: 2.25rem;
+  }
+
+  .lg\:mb-9\:required:required {
+    margin-bottom: 2.25rem;
+  }
+
+  .lg\:mb-9\:visited:visited {
+    margin-bottom: 2.25rem;
+  }
+
+  .lg\:mb-10 {
+    margin-bottom: 2.5rem;
+  }
+
+  .lg\:mb-10\:active:active {
+    margin-bottom: 2.5rem;
+  }
+
+  .lg\:mb-10\:checked:checked {
+    margin-bottom: 2.5rem;
+  }
+
+  .lg\:mb-10\:disabled:disabled {
+    margin-bottom: 2.5rem;
+  }
+
+  .lg\:mb-10\:focus:focus {
+    margin-bottom: 2.5rem;
+  }
+
+  .lg\:mb-10\:hover:hover {
+    margin-bottom: 2.5rem;
+  }
+
+  .lg\:mb-10\:required:required {
+    margin-bottom: 2.5rem;
+  }
+
+  .lg\:mb-10\:visited:visited {
+    margin-bottom: 2.5rem;
+  }
+
+  .lg\:mb-11 {
+    margin-bottom: 2.75rem;
+  }
+
+  .lg\:mb-11\:active:active {
+    margin-bottom: 2.75rem;
+  }
+
+  .lg\:mb-11\:checked:checked {
+    margin-bottom: 2.75rem;
+  }
+
+  .lg\:mb-11\:disabled:disabled {
+    margin-bottom: 2.75rem;
+  }
+
+  .lg\:mb-11\:focus:focus {
+    margin-bottom: 2.75rem;
+  }
+
+  .lg\:mb-11\:hover:hover {
+    margin-bottom: 2.75rem;
+  }
+
+  .lg\:mb-11\:required:required {
+    margin-bottom: 2.75rem;
+  }
+
+  .lg\:mb-11\:visited:visited {
+    margin-bottom: 2.75rem;
+  }
+
+  .lg\:mb-12 {
+    margin-bottom: 3rem;
+  }
+
+  .lg\:mb-12\:active:active {
+    margin-bottom: 3rem;
+  }
+
+  .lg\:mb-12\:checked:checked {
+    margin-bottom: 3rem;
+  }
+
+  .lg\:mb-12\:disabled:disabled {
+    margin-bottom: 3rem;
+  }
+
+  .lg\:mb-12\:focus:focus {
+    margin-bottom: 3rem;
+  }
+
+  .lg\:mb-12\:hover:hover {
+    margin-bottom: 3rem;
+  }
+
+  .lg\:mb-12\:required:required {
+    margin-bottom: 3rem;
+  }
+
+  .lg\:mb-12\:visited:visited {
+    margin-bottom: 3rem;
+  }
+
+  .lg\:mb-14 {
+    margin-bottom: 3.5rem;
+  }
+
+  .lg\:mb-14\:active:active {
+    margin-bottom: 3.5rem;
+  }
+
+  .lg\:mb-14\:checked:checked {
+    margin-bottom: 3.5rem;
+  }
+
+  .lg\:mb-14\:disabled:disabled {
+    margin-bottom: 3.5rem;
+  }
+
+  .lg\:mb-14\:focus:focus {
+    margin-bottom: 3.5rem;
+  }
+
+  .lg\:mb-14\:hover:hover {
+    margin-bottom: 3.5rem;
+  }
+
+  .lg\:mb-14\:required:required {
+    margin-bottom: 3.5rem;
+  }
+
+  .lg\:mb-14\:visited:visited {
+    margin-bottom: 3.5rem;
+  }
+
+  .lg\:mb-16 {
+    margin-bottom: 4rem;
+  }
+
+  .lg\:mb-16\:active:active {
+    margin-bottom: 4rem;
+  }
+
+  .lg\:mb-16\:checked:checked {
+    margin-bottom: 4rem;
+  }
+
+  .lg\:mb-16\:disabled:disabled {
+    margin-bottom: 4rem;
+  }
+
+  .lg\:mb-16\:focus:focus {
+    margin-bottom: 4rem;
+  }
+
+  .lg\:mb-16\:hover:hover {
+    margin-bottom: 4rem;
+  }
+
+  .lg\:mb-16\:required:required {
+    margin-bottom: 4rem;
+  }
+
+  .lg\:mb-16\:visited:visited {
+    margin-bottom: 4rem;
+  }
+
+  .lg\:mb-20 {
+    margin-bottom: 5rem;
+  }
+
+  .lg\:mb-20\:active:active {
+    margin-bottom: 5rem;
+  }
+
+  .lg\:mb-20\:checked:checked {
+    margin-bottom: 5rem;
+  }
+
+  .lg\:mb-20\:disabled:disabled {
+    margin-bottom: 5rem;
+  }
+
+  .lg\:mb-20\:focus:focus {
+    margin-bottom: 5rem;
+  }
+
+  .lg\:mb-20\:hover:hover {
+    margin-bottom: 5rem;
+  }
+
+  .lg\:mb-20\:required:required {
+    margin-bottom: 5rem;
+  }
+
+  .lg\:mb-20\:visited:visited {
+    margin-bottom: 5rem;
+  }
+
+  .lg\:mb-24 {
+    margin-bottom: 6rem;
+  }
+
+  .lg\:mb-24\:active:active {
+    margin-bottom: 6rem;
+  }
+
+  .lg\:mb-24\:checked:checked {
+    margin-bottom: 6rem;
+  }
+
+  .lg\:mb-24\:disabled:disabled {
+    margin-bottom: 6rem;
+  }
+
+  .lg\:mb-24\:focus:focus {
+    margin-bottom: 6rem;
+  }
+
+  .lg\:mb-24\:hover:hover {
+    margin-bottom: 6rem;
+  }
+
+  .lg\:mb-24\:required:required {
+    margin-bottom: 6rem;
+  }
+
+  .lg\:mb-24\:visited:visited {
+    margin-bottom: 6rem;
+  }
+
+  .lg\:mb-28 {
+    margin-bottom: 7rem;
+  }
+
+  .lg\:mb-28\:active:active {
+    margin-bottom: 7rem;
+  }
+
+  .lg\:mb-28\:checked:checked {
+    margin-bottom: 7rem;
+  }
+
+  .lg\:mb-28\:disabled:disabled {
+    margin-bottom: 7rem;
+  }
+
+  .lg\:mb-28\:focus:focus {
+    margin-bottom: 7rem;
+  }
+
+  .lg\:mb-28\:hover:hover {
+    margin-bottom: 7rem;
+  }
+
+  .lg\:mb-28\:required:required {
+    margin-bottom: 7rem;
+  }
+
+  .lg\:mb-28\:visited:visited {
+    margin-bottom: 7rem;
+  }
+
+  .lg\:mb-32 {
+    margin-bottom: 8rem;
+  }
+
+  .lg\:mb-32\:active:active {
+    margin-bottom: 8rem;
+  }
+
+  .lg\:mb-32\:checked:checked {
+    margin-bottom: 8rem;
+  }
+
+  .lg\:mb-32\:disabled:disabled {
+    margin-bottom: 8rem;
+  }
+
+  .lg\:mb-32\:focus:focus {
+    margin-bottom: 8rem;
+  }
+
+  .lg\:mb-32\:hover:hover {
+    margin-bottom: 8rem;
+  }
+
+  .lg\:mb-32\:required:required {
+    margin-bottom: 8rem;
+  }
+
+  .lg\:mb-32\:visited:visited {
+    margin-bottom: 8rem;
+  }
+
+  .lg\:mb-36 {
+    margin-bottom: 9rem;
+  }
+
+  .lg\:mb-36\:active:active {
+    margin-bottom: 9rem;
+  }
+
+  .lg\:mb-36\:checked:checked {
+    margin-bottom: 9rem;
+  }
+
+  .lg\:mb-36\:disabled:disabled {
+    margin-bottom: 9rem;
+  }
+
+  .lg\:mb-36\:focus:focus {
+    margin-bottom: 9rem;
+  }
+
+  .lg\:mb-36\:hover:hover {
+    margin-bottom: 9rem;
+  }
+
+  .lg\:mb-36\:required:required {
+    margin-bottom: 9rem;
+  }
+
+  .lg\:mb-36\:visited:visited {
+    margin-bottom: 9rem;
+  }
+
+  .lg\:mb-40 {
+    margin-bottom: 10rem;
+  }
+
+  .lg\:mb-40\:active:active {
+    margin-bottom: 10rem;
+  }
+
+  .lg\:mb-40\:checked:checked {
+    margin-bottom: 10rem;
+  }
+
+  .lg\:mb-40\:disabled:disabled {
+    margin-bottom: 10rem;
+  }
+
+  .lg\:mb-40\:focus:focus {
+    margin-bottom: 10rem;
+  }
+
+  .lg\:mb-40\:hover:hover {
+    margin-bottom: 10rem;
+  }
+
+  .lg\:mb-40\:required:required {
+    margin-bottom: 10rem;
+  }
+
+  .lg\:mb-40\:visited:visited {
+    margin-bottom: 10rem;
+  }
+
+  .lg\:mb-44 {
+    margin-bottom: 11rem;
+  }
+
+  .lg\:mb-44\:active:active {
+    margin-bottom: 11rem;
+  }
+
+  .lg\:mb-44\:checked:checked {
+    margin-bottom: 11rem;
+  }
+
+  .lg\:mb-44\:disabled:disabled {
+    margin-bottom: 11rem;
+  }
+
+  .lg\:mb-44\:focus:focus {
+    margin-bottom: 11rem;
+  }
+
+  .lg\:mb-44\:hover:hover {
+    margin-bottom: 11rem;
+  }
+
+  .lg\:mb-44\:required:required {
+    margin-bottom: 11rem;
+  }
+
+  .lg\:mb-44\:visited:visited {
+    margin-bottom: 11rem;
+  }
+
+  .lg\:mb-48 {
+    margin-bottom: 12rem;
+  }
+
+  .lg\:mb-48\:active:active {
+    margin-bottom: 12rem;
+  }
+
+  .lg\:mb-48\:checked:checked {
+    margin-bottom: 12rem;
+  }
+
+  .lg\:mb-48\:disabled:disabled {
+    margin-bottom: 12rem;
+  }
+
+  .lg\:mb-48\:focus:focus {
+    margin-bottom: 12rem;
+  }
+
+  .lg\:mb-48\:hover:hover {
+    margin-bottom: 12rem;
+  }
+
+  .lg\:mb-48\:required:required {
+    margin-bottom: 12rem;
+  }
+
+  .lg\:mb-48\:visited:visited {
+    margin-bottom: 12rem;
+  }
+
+  .lg\:mb-52 {
+    margin-bottom: 13rem;
+  }
+
+  .lg\:mb-52\:active:active {
+    margin-bottom: 13rem;
+  }
+
+  .lg\:mb-52\:checked:checked {
+    margin-bottom: 13rem;
+  }
+
+  .lg\:mb-52\:disabled:disabled {
+    margin-bottom: 13rem;
+  }
+
+  .lg\:mb-52\:focus:focus {
+    margin-bottom: 13rem;
+  }
+
+  .lg\:mb-52\:hover:hover {
+    margin-bottom: 13rem;
+  }
+
+  .lg\:mb-52\:required:required {
+    margin-bottom: 13rem;
+  }
+
+  .lg\:mb-52\:visited:visited {
+    margin-bottom: 13rem;
+  }
+
+  .lg\:mb-56 {
+    margin-bottom: 14rem;
+  }
+
+  .lg\:mb-56\:active:active {
+    margin-bottom: 14rem;
+  }
+
+  .lg\:mb-56\:checked:checked {
+    margin-bottom: 14rem;
+  }
+
+  .lg\:mb-56\:disabled:disabled {
+    margin-bottom: 14rem;
+  }
+
+  .lg\:mb-56\:focus:focus {
+    margin-bottom: 14rem;
+  }
+
+  .lg\:mb-56\:hover:hover {
+    margin-bottom: 14rem;
+  }
+
+  .lg\:mb-56\:required:required {
+    margin-bottom: 14rem;
+  }
+
+  .lg\:mb-56\:visited:visited {
+    margin-bottom: 14rem;
+  }
+
+  .lg\:mb-60 {
+    margin-bottom: 15rem;
+  }
+
+  .lg\:mb-60\:active:active {
+    margin-bottom: 15rem;
+  }
+
+  .lg\:mb-60\:checked:checked {
+    margin-bottom: 15rem;
+  }
+
+  .lg\:mb-60\:disabled:disabled {
+    margin-bottom: 15rem;
+  }
+
+  .lg\:mb-60\:focus:focus {
+    margin-bottom: 15rem;
+  }
+
+  .lg\:mb-60\:hover:hover {
+    margin-bottom: 15rem;
+  }
+
+  .lg\:mb-60\:required:required {
+    margin-bottom: 15rem;
+  }
+
+  .lg\:mb-60\:visited:visited {
+    margin-bottom: 15rem;
+  }
+
+  .lg\:mb-64 {
+    margin-bottom: 16rem;
+  }
+
+  .lg\:mb-64\:active:active {
+    margin-bottom: 16rem;
+  }
+
+  .lg\:mb-64\:checked:checked {
+    margin-bottom: 16rem;
+  }
+
+  .lg\:mb-64\:disabled:disabled {
+    margin-bottom: 16rem;
+  }
+
+  .lg\:mb-64\:focus:focus {
+    margin-bottom: 16rem;
+  }
+
+  .lg\:mb-64\:hover:hover {
+    margin-bottom: 16rem;
+  }
+
+  .lg\:mb-64\:required:required {
+    margin-bottom: 16rem;
+  }
+
+  .lg\:mb-64\:visited:visited {
+    margin-bottom: 16rem;
+  }
+
+  .lg\:mb-72 {
+    margin-bottom: 18rem;
+  }
+
+  .lg\:mb-72\:active:active {
+    margin-bottom: 18rem;
+  }
+
+  .lg\:mb-72\:checked:checked {
+    margin-bottom: 18rem;
+  }
+
+  .lg\:mb-72\:disabled:disabled {
+    margin-bottom: 18rem;
+  }
+
+  .lg\:mb-72\:focus:focus {
+    margin-bottom: 18rem;
+  }
+
+  .lg\:mb-72\:hover:hover {
+    margin-bottom: 18rem;
+  }
+
+  .lg\:mb-72\:required:required {
+    margin-bottom: 18rem;
+  }
+
+  .lg\:mb-72\:visited:visited {
+    margin-bottom: 18rem;
+  }
+
+  .lg\:mb-80 {
+    margin-bottom: 20rem;
+  }
+
+  .lg\:mb-80\:active:active {
+    margin-bottom: 20rem;
+  }
+
+  .lg\:mb-80\:checked:checked {
+    margin-bottom: 20rem;
+  }
+
+  .lg\:mb-80\:disabled:disabled {
+    margin-bottom: 20rem;
+  }
+
+  .lg\:mb-80\:focus:focus {
+    margin-bottom: 20rem;
+  }
+
+  .lg\:mb-80\:hover:hover {
+    margin-bottom: 20rem;
+  }
+
+  .lg\:mb-80\:required:required {
+    margin-bottom: 20rem;
+  }
+
+  .lg\:mb-80\:visited:visited {
+    margin-bottom: 20rem;
+  }
+
+  .lg\:mb-96 {
+    margin-bottom: 24rem;
+  }
+
+  .lg\:mb-96\:active:active {
+    margin-bottom: 24rem;
+  }
+
+  .lg\:mb-96\:checked:checked {
+    margin-bottom: 24rem;
+  }
+
+  .lg\:mb-96\:disabled:disabled {
+    margin-bottom: 24rem;
+  }
+
+  .lg\:mb-96\:focus:focus {
+    margin-bottom: 24rem;
+  }
+
+  .lg\:mb-96\:hover:hover {
+    margin-bottom: 24rem;
+  }
+
+  .lg\:mb-96\:required:required {
+    margin-bottom: 24rem;
+  }
+
+  .lg\:mb-96\:visited:visited {
+    margin-bottom: 24rem;
+  }
+
+  .lg\:mb-auto {
+    margin-bottom: auto;
+  }
+
+  .lg\:mb-auto\:active:active {
+    margin-bottom: auto;
+  }
+
+  .lg\:mb-auto\:checked:checked {
+    margin-bottom: auto;
+  }
+
+  .lg\:mb-auto\:disabled:disabled {
+    margin-bottom: auto;
+  }
+
+  .lg\:mb-auto\:focus:focus {
+    margin-bottom: auto;
+  }
+
+  .lg\:mb-auto\:hover:hover {
+    margin-bottom: auto;
+  }
+
+  .lg\:mb-auto\:required:required {
+    margin-bottom: auto;
+  }
+
+  .lg\:mb-auto\:visited:visited {
+    margin-bottom: auto;
+  }
+}

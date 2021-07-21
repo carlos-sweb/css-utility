@@ -1,0 +1,26 @@
+@import "../screen.scss";
+@import "../state.scss";
+@each $key, $value in (justify-self-auto:'auto',justify-self-start:'start',justify-self-end:'end',justify-self-center:'center',justify-self-stretch:'stretch'){
+	.#{$key}{
+		justify-self:#{$value};
+	}
+ @each $valueState in $state{
+	.#{$key}\:#{$valueState}:#{$valueState}{
+		justify-self:#{$value};
+	}
+ }
+};
+@each $sizeScreen, $pixel in $screen{
+	@media (min-width: #{map-get($pixel,min)}#{px}) and (max-width: #{map-get($pixel,max)}#{px}){
+		@each $key, $value in (justify-self-auto:'auto',justify-self-start:'start',justify-self-end:'end',justify-self-center:'center',justify-self-stretch:'stretch'){
+			.#{$sizeScreen}\:#{$key}{
+				justify-self:#{$value};
+			}
+      @each $valueState in $state{
+	     .#{$sizeScreen}\:#{$key}\:#{$valueState}:#{$valueState}{
+		     justify-self:#{$value};
+	     }
+      }
+		}
+	}
+}

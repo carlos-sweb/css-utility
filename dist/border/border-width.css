@@ -1,0 +1,804 @@
+.border-0 {
+  border-width: 0px;
+}
+
+.border-0\:active:active {
+  border-width: 0px;
+}
+
+.border-0\:checked:checked {
+  border-width: 0px;
+}
+
+.border-0\:disabled:disabled {
+  border-width: 0px;
+}
+
+.border-0\:focus:focus {
+  border-width: 0px;
+}
+
+.border-0\:hover:hover {
+  border-width: 0px;
+}
+
+.border-0\:required:required {
+  border-width: 0px;
+}
+
+.border-0\:visited:visited {
+  border-width: 0px;
+}
+
+.border-2 {
+  border-width: 2px;
+}
+
+.border-2\:active:active {
+  border-width: 2px;
+}
+
+.border-2\:checked:checked {
+  border-width: 2px;
+}
+
+.border-2\:disabled:disabled {
+  border-width: 2px;
+}
+
+.border-2\:focus:focus {
+  border-width: 2px;
+}
+
+.border-2\:hover:hover {
+  border-width: 2px;
+}
+
+.border-2\:required:required {
+  border-width: 2px;
+}
+
+.border-2\:visited:visited {
+  border-width: 2px;
+}
+
+.border-4 {
+  border-width: 4px;
+}
+
+.border-4\:active:active {
+  border-width: 4px;
+}
+
+.border-4\:checked:checked {
+  border-width: 4px;
+}
+
+.border-4\:disabled:disabled {
+  border-width: 4px;
+}
+
+.border-4\:focus:focus {
+  border-width: 4px;
+}
+
+.border-4\:hover:hover {
+  border-width: 4px;
+}
+
+.border-4\:required:required {
+  border-width: 4px;
+}
+
+.border-4\:visited:visited {
+  border-width: 4px;
+}
+
+.border-8 {
+  border-width: 8px;
+}
+
+.border-8\:active:active {
+  border-width: 8px;
+}
+
+.border-8\:checked:checked {
+  border-width: 8px;
+}
+
+.border-8\:disabled:disabled {
+  border-width: 8px;
+}
+
+.border-8\:focus:focus {
+  border-width: 8px;
+}
+
+.border-8\:hover:hover {
+  border-width: 8px;
+}
+
+.border-8\:required:required {
+  border-width: 8px;
+}
+
+.border-8\:visited:visited {
+  border-width: 8px;
+}
+
+.border {
+  border-width: 1px;
+}
+
+.border\:active:active {
+  border-width: 1px;
+}
+
+.border\:checked:checked {
+  border-width: 1px;
+}
+
+.border\:disabled:disabled {
+  border-width: 1px;
+}
+
+.border\:focus:focus {
+  border-width: 1px;
+}
+
+.border\:hover:hover {
+  border-width: 1px;
+}
+
+.border\:required:required {
+  border-width: 1px;
+}
+
+.border\:visited:visited {
+  border-width: 1px;
+}
+
+@media (min-width: 0px) and (max-width: 639px) {
+  .xs\:border-0 {
+    border-width: 0px;
+  }
+
+  .xs\:border-0\:active:active {
+    border-width: 0px;
+  }
+
+  .xs\:border-0\:checked:checked {
+    border-width: 0px;
+  }
+
+  .xs\:border-0\:disabled:disabled {
+    border-width: 0px;
+  }
+
+  .xs\:border-0\:focus:focus {
+    border-width: 0px;
+  }
+
+  .xs\:border-0\:hover:hover {
+    border-width: 0px;
+  }
+
+  .xs\:border-0\:required:required {
+    border-width: 0px;
+  }
+
+  .xs\:border-0\:visited:visited {
+    border-width: 0px;
+  }
+
+  .xs\:border-2 {
+    border-width: 2px;
+  }
+
+  .xs\:border-2\:active:active {
+    border-width: 2px;
+  }
+
+  .xs\:border-2\:checked:checked {
+    border-width: 2px;
+  }
+
+  .xs\:border-2\:disabled:disabled {
+    border-width: 2px;
+  }
+
+  .xs\:border-2\:focus:focus {
+    border-width: 2px;
+  }
+
+  .xs\:border-2\:hover:hover {
+    border-width: 2px;
+  }
+
+  .xs\:border-2\:required:required {
+    border-width: 2px;
+  }
+
+  .xs\:border-2\:visited:visited {
+    border-width: 2px;
+  }
+
+  .xs\:border-4 {
+    border-width: 4px;
+  }
+
+  .xs\:border-4\:active:active {
+    border-width: 4px;
+  }
+
+  .xs\:border-4\:checked:checked {
+    border-width: 4px;
+  }
+
+  .xs\:border-4\:disabled:disabled {
+    border-width: 4px;
+  }
+
+  .xs\:border-4\:focus:focus {
+    border-width: 4px;
+  }
+
+  .xs\:border-4\:hover:hover {
+    border-width: 4px;
+  }
+
+  .xs\:border-4\:required:required {
+    border-width: 4px;
+  }
+
+  .xs\:border-4\:visited:visited {
+    border-width: 4px;
+  }
+
+  .xs\:border-8 {
+    border-width: 8px;
+  }
+
+  .xs\:border-8\:active:active {
+    border-width: 8px;
+  }
+
+  .xs\:border-8\:checked:checked {
+    border-width: 8px;
+  }
+
+  .xs\:border-8\:disabled:disabled {
+    border-width: 8px;
+  }
+
+  .xs\:border-8\:focus:focus {
+    border-width: 8px;
+  }
+
+  .xs\:border-8\:hover:hover {
+    border-width: 8px;
+  }
+
+  .xs\:border-8\:required:required {
+    border-width: 8px;
+  }
+
+  .xs\:border-8\:visited:visited {
+    border-width: 8px;
+  }
+
+  .xs\:border {
+    border-width: 1px;
+  }
+
+  .xs\:border\:active:active {
+    border-width: 1px;
+  }
+
+  .xs\:border\:checked:checked {
+    border-width: 1px;
+  }
+
+  .xs\:border\:disabled:disabled {
+    border-width: 1px;
+  }
+
+  .xs\:border\:focus:focus {
+    border-width: 1px;
+  }
+
+  .xs\:border\:hover:hover {
+    border-width: 1px;
+  }
+
+  .xs\:border\:required:required {
+    border-width: 1px;
+  }
+
+  .xs\:border\:visited:visited {
+    border-width: 1px;
+  }
+}
+@media (min-width: 640px) and (max-width: 767px) {
+  .sm\:border-0 {
+    border-width: 0px;
+  }
+
+  .sm\:border-0\:active:active {
+    border-width: 0px;
+  }
+
+  .sm\:border-0\:checked:checked {
+    border-width: 0px;
+  }
+
+  .sm\:border-0\:disabled:disabled {
+    border-width: 0px;
+  }
+
+  .sm\:border-0\:focus:focus {
+    border-width: 0px;
+  }
+
+  .sm\:border-0\:hover:hover {
+    border-width: 0px;
+  }
+
+  .sm\:border-0\:required:required {
+    border-width: 0px;
+  }
+
+  .sm\:border-0\:visited:visited {
+    border-width: 0px;
+  }
+
+  .sm\:border-2 {
+    border-width: 2px;
+  }
+
+  .sm\:border-2\:active:active {
+    border-width: 2px;
+  }
+
+  .sm\:border-2\:checked:checked {
+    border-width: 2px;
+  }
+
+  .sm\:border-2\:disabled:disabled {
+    border-width: 2px;
+  }
+
+  .sm\:border-2\:focus:focus {
+    border-width: 2px;
+  }
+
+  .sm\:border-2\:hover:hover {
+    border-width: 2px;
+  }
+
+  .sm\:border-2\:required:required {
+    border-width: 2px;
+  }
+
+  .sm\:border-2\:visited:visited {
+    border-width: 2px;
+  }
+
+  .sm\:border-4 {
+    border-width: 4px;
+  }
+
+  .sm\:border-4\:active:active {
+    border-width: 4px;
+  }
+
+  .sm\:border-4\:checked:checked {
+    border-width: 4px;
+  }
+
+  .sm\:border-4\:disabled:disabled {
+    border-width: 4px;
+  }
+
+  .sm\:border-4\:focus:focus {
+    border-width: 4px;
+  }
+
+  .sm\:border-4\:hover:hover {
+    border-width: 4px;
+  }
+
+  .sm\:border-4\:required:required {
+    border-width: 4px;
+  }
+
+  .sm\:border-4\:visited:visited {
+    border-width: 4px;
+  }
+
+  .sm\:border-8 {
+    border-width: 8px;
+  }
+
+  .sm\:border-8\:active:active {
+    border-width: 8px;
+  }
+
+  .sm\:border-8\:checked:checked {
+    border-width: 8px;
+  }
+
+  .sm\:border-8\:disabled:disabled {
+    border-width: 8px;
+  }
+
+  .sm\:border-8\:focus:focus {
+    border-width: 8px;
+  }
+
+  .sm\:border-8\:hover:hover {
+    border-width: 8px;
+  }
+
+  .sm\:border-8\:required:required {
+    border-width: 8px;
+  }
+
+  .sm\:border-8\:visited:visited {
+    border-width: 8px;
+  }
+
+  .sm\:border {
+    border-width: 1px;
+  }
+
+  .sm\:border\:active:active {
+    border-width: 1px;
+  }
+
+  .sm\:border\:checked:checked {
+    border-width: 1px;
+  }
+
+  .sm\:border\:disabled:disabled {
+    border-width: 1px;
+  }
+
+  .sm\:border\:focus:focus {
+    border-width: 1px;
+  }
+
+  .sm\:border\:hover:hover {
+    border-width: 1px;
+  }
+
+  .sm\:border\:required:required {
+    border-width: 1px;
+  }
+
+  .sm\:border\:visited:visited {
+    border-width: 1px;
+  }
+}
+@media (min-width: 768px) and (max-width: 1023px) {
+  .md\:border-0 {
+    border-width: 0px;
+  }
+
+  .md\:border-0\:active:active {
+    border-width: 0px;
+  }
+
+  .md\:border-0\:checked:checked {
+    border-width: 0px;
+  }
+
+  .md\:border-0\:disabled:disabled {
+    border-width: 0px;
+  }
+
+  .md\:border-0\:focus:focus {
+    border-width: 0px;
+  }
+
+  .md\:border-0\:hover:hover {
+    border-width: 0px;
+  }
+
+  .md\:border-0\:required:required {
+    border-width: 0px;
+  }
+
+  .md\:border-0\:visited:visited {
+    border-width: 0px;
+  }
+
+  .md\:border-2 {
+    border-width: 2px;
+  }
+
+  .md\:border-2\:active:active {
+    border-width: 2px;
+  }
+
+  .md\:border-2\:checked:checked {
+    border-width: 2px;
+  }
+
+  .md\:border-2\:disabled:disabled {
+    border-width: 2px;
+  }
+
+  .md\:border-2\:focus:focus {
+    border-width: 2px;
+  }
+
+  .md\:border-2\:hover:hover {
+    border-width: 2px;
+  }
+
+  .md\:border-2\:required:required {
+    border-width: 2px;
+  }
+
+  .md\:border-2\:visited:visited {
+    border-width: 2px;
+  }
+
+  .md\:border-4 {
+    border-width: 4px;
+  }
+
+  .md\:border-4\:active:active {
+    border-width: 4px;
+  }
+
+  .md\:border-4\:checked:checked {
+    border-width: 4px;
+  }
+
+  .md\:border-4\:disabled:disabled {
+    border-width: 4px;
+  }
+
+  .md\:border-4\:focus:focus {
+    border-width: 4px;
+  }
+
+  .md\:border-4\:hover:hover {
+    border-width: 4px;
+  }
+
+  .md\:border-4\:required:required {
+    border-width: 4px;
+  }
+
+  .md\:border-4\:visited:visited {
+    border-width: 4px;
+  }
+
+  .md\:border-8 {
+    border-width: 8px;
+  }
+
+  .md\:border-8\:active:active {
+    border-width: 8px;
+  }
+
+  .md\:border-8\:checked:checked {
+    border-width: 8px;
+  }
+
+  .md\:border-8\:disabled:disabled {
+    border-width: 8px;
+  }
+
+  .md\:border-8\:focus:focus {
+    border-width: 8px;
+  }
+
+  .md\:border-8\:hover:hover {
+    border-width: 8px;
+  }
+
+  .md\:border-8\:required:required {
+    border-width: 8px;
+  }
+
+  .md\:border-8\:visited:visited {
+    border-width: 8px;
+  }
+
+  .md\:border {
+    border-width: 1px;
+  }
+
+  .md\:border\:active:active {
+    border-width: 1px;
+  }
+
+  .md\:border\:checked:checked {
+    border-width: 1px;
+  }
+
+  .md\:border\:disabled:disabled {
+    border-width: 1px;
+  }
+
+  .md\:border\:focus:focus {
+    border-width: 1px;
+  }
+
+  .md\:border\:hover:hover {
+    border-width: 1px;
+  }
+
+  .md\:border\:required:required {
+    border-width: 1px;
+  }
+
+  .md\:border\:visited:visited {
+    border-width: 1px;
+  }
+}
+@media (min-width: 1024px) and (max-width: 2000px) {
+  .lg\:border-0 {
+    border-width: 0px;
+  }
+
+  .lg\:border-0\:active:active {
+    border-width: 0px;
+  }
+
+  .lg\:border-0\:checked:checked {
+    border-width: 0px;
+  }
+
+  .lg\:border-0\:disabled:disabled {
+    border-width: 0px;
+  }
+
+  .lg\:border-0\:focus:focus {
+    border-width: 0px;
+  }
+
+  .lg\:border-0\:hover:hover {
+    border-width: 0px;
+  }
+
+  .lg\:border-0\:required:required {
+    border-width: 0px;
+  }
+
+  .lg\:border-0\:visited:visited {
+    border-width: 0px;
+  }
+
+  .lg\:border-2 {
+    border-width: 2px;
+  }
+
+  .lg\:border-2\:active:active {
+    border-width: 2px;
+  }
+
+  .lg\:border-2\:checked:checked {
+    border-width: 2px;
+  }
+
+  .lg\:border-2\:disabled:disabled {
+    border-width: 2px;
+  }
+
+  .lg\:border-2\:focus:focus {
+    border-width: 2px;
+  }
+
+  .lg\:border-2\:hover:hover {
+    border-width: 2px;
+  }
+
+  .lg\:border-2\:required:required {
+    border-width: 2px;
+  }
+
+  .lg\:border-2\:visited:visited {
+    border-width: 2px;
+  }
+
+  .lg\:border-4 {
+    border-width: 4px;
+  }
+
+  .lg\:border-4\:active:active {
+    border-width: 4px;
+  }
+
+  .lg\:border-4\:checked:checked {
+    border-width: 4px;
+  }
+
+  .lg\:border-4\:disabled:disabled {
+    border-width: 4px;
+  }
+
+  .lg\:border-4\:focus:focus {
+    border-width: 4px;
+  }
+
+  .lg\:border-4\:hover:hover {
+    border-width: 4px;
+  }
+
+  .lg\:border-4\:required:required {
+    border-width: 4px;
+  }
+
+  .lg\:border-4\:visited:visited {
+    border-width: 4px;
+  }
+
+  .lg\:border-8 {
+    border-width: 8px;
+  }
+
+  .lg\:border-8\:active:active {
+    border-width: 8px;
+  }
+
+  .lg\:border-8\:checked:checked {
+    border-width: 8px;
+  }
+
+  .lg\:border-8\:disabled:disabled {
+    border-width: 8px;
+  }
+
+  .lg\:border-8\:focus:focus {
+    border-width: 8px;
+  }
+
+  .lg\:border-8\:hover:hover {
+    border-width: 8px;
+  }
+
+  .lg\:border-8\:required:required {
+    border-width: 8px;
+  }
+
+  .lg\:border-8\:visited:visited {
+    border-width: 8px;
+  }
+
+  .lg\:border {
+    border-width: 1px;
+  }
+
+  .lg\:border\:active:active {
+    border-width: 1px;
+  }
+
+  .lg\:border\:checked:checked {
+    border-width: 1px;
+  }
+
+  .lg\:border\:disabled:disabled {
+    border-width: 1px;
+  }
+
+  .lg\:border\:focus:focus {
+    border-width: 1px;
+  }
+
+  .lg\:border\:hover:hover {
+    border-width: 1px;
+  }
+
+  .lg\:border\:required:required {
+    border-width: 1px;
+  }
+
+  .lg\:border\:visited:visited {
+    border-width: 1px;
+  }
+}

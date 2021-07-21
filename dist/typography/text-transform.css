@@ -1,0 +1,644 @@
+.uppercase {
+  text-transform: uppercase;
+}
+
+.uppercase\:active:active {
+  text-transform: uppercase;
+}
+
+.uppercase\:checked:checked {
+  text-transform: uppercase;
+}
+
+.uppercase\:disabled:disabled {
+  text-transform: uppercase;
+}
+
+.uppercase\:focus:focus {
+  text-transform: uppercase;
+}
+
+.uppercase\:hover:hover {
+  text-transform: uppercase;
+}
+
+.uppercase\:required:required {
+  text-transform: uppercase;
+}
+
+.uppercase\:visited:visited {
+  text-transform: uppercase;
+}
+
+.lowercase {
+  text-transform: lowercase;
+}
+
+.lowercase\:active:active {
+  text-transform: lowercase;
+}
+
+.lowercase\:checked:checked {
+  text-transform: lowercase;
+}
+
+.lowercase\:disabled:disabled {
+  text-transform: lowercase;
+}
+
+.lowercase\:focus:focus {
+  text-transform: lowercase;
+}
+
+.lowercase\:hover:hover {
+  text-transform: lowercase;
+}
+
+.lowercase\:required:required {
+  text-transform: lowercase;
+}
+
+.lowercase\:visited:visited {
+  text-transform: lowercase;
+}
+
+.capitalize {
+  text-transform: capitalize;
+}
+
+.capitalize\:active:active {
+  text-transform: capitalize;
+}
+
+.capitalize\:checked:checked {
+  text-transform: capitalize;
+}
+
+.capitalize\:disabled:disabled {
+  text-transform: capitalize;
+}
+
+.capitalize\:focus:focus {
+  text-transform: capitalize;
+}
+
+.capitalize\:hover:hover {
+  text-transform: capitalize;
+}
+
+.capitalize\:required:required {
+  text-transform: capitalize;
+}
+
+.capitalize\:visited:visited {
+  text-transform: capitalize;
+}
+
+.normal-case {
+  text-transform: none;
+}
+
+.normal-case\:active:active {
+  text-transform: none;
+}
+
+.normal-case\:checked:checked {
+  text-transform: none;
+}
+
+.normal-case\:disabled:disabled {
+  text-transform: none;
+}
+
+.normal-case\:focus:focus {
+  text-transform: none;
+}
+
+.normal-case\:hover:hover {
+  text-transform: none;
+}
+
+.normal-case\:required:required {
+  text-transform: none;
+}
+
+.normal-case\:visited:visited {
+  text-transform: none;
+}
+
+@media (min-width: 0px) and (max-width: 639px) {
+  .xs\:uppercase {
+    text-transform: uppercase;
+  }
+
+  .xs\:uppercase\:active:active {
+    text-transform: uppercase;
+  }
+
+  .xs\:uppercase\:checked:checked {
+    text-transform: uppercase;
+  }
+
+  .xs\:uppercase\:disabled:disabled {
+    text-transform: uppercase;
+  }
+
+  .xs\:uppercase\:focus:focus {
+    text-transform: uppercase;
+  }
+
+  .xs\:uppercase\:hover:hover {
+    text-transform: uppercase;
+  }
+
+  .xs\:uppercase\:required:required {
+    text-transform: uppercase;
+  }
+
+  .xs\:uppercase\:visited:visited {
+    text-transform: uppercase;
+  }
+
+  .xs\:lowercase {
+    text-transform: lowercase;
+  }
+
+  .xs\:lowercase\:active:active {
+    text-transform: lowercase;
+  }
+
+  .xs\:lowercase\:checked:checked {
+    text-transform: lowercase;
+  }
+
+  .xs\:lowercase\:disabled:disabled {
+    text-transform: lowercase;
+  }
+
+  .xs\:lowercase\:focus:focus {
+    text-transform: lowercase;
+  }
+
+  .xs\:lowercase\:hover:hover {
+    text-transform: lowercase;
+  }
+
+  .xs\:lowercase\:required:required {
+    text-transform: lowercase;
+  }
+
+  .xs\:lowercase\:visited:visited {
+    text-transform: lowercase;
+  }
+
+  .xs\:capitalize {
+    text-transform: capitalize;
+  }
+
+  .xs\:capitalize\:active:active {
+    text-transform: capitalize;
+  }
+
+  .xs\:capitalize\:checked:checked {
+    text-transform: capitalize;
+  }
+
+  .xs\:capitalize\:disabled:disabled {
+    text-transform: capitalize;
+  }
+
+  .xs\:capitalize\:focus:focus {
+    text-transform: capitalize;
+  }
+
+  .xs\:capitalize\:hover:hover {
+    text-transform: capitalize;
+  }
+
+  .xs\:capitalize\:required:required {
+    text-transform: capitalize;
+  }
+
+  .xs\:capitalize\:visited:visited {
+    text-transform: capitalize;
+  }
+
+  .xs\:normal-case {
+    text-transform: none;
+  }
+
+  .xs\:normal-case\:active:active {
+    text-transform: none;
+  }
+
+  .xs\:normal-case\:checked:checked {
+    text-transform: none;
+  }
+
+  .xs\:normal-case\:disabled:disabled {
+    text-transform: none;
+  }
+
+  .xs\:normal-case\:focus:focus {
+    text-transform: none;
+  }
+
+  .xs\:normal-case\:hover:hover {
+    text-transform: none;
+  }
+
+  .xs\:normal-case\:required:required {
+    text-transform: none;
+  }
+
+  .xs\:normal-case\:visited:visited {
+    text-transform: none;
+  }
+}
+@media (min-width: 640px) and (max-width: 767px) {
+  .sm\:uppercase {
+    text-transform: uppercase;
+  }
+
+  .sm\:uppercase\:active:active {
+    text-transform: uppercase;
+  }
+
+  .sm\:uppercase\:checked:checked {
+    text-transform: uppercase;
+  }
+
+  .sm\:uppercase\:disabled:disabled {
+    text-transform: uppercase;
+  }
+
+  .sm\:uppercase\:focus:focus {
+    text-transform: uppercase;
+  }
+
+  .sm\:uppercase\:hover:hover {
+    text-transform: uppercase;
+  }
+
+  .sm\:uppercase\:required:required {
+    text-transform: uppercase;
+  }
+
+  .sm\:uppercase\:visited:visited {
+    text-transform: uppercase;
+  }
+
+  .sm\:lowercase {
+    text-transform: lowercase;
+  }
+
+  .sm\:lowercase\:active:active {
+    text-transform: lowercase;
+  }
+
+  .sm\:lowercase\:checked:checked {
+    text-transform: lowercase;
+  }
+
+  .sm\:lowercase\:disabled:disabled {
+    text-transform: lowercase;
+  }
+
+  .sm\:lowercase\:focus:focus {
+    text-transform: lowercase;
+  }
+
+  .sm\:lowercase\:hover:hover {
+    text-transform: lowercase;
+  }
+
+  .sm\:lowercase\:required:required {
+    text-transform: lowercase;
+  }
+
+  .sm\:lowercase\:visited:visited {
+    text-transform: lowercase;
+  }
+
+  .sm\:capitalize {
+    text-transform: capitalize;
+  }
+
+  .sm\:capitalize\:active:active {
+    text-transform: capitalize;
+  }
+
+  .sm\:capitalize\:checked:checked {
+    text-transform: capitalize;
+  }
+
+  .sm\:capitalize\:disabled:disabled {
+    text-transform: capitalize;
+  }
+
+  .sm\:capitalize\:focus:focus {
+    text-transform: capitalize;
+  }
+
+  .sm\:capitalize\:hover:hover {
+    text-transform: capitalize;
+  }
+
+  .sm\:capitalize\:required:required {
+    text-transform: capitalize;
+  }
+
+  .sm\:capitalize\:visited:visited {
+    text-transform: capitalize;
+  }
+
+  .sm\:normal-case {
+    text-transform: none;
+  }
+
+  .sm\:normal-case\:active:active {
+    text-transform: none;
+  }
+
+  .sm\:normal-case\:checked:checked {
+    text-transform: none;
+  }
+
+  .sm\:normal-case\:disabled:disabled {
+    text-transform: none;
+  }
+
+  .sm\:normal-case\:focus:focus {
+    text-transform: none;
+  }
+
+  .sm\:normal-case\:hover:hover {
+    text-transform: none;
+  }
+
+  .sm\:normal-case\:required:required {
+    text-transform: none;
+  }
+
+  .sm\:normal-case\:visited:visited {
+    text-transform: none;
+  }
+}
+@media (min-width: 768px) and (max-width: 1023px) {
+  .md\:uppercase {
+    text-transform: uppercase;
+  }
+
+  .md\:uppercase\:active:active {
+    text-transform: uppercase;
+  }
+
+  .md\:uppercase\:checked:checked {
+    text-transform: uppercase;
+  }
+
+  .md\:uppercase\:disabled:disabled {
+    text-transform: uppercase;
+  }
+
+  .md\:uppercase\:focus:focus {
+    text-transform: uppercase;
+  }
+
+  .md\:uppercase\:hover:hover {
+    text-transform: uppercase;
+  }
+
+  .md\:uppercase\:required:required {
+    text-transform: uppercase;
+  }
+
+  .md\:uppercase\:visited:visited {
+    text-transform: uppercase;
+  }
+
+  .md\:lowercase {
+    text-transform: lowercase;
+  }
+
+  .md\:lowercase\:active:active {
+    text-transform: lowercase;
+  }
+
+  .md\:lowercase\:checked:checked {
+    text-transform: lowercase;
+  }
+
+  .md\:lowercase\:disabled:disabled {
+    text-transform: lowercase;
+  }
+
+  .md\:lowercase\:focus:focus {
+    text-transform: lowercase;
+  }
+
+  .md\:lowercase\:hover:hover {
+    text-transform: lowercase;
+  }
+
+  .md\:lowercase\:required:required {
+    text-transform: lowercase;
+  }
+
+  .md\:lowercase\:visited:visited {
+    text-transform: lowercase;
+  }
+
+  .md\:capitalize {
+    text-transform: capitalize;
+  }
+
+  .md\:capitalize\:active:active {
+    text-transform: capitalize;
+  }
+
+  .md\:capitalize\:checked:checked {
+    text-transform: capitalize;
+  }
+
+  .md\:capitalize\:disabled:disabled {
+    text-transform: capitalize;
+  }
+
+  .md\:capitalize\:focus:focus {
+    text-transform: capitalize;
+  }
+
+  .md\:capitalize\:hover:hover {
+    text-transform: capitalize;
+  }
+
+  .md\:capitalize\:required:required {
+    text-transform: capitalize;
+  }
+
+  .md\:capitalize\:visited:visited {
+    text-transform: capitalize;
+  }
+
+  .md\:normal-case {
+    text-transform: none;
+  }
+
+  .md\:normal-case\:active:active {
+    text-transform: none;
+  }
+
+  .md\:normal-case\:checked:checked {
+    text-transform: none;
+  }
+
+  .md\:normal-case\:disabled:disabled {
+    text-transform: none;
+  }
+
+  .md\:normal-case\:focus:focus {
+    text-transform: none;
+  }
+
+  .md\:normal-case\:hover:hover {
+    text-transform: none;
+  }
+
+  .md\:normal-case\:required:required {
+    text-transform: none;
+  }
+
+  .md\:normal-case\:visited:visited {
+    text-transform: none;
+  }
+}
+@media (min-width: 1024px) and (max-width: 2000px) {
+  .lg\:uppercase {
+    text-transform: uppercase;
+  }
+
+  .lg\:uppercase\:active:active {
+    text-transform: uppercase;
+  }
+
+  .lg\:uppercase\:checked:checked {
+    text-transform: uppercase;
+  }
+
+  .lg\:uppercase\:disabled:disabled {
+    text-transform: uppercase;
+  }
+
+  .lg\:uppercase\:focus:focus {
+    text-transform: uppercase;
+  }
+
+  .lg\:uppercase\:hover:hover {
+    text-transform: uppercase;
+  }
+
+  .lg\:uppercase\:required:required {
+    text-transform: uppercase;
+  }
+
+  .lg\:uppercase\:visited:visited {
+    text-transform: uppercase;
+  }
+
+  .lg\:lowercase {
+    text-transform: lowercase;
+  }
+
+  .lg\:lowercase\:active:active {
+    text-transform: lowercase;
+  }
+
+  .lg\:lowercase\:checked:checked {
+    text-transform: lowercase;
+  }
+
+  .lg\:lowercase\:disabled:disabled {
+    text-transform: lowercase;
+  }
+
+  .lg\:lowercase\:focus:focus {
+    text-transform: lowercase;
+  }
+
+  .lg\:lowercase\:hover:hover {
+    text-transform: lowercase;
+  }
+
+  .lg\:lowercase\:required:required {
+    text-transform: lowercase;
+  }
+
+  .lg\:lowercase\:visited:visited {
+    text-transform: lowercase;
+  }
+
+  .lg\:capitalize {
+    text-transform: capitalize;
+  }
+
+  .lg\:capitalize\:active:active {
+    text-transform: capitalize;
+  }
+
+  .lg\:capitalize\:checked:checked {
+    text-transform: capitalize;
+  }
+
+  .lg\:capitalize\:disabled:disabled {
+    text-transform: capitalize;
+  }
+
+  .lg\:capitalize\:focus:focus {
+    text-transform: capitalize;
+  }
+
+  .lg\:capitalize\:hover:hover {
+    text-transform: capitalize;
+  }
+
+  .lg\:capitalize\:required:required {
+    text-transform: capitalize;
+  }
+
+  .lg\:capitalize\:visited:visited {
+    text-transform: capitalize;
+  }
+
+  .lg\:normal-case {
+    text-transform: none;
+  }
+
+  .lg\:normal-case\:active:active {
+    text-transform: none;
+  }
+
+  .lg\:normal-case\:checked:checked {
+    text-transform: none;
+  }
+
+  .lg\:normal-case\:disabled:disabled {
+    text-transform: none;
+  }
+
+  .lg\:normal-case\:focus:focus {
+    text-transform: none;
+  }
+
+  .lg\:normal-case\:hover:hover {
+    text-transform: none;
+  }
+
+  .lg\:normal-case\:required:required {
+    text-transform: none;
+  }
+
+  .lg\:normal-case\:visited:visited {
+    text-transform: none;
+  }
+}

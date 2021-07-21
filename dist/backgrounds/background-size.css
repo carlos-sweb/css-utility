@@ -1,0 +1,484 @@
+.bg-auto {
+  background-size: auto;
+}
+
+.bg-auto\:active:active {
+  background-size: auto;
+}
+
+.bg-auto\:checked:checked {
+  background-size: auto;
+}
+
+.bg-auto\:disabled:disabled {
+  background-size: auto;
+}
+
+.bg-auto\:focus:focus {
+  background-size: auto;
+}
+
+.bg-auto\:hover:hover {
+  background-size: auto;
+}
+
+.bg-auto\:required:required {
+  background-size: auto;
+}
+
+.bg-auto\:visited:visited {
+  background-size: auto;
+}
+
+.bg-cover {
+  background-size: cover;
+}
+
+.bg-cover\:active:active {
+  background-size: cover;
+}
+
+.bg-cover\:checked:checked {
+  background-size: cover;
+}
+
+.bg-cover\:disabled:disabled {
+  background-size: cover;
+}
+
+.bg-cover\:focus:focus {
+  background-size: cover;
+}
+
+.bg-cover\:hover:hover {
+  background-size: cover;
+}
+
+.bg-cover\:required:required {
+  background-size: cover;
+}
+
+.bg-cover\:visited:visited {
+  background-size: cover;
+}
+
+.bg-contain {
+  background-size: contain;
+}
+
+.bg-contain\:active:active {
+  background-size: contain;
+}
+
+.bg-contain\:checked:checked {
+  background-size: contain;
+}
+
+.bg-contain\:disabled:disabled {
+  background-size: contain;
+}
+
+.bg-contain\:focus:focus {
+  background-size: contain;
+}
+
+.bg-contain\:hover:hover {
+  background-size: contain;
+}
+
+.bg-contain\:required:required {
+  background-size: contain;
+}
+
+.bg-contain\:visited:visited {
+  background-size: contain;
+}
+
+@media (min-width: 0px) and (max-width: 639px) {
+  .xs\:bg-auto {
+    background-size: auto;
+  }
+
+  .xs\:bg-auto\:active:active {
+    background-size: auto;
+  }
+
+  .xs\:bg-auto\:checked:checked {
+    background-size: auto;
+  }
+
+  .xs\:bg-auto\:disabled:disabled {
+    background-size: auto;
+  }
+
+  .xs\:bg-auto\:focus:focus {
+    background-size: auto;
+  }
+
+  .xs\:bg-auto\:hover:hover {
+    background-size: auto;
+  }
+
+  .xs\:bg-auto\:required:required {
+    background-size: auto;
+  }
+
+  .xs\:bg-auto\:visited:visited {
+    background-size: auto;
+  }
+
+  .xs\:bg-cover {
+    background-size: cover;
+  }
+
+  .xs\:bg-cover\:active:active {
+    background-size: cover;
+  }
+
+  .xs\:bg-cover\:checked:checked {
+    background-size: cover;
+  }
+
+  .xs\:bg-cover\:disabled:disabled {
+    background-size: cover;
+  }
+
+  .xs\:bg-cover\:focus:focus {
+    background-size: cover;
+  }
+
+  .xs\:bg-cover\:hover:hover {
+    background-size: cover;
+  }
+
+  .xs\:bg-cover\:required:required {
+    background-size: cover;
+  }
+
+  .xs\:bg-cover\:visited:visited {
+    background-size: cover;
+  }
+
+  .xs\:bg-contain {
+    background-size: contain;
+  }
+
+  .xs\:bg-contain\:active:active {
+    background-size: contain;
+  }
+
+  .xs\:bg-contain\:checked:checked {
+    background-size: contain;
+  }
+
+  .xs\:bg-contain\:disabled:disabled {
+    background-size: contain;
+  }
+
+  .xs\:bg-contain\:focus:focus {
+    background-size: contain;
+  }
+
+  .xs\:bg-contain\:hover:hover {
+    background-size: contain;
+  }
+
+  .xs\:bg-contain\:required:required {
+    background-size: contain;
+  }
+
+  .xs\:bg-contain\:visited:visited {
+    background-size: contain;
+  }
+}
+@media (min-width: 640px) and (max-width: 767px) {
+  .sm\:bg-auto {
+    background-size: auto;
+  }
+
+  .sm\:bg-auto\:active:active {
+    background-size: auto;
+  }
+
+  .sm\:bg-auto\:checked:checked {
+    background-size: auto;
+  }
+
+  .sm\:bg-auto\:disabled:disabled {
+    background-size: auto;
+  }
+
+  .sm\:bg-auto\:focus:focus {
+    background-size: auto;
+  }
+
+  .sm\:bg-auto\:hover:hover {
+    background-size: auto;
+  }
+
+  .sm\:bg-auto\:required:required {
+    background-size: auto;
+  }
+
+  .sm\:bg-auto\:visited:visited {
+    background-size: auto;
+  }
+
+  .sm\:bg-cover {
+    background-size: cover;
+  }
+
+  .sm\:bg-cover\:active:active {
+    background-size: cover;
+  }
+
+  .sm\:bg-cover\:checked:checked {
+    background-size: cover;
+  }
+
+  .sm\:bg-cover\:disabled:disabled {
+    background-size: cover;
+  }
+
+  .sm\:bg-cover\:focus:focus {
+    background-size: cover;
+  }
+
+  .sm\:bg-cover\:hover:hover {
+    background-size: cover;
+  }
+
+  .sm\:bg-cover\:required:required {
+    background-size: cover;
+  }
+
+  .sm\:bg-cover\:visited:visited {
+    background-size: cover;
+  }
+
+  .sm\:bg-contain {
+    background-size: contain;
+  }
+
+  .sm\:bg-contain\:active:active {
+    background-size: contain;
+  }
+
+  .sm\:bg-contain\:checked:checked {
+    background-size: contain;
+  }
+
+  .sm\:bg-contain\:disabled:disabled {
+    background-size: contain;
+  }
+
+  .sm\:bg-contain\:focus:focus {
+    background-size: contain;
+  }
+
+  .sm\:bg-contain\:hover:hover {
+    background-size: contain;
+  }
+
+  .sm\:bg-contain\:required:required {
+    background-size: contain;
+  }
+
+  .sm\:bg-contain\:visited:visited {
+    background-size: contain;
+  }
+}
+@media (min-width: 768px) and (max-width: 1023px) {
+  .md\:bg-auto {
+    background-size: auto;
+  }
+
+  .md\:bg-auto\:active:active {
+    background-size: auto;
+  }
+
+  .md\:bg-auto\:checked:checked {
+    background-size: auto;
+  }
+
+  .md\:bg-auto\:disabled:disabled {
+    background-size: auto;
+  }
+
+  .md\:bg-auto\:focus:focus {
+    background-size: auto;
+  }
+
+  .md\:bg-auto\:hover:hover {
+    background-size: auto;
+  }
+
+  .md\:bg-auto\:required:required {
+    background-size: auto;
+  }
+
+  .md\:bg-auto\:visited:visited {
+    background-size: auto;
+  }
+
+  .md\:bg-cover {
+    background-size: cover;
+  }
+
+  .md\:bg-cover\:active:active {
+    background-size: cover;
+  }
+
+  .md\:bg-cover\:checked:checked {
+    background-size: cover;
+  }
+
+  .md\:bg-cover\:disabled:disabled {
+    background-size: cover;
+  }
+
+  .md\:bg-cover\:focus:focus {
+    background-size: cover;
+  }
+
+  .md\:bg-cover\:hover:hover {
+    background-size: cover;
+  }
+
+  .md\:bg-cover\:required:required {
+    background-size: cover;
+  }
+
+  .md\:bg-cover\:visited:visited {
+    background-size: cover;
+  }
+
+  .md\:bg-contain {
+    background-size: contain;
+  }
+
+  .md\:bg-contain\:active:active {
+    background-size: contain;
+  }
+
+  .md\:bg-contain\:checked:checked {
+    background-size: contain;
+  }
+
+  .md\:bg-contain\:disabled:disabled {
+    background-size: contain;
+  }
+
+  .md\:bg-contain\:focus:focus {
+    background-size: contain;
+  }
+
+  .md\:bg-contain\:hover:hover {
+    background-size: contain;
+  }
+
+  .md\:bg-contain\:required:required {
+    background-size: contain;
+  }
+
+  .md\:bg-contain\:visited:visited {
+    background-size: contain;
+  }
+}
+@media (min-width: 1024px) and (max-width: 2000px) {
+  .lg\:bg-auto {
+    background-size: auto;
+  }
+
+  .lg\:bg-auto\:active:active {
+    background-size: auto;
+  }
+
+  .lg\:bg-auto\:checked:checked {
+    background-size: auto;
+  }
+
+  .lg\:bg-auto\:disabled:disabled {
+    background-size: auto;
+  }
+
+  .lg\:bg-auto\:focus:focus {
+    background-size: auto;
+  }
+
+  .lg\:bg-auto\:hover:hover {
+    background-size: auto;
+  }
+
+  .lg\:bg-auto\:required:required {
+    background-size: auto;
+  }
+
+  .lg\:bg-auto\:visited:visited {
+    background-size: auto;
+  }
+
+  .lg\:bg-cover {
+    background-size: cover;
+  }
+
+  .lg\:bg-cover\:active:active {
+    background-size: cover;
+  }
+
+  .lg\:bg-cover\:checked:checked {
+    background-size: cover;
+  }
+
+  .lg\:bg-cover\:disabled:disabled {
+    background-size: cover;
+  }
+
+  .lg\:bg-cover\:focus:focus {
+    background-size: cover;
+  }
+
+  .lg\:bg-cover\:hover:hover {
+    background-size: cover;
+  }
+
+  .lg\:bg-cover\:required:required {
+    background-size: cover;
+  }
+
+  .lg\:bg-cover\:visited:visited {
+    background-size: cover;
+  }
+
+  .lg\:bg-contain {
+    background-size: contain;
+  }
+
+  .lg\:bg-contain\:active:active {
+    background-size: contain;
+  }
+
+  .lg\:bg-contain\:checked:checked {
+    background-size: contain;
+  }
+
+  .lg\:bg-contain\:disabled:disabled {
+    background-size: contain;
+  }
+
+  .lg\:bg-contain\:focus:focus {
+    background-size: contain;
+  }
+
+  .lg\:bg-contain\:hover:hover {
+    background-size: contain;
+  }
+
+  .lg\:bg-contain\:required:required {
+    background-size: contain;
+  }
+
+  .lg\:bg-contain\:visited:visited {
+    background-size: contain;
+  }
+}

@@ -1,0 +1,2084 @@
+.grid-cols-1 {
+  grid-template-columns: repeat(1, minmax(0, 1fr));
+}
+
+.grid-cols-1\:active:active {
+  grid-template-columns: repeat(1, minmax(0, 1fr));
+}
+
+.grid-cols-1\:checked:checked {
+  grid-template-columns: repeat(1, minmax(0, 1fr));
+}
+
+.grid-cols-1\:disabled:disabled {
+  grid-template-columns: repeat(1, minmax(0, 1fr));
+}
+
+.grid-cols-1\:focus:focus {
+  grid-template-columns: repeat(1, minmax(0, 1fr));
+}
+
+.grid-cols-1\:hover:hover {
+  grid-template-columns: repeat(1, minmax(0, 1fr));
+}
+
+.grid-cols-1\:required:required {
+  grid-template-columns: repeat(1, minmax(0, 1fr));
+}
+
+.grid-cols-1\:visited:visited {
+  grid-template-columns: repeat(1, minmax(0, 1fr));
+}
+
+.grid-cols-2 {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.grid-cols-2\:active:active {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.grid-cols-2\:checked:checked {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.grid-cols-2\:disabled:disabled {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.grid-cols-2\:focus:focus {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.grid-cols-2\:hover:hover {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.grid-cols-2\:required:required {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.grid-cols-2\:visited:visited {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.grid-cols-3 {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.grid-cols-3\:active:active {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.grid-cols-3\:checked:checked {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.grid-cols-3\:disabled:disabled {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.grid-cols-3\:focus:focus {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.grid-cols-3\:hover:hover {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.grid-cols-3\:required:required {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.grid-cols-3\:visited:visited {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.grid-cols-4 {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
+.grid-cols-4\:active:active {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
+.grid-cols-4\:checked:checked {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
+.grid-cols-4\:disabled:disabled {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
+.grid-cols-4\:focus:focus {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
+.grid-cols-4\:hover:hover {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
+.grid-cols-4\:required:required {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
+.grid-cols-4\:visited:visited {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
+.grid-cols-5 {
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+}
+
+.grid-cols-5\:active:active {
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+}
+
+.grid-cols-5\:checked:checked {
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+}
+
+.grid-cols-5\:disabled:disabled {
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+}
+
+.grid-cols-5\:focus:focus {
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+}
+
+.grid-cols-5\:hover:hover {
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+}
+
+.grid-cols-5\:required:required {
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+}
+
+.grid-cols-5\:visited:visited {
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+}
+
+.grid-cols-6 {
+  grid-template-columns: repeat(6, minmax(0, 1fr));
+}
+
+.grid-cols-6\:active:active {
+  grid-template-columns: repeat(6, minmax(0, 1fr));
+}
+
+.grid-cols-6\:checked:checked {
+  grid-template-columns: repeat(6, minmax(0, 1fr));
+}
+
+.grid-cols-6\:disabled:disabled {
+  grid-template-columns: repeat(6, minmax(0, 1fr));
+}
+
+.grid-cols-6\:focus:focus {
+  grid-template-columns: repeat(6, minmax(0, 1fr));
+}
+
+.grid-cols-6\:hover:hover {
+  grid-template-columns: repeat(6, minmax(0, 1fr));
+}
+
+.grid-cols-6\:required:required {
+  grid-template-columns: repeat(6, minmax(0, 1fr));
+}
+
+.grid-cols-6\:visited:visited {
+  grid-template-columns: repeat(6, minmax(0, 1fr));
+}
+
+.grid-cols-7 {
+  grid-template-columns: repeat(7, minmax(0, 1fr));
+}
+
+.grid-cols-7\:active:active {
+  grid-template-columns: repeat(7, minmax(0, 1fr));
+}
+
+.grid-cols-7\:checked:checked {
+  grid-template-columns: repeat(7, minmax(0, 1fr));
+}
+
+.grid-cols-7\:disabled:disabled {
+  grid-template-columns: repeat(7, minmax(0, 1fr));
+}
+
+.grid-cols-7\:focus:focus {
+  grid-template-columns: repeat(7, minmax(0, 1fr));
+}
+
+.grid-cols-7\:hover:hover {
+  grid-template-columns: repeat(7, minmax(0, 1fr));
+}
+
+.grid-cols-7\:required:required {
+  grid-template-columns: repeat(7, minmax(0, 1fr));
+}
+
+.grid-cols-7\:visited:visited {
+  grid-template-columns: repeat(7, minmax(0, 1fr));
+}
+
+.grid-cols-8 {
+  grid-template-columns: repeat(8, minmax(0, 1fr));
+}
+
+.grid-cols-8\:active:active {
+  grid-template-columns: repeat(8, minmax(0, 1fr));
+}
+
+.grid-cols-8\:checked:checked {
+  grid-template-columns: repeat(8, minmax(0, 1fr));
+}
+
+.grid-cols-8\:disabled:disabled {
+  grid-template-columns: repeat(8, minmax(0, 1fr));
+}
+
+.grid-cols-8\:focus:focus {
+  grid-template-columns: repeat(8, minmax(0, 1fr));
+}
+
+.grid-cols-8\:hover:hover {
+  grid-template-columns: repeat(8, minmax(0, 1fr));
+}
+
+.grid-cols-8\:required:required {
+  grid-template-columns: repeat(8, minmax(0, 1fr));
+}
+
+.grid-cols-8\:visited:visited {
+  grid-template-columns: repeat(8, minmax(0, 1fr));
+}
+
+.grid-cols-9 {
+  grid-template-columns: repeat(9, minmax(0, 1fr));
+}
+
+.grid-cols-9\:active:active {
+  grid-template-columns: repeat(9, minmax(0, 1fr));
+}
+
+.grid-cols-9\:checked:checked {
+  grid-template-columns: repeat(9, minmax(0, 1fr));
+}
+
+.grid-cols-9\:disabled:disabled {
+  grid-template-columns: repeat(9, minmax(0, 1fr));
+}
+
+.grid-cols-9\:focus:focus {
+  grid-template-columns: repeat(9, minmax(0, 1fr));
+}
+
+.grid-cols-9\:hover:hover {
+  grid-template-columns: repeat(9, minmax(0, 1fr));
+}
+
+.grid-cols-9\:required:required {
+  grid-template-columns: repeat(9, minmax(0, 1fr));
+}
+
+.grid-cols-9\:visited:visited {
+  grid-template-columns: repeat(9, minmax(0, 1fr));
+}
+
+.grid-cols-10 {
+  grid-template-columns: repeat(10, minmax(0, 1fr));
+}
+
+.grid-cols-10\:active:active {
+  grid-template-columns: repeat(10, minmax(0, 1fr));
+}
+
+.grid-cols-10\:checked:checked {
+  grid-template-columns: repeat(10, minmax(0, 1fr));
+}
+
+.grid-cols-10\:disabled:disabled {
+  grid-template-columns: repeat(10, minmax(0, 1fr));
+}
+
+.grid-cols-10\:focus:focus {
+  grid-template-columns: repeat(10, minmax(0, 1fr));
+}
+
+.grid-cols-10\:hover:hover {
+  grid-template-columns: repeat(10, minmax(0, 1fr));
+}
+
+.grid-cols-10\:required:required {
+  grid-template-columns: repeat(10, minmax(0, 1fr));
+}
+
+.grid-cols-10\:visited:visited {
+  grid-template-columns: repeat(10, minmax(0, 1fr));
+}
+
+.grid-cols-11 {
+  grid-template-columns: repeat(11, minmax(0, 1fr));
+}
+
+.grid-cols-11\:active:active {
+  grid-template-columns: repeat(11, minmax(0, 1fr));
+}
+
+.grid-cols-11\:checked:checked {
+  grid-template-columns: repeat(11, minmax(0, 1fr));
+}
+
+.grid-cols-11\:disabled:disabled {
+  grid-template-columns: repeat(11, minmax(0, 1fr));
+}
+
+.grid-cols-11\:focus:focus {
+  grid-template-columns: repeat(11, minmax(0, 1fr));
+}
+
+.grid-cols-11\:hover:hover {
+  grid-template-columns: repeat(11, minmax(0, 1fr));
+}
+
+.grid-cols-11\:required:required {
+  grid-template-columns: repeat(11, minmax(0, 1fr));
+}
+
+.grid-cols-11\:visited:visited {
+  grid-template-columns: repeat(11, minmax(0, 1fr));
+}
+
+.grid-cols-12 {
+  grid-template-columns: repeat(12, minmax(0, 1fr));
+}
+
+.grid-cols-12\:active:active {
+  grid-template-columns: repeat(12, minmax(0, 1fr));
+}
+
+.grid-cols-12\:checked:checked {
+  grid-template-columns: repeat(12, minmax(0, 1fr));
+}
+
+.grid-cols-12\:disabled:disabled {
+  grid-template-columns: repeat(12, minmax(0, 1fr));
+}
+
+.grid-cols-12\:focus:focus {
+  grid-template-columns: repeat(12, minmax(0, 1fr));
+}
+
+.grid-cols-12\:hover:hover {
+  grid-template-columns: repeat(12, minmax(0, 1fr));
+}
+
+.grid-cols-12\:required:required {
+  grid-template-columns: repeat(12, minmax(0, 1fr));
+}
+
+.grid-cols-12\:visited:visited {
+  grid-template-columns: repeat(12, minmax(0, 1fr));
+}
+
+.grid-cols-none {
+  grid-template-columns: none;
+}
+
+.grid-cols-none\:active:active {
+  grid-template-columns: none;
+}
+
+.grid-cols-none\:checked:checked {
+  grid-template-columns: none;
+}
+
+.grid-cols-none\:disabled:disabled {
+  grid-template-columns: none;
+}
+
+.grid-cols-none\:focus:focus {
+  grid-template-columns: none;
+}
+
+.grid-cols-none\:hover:hover {
+  grid-template-columns: none;
+}
+
+.grid-cols-none\:required:required {
+  grid-template-columns: none;
+}
+
+.grid-cols-none\:visited:visited {
+  grid-template-columns: none;
+}
+
+@media (min-width: 0px) and (max-width: 639px) {
+  .xs\:grid-cols-1 {
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-1\:active:active {
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-1\:checked:checked {
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-1\:disabled:disabled {
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-1\:focus:focus {
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-1\:hover:hover {
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-1\:required:required {
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-1\:visited:visited {
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-2 {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-2\:active:active {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-2\:checked:checked {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-2\:disabled:disabled {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-2\:focus:focus {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-2\:hover:hover {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-2\:required:required {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-2\:visited:visited {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-3 {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-3\:active:active {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-3\:checked:checked {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-3\:disabled:disabled {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-3\:focus:focus {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-3\:hover:hover {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-3\:required:required {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-3\:visited:visited {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-4 {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-4\:active:active {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-4\:checked:checked {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-4\:disabled:disabled {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-4\:focus:focus {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-4\:hover:hover {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-4\:required:required {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-4\:visited:visited {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-5 {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-5\:active:active {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-5\:checked:checked {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-5\:disabled:disabled {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-5\:focus:focus {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-5\:hover:hover {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-5\:required:required {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-5\:visited:visited {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-6 {
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-6\:active:active {
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-6\:checked:checked {
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-6\:disabled:disabled {
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-6\:focus:focus {
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-6\:hover:hover {
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-6\:required:required {
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-6\:visited:visited {
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-7 {
+    grid-template-columns: repeat(7, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-7\:active:active {
+    grid-template-columns: repeat(7, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-7\:checked:checked {
+    grid-template-columns: repeat(7, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-7\:disabled:disabled {
+    grid-template-columns: repeat(7, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-7\:focus:focus {
+    grid-template-columns: repeat(7, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-7\:hover:hover {
+    grid-template-columns: repeat(7, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-7\:required:required {
+    grid-template-columns: repeat(7, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-7\:visited:visited {
+    grid-template-columns: repeat(7, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-8 {
+    grid-template-columns: repeat(8, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-8\:active:active {
+    grid-template-columns: repeat(8, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-8\:checked:checked {
+    grid-template-columns: repeat(8, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-8\:disabled:disabled {
+    grid-template-columns: repeat(8, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-8\:focus:focus {
+    grid-template-columns: repeat(8, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-8\:hover:hover {
+    grid-template-columns: repeat(8, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-8\:required:required {
+    grid-template-columns: repeat(8, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-8\:visited:visited {
+    grid-template-columns: repeat(8, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-9 {
+    grid-template-columns: repeat(9, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-9\:active:active {
+    grid-template-columns: repeat(9, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-9\:checked:checked {
+    grid-template-columns: repeat(9, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-9\:disabled:disabled {
+    grid-template-columns: repeat(9, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-9\:focus:focus {
+    grid-template-columns: repeat(9, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-9\:hover:hover {
+    grid-template-columns: repeat(9, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-9\:required:required {
+    grid-template-columns: repeat(9, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-9\:visited:visited {
+    grid-template-columns: repeat(9, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-10 {
+    grid-template-columns: repeat(10, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-10\:active:active {
+    grid-template-columns: repeat(10, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-10\:checked:checked {
+    grid-template-columns: repeat(10, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-10\:disabled:disabled {
+    grid-template-columns: repeat(10, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-10\:focus:focus {
+    grid-template-columns: repeat(10, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-10\:hover:hover {
+    grid-template-columns: repeat(10, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-10\:required:required {
+    grid-template-columns: repeat(10, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-10\:visited:visited {
+    grid-template-columns: repeat(10, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-11 {
+    grid-template-columns: repeat(11, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-11\:active:active {
+    grid-template-columns: repeat(11, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-11\:checked:checked {
+    grid-template-columns: repeat(11, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-11\:disabled:disabled {
+    grid-template-columns: repeat(11, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-11\:focus:focus {
+    grid-template-columns: repeat(11, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-11\:hover:hover {
+    grid-template-columns: repeat(11, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-11\:required:required {
+    grid-template-columns: repeat(11, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-11\:visited:visited {
+    grid-template-columns: repeat(11, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-12 {
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-12\:active:active {
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-12\:checked:checked {
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-12\:disabled:disabled {
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-12\:focus:focus {
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-12\:hover:hover {
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-12\:required:required {
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-12\:visited:visited {
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-none {
+    grid-template-columns: none;
+  }
+
+  .xs\:grid-cols-none\:active:active {
+    grid-template-columns: none;
+  }
+
+  .xs\:grid-cols-none\:checked:checked {
+    grid-template-columns: none;
+  }
+
+  .xs\:grid-cols-none\:disabled:disabled {
+    grid-template-columns: none;
+  }
+
+  .xs\:grid-cols-none\:focus:focus {
+    grid-template-columns: none;
+  }
+
+  .xs\:grid-cols-none\:hover:hover {
+    grid-template-columns: none;
+  }
+
+  .xs\:grid-cols-none\:required:required {
+    grid-template-columns: none;
+  }
+
+  .xs\:grid-cols-none\:visited:visited {
+    grid-template-columns: none;
+  }
+}
+@media (min-width: 640px) and (max-width: 767px) {
+  .sm\:grid-cols-1 {
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-1\:active:active {
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-1\:checked:checked {
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-1\:disabled:disabled {
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-1\:focus:focus {
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-1\:hover:hover {
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-1\:required:required {
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-1\:visited:visited {
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-2 {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-2\:active:active {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-2\:checked:checked {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-2\:disabled:disabled {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-2\:focus:focus {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-2\:hover:hover {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-2\:required:required {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-2\:visited:visited {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-3 {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-3\:active:active {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-3\:checked:checked {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-3\:disabled:disabled {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-3\:focus:focus {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-3\:hover:hover {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-3\:required:required {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-3\:visited:visited {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-4 {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-4\:active:active {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-4\:checked:checked {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-4\:disabled:disabled {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-4\:focus:focus {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-4\:hover:hover {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-4\:required:required {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-4\:visited:visited {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-5 {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-5\:active:active {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-5\:checked:checked {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-5\:disabled:disabled {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-5\:focus:focus {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-5\:hover:hover {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-5\:required:required {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-5\:visited:visited {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-6 {
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-6\:active:active {
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-6\:checked:checked {
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-6\:disabled:disabled {
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-6\:focus:focus {
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-6\:hover:hover {
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-6\:required:required {
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-6\:visited:visited {
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-7 {
+    grid-template-columns: repeat(7, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-7\:active:active {
+    grid-template-columns: repeat(7, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-7\:checked:checked {
+    grid-template-columns: repeat(7, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-7\:disabled:disabled {
+    grid-template-columns: repeat(7, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-7\:focus:focus {
+    grid-template-columns: repeat(7, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-7\:hover:hover {
+    grid-template-columns: repeat(7, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-7\:required:required {
+    grid-template-columns: repeat(7, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-7\:visited:visited {
+    grid-template-columns: repeat(7, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-8 {
+    grid-template-columns: repeat(8, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-8\:active:active {
+    grid-template-columns: repeat(8, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-8\:checked:checked {
+    grid-template-columns: repeat(8, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-8\:disabled:disabled {
+    grid-template-columns: repeat(8, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-8\:focus:focus {
+    grid-template-columns: repeat(8, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-8\:hover:hover {
+    grid-template-columns: repeat(8, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-8\:required:required {
+    grid-template-columns: repeat(8, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-8\:visited:visited {
+    grid-template-columns: repeat(8, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-9 {
+    grid-template-columns: repeat(9, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-9\:active:active {
+    grid-template-columns: repeat(9, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-9\:checked:checked {
+    grid-template-columns: repeat(9, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-9\:disabled:disabled {
+    grid-template-columns: repeat(9, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-9\:focus:focus {
+    grid-template-columns: repeat(9, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-9\:hover:hover {
+    grid-template-columns: repeat(9, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-9\:required:required {
+    grid-template-columns: repeat(9, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-9\:visited:visited {
+    grid-template-columns: repeat(9, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-10 {
+    grid-template-columns: repeat(10, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-10\:active:active {
+    grid-template-columns: repeat(10, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-10\:checked:checked {
+    grid-template-columns: repeat(10, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-10\:disabled:disabled {
+    grid-template-columns: repeat(10, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-10\:focus:focus {
+    grid-template-columns: repeat(10, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-10\:hover:hover {
+    grid-template-columns: repeat(10, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-10\:required:required {
+    grid-template-columns: repeat(10, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-10\:visited:visited {
+    grid-template-columns: repeat(10, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-11 {
+    grid-template-columns: repeat(11, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-11\:active:active {
+    grid-template-columns: repeat(11, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-11\:checked:checked {
+    grid-template-columns: repeat(11, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-11\:disabled:disabled {
+    grid-template-columns: repeat(11, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-11\:focus:focus {
+    grid-template-columns: repeat(11, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-11\:hover:hover {
+    grid-template-columns: repeat(11, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-11\:required:required {
+    grid-template-columns: repeat(11, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-11\:visited:visited {
+    grid-template-columns: repeat(11, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-12 {
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-12\:active:active {
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-12\:checked:checked {
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-12\:disabled:disabled {
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-12\:focus:focus {
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-12\:hover:hover {
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-12\:required:required {
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-12\:visited:visited {
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-none {
+    grid-template-columns: none;
+  }
+
+  .sm\:grid-cols-none\:active:active {
+    grid-template-columns: none;
+  }
+
+  .sm\:grid-cols-none\:checked:checked {
+    grid-template-columns: none;
+  }
+
+  .sm\:grid-cols-none\:disabled:disabled {
+    grid-template-columns: none;
+  }
+
+  .sm\:grid-cols-none\:focus:focus {
+    grid-template-columns: none;
+  }
+
+  .sm\:grid-cols-none\:hover:hover {
+    grid-template-columns: none;
+  }
+
+  .sm\:grid-cols-none\:required:required {
+    grid-template-columns: none;
+  }
+
+  .sm\:grid-cols-none\:visited:visited {
+    grid-template-columns: none;
+  }
+}
+@media (min-width: 768px) and (max-width: 1023px) {
+  .md\:grid-cols-1 {
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-1\:active:active {
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-1\:checked:checked {
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-1\:disabled:disabled {
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-1\:focus:focus {
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-1\:hover:hover {
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-1\:required:required {
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-1\:visited:visited {
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-2 {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-2\:active:active {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-2\:checked:checked {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-2\:disabled:disabled {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-2\:focus:focus {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-2\:hover:hover {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-2\:required:required {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-2\:visited:visited {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-3 {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-3\:active:active {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-3\:checked:checked {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-3\:disabled:disabled {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-3\:focus:focus {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-3\:hover:hover {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-3\:required:required {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-3\:visited:visited {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-4 {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-4\:active:active {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-4\:checked:checked {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-4\:disabled:disabled {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-4\:focus:focus {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-4\:hover:hover {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-4\:required:required {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-4\:visited:visited {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-5 {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-5\:active:active {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-5\:checked:checked {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-5\:disabled:disabled {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-5\:focus:focus {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-5\:hover:hover {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-5\:required:required {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-5\:visited:visited {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-6 {
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-6\:active:active {
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-6\:checked:checked {
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-6\:disabled:disabled {
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-6\:focus:focus {
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-6\:hover:hover {
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-6\:required:required {
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-6\:visited:visited {
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-7 {
+    grid-template-columns: repeat(7, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-7\:active:active {
+    grid-template-columns: repeat(7, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-7\:checked:checked {
+    grid-template-columns: repeat(7, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-7\:disabled:disabled {
+    grid-template-columns: repeat(7, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-7\:focus:focus {
+    grid-template-columns: repeat(7, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-7\:hover:hover {
+    grid-template-columns: repeat(7, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-7\:required:required {
+    grid-template-columns: repeat(7, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-7\:visited:visited {
+    grid-template-columns: repeat(7, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-8 {
+    grid-template-columns: repeat(8, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-8\:active:active {
+    grid-template-columns: repeat(8, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-8\:checked:checked {
+    grid-template-columns: repeat(8, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-8\:disabled:disabled {
+    grid-template-columns: repeat(8, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-8\:focus:focus {
+    grid-template-columns: repeat(8, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-8\:hover:hover {
+    grid-template-columns: repeat(8, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-8\:required:required {
+    grid-template-columns: repeat(8, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-8\:visited:visited {
+    grid-template-columns: repeat(8, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-9 {
+    grid-template-columns: repeat(9, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-9\:active:active {
+    grid-template-columns: repeat(9, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-9\:checked:checked {
+    grid-template-columns: repeat(9, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-9\:disabled:disabled {
+    grid-template-columns: repeat(9, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-9\:focus:focus {
+    grid-template-columns: repeat(9, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-9\:hover:hover {
+    grid-template-columns: repeat(9, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-9\:required:required {
+    grid-template-columns: repeat(9, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-9\:visited:visited {
+    grid-template-columns: repeat(9, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-10 {
+    grid-template-columns: repeat(10, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-10\:active:active {
+    grid-template-columns: repeat(10, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-10\:checked:checked {
+    grid-template-columns: repeat(10, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-10\:disabled:disabled {
+    grid-template-columns: repeat(10, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-10\:focus:focus {
+    grid-template-columns: repeat(10, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-10\:hover:hover {
+    grid-template-columns: repeat(10, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-10\:required:required {
+    grid-template-columns: repeat(10, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-10\:visited:visited {
+    grid-template-columns: repeat(10, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-11 {
+    grid-template-columns: repeat(11, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-11\:active:active {
+    grid-template-columns: repeat(11, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-11\:checked:checked {
+    grid-template-columns: repeat(11, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-11\:disabled:disabled {
+    grid-template-columns: repeat(11, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-11\:focus:focus {
+    grid-template-columns: repeat(11, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-11\:hover:hover {
+    grid-template-columns: repeat(11, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-11\:required:required {
+    grid-template-columns: repeat(11, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-11\:visited:visited {
+    grid-template-columns: repeat(11, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-12 {
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-12\:active:active {
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-12\:checked:checked {
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-12\:disabled:disabled {
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-12\:focus:focus {
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-12\:hover:hover {
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-12\:required:required {
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-12\:visited:visited {
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-none {
+    grid-template-columns: none;
+  }
+
+  .md\:grid-cols-none\:active:active {
+    grid-template-columns: none;
+  }
+
+  .md\:grid-cols-none\:checked:checked {
+    grid-template-columns: none;
+  }
+
+  .md\:grid-cols-none\:disabled:disabled {
+    grid-template-columns: none;
+  }
+
+  .md\:grid-cols-none\:focus:focus {
+    grid-template-columns: none;
+  }
+
+  .md\:grid-cols-none\:hover:hover {
+    grid-template-columns: none;
+  }
+
+  .md\:grid-cols-none\:required:required {
+    grid-template-columns: none;
+  }
+
+  .md\:grid-cols-none\:visited:visited {
+    grid-template-columns: none;
+  }
+}
+@media (min-width: 1024px) and (max-width: 2000px) {
+  .lg\:grid-cols-1 {
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-1\:active:active {
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-1\:checked:checked {
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-1\:disabled:disabled {
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-1\:focus:focus {
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-1\:hover:hover {
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-1\:required:required {
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-1\:visited:visited {
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-2 {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-2\:active:active {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-2\:checked:checked {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-2\:disabled:disabled {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-2\:focus:focus {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-2\:hover:hover {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-2\:required:required {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-2\:visited:visited {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-3 {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-3\:active:active {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-3\:checked:checked {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-3\:disabled:disabled {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-3\:focus:focus {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-3\:hover:hover {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-3\:required:required {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-3\:visited:visited {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-4 {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-4\:active:active {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-4\:checked:checked {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-4\:disabled:disabled {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-4\:focus:focus {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-4\:hover:hover {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-4\:required:required {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-4\:visited:visited {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-5 {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-5\:active:active {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-5\:checked:checked {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-5\:disabled:disabled {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-5\:focus:focus {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-5\:hover:hover {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-5\:required:required {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-5\:visited:visited {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-6 {
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-6\:active:active {
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-6\:checked:checked {
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-6\:disabled:disabled {
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-6\:focus:focus {
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-6\:hover:hover {
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-6\:required:required {
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-6\:visited:visited {
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-7 {
+    grid-template-columns: repeat(7, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-7\:active:active {
+    grid-template-columns: repeat(7, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-7\:checked:checked {
+    grid-template-columns: repeat(7, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-7\:disabled:disabled {
+    grid-template-columns: repeat(7, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-7\:focus:focus {
+    grid-template-columns: repeat(7, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-7\:hover:hover {
+    grid-template-columns: repeat(7, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-7\:required:required {
+    grid-template-columns: repeat(7, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-7\:visited:visited {
+    grid-template-columns: repeat(7, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-8 {
+    grid-template-columns: repeat(8, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-8\:active:active {
+    grid-template-columns: repeat(8, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-8\:checked:checked {
+    grid-template-columns: repeat(8, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-8\:disabled:disabled {
+    grid-template-columns: repeat(8, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-8\:focus:focus {
+    grid-template-columns: repeat(8, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-8\:hover:hover {
+    grid-template-columns: repeat(8, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-8\:required:required {
+    grid-template-columns: repeat(8, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-8\:visited:visited {
+    grid-template-columns: repeat(8, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-9 {
+    grid-template-columns: repeat(9, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-9\:active:active {
+    grid-template-columns: repeat(9, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-9\:checked:checked {
+    grid-template-columns: repeat(9, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-9\:disabled:disabled {
+    grid-template-columns: repeat(9, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-9\:focus:focus {
+    grid-template-columns: repeat(9, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-9\:hover:hover {
+    grid-template-columns: repeat(9, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-9\:required:required {
+    grid-template-columns: repeat(9, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-9\:visited:visited {
+    grid-template-columns: repeat(9, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-10 {
+    grid-template-columns: repeat(10, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-10\:active:active {
+    grid-template-columns: repeat(10, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-10\:checked:checked {
+    grid-template-columns: repeat(10, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-10\:disabled:disabled {
+    grid-template-columns: repeat(10, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-10\:focus:focus {
+    grid-template-columns: repeat(10, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-10\:hover:hover {
+    grid-template-columns: repeat(10, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-10\:required:required {
+    grid-template-columns: repeat(10, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-10\:visited:visited {
+    grid-template-columns: repeat(10, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-11 {
+    grid-template-columns: repeat(11, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-11\:active:active {
+    grid-template-columns: repeat(11, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-11\:checked:checked {
+    grid-template-columns: repeat(11, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-11\:disabled:disabled {
+    grid-template-columns: repeat(11, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-11\:focus:focus {
+    grid-template-columns: repeat(11, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-11\:hover:hover {
+    grid-template-columns: repeat(11, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-11\:required:required {
+    grid-template-columns: repeat(11, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-11\:visited:visited {
+    grid-template-columns: repeat(11, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-12 {
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-12\:active:active {
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-12\:checked:checked {
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-12\:disabled:disabled {
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-12\:focus:focus {
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-12\:hover:hover {
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-12\:required:required {
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-12\:visited:visited {
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-none {
+    grid-template-columns: none;
+  }
+
+  .lg\:grid-cols-none\:active:active {
+    grid-template-columns: none;
+  }
+
+  .lg\:grid-cols-none\:checked:checked {
+    grid-template-columns: none;
+  }
+
+  .lg\:grid-cols-none\:disabled:disabled {
+    grid-template-columns: none;
+  }
+
+  .lg\:grid-cols-none\:focus:focus {
+    grid-template-columns: none;
+  }
+
+  .lg\:grid-cols-none\:hover:hover {
+    grid-template-columns: none;
+  }
+
+  .lg\:grid-cols-none\:required:required {
+    grid-template-columns: none;
+  }
+
+  .lg\:grid-cols-none\:visited:visited {
+    grid-template-columns: none;
+  }
+}

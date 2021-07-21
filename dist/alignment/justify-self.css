@@ -1,0 +1,804 @@
+.justify-self-auto {
+  justify-self: auto;
+}
+
+.justify-self-auto\:active:active {
+  justify-self: auto;
+}
+
+.justify-self-auto\:checked:checked {
+  justify-self: auto;
+}
+
+.justify-self-auto\:disabled:disabled {
+  justify-self: auto;
+}
+
+.justify-self-auto\:focus:focus {
+  justify-self: auto;
+}
+
+.justify-self-auto\:hover:hover {
+  justify-self: auto;
+}
+
+.justify-self-auto\:required:required {
+  justify-self: auto;
+}
+
+.justify-self-auto\:visited:visited {
+  justify-self: auto;
+}
+
+.justify-self-start {
+  justify-self: start;
+}
+
+.justify-self-start\:active:active {
+  justify-self: start;
+}
+
+.justify-self-start\:checked:checked {
+  justify-self: start;
+}
+
+.justify-self-start\:disabled:disabled {
+  justify-self: start;
+}
+
+.justify-self-start\:focus:focus {
+  justify-self: start;
+}
+
+.justify-self-start\:hover:hover {
+  justify-self: start;
+}
+
+.justify-self-start\:required:required {
+  justify-self: start;
+}
+
+.justify-self-start\:visited:visited {
+  justify-self: start;
+}
+
+.justify-self-end {
+  justify-self: end;
+}
+
+.justify-self-end\:active:active {
+  justify-self: end;
+}
+
+.justify-self-end\:checked:checked {
+  justify-self: end;
+}
+
+.justify-self-end\:disabled:disabled {
+  justify-self: end;
+}
+
+.justify-self-end\:focus:focus {
+  justify-self: end;
+}
+
+.justify-self-end\:hover:hover {
+  justify-self: end;
+}
+
+.justify-self-end\:required:required {
+  justify-self: end;
+}
+
+.justify-self-end\:visited:visited {
+  justify-self: end;
+}
+
+.justify-self-center {
+  justify-self: center;
+}
+
+.justify-self-center\:active:active {
+  justify-self: center;
+}
+
+.justify-self-center\:checked:checked {
+  justify-self: center;
+}
+
+.justify-self-center\:disabled:disabled {
+  justify-self: center;
+}
+
+.justify-self-center\:focus:focus {
+  justify-self: center;
+}
+
+.justify-self-center\:hover:hover {
+  justify-self: center;
+}
+
+.justify-self-center\:required:required {
+  justify-self: center;
+}
+
+.justify-self-center\:visited:visited {
+  justify-self: center;
+}
+
+.justify-self-stretch {
+  justify-self: stretch;
+}
+
+.justify-self-stretch\:active:active {
+  justify-self: stretch;
+}
+
+.justify-self-stretch\:checked:checked {
+  justify-self: stretch;
+}
+
+.justify-self-stretch\:disabled:disabled {
+  justify-self: stretch;
+}
+
+.justify-self-stretch\:focus:focus {
+  justify-self: stretch;
+}
+
+.justify-self-stretch\:hover:hover {
+  justify-self: stretch;
+}
+
+.justify-self-stretch\:required:required {
+  justify-self: stretch;
+}
+
+.justify-self-stretch\:visited:visited {
+  justify-self: stretch;
+}
+
+@media (min-width: 0px) and (max-width: 639px) {
+  .xs\:justify-self-auto {
+    justify-self: auto;
+  }
+
+  .xs\:justify-self-auto\:active:active {
+    justify-self: auto;
+  }
+
+  .xs\:justify-self-auto\:checked:checked {
+    justify-self: auto;
+  }
+
+  .xs\:justify-self-auto\:disabled:disabled {
+    justify-self: auto;
+  }
+
+  .xs\:justify-self-auto\:focus:focus {
+    justify-self: auto;
+  }
+
+  .xs\:justify-self-auto\:hover:hover {
+    justify-self: auto;
+  }
+
+  .xs\:justify-self-auto\:required:required {
+    justify-self: auto;
+  }
+
+  .xs\:justify-self-auto\:visited:visited {
+    justify-self: auto;
+  }
+
+  .xs\:justify-self-start {
+    justify-self: start;
+  }
+
+  .xs\:justify-self-start\:active:active {
+    justify-self: start;
+  }
+
+  .xs\:justify-self-start\:checked:checked {
+    justify-self: start;
+  }
+
+  .xs\:justify-self-start\:disabled:disabled {
+    justify-self: start;
+  }
+
+  .xs\:justify-self-start\:focus:focus {
+    justify-self: start;
+  }
+
+  .xs\:justify-self-start\:hover:hover {
+    justify-self: start;
+  }
+
+  .xs\:justify-self-start\:required:required {
+    justify-self: start;
+  }
+
+  .xs\:justify-self-start\:visited:visited {
+    justify-self: start;
+  }
+
+  .xs\:justify-self-end {
+    justify-self: end;
+  }
+
+  .xs\:justify-self-end\:active:active {
+    justify-self: end;
+  }
+
+  .xs\:justify-self-end\:checked:checked {
+    justify-self: end;
+  }
+
+  .xs\:justify-self-end\:disabled:disabled {
+    justify-self: end;
+  }
+
+  .xs\:justify-self-end\:focus:focus {
+    justify-self: end;
+  }
+
+  .xs\:justify-self-end\:hover:hover {
+    justify-self: end;
+  }
+
+  .xs\:justify-self-end\:required:required {
+    justify-self: end;
+  }
+
+  .xs\:justify-self-end\:visited:visited {
+    justify-self: end;
+  }
+
+  .xs\:justify-self-center {
+    justify-self: center;
+  }
+
+  .xs\:justify-self-center\:active:active {
+    justify-self: center;
+  }
+
+  .xs\:justify-self-center\:checked:checked {
+    justify-self: center;
+  }
+
+  .xs\:justify-self-center\:disabled:disabled {
+    justify-self: center;
+  }
+
+  .xs\:justify-self-center\:focus:focus {
+    justify-self: center;
+  }
+
+  .xs\:justify-self-center\:hover:hover {
+    justify-self: center;
+  }
+
+  .xs\:justify-self-center\:required:required {
+    justify-self: center;
+  }
+
+  .xs\:justify-self-center\:visited:visited {
+    justify-self: center;
+  }
+
+  .xs\:justify-self-stretch {
+    justify-self: stretch;
+  }
+
+  .xs\:justify-self-stretch\:active:active {
+    justify-self: stretch;
+  }
+
+  .xs\:justify-self-stretch\:checked:checked {
+    justify-self: stretch;
+  }
+
+  .xs\:justify-self-stretch\:disabled:disabled {
+    justify-self: stretch;
+  }
+
+  .xs\:justify-self-stretch\:focus:focus {
+    justify-self: stretch;
+  }
+
+  .xs\:justify-self-stretch\:hover:hover {
+    justify-self: stretch;
+  }
+
+  .xs\:justify-self-stretch\:required:required {
+    justify-self: stretch;
+  }
+
+  .xs\:justify-self-stretch\:visited:visited {
+    justify-self: stretch;
+  }
+}
+@media (min-width: 640px) and (max-width: 767px) {
+  .sm\:justify-self-auto {
+    justify-self: auto;
+  }
+
+  .sm\:justify-self-auto\:active:active {
+    justify-self: auto;
+  }
+
+  .sm\:justify-self-auto\:checked:checked {
+    justify-self: auto;
+  }
+
+  .sm\:justify-self-auto\:disabled:disabled {
+    justify-self: auto;
+  }
+
+  .sm\:justify-self-auto\:focus:focus {
+    justify-self: auto;
+  }
+
+  .sm\:justify-self-auto\:hover:hover {
+    justify-self: auto;
+  }
+
+  .sm\:justify-self-auto\:required:required {
+    justify-self: auto;
+  }
+
+  .sm\:justify-self-auto\:visited:visited {
+    justify-self: auto;
+  }
+
+  .sm\:justify-self-start {
+    justify-self: start;
+  }
+
+  .sm\:justify-self-start\:active:active {
+    justify-self: start;
+  }
+
+  .sm\:justify-self-start\:checked:checked {
+    justify-self: start;
+  }
+
+  .sm\:justify-self-start\:disabled:disabled {
+    justify-self: start;
+  }
+
+  .sm\:justify-self-start\:focus:focus {
+    justify-self: start;
+  }
+
+  .sm\:justify-self-start\:hover:hover {
+    justify-self: start;
+  }
+
+  .sm\:justify-self-start\:required:required {
+    justify-self: start;
+  }
+
+  .sm\:justify-self-start\:visited:visited {
+    justify-self: start;
+  }
+
+  .sm\:justify-self-end {
+    justify-self: end;
+  }
+
+  .sm\:justify-self-end\:active:active {
+    justify-self: end;
+  }
+
+  .sm\:justify-self-end\:checked:checked {
+    justify-self: end;
+  }
+
+  .sm\:justify-self-end\:disabled:disabled {
+    justify-self: end;
+  }
+
+  .sm\:justify-self-end\:focus:focus {
+    justify-self: end;
+  }
+
+  .sm\:justify-self-end\:hover:hover {
+    justify-self: end;
+  }
+
+  .sm\:justify-self-end\:required:required {
+    justify-self: end;
+  }
+
+  .sm\:justify-self-end\:visited:visited {
+    justify-self: end;
+  }
+
+  .sm\:justify-self-center {
+    justify-self: center;
+  }
+
+  .sm\:justify-self-center\:active:active {
+    justify-self: center;
+  }
+
+  .sm\:justify-self-center\:checked:checked {
+    justify-self: center;
+  }
+
+  .sm\:justify-self-center\:disabled:disabled {
+    justify-self: center;
+  }
+
+  .sm\:justify-self-center\:focus:focus {
+    justify-self: center;
+  }
+
+  .sm\:justify-self-center\:hover:hover {
+    justify-self: center;
+  }
+
+  .sm\:justify-self-center\:required:required {
+    justify-self: center;
+  }
+
+  .sm\:justify-self-center\:visited:visited {
+    justify-self: center;
+  }
+
+  .sm\:justify-self-stretch {
+    justify-self: stretch;
+  }
+
+  .sm\:justify-self-stretch\:active:active {
+    justify-self: stretch;
+  }
+
+  .sm\:justify-self-stretch\:checked:checked {
+    justify-self: stretch;
+  }
+
+  .sm\:justify-self-stretch\:disabled:disabled {
+    justify-self: stretch;
+  }
+
+  .sm\:justify-self-stretch\:focus:focus {
+    justify-self: stretch;
+  }
+
+  .sm\:justify-self-stretch\:hover:hover {
+    justify-self: stretch;
+  }
+
+  .sm\:justify-self-stretch\:required:required {
+    justify-self: stretch;
+  }
+
+  .sm\:justify-self-stretch\:visited:visited {
+    justify-self: stretch;
+  }
+}
+@media (min-width: 768px) and (max-width: 1023px) {
+  .md\:justify-self-auto {
+    justify-self: auto;
+  }
+
+  .md\:justify-self-auto\:active:active {
+    justify-self: auto;
+  }
+
+  .md\:justify-self-auto\:checked:checked {
+    justify-self: auto;
+  }
+
+  .md\:justify-self-auto\:disabled:disabled {
+    justify-self: auto;
+  }
+
+  .md\:justify-self-auto\:focus:focus {
+    justify-self: auto;
+  }
+
+  .md\:justify-self-auto\:hover:hover {
+    justify-self: auto;
+  }
+
+  .md\:justify-self-auto\:required:required {
+    justify-self: auto;
+  }
+
+  .md\:justify-self-auto\:visited:visited {
+    justify-self: auto;
+  }
+
+  .md\:justify-self-start {
+    justify-self: start;
+  }
+
+  .md\:justify-self-start\:active:active {
+    justify-self: start;
+  }
+
+  .md\:justify-self-start\:checked:checked {
+    justify-self: start;
+  }
+
+  .md\:justify-self-start\:disabled:disabled {
+    justify-self: start;
+  }
+
+  .md\:justify-self-start\:focus:focus {
+    justify-self: start;
+  }
+
+  .md\:justify-self-start\:hover:hover {
+    justify-self: start;
+  }
+
+  .md\:justify-self-start\:required:required {
+    justify-self: start;
+  }
+
+  .md\:justify-self-start\:visited:visited {
+    justify-self: start;
+  }
+
+  .md\:justify-self-end {
+    justify-self: end;
+  }
+
+  .md\:justify-self-end\:active:active {
+    justify-self: end;
+  }
+
+  .md\:justify-self-end\:checked:checked {
+    justify-self: end;
+  }
+
+  .md\:justify-self-end\:disabled:disabled {
+    justify-self: end;
+  }
+
+  .md\:justify-self-end\:focus:focus {
+    justify-self: end;
+  }
+
+  .md\:justify-self-end\:hover:hover {
+    justify-self: end;
+  }
+
+  .md\:justify-self-end\:required:required {
+    justify-self: end;
+  }
+
+  .md\:justify-self-end\:visited:visited {
+    justify-self: end;
+  }
+
+  .md\:justify-self-center {
+    justify-self: center;
+  }
+
+  .md\:justify-self-center\:active:active {
+    justify-self: center;
+  }
+
+  .md\:justify-self-center\:checked:checked {
+    justify-self: center;
+  }
+
+  .md\:justify-self-center\:disabled:disabled {
+    justify-self: center;
+  }
+
+  .md\:justify-self-center\:focus:focus {
+    justify-self: center;
+  }
+
+  .md\:justify-self-center\:hover:hover {
+    justify-self: center;
+  }
+
+  .md\:justify-self-center\:required:required {
+    justify-self: center;
+  }
+
+  .md\:justify-self-center\:visited:visited {
+    justify-self: center;
+  }
+
+  .md\:justify-self-stretch {
+    justify-self: stretch;
+  }
+
+  .md\:justify-self-stretch\:active:active {
+    justify-self: stretch;
+  }
+
+  .md\:justify-self-stretch\:checked:checked {
+    justify-self: stretch;
+  }
+
+  .md\:justify-self-stretch\:disabled:disabled {
+    justify-self: stretch;
+  }
+
+  .md\:justify-self-stretch\:focus:focus {
+    justify-self: stretch;
+  }
+
+  .md\:justify-self-stretch\:hover:hover {
+    justify-self: stretch;
+  }
+
+  .md\:justify-self-stretch\:required:required {
+    justify-self: stretch;
+  }
+
+  .md\:justify-self-stretch\:visited:visited {
+    justify-self: stretch;
+  }
+}
+@media (min-width: 1024px) and (max-width: 2000px) {
+  .lg\:justify-self-auto {
+    justify-self: auto;
+  }
+
+  .lg\:justify-self-auto\:active:active {
+    justify-self: auto;
+  }
+
+  .lg\:justify-self-auto\:checked:checked {
+    justify-self: auto;
+  }
+
+  .lg\:justify-self-auto\:disabled:disabled {
+    justify-self: auto;
+  }
+
+  .lg\:justify-self-auto\:focus:focus {
+    justify-self: auto;
+  }
+
+  .lg\:justify-self-auto\:hover:hover {
+    justify-self: auto;
+  }
+
+  .lg\:justify-self-auto\:required:required {
+    justify-self: auto;
+  }
+
+  .lg\:justify-self-auto\:visited:visited {
+    justify-self: auto;
+  }
+
+  .lg\:justify-self-start {
+    justify-self: start;
+  }
+
+  .lg\:justify-self-start\:active:active {
+    justify-self: start;
+  }
+
+  .lg\:justify-self-start\:checked:checked {
+    justify-self: start;
+  }
+
+  .lg\:justify-self-start\:disabled:disabled {
+    justify-self: start;
+  }
+
+  .lg\:justify-self-start\:focus:focus {
+    justify-self: start;
+  }
+
+  .lg\:justify-self-start\:hover:hover {
+    justify-self: start;
+  }
+
+  .lg\:justify-self-start\:required:required {
+    justify-self: start;
+  }
+
+  .lg\:justify-self-start\:visited:visited {
+    justify-self: start;
+  }
+
+  .lg\:justify-self-end {
+    justify-self: end;
+  }
+
+  .lg\:justify-self-end\:active:active {
+    justify-self: end;
+  }
+
+  .lg\:justify-self-end\:checked:checked {
+    justify-self: end;
+  }
+
+  .lg\:justify-self-end\:disabled:disabled {
+    justify-self: end;
+  }
+
+  .lg\:justify-self-end\:focus:focus {
+    justify-self: end;
+  }
+
+  .lg\:justify-self-end\:hover:hover {
+    justify-self: end;
+  }
+
+  .lg\:justify-self-end\:required:required {
+    justify-self: end;
+  }
+
+  .lg\:justify-self-end\:visited:visited {
+    justify-self: end;
+  }
+
+  .lg\:justify-self-center {
+    justify-self: center;
+  }
+
+  .lg\:justify-self-center\:active:active {
+    justify-self: center;
+  }
+
+  .lg\:justify-self-center\:checked:checked {
+    justify-self: center;
+  }
+
+  .lg\:justify-self-center\:disabled:disabled {
+    justify-self: center;
+  }
+
+  .lg\:justify-self-center\:focus:focus {
+    justify-self: center;
+  }
+
+  .lg\:justify-self-center\:hover:hover {
+    justify-self: center;
+  }
+
+  .lg\:justify-self-center\:required:required {
+    justify-self: center;
+  }
+
+  .lg\:justify-self-center\:visited:visited {
+    justify-self: center;
+  }
+
+  .lg\:justify-self-stretch {
+    justify-self: stretch;
+  }
+
+  .lg\:justify-self-stretch\:active:active {
+    justify-self: stretch;
+  }
+
+  .lg\:justify-self-stretch\:checked:checked {
+    justify-self: stretch;
+  }
+
+  .lg\:justify-self-stretch\:disabled:disabled {
+    justify-self: stretch;
+  }
+
+  .lg\:justify-self-stretch\:focus:focus {
+    justify-self: stretch;
+  }
+
+  .lg\:justify-self-stretch\:hover:hover {
+    justify-self: stretch;
+  }
+
+  .lg\:justify-self-stretch\:required:required {
+    justify-self: stretch;
+  }
+
+  .lg\:justify-self-stretch\:visited:visited {
+    justify-self: stretch;
+  }
+}

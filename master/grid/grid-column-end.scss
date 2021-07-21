@@ -1,0 +1,26 @@
+@import "../screen.scss";
+@import "../state.scss";
+@each $key, $value in (col-end-1:'1',col-end-2:'2',col-end-3:'3',col-end-4:'4',col-end-5:'5',col-end-6:'6',col-end-7:'7',col-end-8:'8',col-end-9:'9',col-end-10:'10',col-end-11:'11',col-end-12:'12',col-end-13:'13',col-end-auto:'auto'){
+	.#{$key}{
+		grid-column-end:#{$value};
+	}
+ @each $valueState in $state{
+	.#{$key}\:#{$valueState}:#{$valueState}{
+		grid-column-end:#{$value};
+	}
+ }
+};
+@each $sizeScreen, $pixel in $screen{
+	@media (min-width: #{map-get($pixel,min)}#{px}) and (max-width: #{map-get($pixel,max)}#{px}){
+		@each $key, $value in (col-end-1:'1',col-end-2:'2',col-end-3:'3',col-end-4:'4',col-end-5:'5',col-end-6:'6',col-end-7:'7',col-end-8:'8',col-end-9:'9',col-end-10:'10',col-end-11:'11',col-end-12:'12',col-end-13:'13',col-end-auto:'auto'){
+			.#{$sizeScreen}\:#{$key}{
+				grid-column-end:#{$value};
+			}
+      @each $valueState in $state{
+	     .#{$sizeScreen}\:#{$key}\:#{$valueState}:#{$valueState}{
+		     grid-column-end:#{$value};
+	     }
+      }
+		}
+	}
+}

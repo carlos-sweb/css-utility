@@ -1,0 +1,804 @@
+.border-solid {
+  border-style: solid;
+}
+
+.border-solid\:active:active {
+  border-style: solid;
+}
+
+.border-solid\:checked:checked {
+  border-style: solid;
+}
+
+.border-solid\:disabled:disabled {
+  border-style: solid;
+}
+
+.border-solid\:focus:focus {
+  border-style: solid;
+}
+
+.border-solid\:hover:hover {
+  border-style: solid;
+}
+
+.border-solid\:required:required {
+  border-style: solid;
+}
+
+.border-solid\:visited:visited {
+  border-style: solid;
+}
+
+.border-dashed {
+  border-style: dashed;
+}
+
+.border-dashed\:active:active {
+  border-style: dashed;
+}
+
+.border-dashed\:checked:checked {
+  border-style: dashed;
+}
+
+.border-dashed\:disabled:disabled {
+  border-style: dashed;
+}
+
+.border-dashed\:focus:focus {
+  border-style: dashed;
+}
+
+.border-dashed\:hover:hover {
+  border-style: dashed;
+}
+
+.border-dashed\:required:required {
+  border-style: dashed;
+}
+
+.border-dashed\:visited:visited {
+  border-style: dashed;
+}
+
+.border-dotted {
+  border-style: dotted;
+}
+
+.border-dotted\:active:active {
+  border-style: dotted;
+}
+
+.border-dotted\:checked:checked {
+  border-style: dotted;
+}
+
+.border-dotted\:disabled:disabled {
+  border-style: dotted;
+}
+
+.border-dotted\:focus:focus {
+  border-style: dotted;
+}
+
+.border-dotted\:hover:hover {
+  border-style: dotted;
+}
+
+.border-dotted\:required:required {
+  border-style: dotted;
+}
+
+.border-dotted\:visited:visited {
+  border-style: dotted;
+}
+
+.border-double {
+  border-style: double;
+}
+
+.border-double\:active:active {
+  border-style: double;
+}
+
+.border-double\:checked:checked {
+  border-style: double;
+}
+
+.border-double\:disabled:disabled {
+  border-style: double;
+}
+
+.border-double\:focus:focus {
+  border-style: double;
+}
+
+.border-double\:hover:hover {
+  border-style: double;
+}
+
+.border-double\:required:required {
+  border-style: double;
+}
+
+.border-double\:visited:visited {
+  border-style: double;
+}
+
+.border-none {
+  border-style: none;
+}
+
+.border-none\:active:active {
+  border-style: none;
+}
+
+.border-none\:checked:checked {
+  border-style: none;
+}
+
+.border-none\:disabled:disabled {
+  border-style: none;
+}
+
+.border-none\:focus:focus {
+  border-style: none;
+}
+
+.border-none\:hover:hover {
+  border-style: none;
+}
+
+.border-none\:required:required {
+  border-style: none;
+}
+
+.border-none\:visited:visited {
+  border-style: none;
+}
+
+@media (min-width: 0px) and (max-width: 639px) {
+  .xs\:border-solid {
+    border-style: solid;
+  }
+
+  .xs\:border-solid\:active:active {
+    border-style: solid;
+  }
+
+  .xs\:border-solid\:checked:checked {
+    border-style: solid;
+  }
+
+  .xs\:border-solid\:disabled:disabled {
+    border-style: solid;
+  }
+
+  .xs\:border-solid\:focus:focus {
+    border-style: solid;
+  }
+
+  .xs\:border-solid\:hover:hover {
+    border-style: solid;
+  }
+
+  .xs\:border-solid\:required:required {
+    border-style: solid;
+  }
+
+  .xs\:border-solid\:visited:visited {
+    border-style: solid;
+  }
+
+  .xs\:border-dashed {
+    border-style: dashed;
+  }
+
+  .xs\:border-dashed\:active:active {
+    border-style: dashed;
+  }
+
+  .xs\:border-dashed\:checked:checked {
+    border-style: dashed;
+  }
+
+  .xs\:border-dashed\:disabled:disabled {
+    border-style: dashed;
+  }
+
+  .xs\:border-dashed\:focus:focus {
+    border-style: dashed;
+  }
+
+  .xs\:border-dashed\:hover:hover {
+    border-style: dashed;
+  }
+
+  .xs\:border-dashed\:required:required {
+    border-style: dashed;
+  }
+
+  .xs\:border-dashed\:visited:visited {
+    border-style: dashed;
+  }
+
+  .xs\:border-dotted {
+    border-style: dotted;
+  }
+
+  .xs\:border-dotted\:active:active {
+    border-style: dotted;
+  }
+
+  .xs\:border-dotted\:checked:checked {
+    border-style: dotted;
+  }
+
+  .xs\:border-dotted\:disabled:disabled {
+    border-style: dotted;
+  }
+
+  .xs\:border-dotted\:focus:focus {
+    border-style: dotted;
+  }
+
+  .xs\:border-dotted\:hover:hover {
+    border-style: dotted;
+  }
+
+  .xs\:border-dotted\:required:required {
+    border-style: dotted;
+  }
+
+  .xs\:border-dotted\:visited:visited {
+    border-style: dotted;
+  }
+
+  .xs\:border-double {
+    border-style: double;
+  }
+
+  .xs\:border-double\:active:active {
+    border-style: double;
+  }
+
+  .xs\:border-double\:checked:checked {
+    border-style: double;
+  }
+
+  .xs\:border-double\:disabled:disabled {
+    border-style: double;
+  }
+
+  .xs\:border-double\:focus:focus {
+    border-style: double;
+  }
+
+  .xs\:border-double\:hover:hover {
+    border-style: double;
+  }
+
+  .xs\:border-double\:required:required {
+    border-style: double;
+  }
+
+  .xs\:border-double\:visited:visited {
+    border-style: double;
+  }
+
+  .xs\:border-none {
+    border-style: none;
+  }
+
+  .xs\:border-none\:active:active {
+    border-style: none;
+  }
+
+  .xs\:border-none\:checked:checked {
+    border-style: none;
+  }
+
+  .xs\:border-none\:disabled:disabled {
+    border-style: none;
+  }
+
+  .xs\:border-none\:focus:focus {
+    border-style: none;
+  }
+
+  .xs\:border-none\:hover:hover {
+    border-style: none;
+  }
+
+  .xs\:border-none\:required:required {
+    border-style: none;
+  }
+
+  .xs\:border-none\:visited:visited {
+    border-style: none;
+  }
+}
+@media (min-width: 640px) and (max-width: 767px) {
+  .sm\:border-solid {
+    border-style: solid;
+  }
+
+  .sm\:border-solid\:active:active {
+    border-style: solid;
+  }
+
+  .sm\:border-solid\:checked:checked {
+    border-style: solid;
+  }
+
+  .sm\:border-solid\:disabled:disabled {
+    border-style: solid;
+  }
+
+  .sm\:border-solid\:focus:focus {
+    border-style: solid;
+  }
+
+  .sm\:border-solid\:hover:hover {
+    border-style: solid;
+  }
+
+  .sm\:border-solid\:required:required {
+    border-style: solid;
+  }
+
+  .sm\:border-solid\:visited:visited {
+    border-style: solid;
+  }
+
+  .sm\:border-dashed {
+    border-style: dashed;
+  }
+
+  .sm\:border-dashed\:active:active {
+    border-style: dashed;
+  }
+
+  .sm\:border-dashed\:checked:checked {
+    border-style: dashed;
+  }
+
+  .sm\:border-dashed\:disabled:disabled {
+    border-style: dashed;
+  }
+
+  .sm\:border-dashed\:focus:focus {
+    border-style: dashed;
+  }
+
+  .sm\:border-dashed\:hover:hover {
+    border-style: dashed;
+  }
+
+  .sm\:border-dashed\:required:required {
+    border-style: dashed;
+  }
+
+  .sm\:border-dashed\:visited:visited {
+    border-style: dashed;
+  }
+
+  .sm\:border-dotted {
+    border-style: dotted;
+  }
+
+  .sm\:border-dotted\:active:active {
+    border-style: dotted;
+  }
+
+  .sm\:border-dotted\:checked:checked {
+    border-style: dotted;
+  }
+
+  .sm\:border-dotted\:disabled:disabled {
+    border-style: dotted;
+  }
+
+  .sm\:border-dotted\:focus:focus {
+    border-style: dotted;
+  }
+
+  .sm\:border-dotted\:hover:hover {
+    border-style: dotted;
+  }
+
+  .sm\:border-dotted\:required:required {
+    border-style: dotted;
+  }
+
+  .sm\:border-dotted\:visited:visited {
+    border-style: dotted;
+  }
+
+  .sm\:border-double {
+    border-style: double;
+  }
+
+  .sm\:border-double\:active:active {
+    border-style: double;
+  }
+
+  .sm\:border-double\:checked:checked {
+    border-style: double;
+  }
+
+  .sm\:border-double\:disabled:disabled {
+    border-style: double;
+  }
+
+  .sm\:border-double\:focus:focus {
+    border-style: double;
+  }
+
+  .sm\:border-double\:hover:hover {
+    border-style: double;
+  }
+
+  .sm\:border-double\:required:required {
+    border-style: double;
+  }
+
+  .sm\:border-double\:visited:visited {
+    border-style: double;
+  }
+
+  .sm\:border-none {
+    border-style: none;
+  }
+
+  .sm\:border-none\:active:active {
+    border-style: none;
+  }
+
+  .sm\:border-none\:checked:checked {
+    border-style: none;
+  }
+
+  .sm\:border-none\:disabled:disabled {
+    border-style: none;
+  }
+
+  .sm\:border-none\:focus:focus {
+    border-style: none;
+  }
+
+  .sm\:border-none\:hover:hover {
+    border-style: none;
+  }
+
+  .sm\:border-none\:required:required {
+    border-style: none;
+  }
+
+  .sm\:border-none\:visited:visited {
+    border-style: none;
+  }
+}
+@media (min-width: 768px) and (max-width: 1023px) {
+  .md\:border-solid {
+    border-style: solid;
+  }
+
+  .md\:border-solid\:active:active {
+    border-style: solid;
+  }
+
+  .md\:border-solid\:checked:checked {
+    border-style: solid;
+  }
+
+  .md\:border-solid\:disabled:disabled {
+    border-style: solid;
+  }
+
+  .md\:border-solid\:focus:focus {
+    border-style: solid;
+  }
+
+  .md\:border-solid\:hover:hover {
+    border-style: solid;
+  }
+
+  .md\:border-solid\:required:required {
+    border-style: solid;
+  }
+
+  .md\:border-solid\:visited:visited {
+    border-style: solid;
+  }
+
+  .md\:border-dashed {
+    border-style: dashed;
+  }
+
+  .md\:border-dashed\:active:active {
+    border-style: dashed;
+  }
+
+  .md\:border-dashed\:checked:checked {
+    border-style: dashed;
+  }
+
+  .md\:border-dashed\:disabled:disabled {
+    border-style: dashed;
+  }
+
+  .md\:border-dashed\:focus:focus {
+    border-style: dashed;
+  }
+
+  .md\:border-dashed\:hover:hover {
+    border-style: dashed;
+  }
+
+  .md\:border-dashed\:required:required {
+    border-style: dashed;
+  }
+
+  .md\:border-dashed\:visited:visited {
+    border-style: dashed;
+  }
+
+  .md\:border-dotted {
+    border-style: dotted;
+  }
+
+  .md\:border-dotted\:active:active {
+    border-style: dotted;
+  }
+
+  .md\:border-dotted\:checked:checked {
+    border-style: dotted;
+  }
+
+  .md\:border-dotted\:disabled:disabled {
+    border-style: dotted;
+  }
+
+  .md\:border-dotted\:focus:focus {
+    border-style: dotted;
+  }
+
+  .md\:border-dotted\:hover:hover {
+    border-style: dotted;
+  }
+
+  .md\:border-dotted\:required:required {
+    border-style: dotted;
+  }
+
+  .md\:border-dotted\:visited:visited {
+    border-style: dotted;
+  }
+
+  .md\:border-double {
+    border-style: double;
+  }
+
+  .md\:border-double\:active:active {
+    border-style: double;
+  }
+
+  .md\:border-double\:checked:checked {
+    border-style: double;
+  }
+
+  .md\:border-double\:disabled:disabled {
+    border-style: double;
+  }
+
+  .md\:border-double\:focus:focus {
+    border-style: double;
+  }
+
+  .md\:border-double\:hover:hover {
+    border-style: double;
+  }
+
+  .md\:border-double\:required:required {
+    border-style: double;
+  }
+
+  .md\:border-double\:visited:visited {
+    border-style: double;
+  }
+
+  .md\:border-none {
+    border-style: none;
+  }
+
+  .md\:border-none\:active:active {
+    border-style: none;
+  }
+
+  .md\:border-none\:checked:checked {
+    border-style: none;
+  }
+
+  .md\:border-none\:disabled:disabled {
+    border-style: none;
+  }
+
+  .md\:border-none\:focus:focus {
+    border-style: none;
+  }
+
+  .md\:border-none\:hover:hover {
+    border-style: none;
+  }
+
+  .md\:border-none\:required:required {
+    border-style: none;
+  }
+
+  .md\:border-none\:visited:visited {
+    border-style: none;
+  }
+}
+@media (min-width: 1024px) and (max-width: 2000px) {
+  .lg\:border-solid {
+    border-style: solid;
+  }
+
+  .lg\:border-solid\:active:active {
+    border-style: solid;
+  }
+
+  .lg\:border-solid\:checked:checked {
+    border-style: solid;
+  }
+
+  .lg\:border-solid\:disabled:disabled {
+    border-style: solid;
+  }
+
+  .lg\:border-solid\:focus:focus {
+    border-style: solid;
+  }
+
+  .lg\:border-solid\:hover:hover {
+    border-style: solid;
+  }
+
+  .lg\:border-solid\:required:required {
+    border-style: solid;
+  }
+
+  .lg\:border-solid\:visited:visited {
+    border-style: solid;
+  }
+
+  .lg\:border-dashed {
+    border-style: dashed;
+  }
+
+  .lg\:border-dashed\:active:active {
+    border-style: dashed;
+  }
+
+  .lg\:border-dashed\:checked:checked {
+    border-style: dashed;
+  }
+
+  .lg\:border-dashed\:disabled:disabled {
+    border-style: dashed;
+  }
+
+  .lg\:border-dashed\:focus:focus {
+    border-style: dashed;
+  }
+
+  .lg\:border-dashed\:hover:hover {
+    border-style: dashed;
+  }
+
+  .lg\:border-dashed\:required:required {
+    border-style: dashed;
+  }
+
+  .lg\:border-dashed\:visited:visited {
+    border-style: dashed;
+  }
+
+  .lg\:border-dotted {
+    border-style: dotted;
+  }
+
+  .lg\:border-dotted\:active:active {
+    border-style: dotted;
+  }
+
+  .lg\:border-dotted\:checked:checked {
+    border-style: dotted;
+  }
+
+  .lg\:border-dotted\:disabled:disabled {
+    border-style: dotted;
+  }
+
+  .lg\:border-dotted\:focus:focus {
+    border-style: dotted;
+  }
+
+  .lg\:border-dotted\:hover:hover {
+    border-style: dotted;
+  }
+
+  .lg\:border-dotted\:required:required {
+    border-style: dotted;
+  }
+
+  .lg\:border-dotted\:visited:visited {
+    border-style: dotted;
+  }
+
+  .lg\:border-double {
+    border-style: double;
+  }
+
+  .lg\:border-double\:active:active {
+    border-style: double;
+  }
+
+  .lg\:border-double\:checked:checked {
+    border-style: double;
+  }
+
+  .lg\:border-double\:disabled:disabled {
+    border-style: double;
+  }
+
+  .lg\:border-double\:focus:focus {
+    border-style: double;
+  }
+
+  .lg\:border-double\:hover:hover {
+    border-style: double;
+  }
+
+  .lg\:border-double\:required:required {
+    border-style: double;
+  }
+
+  .lg\:border-double\:visited:visited {
+    border-style: double;
+  }
+
+  .lg\:border-none {
+    border-style: none;
+  }
+
+  .lg\:border-none\:active:active {
+    border-style: none;
+  }
+
+  .lg\:border-none\:checked:checked {
+    border-style: none;
+  }
+
+  .lg\:border-none\:disabled:disabled {
+    border-style: none;
+  }
+
+  .lg\:border-none\:focus:focus {
+    border-style: none;
+  }
+
+  .lg\:border-none\:hover:hover {
+    border-style: none;
+  }
+
+  .lg\:border-none\:required:required {
+    border-style: none;
+  }
+
+  .lg\:border-none\:visited:visited {
+    border-style: none;
+  }
+}

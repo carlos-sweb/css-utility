@@ -1,0 +1,324 @@
+.box-border {
+  box-sizing: border-box;
+}
+
+.box-border\:active:active {
+  box-sizing: border-box;
+}
+
+.box-border\:checked:checked {
+  box-sizing: border-box;
+}
+
+.box-border\:disabled:disabled {
+  box-sizing: border-box;
+}
+
+.box-border\:focus:focus {
+  box-sizing: border-box;
+}
+
+.box-border\:hover:hover {
+  box-sizing: border-box;
+}
+
+.box-border\:required:required {
+  box-sizing: border-box;
+}
+
+.box-border\:visited:visited {
+  box-sizing: border-box;
+}
+
+.box-content {
+  box-sizing: content-box;
+}
+
+.box-content\:active:active {
+  box-sizing: content-box;
+}
+
+.box-content\:checked:checked {
+  box-sizing: content-box;
+}
+
+.box-content\:disabled:disabled {
+  box-sizing: content-box;
+}
+
+.box-content\:focus:focus {
+  box-sizing: content-box;
+}
+
+.box-content\:hover:hover {
+  box-sizing: content-box;
+}
+
+.box-content\:required:required {
+  box-sizing: content-box;
+}
+
+.box-content\:visited:visited {
+  box-sizing: content-box;
+}
+
+@media (min-width: 0px) and (max-width: 639px) {
+  .xs\:box-border {
+    box-sizing: border-box;
+  }
+
+  .xs\:box-border\:active:active {
+    box-sizing: border-box;
+  }
+
+  .xs\:box-border\:checked:checked {
+    box-sizing: border-box;
+  }
+
+  .xs\:box-border\:disabled:disabled {
+    box-sizing: border-box;
+  }
+
+  .xs\:box-border\:focus:focus {
+    box-sizing: border-box;
+  }
+
+  .xs\:box-border\:hover:hover {
+    box-sizing: border-box;
+  }
+
+  .xs\:box-border\:required:required {
+    box-sizing: border-box;
+  }
+
+  .xs\:box-border\:visited:visited {
+    box-sizing: border-box;
+  }
+
+  .xs\:box-content {
+    box-sizing: content-box;
+  }
+
+  .xs\:box-content\:active:active {
+    box-sizing: content-box;
+  }
+
+  .xs\:box-content\:checked:checked {
+    box-sizing: content-box;
+  }
+
+  .xs\:box-content\:disabled:disabled {
+    box-sizing: content-box;
+  }
+
+  .xs\:box-content\:focus:focus {
+    box-sizing: content-box;
+  }
+
+  .xs\:box-content\:hover:hover {
+    box-sizing: content-box;
+  }
+
+  .xs\:box-content\:required:required {
+    box-sizing: content-box;
+  }
+
+  .xs\:box-content\:visited:visited {
+    box-sizing: content-box;
+  }
+}
+@media (min-width: 640px) and (max-width: 767px) {
+  .sm\:box-border {
+    box-sizing: border-box;
+  }
+
+  .sm\:box-border\:active:active {
+    box-sizing: border-box;
+  }
+
+  .sm\:box-border\:checked:checked {
+    box-sizing: border-box;
+  }
+
+  .sm\:box-border\:disabled:disabled {
+    box-sizing: border-box;
+  }
+
+  .sm\:box-border\:focus:focus {
+    box-sizing: border-box;
+  }
+
+  .sm\:box-border\:hover:hover {
+    box-sizing: border-box;
+  }
+
+  .sm\:box-border\:required:required {
+    box-sizing: border-box;
+  }
+
+  .sm\:box-border\:visited:visited {
+    box-sizing: border-box;
+  }
+
+  .sm\:box-content {
+    box-sizing: content-box;
+  }
+
+  .sm\:box-content\:active:active {
+    box-sizing: content-box;
+  }
+
+  .sm\:box-content\:checked:checked {
+    box-sizing: content-box;
+  }
+
+  .sm\:box-content\:disabled:disabled {
+    box-sizing: content-box;
+  }
+
+  .sm\:box-content\:focus:focus {
+    box-sizing: content-box;
+  }
+
+  .sm\:box-content\:hover:hover {
+    box-sizing: content-box;
+  }
+
+  .sm\:box-content\:required:required {
+    box-sizing: content-box;
+  }
+
+  .sm\:box-content\:visited:visited {
+    box-sizing: content-box;
+  }
+}
+@media (min-width: 768px) and (max-width: 1023px) {
+  .md\:box-border {
+    box-sizing: border-box;
+  }
+
+  .md\:box-border\:active:active {
+    box-sizing: border-box;
+  }
+
+  .md\:box-border\:checked:checked {
+    box-sizing: border-box;
+  }
+
+  .md\:box-border\:disabled:disabled {
+    box-sizing: border-box;
+  }
+
+  .md\:box-border\:focus:focus {
+    box-sizing: border-box;
+  }
+
+  .md\:box-border\:hover:hover {
+    box-sizing: border-box;
+  }
+
+  .md\:box-border\:required:required {
+    box-sizing: border-box;
+  }
+
+  .md\:box-border\:visited:visited {
+    box-sizing: border-box;
+  }
+
+  .md\:box-content {
+    box-sizing: content-box;
+  }
+
+  .md\:box-content\:active:active {
+    box-sizing: content-box;
+  }
+
+  .md\:box-content\:checked:checked {
+    box-sizing: content-box;
+  }
+
+  .md\:box-content\:disabled:disabled {
+    box-sizing: content-box;
+  }
+
+  .md\:box-content\:focus:focus {
+    box-sizing: content-box;
+  }
+
+  .md\:box-content\:hover:hover {
+    box-sizing: content-box;
+  }
+
+  .md\:box-content\:required:required {
+    box-sizing: content-box;
+  }
+
+  .md\:box-content\:visited:visited {
+    box-sizing: content-box;
+  }
+}
+@media (min-width: 1024px) and (max-width: 2000px) {
+  .lg\:box-border {
+    box-sizing: border-box;
+  }
+
+  .lg\:box-border\:active:active {
+    box-sizing: border-box;
+  }
+
+  .lg\:box-border\:checked:checked {
+    box-sizing: border-box;
+  }
+
+  .lg\:box-border\:disabled:disabled {
+    box-sizing: border-box;
+  }
+
+  .lg\:box-border\:focus:focus {
+    box-sizing: border-box;
+  }
+
+  .lg\:box-border\:hover:hover {
+    box-sizing: border-box;
+  }
+
+  .lg\:box-border\:required:required {
+    box-sizing: border-box;
+  }
+
+  .lg\:box-border\:visited:visited {
+    box-sizing: border-box;
+  }
+
+  .lg\:box-content {
+    box-sizing: content-box;
+  }
+
+  .lg\:box-content\:active:active {
+    box-sizing: content-box;
+  }
+
+  .lg\:box-content\:checked:checked {
+    box-sizing: content-box;
+  }
+
+  .lg\:box-content\:disabled:disabled {
+    box-sizing: content-box;
+  }
+
+  .lg\:box-content\:focus:focus {
+    box-sizing: content-box;
+  }
+
+  .lg\:box-content\:hover:hover {
+    box-sizing: content-box;
+  }
+
+  .lg\:box-content\:required:required {
+    box-sizing: content-box;
+  }
+
+  .lg\:box-content\:visited:visited {
+    box-sizing: content-box;
+  }
+}

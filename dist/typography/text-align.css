@@ -1,0 +1,804 @@
+.text-left {
+  text-align: left;
+}
+
+.text-left\:active:active {
+  text-align: left;
+}
+
+.text-left\:checked:checked {
+  text-align: left;
+}
+
+.text-left\:disabled:disabled {
+  text-align: left;
+}
+
+.text-left\:focus:focus {
+  text-align: left;
+}
+
+.text-left\:hover:hover {
+  text-align: left;
+}
+
+.text-left\:required:required {
+  text-align: left;
+}
+
+.text-left\:visited:visited {
+  text-align: left;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-center\:active:active {
+  text-align: center;
+}
+
+.text-center\:checked:checked {
+  text-align: center;
+}
+
+.text-center\:disabled:disabled {
+  text-align: center;
+}
+
+.text-center\:focus:focus {
+  text-align: center;
+}
+
+.text-center\:hover:hover {
+  text-align: center;
+}
+
+.text-center\:required:required {
+  text-align: center;
+}
+
+.text-center\:visited:visited {
+  text-align: center;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.text-right\:active:active {
+  text-align: right;
+}
+
+.text-right\:checked:checked {
+  text-align: right;
+}
+
+.text-right\:disabled:disabled {
+  text-align: right;
+}
+
+.text-right\:focus:focus {
+  text-align: right;
+}
+
+.text-right\:hover:hover {
+  text-align: right;
+}
+
+.text-right\:required:required {
+  text-align: right;
+}
+
+.text-right\:visited:visited {
+  text-align: right;
+}
+
+.text-inherit {
+  text-align: inherit;
+}
+
+.text-inherit\:active:active {
+  text-align: inherit;
+}
+
+.text-inherit\:checked:checked {
+  text-align: inherit;
+}
+
+.text-inherit\:disabled:disabled {
+  text-align: inherit;
+}
+
+.text-inherit\:focus:focus {
+  text-align: inherit;
+}
+
+.text-inherit\:hover:hover {
+  text-align: inherit;
+}
+
+.text-inherit\:required:required {
+  text-align: inherit;
+}
+
+.text-inherit\:visited:visited {
+  text-align: inherit;
+}
+
+.text-justify {
+  text-align: justify;
+}
+
+.text-justify\:active:active {
+  text-align: justify;
+}
+
+.text-justify\:checked:checked {
+  text-align: justify;
+}
+
+.text-justify\:disabled:disabled {
+  text-align: justify;
+}
+
+.text-justify\:focus:focus {
+  text-align: justify;
+}
+
+.text-justify\:hover:hover {
+  text-align: justify;
+}
+
+.text-justify\:required:required {
+  text-align: justify;
+}
+
+.text-justify\:visited:visited {
+  text-align: justify;
+}
+
+@media (min-width: 0px) and (max-width: 639px) {
+  .xs\:text-left {
+    text-align: left;
+  }
+
+  .xs\:text-left\:active:active {
+    text-align: left;
+  }
+
+  .xs\:text-left\:checked:checked {
+    text-align: left;
+  }
+
+  .xs\:text-left\:disabled:disabled {
+    text-align: left;
+  }
+
+  .xs\:text-left\:focus:focus {
+    text-align: left;
+  }
+
+  .xs\:text-left\:hover:hover {
+    text-align: left;
+  }
+
+  .xs\:text-left\:required:required {
+    text-align: left;
+  }
+
+  .xs\:text-left\:visited:visited {
+    text-align: left;
+  }
+
+  .xs\:text-center {
+    text-align: center;
+  }
+
+  .xs\:text-center\:active:active {
+    text-align: center;
+  }
+
+  .xs\:text-center\:checked:checked {
+    text-align: center;
+  }
+
+  .xs\:text-center\:disabled:disabled {
+    text-align: center;
+  }
+
+  .xs\:text-center\:focus:focus {
+    text-align: center;
+  }
+
+  .xs\:text-center\:hover:hover {
+    text-align: center;
+  }
+
+  .xs\:text-center\:required:required {
+    text-align: center;
+  }
+
+  .xs\:text-center\:visited:visited {
+    text-align: center;
+  }
+
+  .xs\:text-right {
+    text-align: right;
+  }
+
+  .xs\:text-right\:active:active {
+    text-align: right;
+  }
+
+  .xs\:text-right\:checked:checked {
+    text-align: right;
+  }
+
+  .xs\:text-right\:disabled:disabled {
+    text-align: right;
+  }
+
+  .xs\:text-right\:focus:focus {
+    text-align: right;
+  }
+
+  .xs\:text-right\:hover:hover {
+    text-align: right;
+  }
+
+  .xs\:text-right\:required:required {
+    text-align: right;
+  }
+
+  .xs\:text-right\:visited:visited {
+    text-align: right;
+  }
+
+  .xs\:text-inherit {
+    text-align: inherit;
+  }
+
+  .xs\:text-inherit\:active:active {
+    text-align: inherit;
+  }
+
+  .xs\:text-inherit\:checked:checked {
+    text-align: inherit;
+  }
+
+  .xs\:text-inherit\:disabled:disabled {
+    text-align: inherit;
+  }
+
+  .xs\:text-inherit\:focus:focus {
+    text-align: inherit;
+  }
+
+  .xs\:text-inherit\:hover:hover {
+    text-align: inherit;
+  }
+
+  .xs\:text-inherit\:required:required {
+    text-align: inherit;
+  }
+
+  .xs\:text-inherit\:visited:visited {
+    text-align: inherit;
+  }
+
+  .xs\:text-justify {
+    text-align: justify;
+  }
+
+  .xs\:text-justify\:active:active {
+    text-align: justify;
+  }
+
+  .xs\:text-justify\:checked:checked {
+    text-align: justify;
+  }
+
+  .xs\:text-justify\:disabled:disabled {
+    text-align: justify;
+  }
+
+  .xs\:text-justify\:focus:focus {
+    text-align: justify;
+  }
+
+  .xs\:text-justify\:hover:hover {
+    text-align: justify;
+  }
+
+  .xs\:text-justify\:required:required {
+    text-align: justify;
+  }
+
+  .xs\:text-justify\:visited:visited {
+    text-align: justify;
+  }
+}
+@media (min-width: 640px) and (max-width: 767px) {
+  .sm\:text-left {
+    text-align: left;
+  }
+
+  .sm\:text-left\:active:active {
+    text-align: left;
+  }
+
+  .sm\:text-left\:checked:checked {
+    text-align: left;
+  }
+
+  .sm\:text-left\:disabled:disabled {
+    text-align: left;
+  }
+
+  .sm\:text-left\:focus:focus {
+    text-align: left;
+  }
+
+  .sm\:text-left\:hover:hover {
+    text-align: left;
+  }
+
+  .sm\:text-left\:required:required {
+    text-align: left;
+  }
+
+  .sm\:text-left\:visited:visited {
+    text-align: left;
+  }
+
+  .sm\:text-center {
+    text-align: center;
+  }
+
+  .sm\:text-center\:active:active {
+    text-align: center;
+  }
+
+  .sm\:text-center\:checked:checked {
+    text-align: center;
+  }
+
+  .sm\:text-center\:disabled:disabled {
+    text-align: center;
+  }
+
+  .sm\:text-center\:focus:focus {
+    text-align: center;
+  }
+
+  .sm\:text-center\:hover:hover {
+    text-align: center;
+  }
+
+  .sm\:text-center\:required:required {
+    text-align: center;
+  }
+
+  .sm\:text-center\:visited:visited {
+    text-align: center;
+  }
+
+  .sm\:text-right {
+    text-align: right;
+  }
+
+  .sm\:text-right\:active:active {
+    text-align: right;
+  }
+
+  .sm\:text-right\:checked:checked {
+    text-align: right;
+  }
+
+  .sm\:text-right\:disabled:disabled {
+    text-align: right;
+  }
+
+  .sm\:text-right\:focus:focus {
+    text-align: right;
+  }
+
+  .sm\:text-right\:hover:hover {
+    text-align: right;
+  }
+
+  .sm\:text-right\:required:required {
+    text-align: right;
+  }
+
+  .sm\:text-right\:visited:visited {
+    text-align: right;
+  }
+
+  .sm\:text-inherit {
+    text-align: inherit;
+  }
+
+  .sm\:text-inherit\:active:active {
+    text-align: inherit;
+  }
+
+  .sm\:text-inherit\:checked:checked {
+    text-align: inherit;
+  }
+
+  .sm\:text-inherit\:disabled:disabled {
+    text-align: inherit;
+  }
+
+  .sm\:text-inherit\:focus:focus {
+    text-align: inherit;
+  }
+
+  .sm\:text-inherit\:hover:hover {
+    text-align: inherit;
+  }
+
+  .sm\:text-inherit\:required:required {
+    text-align: inherit;
+  }
+
+  .sm\:text-inherit\:visited:visited {
+    text-align: inherit;
+  }
+
+  .sm\:text-justify {
+    text-align: justify;
+  }
+
+  .sm\:text-justify\:active:active {
+    text-align: justify;
+  }
+
+  .sm\:text-justify\:checked:checked {
+    text-align: justify;
+  }
+
+  .sm\:text-justify\:disabled:disabled {
+    text-align: justify;
+  }
+
+  .sm\:text-justify\:focus:focus {
+    text-align: justify;
+  }
+
+  .sm\:text-justify\:hover:hover {
+    text-align: justify;
+  }
+
+  .sm\:text-justify\:required:required {
+    text-align: justify;
+  }
+
+  .sm\:text-justify\:visited:visited {
+    text-align: justify;
+  }
+}
+@media (min-width: 768px) and (max-width: 1023px) {
+  .md\:text-left {
+    text-align: left;
+  }
+
+  .md\:text-left\:active:active {
+    text-align: left;
+  }
+
+  .md\:text-left\:checked:checked {
+    text-align: left;
+  }
+
+  .md\:text-left\:disabled:disabled {
+    text-align: left;
+  }
+
+  .md\:text-left\:focus:focus {
+    text-align: left;
+  }
+
+  .md\:text-left\:hover:hover {
+    text-align: left;
+  }
+
+  .md\:text-left\:required:required {
+    text-align: left;
+  }
+
+  .md\:text-left\:visited:visited {
+    text-align: left;
+  }
+
+  .md\:text-center {
+    text-align: center;
+  }
+
+  .md\:text-center\:active:active {
+    text-align: center;
+  }
+
+  .md\:text-center\:checked:checked {
+    text-align: center;
+  }
+
+  .md\:text-center\:disabled:disabled {
+    text-align: center;
+  }
+
+  .md\:text-center\:focus:focus {
+    text-align: center;
+  }
+
+  .md\:text-center\:hover:hover {
+    text-align: center;
+  }
+
+  .md\:text-center\:required:required {
+    text-align: center;
+  }
+
+  .md\:text-center\:visited:visited {
+    text-align: center;
+  }
+
+  .md\:text-right {
+    text-align: right;
+  }
+
+  .md\:text-right\:active:active {
+    text-align: right;
+  }
+
+  .md\:text-right\:checked:checked {
+    text-align: right;
+  }
+
+  .md\:text-right\:disabled:disabled {
+    text-align: right;
+  }
+
+  .md\:text-right\:focus:focus {
+    text-align: right;
+  }
+
+  .md\:text-right\:hover:hover {
+    text-align: right;
+  }
+
+  .md\:text-right\:required:required {
+    text-align: right;
+  }
+
+  .md\:text-right\:visited:visited {
+    text-align: right;
+  }
+
+  .md\:text-inherit {
+    text-align: inherit;
+  }
+
+  .md\:text-inherit\:active:active {
+    text-align: inherit;
+  }
+
+  .md\:text-inherit\:checked:checked {
+    text-align: inherit;
+  }
+
+  .md\:text-inherit\:disabled:disabled {
+    text-align: inherit;
+  }
+
+  .md\:text-inherit\:focus:focus {
+    text-align: inherit;
+  }
+
+  .md\:text-inherit\:hover:hover {
+    text-align: inherit;
+  }
+
+  .md\:text-inherit\:required:required {
+    text-align: inherit;
+  }
+
+  .md\:text-inherit\:visited:visited {
+    text-align: inherit;
+  }
+
+  .md\:text-justify {
+    text-align: justify;
+  }
+
+  .md\:text-justify\:active:active {
+    text-align: justify;
+  }
+
+  .md\:text-justify\:checked:checked {
+    text-align: justify;
+  }
+
+  .md\:text-justify\:disabled:disabled {
+    text-align: justify;
+  }
+
+  .md\:text-justify\:focus:focus {
+    text-align: justify;
+  }
+
+  .md\:text-justify\:hover:hover {
+    text-align: justify;
+  }
+
+  .md\:text-justify\:required:required {
+    text-align: justify;
+  }
+
+  .md\:text-justify\:visited:visited {
+    text-align: justify;
+  }
+}
+@media (min-width: 1024px) and (max-width: 2000px) {
+  .lg\:text-left {
+    text-align: left;
+  }
+
+  .lg\:text-left\:active:active {
+    text-align: left;
+  }
+
+  .lg\:text-left\:checked:checked {
+    text-align: left;
+  }
+
+  .lg\:text-left\:disabled:disabled {
+    text-align: left;
+  }
+
+  .lg\:text-left\:focus:focus {
+    text-align: left;
+  }
+
+  .lg\:text-left\:hover:hover {
+    text-align: left;
+  }
+
+  .lg\:text-left\:required:required {
+    text-align: left;
+  }
+
+  .lg\:text-left\:visited:visited {
+    text-align: left;
+  }
+
+  .lg\:text-center {
+    text-align: center;
+  }
+
+  .lg\:text-center\:active:active {
+    text-align: center;
+  }
+
+  .lg\:text-center\:checked:checked {
+    text-align: center;
+  }
+
+  .lg\:text-center\:disabled:disabled {
+    text-align: center;
+  }
+
+  .lg\:text-center\:focus:focus {
+    text-align: center;
+  }
+
+  .lg\:text-center\:hover:hover {
+    text-align: center;
+  }
+
+  .lg\:text-center\:required:required {
+    text-align: center;
+  }
+
+  .lg\:text-center\:visited:visited {
+    text-align: center;
+  }
+
+  .lg\:text-right {
+    text-align: right;
+  }
+
+  .lg\:text-right\:active:active {
+    text-align: right;
+  }
+
+  .lg\:text-right\:checked:checked {
+    text-align: right;
+  }
+
+  .lg\:text-right\:disabled:disabled {
+    text-align: right;
+  }
+
+  .lg\:text-right\:focus:focus {
+    text-align: right;
+  }
+
+  .lg\:text-right\:hover:hover {
+    text-align: right;
+  }
+
+  .lg\:text-right\:required:required {
+    text-align: right;
+  }
+
+  .lg\:text-right\:visited:visited {
+    text-align: right;
+  }
+
+  .lg\:text-inherit {
+    text-align: inherit;
+  }
+
+  .lg\:text-inherit\:active:active {
+    text-align: inherit;
+  }
+
+  .lg\:text-inherit\:checked:checked {
+    text-align: inherit;
+  }
+
+  .lg\:text-inherit\:disabled:disabled {
+    text-align: inherit;
+  }
+
+  .lg\:text-inherit\:focus:focus {
+    text-align: inherit;
+  }
+
+  .lg\:text-inherit\:hover:hover {
+    text-align: inherit;
+  }
+
+  .lg\:text-inherit\:required:required {
+    text-align: inherit;
+  }
+
+  .lg\:text-inherit\:visited:visited {
+    text-align: inherit;
+  }
+
+  .lg\:text-justify {
+    text-align: justify;
+  }
+
+  .lg\:text-justify\:active:active {
+    text-align: justify;
+  }
+
+  .lg\:text-justify\:checked:checked {
+    text-align: justify;
+  }
+
+  .lg\:text-justify\:disabled:disabled {
+    text-align: justify;
+  }
+
+  .lg\:text-justify\:focus:focus {
+    text-align: justify;
+  }
+
+  .lg\:text-justify\:hover:hover {
+    text-align: justify;
+  }
+
+  .lg\:text-justify\:required:required {
+    text-align: justify;
+  }
+
+  .lg\:text-justify\:visited:visited {
+    text-align: justify;
+  }
+}

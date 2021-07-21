@@ -1,0 +1,964 @@
+.tracking-tighter {
+  letter-spacing: -0.05em;
+}
+
+.tracking-tighter\:active:active {
+  letter-spacing: -0.05em;
+}
+
+.tracking-tighter\:checked:checked {
+  letter-spacing: -0.05em;
+}
+
+.tracking-tighter\:disabled:disabled {
+  letter-spacing: -0.05em;
+}
+
+.tracking-tighter\:focus:focus {
+  letter-spacing: -0.05em;
+}
+
+.tracking-tighter\:hover:hover {
+  letter-spacing: -0.05em;
+}
+
+.tracking-tighter\:required:required {
+  letter-spacing: -0.05em;
+}
+
+.tracking-tighter\:visited:visited {
+  letter-spacing: -0.05em;
+}
+
+.tracking-tight {
+  letter-spacing: -0.025em;
+}
+
+.tracking-tight\:active:active {
+  letter-spacing: -0.025em;
+}
+
+.tracking-tight\:checked:checked {
+  letter-spacing: -0.025em;
+}
+
+.tracking-tight\:disabled:disabled {
+  letter-spacing: -0.025em;
+}
+
+.tracking-tight\:focus:focus {
+  letter-spacing: -0.025em;
+}
+
+.tracking-tight\:hover:hover {
+  letter-spacing: -0.025em;
+}
+
+.tracking-tight\:required:required {
+  letter-spacing: -0.025em;
+}
+
+.tracking-tight\:visited:visited {
+  letter-spacing: -0.025em;
+}
+
+.tracking-normal {
+  letter-spacing: 0em;
+}
+
+.tracking-normal\:active:active {
+  letter-spacing: 0em;
+}
+
+.tracking-normal\:checked:checked {
+  letter-spacing: 0em;
+}
+
+.tracking-normal\:disabled:disabled {
+  letter-spacing: 0em;
+}
+
+.tracking-normal\:focus:focus {
+  letter-spacing: 0em;
+}
+
+.tracking-normal\:hover:hover {
+  letter-spacing: 0em;
+}
+
+.tracking-normal\:required:required {
+  letter-spacing: 0em;
+}
+
+.tracking-normal\:visited:visited {
+  letter-spacing: 0em;
+}
+
+.tracking-wide {
+  letter-spacing: 0.025em;
+}
+
+.tracking-wide\:active:active {
+  letter-spacing: 0.025em;
+}
+
+.tracking-wide\:checked:checked {
+  letter-spacing: 0.025em;
+}
+
+.tracking-wide\:disabled:disabled {
+  letter-spacing: 0.025em;
+}
+
+.tracking-wide\:focus:focus {
+  letter-spacing: 0.025em;
+}
+
+.tracking-wide\:hover:hover {
+  letter-spacing: 0.025em;
+}
+
+.tracking-wide\:required:required {
+  letter-spacing: 0.025em;
+}
+
+.tracking-wide\:visited:visited {
+  letter-spacing: 0.025em;
+}
+
+.tracking-wider {
+  letter-spacing: 0.05em;
+}
+
+.tracking-wider\:active:active {
+  letter-spacing: 0.05em;
+}
+
+.tracking-wider\:checked:checked {
+  letter-spacing: 0.05em;
+}
+
+.tracking-wider\:disabled:disabled {
+  letter-spacing: 0.05em;
+}
+
+.tracking-wider\:focus:focus {
+  letter-spacing: 0.05em;
+}
+
+.tracking-wider\:hover:hover {
+  letter-spacing: 0.05em;
+}
+
+.tracking-wider\:required:required {
+  letter-spacing: 0.05em;
+}
+
+.tracking-wider\:visited:visited {
+  letter-spacing: 0.05em;
+}
+
+.tracking-widest {
+  letter-spacing: 0.1em;
+}
+
+.tracking-widest\:active:active {
+  letter-spacing: 0.1em;
+}
+
+.tracking-widest\:checked:checked {
+  letter-spacing: 0.1em;
+}
+
+.tracking-widest\:disabled:disabled {
+  letter-spacing: 0.1em;
+}
+
+.tracking-widest\:focus:focus {
+  letter-spacing: 0.1em;
+}
+
+.tracking-widest\:hover:hover {
+  letter-spacing: 0.1em;
+}
+
+.tracking-widest\:required:required {
+  letter-spacing: 0.1em;
+}
+
+.tracking-widest\:visited:visited {
+  letter-spacing: 0.1em;
+}
+
+@media (min-width: 0px) and (max-width: 639px) {
+  .xs\:tracking-tighter {
+    letter-spacing: -0.05em;
+  }
+
+  .xs\:tracking-tighter\:active:active {
+    letter-spacing: -0.05em;
+  }
+
+  .xs\:tracking-tighter\:checked:checked {
+    letter-spacing: -0.05em;
+  }
+
+  .xs\:tracking-tighter\:disabled:disabled {
+    letter-spacing: -0.05em;
+  }
+
+  .xs\:tracking-tighter\:focus:focus {
+    letter-spacing: -0.05em;
+  }
+
+  .xs\:tracking-tighter\:hover:hover {
+    letter-spacing: -0.05em;
+  }
+
+  .xs\:tracking-tighter\:required:required {
+    letter-spacing: -0.05em;
+  }
+
+  .xs\:tracking-tighter\:visited:visited {
+    letter-spacing: -0.05em;
+  }
+
+  .xs\:tracking-tight {
+    letter-spacing: -0.025em;
+  }
+
+  .xs\:tracking-tight\:active:active {
+    letter-spacing: -0.025em;
+  }
+
+  .xs\:tracking-tight\:checked:checked {
+    letter-spacing: -0.025em;
+  }
+
+  .xs\:tracking-tight\:disabled:disabled {
+    letter-spacing: -0.025em;
+  }
+
+  .xs\:tracking-tight\:focus:focus {
+    letter-spacing: -0.025em;
+  }
+
+  .xs\:tracking-tight\:hover:hover {
+    letter-spacing: -0.025em;
+  }
+
+  .xs\:tracking-tight\:required:required {
+    letter-spacing: -0.025em;
+  }
+
+  .xs\:tracking-tight\:visited:visited {
+    letter-spacing: -0.025em;
+  }
+
+  .xs\:tracking-normal {
+    letter-spacing: 0em;
+  }
+
+  .xs\:tracking-normal\:active:active {
+    letter-spacing: 0em;
+  }
+
+  .xs\:tracking-normal\:checked:checked {
+    letter-spacing: 0em;
+  }
+
+  .xs\:tracking-normal\:disabled:disabled {
+    letter-spacing: 0em;
+  }
+
+  .xs\:tracking-normal\:focus:focus {
+    letter-spacing: 0em;
+  }
+
+  .xs\:tracking-normal\:hover:hover {
+    letter-spacing: 0em;
+  }
+
+  .xs\:tracking-normal\:required:required {
+    letter-spacing: 0em;
+  }
+
+  .xs\:tracking-normal\:visited:visited {
+    letter-spacing: 0em;
+  }
+
+  .xs\:tracking-wide {
+    letter-spacing: 0.025em;
+  }
+
+  .xs\:tracking-wide\:active:active {
+    letter-spacing: 0.025em;
+  }
+
+  .xs\:tracking-wide\:checked:checked {
+    letter-spacing: 0.025em;
+  }
+
+  .xs\:tracking-wide\:disabled:disabled {
+    letter-spacing: 0.025em;
+  }
+
+  .xs\:tracking-wide\:focus:focus {
+    letter-spacing: 0.025em;
+  }
+
+  .xs\:tracking-wide\:hover:hover {
+    letter-spacing: 0.025em;
+  }
+
+  .xs\:tracking-wide\:required:required {
+    letter-spacing: 0.025em;
+  }
+
+  .xs\:tracking-wide\:visited:visited {
+    letter-spacing: 0.025em;
+  }
+
+  .xs\:tracking-wider {
+    letter-spacing: 0.05em;
+  }
+
+  .xs\:tracking-wider\:active:active {
+    letter-spacing: 0.05em;
+  }
+
+  .xs\:tracking-wider\:checked:checked {
+    letter-spacing: 0.05em;
+  }
+
+  .xs\:tracking-wider\:disabled:disabled {
+    letter-spacing: 0.05em;
+  }
+
+  .xs\:tracking-wider\:focus:focus {
+    letter-spacing: 0.05em;
+  }
+
+  .xs\:tracking-wider\:hover:hover {
+    letter-spacing: 0.05em;
+  }
+
+  .xs\:tracking-wider\:required:required {
+    letter-spacing: 0.05em;
+  }
+
+  .xs\:tracking-wider\:visited:visited {
+    letter-spacing: 0.05em;
+  }
+
+  .xs\:tracking-widest {
+    letter-spacing: 0.1em;
+  }
+
+  .xs\:tracking-widest\:active:active {
+    letter-spacing: 0.1em;
+  }
+
+  .xs\:tracking-widest\:checked:checked {
+    letter-spacing: 0.1em;
+  }
+
+  .xs\:tracking-widest\:disabled:disabled {
+    letter-spacing: 0.1em;
+  }
+
+  .xs\:tracking-widest\:focus:focus {
+    letter-spacing: 0.1em;
+  }
+
+  .xs\:tracking-widest\:hover:hover {
+    letter-spacing: 0.1em;
+  }
+
+  .xs\:tracking-widest\:required:required {
+    letter-spacing: 0.1em;
+  }
+
+  .xs\:tracking-widest\:visited:visited {
+    letter-spacing: 0.1em;
+  }
+}
+@media (min-width: 640px) and (max-width: 767px) {
+  .sm\:tracking-tighter {
+    letter-spacing: -0.05em;
+  }
+
+  .sm\:tracking-tighter\:active:active {
+    letter-spacing: -0.05em;
+  }
+
+  .sm\:tracking-tighter\:checked:checked {
+    letter-spacing: -0.05em;
+  }
+
+  .sm\:tracking-tighter\:disabled:disabled {
+    letter-spacing: -0.05em;
+  }
+
+  .sm\:tracking-tighter\:focus:focus {
+    letter-spacing: -0.05em;
+  }
+
+  .sm\:tracking-tighter\:hover:hover {
+    letter-spacing: -0.05em;
+  }
+
+  .sm\:tracking-tighter\:required:required {
+    letter-spacing: -0.05em;
+  }
+
+  .sm\:tracking-tighter\:visited:visited {
+    letter-spacing: -0.05em;
+  }
+
+  .sm\:tracking-tight {
+    letter-spacing: -0.025em;
+  }
+
+  .sm\:tracking-tight\:active:active {
+    letter-spacing: -0.025em;
+  }
+
+  .sm\:tracking-tight\:checked:checked {
+    letter-spacing: -0.025em;
+  }
+
+  .sm\:tracking-tight\:disabled:disabled {
+    letter-spacing: -0.025em;
+  }
+
+  .sm\:tracking-tight\:focus:focus {
+    letter-spacing: -0.025em;
+  }
+
+  .sm\:tracking-tight\:hover:hover {
+    letter-spacing: -0.025em;
+  }
+
+  .sm\:tracking-tight\:required:required {
+    letter-spacing: -0.025em;
+  }
+
+  .sm\:tracking-tight\:visited:visited {
+    letter-spacing: -0.025em;
+  }
+
+  .sm\:tracking-normal {
+    letter-spacing: 0em;
+  }
+
+  .sm\:tracking-normal\:active:active {
+    letter-spacing: 0em;
+  }
+
+  .sm\:tracking-normal\:checked:checked {
+    letter-spacing: 0em;
+  }
+
+  .sm\:tracking-normal\:disabled:disabled {
+    letter-spacing: 0em;
+  }
+
+  .sm\:tracking-normal\:focus:focus {
+    letter-spacing: 0em;
+  }
+
+  .sm\:tracking-normal\:hover:hover {
+    letter-spacing: 0em;
+  }
+
+  .sm\:tracking-normal\:required:required {
+    letter-spacing: 0em;
+  }
+
+  .sm\:tracking-normal\:visited:visited {
+    letter-spacing: 0em;
+  }
+
+  .sm\:tracking-wide {
+    letter-spacing: 0.025em;
+  }
+
+  .sm\:tracking-wide\:active:active {
+    letter-spacing: 0.025em;
+  }
+
+  .sm\:tracking-wide\:checked:checked {
+    letter-spacing: 0.025em;
+  }
+
+  .sm\:tracking-wide\:disabled:disabled {
+    letter-spacing: 0.025em;
+  }
+
+  .sm\:tracking-wide\:focus:focus {
+    letter-spacing: 0.025em;
+  }
+
+  .sm\:tracking-wide\:hover:hover {
+    letter-spacing: 0.025em;
+  }
+
+  .sm\:tracking-wide\:required:required {
+    letter-spacing: 0.025em;
+  }
+
+  .sm\:tracking-wide\:visited:visited {
+    letter-spacing: 0.025em;
+  }
+
+  .sm\:tracking-wider {
+    letter-spacing: 0.05em;
+  }
+
+  .sm\:tracking-wider\:active:active {
+    letter-spacing: 0.05em;
+  }
+
+  .sm\:tracking-wider\:checked:checked {
+    letter-spacing: 0.05em;
+  }
+
+  .sm\:tracking-wider\:disabled:disabled {
+    letter-spacing: 0.05em;
+  }
+
+  .sm\:tracking-wider\:focus:focus {
+    letter-spacing: 0.05em;
+  }
+
+  .sm\:tracking-wider\:hover:hover {
+    letter-spacing: 0.05em;
+  }
+
+  .sm\:tracking-wider\:required:required {
+    letter-spacing: 0.05em;
+  }
+
+  .sm\:tracking-wider\:visited:visited {
+    letter-spacing: 0.05em;
+  }
+
+  .sm\:tracking-widest {
+    letter-spacing: 0.1em;
+  }
+
+  .sm\:tracking-widest\:active:active {
+    letter-spacing: 0.1em;
+  }
+
+  .sm\:tracking-widest\:checked:checked {
+    letter-spacing: 0.1em;
+  }
+
+  .sm\:tracking-widest\:disabled:disabled {
+    letter-spacing: 0.1em;
+  }
+
+  .sm\:tracking-widest\:focus:focus {
+    letter-spacing: 0.1em;
+  }
+
+  .sm\:tracking-widest\:hover:hover {
+    letter-spacing: 0.1em;
+  }
+
+  .sm\:tracking-widest\:required:required {
+    letter-spacing: 0.1em;
+  }
+
+  .sm\:tracking-widest\:visited:visited {
+    letter-spacing: 0.1em;
+  }
+}
+@media (min-width: 768px) and (max-width: 1023px) {
+  .md\:tracking-tighter {
+    letter-spacing: -0.05em;
+  }
+
+  .md\:tracking-tighter\:active:active {
+    letter-spacing: -0.05em;
+  }
+
+  .md\:tracking-tighter\:checked:checked {
+    letter-spacing: -0.05em;
+  }
+
+  .md\:tracking-tighter\:disabled:disabled {
+    letter-spacing: -0.05em;
+  }
+
+  .md\:tracking-tighter\:focus:focus {
+    letter-spacing: -0.05em;
+  }
+
+  .md\:tracking-tighter\:hover:hover {
+    letter-spacing: -0.05em;
+  }
+
+  .md\:tracking-tighter\:required:required {
+    letter-spacing: -0.05em;
+  }
+
+  .md\:tracking-tighter\:visited:visited {
+    letter-spacing: -0.05em;
+  }
+
+  .md\:tracking-tight {
+    letter-spacing: -0.025em;
+  }
+
+  .md\:tracking-tight\:active:active {
+    letter-spacing: -0.025em;
+  }
+
+  .md\:tracking-tight\:checked:checked {
+    letter-spacing: -0.025em;
+  }
+
+  .md\:tracking-tight\:disabled:disabled {
+    letter-spacing: -0.025em;
+  }
+
+  .md\:tracking-tight\:focus:focus {
+    letter-spacing: -0.025em;
+  }
+
+  .md\:tracking-tight\:hover:hover {
+    letter-spacing: -0.025em;
+  }
+
+  .md\:tracking-tight\:required:required {
+    letter-spacing: -0.025em;
+  }
+
+  .md\:tracking-tight\:visited:visited {
+    letter-spacing: -0.025em;
+  }
+
+  .md\:tracking-normal {
+    letter-spacing: 0em;
+  }
+
+  .md\:tracking-normal\:active:active {
+    letter-spacing: 0em;
+  }
+
+  .md\:tracking-normal\:checked:checked {
+    letter-spacing: 0em;
+  }
+
+  .md\:tracking-normal\:disabled:disabled {
+    letter-spacing: 0em;
+  }
+
+  .md\:tracking-normal\:focus:focus {
+    letter-spacing: 0em;
+  }
+
+  .md\:tracking-normal\:hover:hover {
+    letter-spacing: 0em;
+  }
+
+  .md\:tracking-normal\:required:required {
+    letter-spacing: 0em;
+  }
+
+  .md\:tracking-normal\:visited:visited {
+    letter-spacing: 0em;
+  }
+
+  .md\:tracking-wide {
+    letter-spacing: 0.025em;
+  }
+
+  .md\:tracking-wide\:active:active {
+    letter-spacing: 0.025em;
+  }
+
+  .md\:tracking-wide\:checked:checked {
+    letter-spacing: 0.025em;
+  }
+
+  .md\:tracking-wide\:disabled:disabled {
+    letter-spacing: 0.025em;
+  }
+
+  .md\:tracking-wide\:focus:focus {
+    letter-spacing: 0.025em;
+  }
+
+  .md\:tracking-wide\:hover:hover {
+    letter-spacing: 0.025em;
+  }
+
+  .md\:tracking-wide\:required:required {
+    letter-spacing: 0.025em;
+  }
+
+  .md\:tracking-wide\:visited:visited {
+    letter-spacing: 0.025em;
+  }
+
+  .md\:tracking-wider {
+    letter-spacing: 0.05em;
+  }
+
+  .md\:tracking-wider\:active:active {
+    letter-spacing: 0.05em;
+  }
+
+  .md\:tracking-wider\:checked:checked {
+    letter-spacing: 0.05em;
+  }
+
+  .md\:tracking-wider\:disabled:disabled {
+    letter-spacing: 0.05em;
+  }
+
+  .md\:tracking-wider\:focus:focus {
+    letter-spacing: 0.05em;
+  }
+
+  .md\:tracking-wider\:hover:hover {
+    letter-spacing: 0.05em;
+  }
+
+  .md\:tracking-wider\:required:required {
+    letter-spacing: 0.05em;
+  }
+
+  .md\:tracking-wider\:visited:visited {
+    letter-spacing: 0.05em;
+  }
+
+  .md\:tracking-widest {
+    letter-spacing: 0.1em;
+  }
+
+  .md\:tracking-widest\:active:active {
+    letter-spacing: 0.1em;
+  }
+
+  .md\:tracking-widest\:checked:checked {
+    letter-spacing: 0.1em;
+  }
+
+  .md\:tracking-widest\:disabled:disabled {
+    letter-spacing: 0.1em;
+  }
+
+  .md\:tracking-widest\:focus:focus {
+    letter-spacing: 0.1em;
+  }
+
+  .md\:tracking-widest\:hover:hover {
+    letter-spacing: 0.1em;
+  }
+
+  .md\:tracking-widest\:required:required {
+    letter-spacing: 0.1em;
+  }
+
+  .md\:tracking-widest\:visited:visited {
+    letter-spacing: 0.1em;
+  }
+}
+@media (min-width: 1024px) and (max-width: 2000px) {
+  .lg\:tracking-tighter {
+    letter-spacing: -0.05em;
+  }
+
+  .lg\:tracking-tighter\:active:active {
+    letter-spacing: -0.05em;
+  }
+
+  .lg\:tracking-tighter\:checked:checked {
+    letter-spacing: -0.05em;
+  }
+
+  .lg\:tracking-tighter\:disabled:disabled {
+    letter-spacing: -0.05em;
+  }
+
+  .lg\:tracking-tighter\:focus:focus {
+    letter-spacing: -0.05em;
+  }
+
+  .lg\:tracking-tighter\:hover:hover {
+    letter-spacing: -0.05em;
+  }
+
+  .lg\:tracking-tighter\:required:required {
+    letter-spacing: -0.05em;
+  }
+
+  .lg\:tracking-tighter\:visited:visited {
+    letter-spacing: -0.05em;
+  }
+
+  .lg\:tracking-tight {
+    letter-spacing: -0.025em;
+  }
+
+  .lg\:tracking-tight\:active:active {
+    letter-spacing: -0.025em;
+  }
+
+  .lg\:tracking-tight\:checked:checked {
+    letter-spacing: -0.025em;
+  }
+
+  .lg\:tracking-tight\:disabled:disabled {
+    letter-spacing: -0.025em;
+  }
+
+  .lg\:tracking-tight\:focus:focus {
+    letter-spacing: -0.025em;
+  }
+
+  .lg\:tracking-tight\:hover:hover {
+    letter-spacing: -0.025em;
+  }
+
+  .lg\:tracking-tight\:required:required {
+    letter-spacing: -0.025em;
+  }
+
+  .lg\:tracking-tight\:visited:visited {
+    letter-spacing: -0.025em;
+  }
+
+  .lg\:tracking-normal {
+    letter-spacing: 0em;
+  }
+
+  .lg\:tracking-normal\:active:active {
+    letter-spacing: 0em;
+  }
+
+  .lg\:tracking-normal\:checked:checked {
+    letter-spacing: 0em;
+  }
+
+  .lg\:tracking-normal\:disabled:disabled {
+    letter-spacing: 0em;
+  }
+
+  .lg\:tracking-normal\:focus:focus {
+    letter-spacing: 0em;
+  }
+
+  .lg\:tracking-normal\:hover:hover {
+    letter-spacing: 0em;
+  }
+
+  .lg\:tracking-normal\:required:required {
+    letter-spacing: 0em;
+  }
+
+  .lg\:tracking-normal\:visited:visited {
+    letter-spacing: 0em;
+  }
+
+  .lg\:tracking-wide {
+    letter-spacing: 0.025em;
+  }
+
+  .lg\:tracking-wide\:active:active {
+    letter-spacing: 0.025em;
+  }
+
+  .lg\:tracking-wide\:checked:checked {
+    letter-spacing: 0.025em;
+  }
+
+  .lg\:tracking-wide\:disabled:disabled {
+    letter-spacing: 0.025em;
+  }
+
+  .lg\:tracking-wide\:focus:focus {
+    letter-spacing: 0.025em;
+  }
+
+  .lg\:tracking-wide\:hover:hover {
+    letter-spacing: 0.025em;
+  }
+
+  .lg\:tracking-wide\:required:required {
+    letter-spacing: 0.025em;
+  }
+
+  .lg\:tracking-wide\:visited:visited {
+    letter-spacing: 0.025em;
+  }
+
+  .lg\:tracking-wider {
+    letter-spacing: 0.05em;
+  }
+
+  .lg\:tracking-wider\:active:active {
+    letter-spacing: 0.05em;
+  }
+
+  .lg\:tracking-wider\:checked:checked {
+    letter-spacing: 0.05em;
+  }
+
+  .lg\:tracking-wider\:disabled:disabled {
+    letter-spacing: 0.05em;
+  }
+
+  .lg\:tracking-wider\:focus:focus {
+    letter-spacing: 0.05em;
+  }
+
+  .lg\:tracking-wider\:hover:hover {
+    letter-spacing: 0.05em;
+  }
+
+  .lg\:tracking-wider\:required:required {
+    letter-spacing: 0.05em;
+  }
+
+  .lg\:tracking-wider\:visited:visited {
+    letter-spacing: 0.05em;
+  }
+
+  .lg\:tracking-widest {
+    letter-spacing: 0.1em;
+  }
+
+  .lg\:tracking-widest\:active:active {
+    letter-spacing: 0.1em;
+  }
+
+  .lg\:tracking-widest\:checked:checked {
+    letter-spacing: 0.1em;
+  }
+
+  .lg\:tracking-widest\:disabled:disabled {
+    letter-spacing: 0.1em;
+  }
+
+  .lg\:tracking-widest\:focus:focus {
+    letter-spacing: 0.1em;
+  }
+
+  .lg\:tracking-widest\:hover:hover {
+    letter-spacing: 0.1em;
+  }
+
+  .lg\:tracking-widest\:required:required {
+    letter-spacing: 0.1em;
+  }
+
+  .lg\:tracking-widest\:visited:visited {
+    letter-spacing: 0.1em;
+  }
+}

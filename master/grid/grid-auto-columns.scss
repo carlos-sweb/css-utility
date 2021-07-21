@@ -1,0 +1,26 @@
+@import "../screen.scss";
+@import "../state.scss";
+@each $key, $value in (auto-cols-auto:'auto',auto-cols-min:'min-content',auto-cols-max:'max-content',auto-cols-fr:' minmax(0, 1fr)'){
+	.#{$key}{
+		grid-auto-columns:#{$value};
+	}
+ @each $valueState in $state{
+	.#{$key}\:#{$valueState}:#{$valueState}{
+		grid-auto-columns:#{$value};
+	}
+ }
+};
+@each $sizeScreen, $pixel in $screen{
+	@media (min-width: #{map-get($pixel,min)}#{px}) and (max-width: #{map-get($pixel,max)}#{px}){
+		@each $key, $value in (auto-cols-auto:'auto',auto-cols-min:'min-content',auto-cols-max:'max-content',auto-cols-fr:' minmax(0, 1fr)'){
+			.#{$sizeScreen}\:#{$key}{
+				grid-auto-columns:#{$value};
+			}
+      @each $valueState in $state{
+	     .#{$sizeScreen}\:#{$key}\:#{$valueState}:#{$valueState}{
+		     grid-auto-columns:#{$value};
+	     }
+      }
+		}
+	}
+}

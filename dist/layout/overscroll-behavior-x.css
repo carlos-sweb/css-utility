@@ -1,0 +1,484 @@
+.overscroll-x-auto {
+  overscroll-behavior-x: auto;
+}
+
+.overscroll-x-auto\:active:active {
+  overscroll-behavior-x: auto;
+}
+
+.overscroll-x-auto\:checked:checked {
+  overscroll-behavior-x: auto;
+}
+
+.overscroll-x-auto\:disabled:disabled {
+  overscroll-behavior-x: auto;
+}
+
+.overscroll-x-auto\:focus:focus {
+  overscroll-behavior-x: auto;
+}
+
+.overscroll-x-auto\:hover:hover {
+  overscroll-behavior-x: auto;
+}
+
+.overscroll-x-auto\:required:required {
+  overscroll-behavior-x: auto;
+}
+
+.overscroll-x-auto\:visited:visited {
+  overscroll-behavior-x: auto;
+}
+
+.overscroll-x-contain {
+  overscroll-behavior-x: contain;
+}
+
+.overscroll-x-contain\:active:active {
+  overscroll-behavior-x: contain;
+}
+
+.overscroll-x-contain\:checked:checked {
+  overscroll-behavior-x: contain;
+}
+
+.overscroll-x-contain\:disabled:disabled {
+  overscroll-behavior-x: contain;
+}
+
+.overscroll-x-contain\:focus:focus {
+  overscroll-behavior-x: contain;
+}
+
+.overscroll-x-contain\:hover:hover {
+  overscroll-behavior-x: contain;
+}
+
+.overscroll-x-contain\:required:required {
+  overscroll-behavior-x: contain;
+}
+
+.overscroll-x-contain\:visited:visited {
+  overscroll-behavior-x: contain;
+}
+
+.overscroll-x-none {
+  overscroll-behavior-x: none;
+}
+
+.overscroll-x-none\:active:active {
+  overscroll-behavior-x: none;
+}
+
+.overscroll-x-none\:checked:checked {
+  overscroll-behavior-x: none;
+}
+
+.overscroll-x-none\:disabled:disabled {
+  overscroll-behavior-x: none;
+}
+
+.overscroll-x-none\:focus:focus {
+  overscroll-behavior-x: none;
+}
+
+.overscroll-x-none\:hover:hover {
+  overscroll-behavior-x: none;
+}
+
+.overscroll-x-none\:required:required {
+  overscroll-behavior-x: none;
+}
+
+.overscroll-x-none\:visited:visited {
+  overscroll-behavior-x: none;
+}
+
+@media (min-width: 0px) and (max-width: 639px) {
+  .xs\:overscroll-x-auto {
+    overscroll-behavior-x: auto;
+  }
+
+  .xs\:overscroll-x-auto\:active:active {
+    overscroll-behavior-x: auto;
+  }
+
+  .xs\:overscroll-x-auto\:checked:checked {
+    overscroll-behavior-x: auto;
+  }
+
+  .xs\:overscroll-x-auto\:disabled:disabled {
+    overscroll-behavior-x: auto;
+  }
+
+  .xs\:overscroll-x-auto\:focus:focus {
+    overscroll-behavior-x: auto;
+  }
+
+  .xs\:overscroll-x-auto\:hover:hover {
+    overscroll-behavior-x: auto;
+  }
+
+  .xs\:overscroll-x-auto\:required:required {
+    overscroll-behavior-x: auto;
+  }
+
+  .xs\:overscroll-x-auto\:visited:visited {
+    overscroll-behavior-x: auto;
+  }
+
+  .xs\:overscroll-x-contain {
+    overscroll-behavior-x: contain;
+  }
+
+  .xs\:overscroll-x-contain\:active:active {
+    overscroll-behavior-x: contain;
+  }
+
+  .xs\:overscroll-x-contain\:checked:checked {
+    overscroll-behavior-x: contain;
+  }
+
+  .xs\:overscroll-x-contain\:disabled:disabled {
+    overscroll-behavior-x: contain;
+  }
+
+  .xs\:overscroll-x-contain\:focus:focus {
+    overscroll-behavior-x: contain;
+  }
+
+  .xs\:overscroll-x-contain\:hover:hover {
+    overscroll-behavior-x: contain;
+  }
+
+  .xs\:overscroll-x-contain\:required:required {
+    overscroll-behavior-x: contain;
+  }
+
+  .xs\:overscroll-x-contain\:visited:visited {
+    overscroll-behavior-x: contain;
+  }
+
+  .xs\:overscroll-x-none {
+    overscroll-behavior-x: none;
+  }
+
+  .xs\:overscroll-x-none\:active:active {
+    overscroll-behavior-x: none;
+  }
+
+  .xs\:overscroll-x-none\:checked:checked {
+    overscroll-behavior-x: none;
+  }
+
+  .xs\:overscroll-x-none\:disabled:disabled {
+    overscroll-behavior-x: none;
+  }
+
+  .xs\:overscroll-x-none\:focus:focus {
+    overscroll-behavior-x: none;
+  }
+
+  .xs\:overscroll-x-none\:hover:hover {
+    overscroll-behavior-x: none;
+  }
+
+  .xs\:overscroll-x-none\:required:required {
+    overscroll-behavior-x: none;
+  }
+
+  .xs\:overscroll-x-none\:visited:visited {
+    overscroll-behavior-x: none;
+  }
+}
+@media (min-width: 640px) and (max-width: 767px) {
+  .sm\:overscroll-x-auto {
+    overscroll-behavior-x: auto;
+  }
+
+  .sm\:overscroll-x-auto\:active:active {
+    overscroll-behavior-x: auto;
+  }
+
+  .sm\:overscroll-x-auto\:checked:checked {
+    overscroll-behavior-x: auto;
+  }
+
+  .sm\:overscroll-x-auto\:disabled:disabled {
+    overscroll-behavior-x: auto;
+  }
+
+  .sm\:overscroll-x-auto\:focus:focus {
+    overscroll-behavior-x: auto;
+  }
+
+  .sm\:overscroll-x-auto\:hover:hover {
+    overscroll-behavior-x: auto;
+  }
+
+  .sm\:overscroll-x-auto\:required:required {
+    overscroll-behavior-x: auto;
+  }
+
+  .sm\:overscroll-x-auto\:visited:visited {
+    overscroll-behavior-x: auto;
+  }
+
+  .sm\:overscroll-x-contain {
+    overscroll-behavior-x: contain;
+  }
+
+  .sm\:overscroll-x-contain\:active:active {
+    overscroll-behavior-x: contain;
+  }
+
+  .sm\:overscroll-x-contain\:checked:checked {
+    overscroll-behavior-x: contain;
+  }
+
+  .sm\:overscroll-x-contain\:disabled:disabled {
+    overscroll-behavior-x: contain;
+  }
+
+  .sm\:overscroll-x-contain\:focus:focus {
+    overscroll-behavior-x: contain;
+  }
+
+  .sm\:overscroll-x-contain\:hover:hover {
+    overscroll-behavior-x: contain;
+  }
+
+  .sm\:overscroll-x-contain\:required:required {
+    overscroll-behavior-x: contain;
+  }
+
+  .sm\:overscroll-x-contain\:visited:visited {
+    overscroll-behavior-x: contain;
+  }
+
+  .sm\:overscroll-x-none {
+    overscroll-behavior-x: none;
+  }
+
+  .sm\:overscroll-x-none\:active:active {
+    overscroll-behavior-x: none;
+  }
+
+  .sm\:overscroll-x-none\:checked:checked {
+    overscroll-behavior-x: none;
+  }
+
+  .sm\:overscroll-x-none\:disabled:disabled {
+    overscroll-behavior-x: none;
+  }
+
+  .sm\:overscroll-x-none\:focus:focus {
+    overscroll-behavior-x: none;
+  }
+
+  .sm\:overscroll-x-none\:hover:hover {
+    overscroll-behavior-x: none;
+  }
+
+  .sm\:overscroll-x-none\:required:required {
+    overscroll-behavior-x: none;
+  }
+
+  .sm\:overscroll-x-none\:visited:visited {
+    overscroll-behavior-x: none;
+  }
+}
+@media (min-width: 768px) and (max-width: 1023px) {
+  .md\:overscroll-x-auto {
+    overscroll-behavior-x: auto;
+  }
+
+  .md\:overscroll-x-auto\:active:active {
+    overscroll-behavior-x: auto;
+  }
+
+  .md\:overscroll-x-auto\:checked:checked {
+    overscroll-behavior-x: auto;
+  }
+
+  .md\:overscroll-x-auto\:disabled:disabled {
+    overscroll-behavior-x: auto;
+  }
+
+  .md\:overscroll-x-auto\:focus:focus {
+    overscroll-behavior-x: auto;
+  }
+
+  .md\:overscroll-x-auto\:hover:hover {
+    overscroll-behavior-x: auto;
+  }
+
+  .md\:overscroll-x-auto\:required:required {
+    overscroll-behavior-x: auto;
+  }
+
+  .md\:overscroll-x-auto\:visited:visited {
+    overscroll-behavior-x: auto;
+  }
+
+  .md\:overscroll-x-contain {
+    overscroll-behavior-x: contain;
+  }
+
+  .md\:overscroll-x-contain\:active:active {
+    overscroll-behavior-x: contain;
+  }
+
+  .md\:overscroll-x-contain\:checked:checked {
+    overscroll-behavior-x: contain;
+  }
+
+  .md\:overscroll-x-contain\:disabled:disabled {
+    overscroll-behavior-x: contain;
+  }
+
+  .md\:overscroll-x-contain\:focus:focus {
+    overscroll-behavior-x: contain;
+  }
+
+  .md\:overscroll-x-contain\:hover:hover {
+    overscroll-behavior-x: contain;
+  }
+
+  .md\:overscroll-x-contain\:required:required {
+    overscroll-behavior-x: contain;
+  }
+
+  .md\:overscroll-x-contain\:visited:visited {
+    overscroll-behavior-x: contain;
+  }
+
+  .md\:overscroll-x-none {
+    overscroll-behavior-x: none;
+  }
+
+  .md\:overscroll-x-none\:active:active {
+    overscroll-behavior-x: none;
+  }
+
+  .md\:overscroll-x-none\:checked:checked {
+    overscroll-behavior-x: none;
+  }
+
+  .md\:overscroll-x-none\:disabled:disabled {
+    overscroll-behavior-x: none;
+  }
+
+  .md\:overscroll-x-none\:focus:focus {
+    overscroll-behavior-x: none;
+  }
+
+  .md\:overscroll-x-none\:hover:hover {
+    overscroll-behavior-x: none;
+  }
+
+  .md\:overscroll-x-none\:required:required {
+    overscroll-behavior-x: none;
+  }
+
+  .md\:overscroll-x-none\:visited:visited {
+    overscroll-behavior-x: none;
+  }
+}
+@media (min-width: 1024px) and (max-width: 2000px) {
+  .lg\:overscroll-x-auto {
+    overscroll-behavior-x: auto;
+  }
+
+  .lg\:overscroll-x-auto\:active:active {
+    overscroll-behavior-x: auto;
+  }
+
+  .lg\:overscroll-x-auto\:checked:checked {
+    overscroll-behavior-x: auto;
+  }
+
+  .lg\:overscroll-x-auto\:disabled:disabled {
+    overscroll-behavior-x: auto;
+  }
+
+  .lg\:overscroll-x-auto\:focus:focus {
+    overscroll-behavior-x: auto;
+  }
+
+  .lg\:overscroll-x-auto\:hover:hover {
+    overscroll-behavior-x: auto;
+  }
+
+  .lg\:overscroll-x-auto\:required:required {
+    overscroll-behavior-x: auto;
+  }
+
+  .lg\:overscroll-x-auto\:visited:visited {
+    overscroll-behavior-x: auto;
+  }
+
+  .lg\:overscroll-x-contain {
+    overscroll-behavior-x: contain;
+  }
+
+  .lg\:overscroll-x-contain\:active:active {
+    overscroll-behavior-x: contain;
+  }
+
+  .lg\:overscroll-x-contain\:checked:checked {
+    overscroll-behavior-x: contain;
+  }
+
+  .lg\:overscroll-x-contain\:disabled:disabled {
+    overscroll-behavior-x: contain;
+  }
+
+  .lg\:overscroll-x-contain\:focus:focus {
+    overscroll-behavior-x: contain;
+  }
+
+  .lg\:overscroll-x-contain\:hover:hover {
+    overscroll-behavior-x: contain;
+  }
+
+  .lg\:overscroll-x-contain\:required:required {
+    overscroll-behavior-x: contain;
+  }
+
+  .lg\:overscroll-x-contain\:visited:visited {
+    overscroll-behavior-x: contain;
+  }
+
+  .lg\:overscroll-x-none {
+    overscroll-behavior-x: none;
+  }
+
+  .lg\:overscroll-x-none\:active:active {
+    overscroll-behavior-x: none;
+  }
+
+  .lg\:overscroll-x-none\:checked:checked {
+    overscroll-behavior-x: none;
+  }
+
+  .lg\:overscroll-x-none\:disabled:disabled {
+    overscroll-behavior-x: none;
+  }
+
+  .lg\:overscroll-x-none\:focus:focus {
+    overscroll-behavior-x: none;
+  }
+
+  .lg\:overscroll-x-none\:hover:hover {
+    overscroll-behavior-x: none;
+  }
+
+  .lg\:overscroll-x-none\:required:required {
+    overscroll-behavior-x: none;
+  }
+
+  .lg\:overscroll-x-none\:visited:visited {
+    overscroll-behavior-x: none;
+  }
+}

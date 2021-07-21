@@ -1,0 +1,26 @@
+@import "../screen.scss";
+@import "../state.scss";
+@each $key, $value in (align-baseline:'baseline',align-top:'top',align-middle:'middle',align-bottom:'bottom',align-text-top:'text-top',align-text-bottom:'text-bottom'){
+	.#{$key}{
+		vertical-align:#{$value};
+	}
+ @each $valueState in $state{
+	.#{$key}\:#{$valueState}:#{$valueState}{
+		vertical-align:#{$value};
+	}
+ }
+};
+@each $sizeScreen, $pixel in $screen{
+	@media (min-width: #{map-get($pixel,min)}#{px}) and (max-width: #{map-get($pixel,max)}#{px}){
+		@each $key, $value in (align-baseline:'baseline',align-top:'top',align-middle:'middle',align-bottom:'bottom',align-text-top:'text-top',align-text-bottom:'text-bottom'){
+			.#{$sizeScreen}\:#{$key}{
+				vertical-align:#{$value};
+			}
+      @each $valueState in $state{
+	     .#{$sizeScreen}\:#{$key}\:#{$valueState}:#{$valueState}{
+		     vertical-align:#{$value};
+	     }
+      }
+		}
+	}
+}

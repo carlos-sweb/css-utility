@@ -1,0 +1,1284 @@
+.cursor-auto {
+  cursor: auto;
+}
+
+.cursor-auto\:active:active {
+  cursor: auto;
+}
+
+.cursor-auto\:checked:checked {
+  cursor: auto;
+}
+
+.cursor-auto\:disabled:disabled {
+  cursor: auto;
+}
+
+.cursor-auto\:focus:focus {
+  cursor: auto;
+}
+
+.cursor-auto\:hover:hover {
+  cursor: auto;
+}
+
+.cursor-auto\:required:required {
+  cursor: auto;
+}
+
+.cursor-auto\:visited:visited {
+  cursor: auto;
+}
+
+.cursor-default {
+  cursor: default;
+}
+
+.cursor-default\:active:active {
+  cursor: default;
+}
+
+.cursor-default\:checked:checked {
+  cursor: default;
+}
+
+.cursor-default\:disabled:disabled {
+  cursor: default;
+}
+
+.cursor-default\:focus:focus {
+  cursor: default;
+}
+
+.cursor-default\:hover:hover {
+  cursor: default;
+}
+
+.cursor-default\:required:required {
+  cursor: default;
+}
+
+.cursor-default\:visited:visited {
+  cursor: default;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.cursor-pointer\:active:active {
+  cursor: pointer;
+}
+
+.cursor-pointer\:checked:checked {
+  cursor: pointer;
+}
+
+.cursor-pointer\:disabled:disabled {
+  cursor: pointer;
+}
+
+.cursor-pointer\:focus:focus {
+  cursor: pointer;
+}
+
+.cursor-pointer\:hover:hover {
+  cursor: pointer;
+}
+
+.cursor-pointer\:required:required {
+  cursor: pointer;
+}
+
+.cursor-pointer\:visited:visited {
+  cursor: pointer;
+}
+
+.cursor-wait {
+  cursor: wait;
+}
+
+.cursor-wait\:active:active {
+  cursor: wait;
+}
+
+.cursor-wait\:checked:checked {
+  cursor: wait;
+}
+
+.cursor-wait\:disabled:disabled {
+  cursor: wait;
+}
+
+.cursor-wait\:focus:focus {
+  cursor: wait;
+}
+
+.cursor-wait\:hover:hover {
+  cursor: wait;
+}
+
+.cursor-wait\:required:required {
+  cursor: wait;
+}
+
+.cursor-wait\:visited:visited {
+  cursor: wait;
+}
+
+.cursor-text {
+  cursor: text;
+}
+
+.cursor-text\:active:active {
+  cursor: text;
+}
+
+.cursor-text\:checked:checked {
+  cursor: text;
+}
+
+.cursor-text\:disabled:disabled {
+  cursor: text;
+}
+
+.cursor-text\:focus:focus {
+  cursor: text;
+}
+
+.cursor-text\:hover:hover {
+  cursor: text;
+}
+
+.cursor-text\:required:required {
+  cursor: text;
+}
+
+.cursor-text\:visited:visited {
+  cursor: text;
+}
+
+.cursor-move {
+  cursor: move;
+}
+
+.cursor-move\:active:active {
+  cursor: move;
+}
+
+.cursor-move\:checked:checked {
+  cursor: move;
+}
+
+.cursor-move\:disabled:disabled {
+  cursor: move;
+}
+
+.cursor-move\:focus:focus {
+  cursor: move;
+}
+
+.cursor-move\:hover:hover {
+  cursor: move;
+}
+
+.cursor-move\:required:required {
+  cursor: move;
+}
+
+.cursor-move\:visited:visited {
+  cursor: move;
+}
+
+.cursor-help {
+  cursor: help;
+}
+
+.cursor-help\:active:active {
+  cursor: help;
+}
+
+.cursor-help\:checked:checked {
+  cursor: help;
+}
+
+.cursor-help\:disabled:disabled {
+  cursor: help;
+}
+
+.cursor-help\:focus:focus {
+  cursor: help;
+}
+
+.cursor-help\:hover:hover {
+  cursor: help;
+}
+
+.cursor-help\:required:required {
+  cursor: help;
+}
+
+.cursor-help\:visited:visited {
+  cursor: help;
+}
+
+.cursor-not-allowed {
+  cursor: not-allowed;
+}
+
+.cursor-not-allowed\:active:active {
+  cursor: not-allowed;
+}
+
+.cursor-not-allowed\:checked:checked {
+  cursor: not-allowed;
+}
+
+.cursor-not-allowed\:disabled:disabled {
+  cursor: not-allowed;
+}
+
+.cursor-not-allowed\:focus:focus {
+  cursor: not-allowed;
+}
+
+.cursor-not-allowed\:hover:hover {
+  cursor: not-allowed;
+}
+
+.cursor-not-allowed\:required:required {
+  cursor: not-allowed;
+}
+
+.cursor-not-allowed\:visited:visited {
+  cursor: not-allowed;
+}
+
+@media (min-width: 0px) and (max-width: 639px) {
+  .xs\:cursor-auto {
+    cursor: auto;
+  }
+
+  .xs\:cursor-auto\:active:active {
+    cursor: auto;
+  }
+
+  .xs\:cursor-auto\:checked:checked {
+    cursor: auto;
+  }
+
+  .xs\:cursor-auto\:disabled:disabled {
+    cursor: auto;
+  }
+
+  .xs\:cursor-auto\:focus:focus {
+    cursor: auto;
+  }
+
+  .xs\:cursor-auto\:hover:hover {
+    cursor: auto;
+  }
+
+  .xs\:cursor-auto\:required:required {
+    cursor: auto;
+  }
+
+  .xs\:cursor-auto\:visited:visited {
+    cursor: auto;
+  }
+
+  .xs\:cursor-default {
+    cursor: default;
+  }
+
+  .xs\:cursor-default\:active:active {
+    cursor: default;
+  }
+
+  .xs\:cursor-default\:checked:checked {
+    cursor: default;
+  }
+
+  .xs\:cursor-default\:disabled:disabled {
+    cursor: default;
+  }
+
+  .xs\:cursor-default\:focus:focus {
+    cursor: default;
+  }
+
+  .xs\:cursor-default\:hover:hover {
+    cursor: default;
+  }
+
+  .xs\:cursor-default\:required:required {
+    cursor: default;
+  }
+
+  .xs\:cursor-default\:visited:visited {
+    cursor: default;
+  }
+
+  .xs\:cursor-pointer {
+    cursor: pointer;
+  }
+
+  .xs\:cursor-pointer\:active:active {
+    cursor: pointer;
+  }
+
+  .xs\:cursor-pointer\:checked:checked {
+    cursor: pointer;
+  }
+
+  .xs\:cursor-pointer\:disabled:disabled {
+    cursor: pointer;
+  }
+
+  .xs\:cursor-pointer\:focus:focus {
+    cursor: pointer;
+  }
+
+  .xs\:cursor-pointer\:hover:hover {
+    cursor: pointer;
+  }
+
+  .xs\:cursor-pointer\:required:required {
+    cursor: pointer;
+  }
+
+  .xs\:cursor-pointer\:visited:visited {
+    cursor: pointer;
+  }
+
+  .xs\:cursor-wait {
+    cursor: wait;
+  }
+
+  .xs\:cursor-wait\:active:active {
+    cursor: wait;
+  }
+
+  .xs\:cursor-wait\:checked:checked {
+    cursor: wait;
+  }
+
+  .xs\:cursor-wait\:disabled:disabled {
+    cursor: wait;
+  }
+
+  .xs\:cursor-wait\:focus:focus {
+    cursor: wait;
+  }
+
+  .xs\:cursor-wait\:hover:hover {
+    cursor: wait;
+  }
+
+  .xs\:cursor-wait\:required:required {
+    cursor: wait;
+  }
+
+  .xs\:cursor-wait\:visited:visited {
+    cursor: wait;
+  }
+
+  .xs\:cursor-text {
+    cursor: text;
+  }
+
+  .xs\:cursor-text\:active:active {
+    cursor: text;
+  }
+
+  .xs\:cursor-text\:checked:checked {
+    cursor: text;
+  }
+
+  .xs\:cursor-text\:disabled:disabled {
+    cursor: text;
+  }
+
+  .xs\:cursor-text\:focus:focus {
+    cursor: text;
+  }
+
+  .xs\:cursor-text\:hover:hover {
+    cursor: text;
+  }
+
+  .xs\:cursor-text\:required:required {
+    cursor: text;
+  }
+
+  .xs\:cursor-text\:visited:visited {
+    cursor: text;
+  }
+
+  .xs\:cursor-move {
+    cursor: move;
+  }
+
+  .xs\:cursor-move\:active:active {
+    cursor: move;
+  }
+
+  .xs\:cursor-move\:checked:checked {
+    cursor: move;
+  }
+
+  .xs\:cursor-move\:disabled:disabled {
+    cursor: move;
+  }
+
+  .xs\:cursor-move\:focus:focus {
+    cursor: move;
+  }
+
+  .xs\:cursor-move\:hover:hover {
+    cursor: move;
+  }
+
+  .xs\:cursor-move\:required:required {
+    cursor: move;
+  }
+
+  .xs\:cursor-move\:visited:visited {
+    cursor: move;
+  }
+
+  .xs\:cursor-help {
+    cursor: help;
+  }
+
+  .xs\:cursor-help\:active:active {
+    cursor: help;
+  }
+
+  .xs\:cursor-help\:checked:checked {
+    cursor: help;
+  }
+
+  .xs\:cursor-help\:disabled:disabled {
+    cursor: help;
+  }
+
+  .xs\:cursor-help\:focus:focus {
+    cursor: help;
+  }
+
+  .xs\:cursor-help\:hover:hover {
+    cursor: help;
+  }
+
+  .xs\:cursor-help\:required:required {
+    cursor: help;
+  }
+
+  .xs\:cursor-help\:visited:visited {
+    cursor: help;
+  }
+
+  .xs\:cursor-not-allowed {
+    cursor: not-allowed;
+  }
+
+  .xs\:cursor-not-allowed\:active:active {
+    cursor: not-allowed;
+  }
+
+  .xs\:cursor-not-allowed\:checked:checked {
+    cursor: not-allowed;
+  }
+
+  .xs\:cursor-not-allowed\:disabled:disabled {
+    cursor: not-allowed;
+  }
+
+  .xs\:cursor-not-allowed\:focus:focus {
+    cursor: not-allowed;
+  }
+
+  .xs\:cursor-not-allowed\:hover:hover {
+    cursor: not-allowed;
+  }
+
+  .xs\:cursor-not-allowed\:required:required {
+    cursor: not-allowed;
+  }
+
+  .xs\:cursor-not-allowed\:visited:visited {
+    cursor: not-allowed;
+  }
+}
+@media (min-width: 640px) and (max-width: 767px) {
+  .sm\:cursor-auto {
+    cursor: auto;
+  }
+
+  .sm\:cursor-auto\:active:active {
+    cursor: auto;
+  }
+
+  .sm\:cursor-auto\:checked:checked {
+    cursor: auto;
+  }
+
+  .sm\:cursor-auto\:disabled:disabled {
+    cursor: auto;
+  }
+
+  .sm\:cursor-auto\:focus:focus {
+    cursor: auto;
+  }
+
+  .sm\:cursor-auto\:hover:hover {
+    cursor: auto;
+  }
+
+  .sm\:cursor-auto\:required:required {
+    cursor: auto;
+  }
+
+  .sm\:cursor-auto\:visited:visited {
+    cursor: auto;
+  }
+
+  .sm\:cursor-default {
+    cursor: default;
+  }
+
+  .sm\:cursor-default\:active:active {
+    cursor: default;
+  }
+
+  .sm\:cursor-default\:checked:checked {
+    cursor: default;
+  }
+
+  .sm\:cursor-default\:disabled:disabled {
+    cursor: default;
+  }
+
+  .sm\:cursor-default\:focus:focus {
+    cursor: default;
+  }
+
+  .sm\:cursor-default\:hover:hover {
+    cursor: default;
+  }
+
+  .sm\:cursor-default\:required:required {
+    cursor: default;
+  }
+
+  .sm\:cursor-default\:visited:visited {
+    cursor: default;
+  }
+
+  .sm\:cursor-pointer {
+    cursor: pointer;
+  }
+
+  .sm\:cursor-pointer\:active:active {
+    cursor: pointer;
+  }
+
+  .sm\:cursor-pointer\:checked:checked {
+    cursor: pointer;
+  }
+
+  .sm\:cursor-pointer\:disabled:disabled {
+    cursor: pointer;
+  }
+
+  .sm\:cursor-pointer\:focus:focus {
+    cursor: pointer;
+  }
+
+  .sm\:cursor-pointer\:hover:hover {
+    cursor: pointer;
+  }
+
+  .sm\:cursor-pointer\:required:required {
+    cursor: pointer;
+  }
+
+  .sm\:cursor-pointer\:visited:visited {
+    cursor: pointer;
+  }
+
+  .sm\:cursor-wait {
+    cursor: wait;
+  }
+
+  .sm\:cursor-wait\:active:active {
+    cursor: wait;
+  }
+
+  .sm\:cursor-wait\:checked:checked {
+    cursor: wait;
+  }
+
+  .sm\:cursor-wait\:disabled:disabled {
+    cursor: wait;
+  }
+
+  .sm\:cursor-wait\:focus:focus {
+    cursor: wait;
+  }
+
+  .sm\:cursor-wait\:hover:hover {
+    cursor: wait;
+  }
+
+  .sm\:cursor-wait\:required:required {
+    cursor: wait;
+  }
+
+  .sm\:cursor-wait\:visited:visited {
+    cursor: wait;
+  }
+
+  .sm\:cursor-text {
+    cursor: text;
+  }
+
+  .sm\:cursor-text\:active:active {
+    cursor: text;
+  }
+
+  .sm\:cursor-text\:checked:checked {
+    cursor: text;
+  }
+
+  .sm\:cursor-text\:disabled:disabled {
+    cursor: text;
+  }
+
+  .sm\:cursor-text\:focus:focus {
+    cursor: text;
+  }
+
+  .sm\:cursor-text\:hover:hover {
+    cursor: text;
+  }
+
+  .sm\:cursor-text\:required:required {
+    cursor: text;
+  }
+
+  .sm\:cursor-text\:visited:visited {
+    cursor: text;
+  }
+
+  .sm\:cursor-move {
+    cursor: move;
+  }
+
+  .sm\:cursor-move\:active:active {
+    cursor: move;
+  }
+
+  .sm\:cursor-move\:checked:checked {
+    cursor: move;
+  }
+
+  .sm\:cursor-move\:disabled:disabled {
+    cursor: move;
+  }
+
+  .sm\:cursor-move\:focus:focus {
+    cursor: move;
+  }
+
+  .sm\:cursor-move\:hover:hover {
+    cursor: move;
+  }
+
+  .sm\:cursor-move\:required:required {
+    cursor: move;
+  }
+
+  .sm\:cursor-move\:visited:visited {
+    cursor: move;
+  }
+
+  .sm\:cursor-help {
+    cursor: help;
+  }
+
+  .sm\:cursor-help\:active:active {
+    cursor: help;
+  }
+
+  .sm\:cursor-help\:checked:checked {
+    cursor: help;
+  }
+
+  .sm\:cursor-help\:disabled:disabled {
+    cursor: help;
+  }
+
+  .sm\:cursor-help\:focus:focus {
+    cursor: help;
+  }
+
+  .sm\:cursor-help\:hover:hover {
+    cursor: help;
+  }
+
+  .sm\:cursor-help\:required:required {
+    cursor: help;
+  }
+
+  .sm\:cursor-help\:visited:visited {
+    cursor: help;
+  }
+
+  .sm\:cursor-not-allowed {
+    cursor: not-allowed;
+  }
+
+  .sm\:cursor-not-allowed\:active:active {
+    cursor: not-allowed;
+  }
+
+  .sm\:cursor-not-allowed\:checked:checked {
+    cursor: not-allowed;
+  }
+
+  .sm\:cursor-not-allowed\:disabled:disabled {
+    cursor: not-allowed;
+  }
+
+  .sm\:cursor-not-allowed\:focus:focus {
+    cursor: not-allowed;
+  }
+
+  .sm\:cursor-not-allowed\:hover:hover {
+    cursor: not-allowed;
+  }
+
+  .sm\:cursor-not-allowed\:required:required {
+    cursor: not-allowed;
+  }
+
+  .sm\:cursor-not-allowed\:visited:visited {
+    cursor: not-allowed;
+  }
+}
+@media (min-width: 768px) and (max-width: 1023px) {
+  .md\:cursor-auto {
+    cursor: auto;
+  }
+
+  .md\:cursor-auto\:active:active {
+    cursor: auto;
+  }
+
+  .md\:cursor-auto\:checked:checked {
+    cursor: auto;
+  }
+
+  .md\:cursor-auto\:disabled:disabled {
+    cursor: auto;
+  }
+
+  .md\:cursor-auto\:focus:focus {
+    cursor: auto;
+  }
+
+  .md\:cursor-auto\:hover:hover {
+    cursor: auto;
+  }
+
+  .md\:cursor-auto\:required:required {
+    cursor: auto;
+  }
+
+  .md\:cursor-auto\:visited:visited {
+    cursor: auto;
+  }
+
+  .md\:cursor-default {
+    cursor: default;
+  }
+
+  .md\:cursor-default\:active:active {
+    cursor: default;
+  }
+
+  .md\:cursor-default\:checked:checked {
+    cursor: default;
+  }
+
+  .md\:cursor-default\:disabled:disabled {
+    cursor: default;
+  }
+
+  .md\:cursor-default\:focus:focus {
+    cursor: default;
+  }
+
+  .md\:cursor-default\:hover:hover {
+    cursor: default;
+  }
+
+  .md\:cursor-default\:required:required {
+    cursor: default;
+  }
+
+  .md\:cursor-default\:visited:visited {
+    cursor: default;
+  }
+
+  .md\:cursor-pointer {
+    cursor: pointer;
+  }
+
+  .md\:cursor-pointer\:active:active {
+    cursor: pointer;
+  }
+
+  .md\:cursor-pointer\:checked:checked {
+    cursor: pointer;
+  }
+
+  .md\:cursor-pointer\:disabled:disabled {
+    cursor: pointer;
+  }
+
+  .md\:cursor-pointer\:focus:focus {
+    cursor: pointer;
+  }
+
+  .md\:cursor-pointer\:hover:hover {
+    cursor: pointer;
+  }
+
+  .md\:cursor-pointer\:required:required {
+    cursor: pointer;
+  }
+
+  .md\:cursor-pointer\:visited:visited {
+    cursor: pointer;
+  }
+
+  .md\:cursor-wait {
+    cursor: wait;
+  }
+
+  .md\:cursor-wait\:active:active {
+    cursor: wait;
+  }
+
+  .md\:cursor-wait\:checked:checked {
+    cursor: wait;
+  }
+
+  .md\:cursor-wait\:disabled:disabled {
+    cursor: wait;
+  }
+
+  .md\:cursor-wait\:focus:focus {
+    cursor: wait;
+  }
+
+  .md\:cursor-wait\:hover:hover {
+    cursor: wait;
+  }
+
+  .md\:cursor-wait\:required:required {
+    cursor: wait;
+  }
+
+  .md\:cursor-wait\:visited:visited {
+    cursor: wait;
+  }
+
+  .md\:cursor-text {
+    cursor: text;
+  }
+
+  .md\:cursor-text\:active:active {
+    cursor: text;
+  }
+
+  .md\:cursor-text\:checked:checked {
+    cursor: text;
+  }
+
+  .md\:cursor-text\:disabled:disabled {
+    cursor: text;
+  }
+
+  .md\:cursor-text\:focus:focus {
+    cursor: text;
+  }
+
+  .md\:cursor-text\:hover:hover {
+    cursor: text;
+  }
+
+  .md\:cursor-text\:required:required {
+    cursor: text;
+  }
+
+  .md\:cursor-text\:visited:visited {
+    cursor: text;
+  }
+
+  .md\:cursor-move {
+    cursor: move;
+  }
+
+  .md\:cursor-move\:active:active {
+    cursor: move;
+  }
+
+  .md\:cursor-move\:checked:checked {
+    cursor: move;
+  }
+
+  .md\:cursor-move\:disabled:disabled {
+    cursor: move;
+  }
+
+  .md\:cursor-move\:focus:focus {
+    cursor: move;
+  }
+
+  .md\:cursor-move\:hover:hover {
+    cursor: move;
+  }
+
+  .md\:cursor-move\:required:required {
+    cursor: move;
+  }
+
+  .md\:cursor-move\:visited:visited {
+    cursor: move;
+  }
+
+  .md\:cursor-help {
+    cursor: help;
+  }
+
+  .md\:cursor-help\:active:active {
+    cursor: help;
+  }
+
+  .md\:cursor-help\:checked:checked {
+    cursor: help;
+  }
+
+  .md\:cursor-help\:disabled:disabled {
+    cursor: help;
+  }
+
+  .md\:cursor-help\:focus:focus {
+    cursor: help;
+  }
+
+  .md\:cursor-help\:hover:hover {
+    cursor: help;
+  }
+
+  .md\:cursor-help\:required:required {
+    cursor: help;
+  }
+
+  .md\:cursor-help\:visited:visited {
+    cursor: help;
+  }
+
+  .md\:cursor-not-allowed {
+    cursor: not-allowed;
+  }
+
+  .md\:cursor-not-allowed\:active:active {
+    cursor: not-allowed;
+  }
+
+  .md\:cursor-not-allowed\:checked:checked {
+    cursor: not-allowed;
+  }
+
+  .md\:cursor-not-allowed\:disabled:disabled {
+    cursor: not-allowed;
+  }
+
+  .md\:cursor-not-allowed\:focus:focus {
+    cursor: not-allowed;
+  }
+
+  .md\:cursor-not-allowed\:hover:hover {
+    cursor: not-allowed;
+  }
+
+  .md\:cursor-not-allowed\:required:required {
+    cursor: not-allowed;
+  }
+
+  .md\:cursor-not-allowed\:visited:visited {
+    cursor: not-allowed;
+  }
+}
+@media (min-width: 1024px) and (max-width: 2000px) {
+  .lg\:cursor-auto {
+    cursor: auto;
+  }
+
+  .lg\:cursor-auto\:active:active {
+    cursor: auto;
+  }
+
+  .lg\:cursor-auto\:checked:checked {
+    cursor: auto;
+  }
+
+  .lg\:cursor-auto\:disabled:disabled {
+    cursor: auto;
+  }
+
+  .lg\:cursor-auto\:focus:focus {
+    cursor: auto;
+  }
+
+  .lg\:cursor-auto\:hover:hover {
+    cursor: auto;
+  }
+
+  .lg\:cursor-auto\:required:required {
+    cursor: auto;
+  }
+
+  .lg\:cursor-auto\:visited:visited {
+    cursor: auto;
+  }
+
+  .lg\:cursor-default {
+    cursor: default;
+  }
+
+  .lg\:cursor-default\:active:active {
+    cursor: default;
+  }
+
+  .lg\:cursor-default\:checked:checked {
+    cursor: default;
+  }
+
+  .lg\:cursor-default\:disabled:disabled {
+    cursor: default;
+  }
+
+  .lg\:cursor-default\:focus:focus {
+    cursor: default;
+  }
+
+  .lg\:cursor-default\:hover:hover {
+    cursor: default;
+  }
+
+  .lg\:cursor-default\:required:required {
+    cursor: default;
+  }
+
+  .lg\:cursor-default\:visited:visited {
+    cursor: default;
+  }
+
+  .lg\:cursor-pointer {
+    cursor: pointer;
+  }
+
+  .lg\:cursor-pointer\:active:active {
+    cursor: pointer;
+  }
+
+  .lg\:cursor-pointer\:checked:checked {
+    cursor: pointer;
+  }
+
+  .lg\:cursor-pointer\:disabled:disabled {
+    cursor: pointer;
+  }
+
+  .lg\:cursor-pointer\:focus:focus {
+    cursor: pointer;
+  }
+
+  .lg\:cursor-pointer\:hover:hover {
+    cursor: pointer;
+  }
+
+  .lg\:cursor-pointer\:required:required {
+    cursor: pointer;
+  }
+
+  .lg\:cursor-pointer\:visited:visited {
+    cursor: pointer;
+  }
+
+  .lg\:cursor-wait {
+    cursor: wait;
+  }
+
+  .lg\:cursor-wait\:active:active {
+    cursor: wait;
+  }
+
+  .lg\:cursor-wait\:checked:checked {
+    cursor: wait;
+  }
+
+  .lg\:cursor-wait\:disabled:disabled {
+    cursor: wait;
+  }
+
+  .lg\:cursor-wait\:focus:focus {
+    cursor: wait;
+  }
+
+  .lg\:cursor-wait\:hover:hover {
+    cursor: wait;
+  }
+
+  .lg\:cursor-wait\:required:required {
+    cursor: wait;
+  }
+
+  .lg\:cursor-wait\:visited:visited {
+    cursor: wait;
+  }
+
+  .lg\:cursor-text {
+    cursor: text;
+  }
+
+  .lg\:cursor-text\:active:active {
+    cursor: text;
+  }
+
+  .lg\:cursor-text\:checked:checked {
+    cursor: text;
+  }
+
+  .lg\:cursor-text\:disabled:disabled {
+    cursor: text;
+  }
+
+  .lg\:cursor-text\:focus:focus {
+    cursor: text;
+  }
+
+  .lg\:cursor-text\:hover:hover {
+    cursor: text;
+  }
+
+  .lg\:cursor-text\:required:required {
+    cursor: text;
+  }
+
+  .lg\:cursor-text\:visited:visited {
+    cursor: text;
+  }
+
+  .lg\:cursor-move {
+    cursor: move;
+  }
+
+  .lg\:cursor-move\:active:active {
+    cursor: move;
+  }
+
+  .lg\:cursor-move\:checked:checked {
+    cursor: move;
+  }
+
+  .lg\:cursor-move\:disabled:disabled {
+    cursor: move;
+  }
+
+  .lg\:cursor-move\:focus:focus {
+    cursor: move;
+  }
+
+  .lg\:cursor-move\:hover:hover {
+    cursor: move;
+  }
+
+  .lg\:cursor-move\:required:required {
+    cursor: move;
+  }
+
+  .lg\:cursor-move\:visited:visited {
+    cursor: move;
+  }
+
+  .lg\:cursor-help {
+    cursor: help;
+  }
+
+  .lg\:cursor-help\:active:active {
+    cursor: help;
+  }
+
+  .lg\:cursor-help\:checked:checked {
+    cursor: help;
+  }
+
+  .lg\:cursor-help\:disabled:disabled {
+    cursor: help;
+  }
+
+  .lg\:cursor-help\:focus:focus {
+    cursor: help;
+  }
+
+  .lg\:cursor-help\:hover:hover {
+    cursor: help;
+  }
+
+  .lg\:cursor-help\:required:required {
+    cursor: help;
+  }
+
+  .lg\:cursor-help\:visited:visited {
+    cursor: help;
+  }
+
+  .lg\:cursor-not-allowed {
+    cursor: not-allowed;
+  }
+
+  .lg\:cursor-not-allowed\:active:active {
+    cursor: not-allowed;
+  }
+
+  .lg\:cursor-not-allowed\:checked:checked {
+    cursor: not-allowed;
+  }
+
+  .lg\:cursor-not-allowed\:disabled:disabled {
+    cursor: not-allowed;
+  }
+
+  .lg\:cursor-not-allowed\:focus:focus {
+    cursor: not-allowed;
+  }
+
+  .lg\:cursor-not-allowed\:hover:hover {
+    cursor: not-allowed;
+  }
+
+  .lg\:cursor-not-allowed\:required:required {
+    cursor: not-allowed;
+  }
+
+  .lg\:cursor-not-allowed\:visited:visited {
+    cursor: not-allowed;
+  }
+}

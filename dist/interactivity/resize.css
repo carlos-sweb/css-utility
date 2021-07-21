@@ -1,0 +1,644 @@
+.resize-none {
+  resize: none;
+}
+
+.resize-none\:active:active {
+  resize: none;
+}
+
+.resize-none\:checked:checked {
+  resize: none;
+}
+
+.resize-none\:disabled:disabled {
+  resize: none;
+}
+
+.resize-none\:focus:focus {
+  resize: none;
+}
+
+.resize-none\:hover:hover {
+  resize: none;
+}
+
+.resize-none\:required:required {
+  resize: none;
+}
+
+.resize-none\:visited:visited {
+  resize: none;
+}
+
+.resize-vertical {
+  resize: vertical;
+}
+
+.resize-vertical\:active:active {
+  resize: vertical;
+}
+
+.resize-vertical\:checked:checked {
+  resize: vertical;
+}
+
+.resize-vertical\:disabled:disabled {
+  resize: vertical;
+}
+
+.resize-vertical\:focus:focus {
+  resize: vertical;
+}
+
+.resize-vertical\:hover:hover {
+  resize: vertical;
+}
+
+.resize-vertical\:required:required {
+  resize: vertical;
+}
+
+.resize-vertical\:visited:visited {
+  resize: vertical;
+}
+
+.resize-horizontal {
+  resize: horizontal;
+}
+
+.resize-horizontal\:active:active {
+  resize: horizontal;
+}
+
+.resize-horizontal\:checked:checked {
+  resize: horizontal;
+}
+
+.resize-horizontal\:disabled:disabled {
+  resize: horizontal;
+}
+
+.resize-horizontal\:focus:focus {
+  resize: horizontal;
+}
+
+.resize-horizontal\:hover:hover {
+  resize: horizontal;
+}
+
+.resize-horizontal\:required:required {
+  resize: horizontal;
+}
+
+.resize-horizontal\:visited:visited {
+  resize: horizontal;
+}
+
+.resize {
+  resize: both;
+}
+
+.resize\:active:active {
+  resize: both;
+}
+
+.resize\:checked:checked {
+  resize: both;
+}
+
+.resize\:disabled:disabled {
+  resize: both;
+}
+
+.resize\:focus:focus {
+  resize: both;
+}
+
+.resize\:hover:hover {
+  resize: both;
+}
+
+.resize\:required:required {
+  resize: both;
+}
+
+.resize\:visited:visited {
+  resize: both;
+}
+
+@media (min-width: 0px) and (max-width: 639px) {
+  .xs\:resize-none {
+    resize: none;
+  }
+
+  .xs\:resize-none\:active:active {
+    resize: none;
+  }
+
+  .xs\:resize-none\:checked:checked {
+    resize: none;
+  }
+
+  .xs\:resize-none\:disabled:disabled {
+    resize: none;
+  }
+
+  .xs\:resize-none\:focus:focus {
+    resize: none;
+  }
+
+  .xs\:resize-none\:hover:hover {
+    resize: none;
+  }
+
+  .xs\:resize-none\:required:required {
+    resize: none;
+  }
+
+  .xs\:resize-none\:visited:visited {
+    resize: none;
+  }
+
+  .xs\:resize-vertical {
+    resize: vertical;
+  }
+
+  .xs\:resize-vertical\:active:active {
+    resize: vertical;
+  }
+
+  .xs\:resize-vertical\:checked:checked {
+    resize: vertical;
+  }
+
+  .xs\:resize-vertical\:disabled:disabled {
+    resize: vertical;
+  }
+
+  .xs\:resize-vertical\:focus:focus {
+    resize: vertical;
+  }
+
+  .xs\:resize-vertical\:hover:hover {
+    resize: vertical;
+  }
+
+  .xs\:resize-vertical\:required:required {
+    resize: vertical;
+  }
+
+  .xs\:resize-vertical\:visited:visited {
+    resize: vertical;
+  }
+
+  .xs\:resize-horizontal {
+    resize: horizontal;
+  }
+
+  .xs\:resize-horizontal\:active:active {
+    resize: horizontal;
+  }
+
+  .xs\:resize-horizontal\:checked:checked {
+    resize: horizontal;
+  }
+
+  .xs\:resize-horizontal\:disabled:disabled {
+    resize: horizontal;
+  }
+
+  .xs\:resize-horizontal\:focus:focus {
+    resize: horizontal;
+  }
+
+  .xs\:resize-horizontal\:hover:hover {
+    resize: horizontal;
+  }
+
+  .xs\:resize-horizontal\:required:required {
+    resize: horizontal;
+  }
+
+  .xs\:resize-horizontal\:visited:visited {
+    resize: horizontal;
+  }
+
+  .xs\:resize {
+    resize: both;
+  }
+
+  .xs\:resize\:active:active {
+    resize: both;
+  }
+
+  .xs\:resize\:checked:checked {
+    resize: both;
+  }
+
+  .xs\:resize\:disabled:disabled {
+    resize: both;
+  }
+
+  .xs\:resize\:focus:focus {
+    resize: both;
+  }
+
+  .xs\:resize\:hover:hover {
+    resize: both;
+  }
+
+  .xs\:resize\:required:required {
+    resize: both;
+  }
+
+  .xs\:resize\:visited:visited {
+    resize: both;
+  }
+}
+@media (min-width: 640px) and (max-width: 767px) {
+  .sm\:resize-none {
+    resize: none;
+  }
+
+  .sm\:resize-none\:active:active {
+    resize: none;
+  }
+
+  .sm\:resize-none\:checked:checked {
+    resize: none;
+  }
+
+  .sm\:resize-none\:disabled:disabled {
+    resize: none;
+  }
+
+  .sm\:resize-none\:focus:focus {
+    resize: none;
+  }
+
+  .sm\:resize-none\:hover:hover {
+    resize: none;
+  }
+
+  .sm\:resize-none\:required:required {
+    resize: none;
+  }
+
+  .sm\:resize-none\:visited:visited {
+    resize: none;
+  }
+
+  .sm\:resize-vertical {
+    resize: vertical;
+  }
+
+  .sm\:resize-vertical\:active:active {
+    resize: vertical;
+  }
+
+  .sm\:resize-vertical\:checked:checked {
+    resize: vertical;
+  }
+
+  .sm\:resize-vertical\:disabled:disabled {
+    resize: vertical;
+  }
+
+  .sm\:resize-vertical\:focus:focus {
+    resize: vertical;
+  }
+
+  .sm\:resize-vertical\:hover:hover {
+    resize: vertical;
+  }
+
+  .sm\:resize-vertical\:required:required {
+    resize: vertical;
+  }
+
+  .sm\:resize-vertical\:visited:visited {
+    resize: vertical;
+  }
+
+  .sm\:resize-horizontal {
+    resize: horizontal;
+  }
+
+  .sm\:resize-horizontal\:active:active {
+    resize: horizontal;
+  }
+
+  .sm\:resize-horizontal\:checked:checked {
+    resize: horizontal;
+  }
+
+  .sm\:resize-horizontal\:disabled:disabled {
+    resize: horizontal;
+  }
+
+  .sm\:resize-horizontal\:focus:focus {
+    resize: horizontal;
+  }
+
+  .sm\:resize-horizontal\:hover:hover {
+    resize: horizontal;
+  }
+
+  .sm\:resize-horizontal\:required:required {
+    resize: horizontal;
+  }
+
+  .sm\:resize-horizontal\:visited:visited {
+    resize: horizontal;
+  }
+
+  .sm\:resize {
+    resize: both;
+  }
+
+  .sm\:resize\:active:active {
+    resize: both;
+  }
+
+  .sm\:resize\:checked:checked {
+    resize: both;
+  }
+
+  .sm\:resize\:disabled:disabled {
+    resize: both;
+  }
+
+  .sm\:resize\:focus:focus {
+    resize: both;
+  }
+
+  .sm\:resize\:hover:hover {
+    resize: both;
+  }
+
+  .sm\:resize\:required:required {
+    resize: both;
+  }
+
+  .sm\:resize\:visited:visited {
+    resize: both;
+  }
+}
+@media (min-width: 768px) and (max-width: 1023px) {
+  .md\:resize-none {
+    resize: none;
+  }
+
+  .md\:resize-none\:active:active {
+    resize: none;
+  }
+
+  .md\:resize-none\:checked:checked {
+    resize: none;
+  }
+
+  .md\:resize-none\:disabled:disabled {
+    resize: none;
+  }
+
+  .md\:resize-none\:focus:focus {
+    resize: none;
+  }
+
+  .md\:resize-none\:hover:hover {
+    resize: none;
+  }
+
+  .md\:resize-none\:required:required {
+    resize: none;
+  }
+
+  .md\:resize-none\:visited:visited {
+    resize: none;
+  }
+
+  .md\:resize-vertical {
+    resize: vertical;
+  }
+
+  .md\:resize-vertical\:active:active {
+    resize: vertical;
+  }
+
+  .md\:resize-vertical\:checked:checked {
+    resize: vertical;
+  }
+
+  .md\:resize-vertical\:disabled:disabled {
+    resize: vertical;
+  }
+
+  .md\:resize-vertical\:focus:focus {
+    resize: vertical;
+  }
+
+  .md\:resize-vertical\:hover:hover {
+    resize: vertical;
+  }
+
+  .md\:resize-vertical\:required:required {
+    resize: vertical;
+  }
+
+  .md\:resize-vertical\:visited:visited {
+    resize: vertical;
+  }
+
+  .md\:resize-horizontal {
+    resize: horizontal;
+  }
+
+  .md\:resize-horizontal\:active:active {
+    resize: horizontal;
+  }
+
+  .md\:resize-horizontal\:checked:checked {
+    resize: horizontal;
+  }
+
+  .md\:resize-horizontal\:disabled:disabled {
+    resize: horizontal;
+  }
+
+  .md\:resize-horizontal\:focus:focus {
+    resize: horizontal;
+  }
+
+  .md\:resize-horizontal\:hover:hover {
+    resize: horizontal;
+  }
+
+  .md\:resize-horizontal\:required:required {
+    resize: horizontal;
+  }
+
+  .md\:resize-horizontal\:visited:visited {
+    resize: horizontal;
+  }
+
+  .md\:resize {
+    resize: both;
+  }
+
+  .md\:resize\:active:active {
+    resize: both;
+  }
+
+  .md\:resize\:checked:checked {
+    resize: both;
+  }
+
+  .md\:resize\:disabled:disabled {
+    resize: both;
+  }
+
+  .md\:resize\:focus:focus {
+    resize: both;
+  }
+
+  .md\:resize\:hover:hover {
+    resize: both;
+  }
+
+  .md\:resize\:required:required {
+    resize: both;
+  }
+
+  .md\:resize\:visited:visited {
+    resize: both;
+  }
+}
+@media (min-width: 1024px) and (max-width: 2000px) {
+  .lg\:resize-none {
+    resize: none;
+  }
+
+  .lg\:resize-none\:active:active {
+    resize: none;
+  }
+
+  .lg\:resize-none\:checked:checked {
+    resize: none;
+  }
+
+  .lg\:resize-none\:disabled:disabled {
+    resize: none;
+  }
+
+  .lg\:resize-none\:focus:focus {
+    resize: none;
+  }
+
+  .lg\:resize-none\:hover:hover {
+    resize: none;
+  }
+
+  .lg\:resize-none\:required:required {
+    resize: none;
+  }
+
+  .lg\:resize-none\:visited:visited {
+    resize: none;
+  }
+
+  .lg\:resize-vertical {
+    resize: vertical;
+  }
+
+  .lg\:resize-vertical\:active:active {
+    resize: vertical;
+  }
+
+  .lg\:resize-vertical\:checked:checked {
+    resize: vertical;
+  }
+
+  .lg\:resize-vertical\:disabled:disabled {
+    resize: vertical;
+  }
+
+  .lg\:resize-vertical\:focus:focus {
+    resize: vertical;
+  }
+
+  .lg\:resize-vertical\:hover:hover {
+    resize: vertical;
+  }
+
+  .lg\:resize-vertical\:required:required {
+    resize: vertical;
+  }
+
+  .lg\:resize-vertical\:visited:visited {
+    resize: vertical;
+  }
+
+  .lg\:resize-horizontal {
+    resize: horizontal;
+  }
+
+  .lg\:resize-horizontal\:active:active {
+    resize: horizontal;
+  }
+
+  .lg\:resize-horizontal\:checked:checked {
+    resize: horizontal;
+  }
+
+  .lg\:resize-horizontal\:disabled:disabled {
+    resize: horizontal;
+  }
+
+  .lg\:resize-horizontal\:focus:focus {
+    resize: horizontal;
+  }
+
+  .lg\:resize-horizontal\:hover:hover {
+    resize: horizontal;
+  }
+
+  .lg\:resize-horizontal\:required:required {
+    resize: horizontal;
+  }
+
+  .lg\:resize-horizontal\:visited:visited {
+    resize: horizontal;
+  }
+
+  .lg\:resize {
+    resize: both;
+  }
+
+  .lg\:resize\:active:active {
+    resize: both;
+  }
+
+  .lg\:resize\:checked:checked {
+    resize: both;
+  }
+
+  .lg\:resize\:disabled:disabled {
+    resize: both;
+  }
+
+  .lg\:resize\:focus:focus {
+    resize: both;
+  }
+
+  .lg\:resize\:hover:hover {
+    resize: both;
+  }
+
+  .lg\:resize\:required:required {
+    resize: both;
+  }
+
+  .lg\:resize\:visited:visited {
+    resize: both;
+  }
+}

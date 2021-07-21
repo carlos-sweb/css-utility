@@ -1,0 +1,26 @@
+@import "../screen.scss";
+@import "../state.scss";
+@each $key, $value in (grid-rows-1:'repeat(1, minmax(0, 1fr))',grid-rows-2:'repeat(2, minmax(0, 1fr))',grid-rows-3:'repeat(3, minmax(0, 1fr))',grid-rows-4:'repeat(4, minmax(0, 1fr))',grid-rows-5:'repeat(5, minmax(0, 1fr))',grid-rows-6:'repeat(6, minmax(0, 1fr))',grid-rows-none:'none'){
+	.#{$key}{
+		grid-template-rows:#{$value};
+	}
+ @each $valueState in $state{
+	.#{$key}\:#{$valueState}:#{$valueState}{
+		grid-template-rows:#{$value};
+	}
+ }
+};
+@each $sizeScreen, $pixel in $screen{
+	@media (min-width: #{map-get($pixel,min)}#{px}) and (max-width: #{map-get($pixel,max)}#{px}){
+		@each $key, $value in (grid-rows-1:'repeat(1, minmax(0, 1fr))',grid-rows-2:'repeat(2, minmax(0, 1fr))',grid-rows-3:'repeat(3, minmax(0, 1fr))',grid-rows-4:'repeat(4, minmax(0, 1fr))',grid-rows-5:'repeat(5, minmax(0, 1fr))',grid-rows-6:'repeat(6, minmax(0, 1fr))',grid-rows-none:'none'){
+			.#{$sizeScreen}\:#{$key}{
+				grid-template-rows:#{$value};
+			}
+      @each $valueState in $state{
+	     .#{$sizeScreen}\:#{$key}\:#{$valueState}:#{$valueState}{
+		     grid-template-rows:#{$value};
+	     }
+      }
+		}
+	}
+}

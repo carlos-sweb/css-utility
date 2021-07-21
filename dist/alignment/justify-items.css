@@ -1,0 +1,644 @@
+.justify-items-start {
+  justify-items: start;
+}
+
+.justify-items-start\:active:active {
+  justify-items: start;
+}
+
+.justify-items-start\:checked:checked {
+  justify-items: start;
+}
+
+.justify-items-start\:disabled:disabled {
+  justify-items: start;
+}
+
+.justify-items-start\:focus:focus {
+  justify-items: start;
+}
+
+.justify-items-start\:hover:hover {
+  justify-items: start;
+}
+
+.justify-items-start\:required:required {
+  justify-items: start;
+}
+
+.justify-items-start\:visited:visited {
+  justify-items: start;
+}
+
+.justify-items-end {
+  justify-items: end;
+}
+
+.justify-items-end\:active:active {
+  justify-items: end;
+}
+
+.justify-items-end\:checked:checked {
+  justify-items: end;
+}
+
+.justify-items-end\:disabled:disabled {
+  justify-items: end;
+}
+
+.justify-items-end\:focus:focus {
+  justify-items: end;
+}
+
+.justify-items-end\:hover:hover {
+  justify-items: end;
+}
+
+.justify-items-end\:required:required {
+  justify-items: end;
+}
+
+.justify-items-end\:visited:visited {
+  justify-items: end;
+}
+
+.justify-items-center {
+  justify-items: center;
+}
+
+.justify-items-center\:active:active {
+  justify-items: center;
+}
+
+.justify-items-center\:checked:checked {
+  justify-items: center;
+}
+
+.justify-items-center\:disabled:disabled {
+  justify-items: center;
+}
+
+.justify-items-center\:focus:focus {
+  justify-items: center;
+}
+
+.justify-items-center\:hover:hover {
+  justify-items: center;
+}
+
+.justify-items-center\:required:required {
+  justify-items: center;
+}
+
+.justify-items-center\:visited:visited {
+  justify-items: center;
+}
+
+.justify-items-stretch {
+  justify-items: stretch;
+}
+
+.justify-items-stretch\:active:active {
+  justify-items: stretch;
+}
+
+.justify-items-stretch\:checked:checked {
+  justify-items: stretch;
+}
+
+.justify-items-stretch\:disabled:disabled {
+  justify-items: stretch;
+}
+
+.justify-items-stretch\:focus:focus {
+  justify-items: stretch;
+}
+
+.justify-items-stretch\:hover:hover {
+  justify-items: stretch;
+}
+
+.justify-items-stretch\:required:required {
+  justify-items: stretch;
+}
+
+.justify-items-stretch\:visited:visited {
+  justify-items: stretch;
+}
+
+@media (min-width: 0px) and (max-width: 639px) {
+  .xs\:justify-items-start {
+    justify-items: start;
+  }
+
+  .xs\:justify-items-start\:active:active {
+    justify-items: start;
+  }
+
+  .xs\:justify-items-start\:checked:checked {
+    justify-items: start;
+  }
+
+  .xs\:justify-items-start\:disabled:disabled {
+    justify-items: start;
+  }
+
+  .xs\:justify-items-start\:focus:focus {
+    justify-items: start;
+  }
+
+  .xs\:justify-items-start\:hover:hover {
+    justify-items: start;
+  }
+
+  .xs\:justify-items-start\:required:required {
+    justify-items: start;
+  }
+
+  .xs\:justify-items-start\:visited:visited {
+    justify-items: start;
+  }
+
+  .xs\:justify-items-end {
+    justify-items: end;
+  }
+
+  .xs\:justify-items-end\:active:active {
+    justify-items: end;
+  }
+
+  .xs\:justify-items-end\:checked:checked {
+    justify-items: end;
+  }
+
+  .xs\:justify-items-end\:disabled:disabled {
+    justify-items: end;
+  }
+
+  .xs\:justify-items-end\:focus:focus {
+    justify-items: end;
+  }
+
+  .xs\:justify-items-end\:hover:hover {
+    justify-items: end;
+  }
+
+  .xs\:justify-items-end\:required:required {
+    justify-items: end;
+  }
+
+  .xs\:justify-items-end\:visited:visited {
+    justify-items: end;
+  }
+
+  .xs\:justify-items-center {
+    justify-items: center;
+  }
+
+  .xs\:justify-items-center\:active:active {
+    justify-items: center;
+  }
+
+  .xs\:justify-items-center\:checked:checked {
+    justify-items: center;
+  }
+
+  .xs\:justify-items-center\:disabled:disabled {
+    justify-items: center;
+  }
+
+  .xs\:justify-items-center\:focus:focus {
+    justify-items: center;
+  }
+
+  .xs\:justify-items-center\:hover:hover {
+    justify-items: center;
+  }
+
+  .xs\:justify-items-center\:required:required {
+    justify-items: center;
+  }
+
+  .xs\:justify-items-center\:visited:visited {
+    justify-items: center;
+  }
+
+  .xs\:justify-items-stretch {
+    justify-items: stretch;
+  }
+
+  .xs\:justify-items-stretch\:active:active {
+    justify-items: stretch;
+  }
+
+  .xs\:justify-items-stretch\:checked:checked {
+    justify-items: stretch;
+  }
+
+  .xs\:justify-items-stretch\:disabled:disabled {
+    justify-items: stretch;
+  }
+
+  .xs\:justify-items-stretch\:focus:focus {
+    justify-items: stretch;
+  }
+
+  .xs\:justify-items-stretch\:hover:hover {
+    justify-items: stretch;
+  }
+
+  .xs\:justify-items-stretch\:required:required {
+    justify-items: stretch;
+  }
+
+  .xs\:justify-items-stretch\:visited:visited {
+    justify-items: stretch;
+  }
+}
+@media (min-width: 640px) and (max-width: 767px) {
+  .sm\:justify-items-start {
+    justify-items: start;
+  }
+
+  .sm\:justify-items-start\:active:active {
+    justify-items: start;
+  }
+
+  .sm\:justify-items-start\:checked:checked {
+    justify-items: start;
+  }
+
+  .sm\:justify-items-start\:disabled:disabled {
+    justify-items: start;
+  }
+
+  .sm\:justify-items-start\:focus:focus {
+    justify-items: start;
+  }
+
+  .sm\:justify-items-start\:hover:hover {
+    justify-items: start;
+  }
+
+  .sm\:justify-items-start\:required:required {
+    justify-items: start;
+  }
+
+  .sm\:justify-items-start\:visited:visited {
+    justify-items: start;
+  }
+
+  .sm\:justify-items-end {
+    justify-items: end;
+  }
+
+  .sm\:justify-items-end\:active:active {
+    justify-items: end;
+  }
+
+  .sm\:justify-items-end\:checked:checked {
+    justify-items: end;
+  }
+
+  .sm\:justify-items-end\:disabled:disabled {
+    justify-items: end;
+  }
+
+  .sm\:justify-items-end\:focus:focus {
+    justify-items: end;
+  }
+
+  .sm\:justify-items-end\:hover:hover {
+    justify-items: end;
+  }
+
+  .sm\:justify-items-end\:required:required {
+    justify-items: end;
+  }
+
+  .sm\:justify-items-end\:visited:visited {
+    justify-items: end;
+  }
+
+  .sm\:justify-items-center {
+    justify-items: center;
+  }
+
+  .sm\:justify-items-center\:active:active {
+    justify-items: center;
+  }
+
+  .sm\:justify-items-center\:checked:checked {
+    justify-items: center;
+  }
+
+  .sm\:justify-items-center\:disabled:disabled {
+    justify-items: center;
+  }
+
+  .sm\:justify-items-center\:focus:focus {
+    justify-items: center;
+  }
+
+  .sm\:justify-items-center\:hover:hover {
+    justify-items: center;
+  }
+
+  .sm\:justify-items-center\:required:required {
+    justify-items: center;
+  }
+
+  .sm\:justify-items-center\:visited:visited {
+    justify-items: center;
+  }
+
+  .sm\:justify-items-stretch {
+    justify-items: stretch;
+  }
+
+  .sm\:justify-items-stretch\:active:active {
+    justify-items: stretch;
+  }
+
+  .sm\:justify-items-stretch\:checked:checked {
+    justify-items: stretch;
+  }
+
+  .sm\:justify-items-stretch\:disabled:disabled {
+    justify-items: stretch;
+  }
+
+  .sm\:justify-items-stretch\:focus:focus {
+    justify-items: stretch;
+  }
+
+  .sm\:justify-items-stretch\:hover:hover {
+    justify-items: stretch;
+  }
+
+  .sm\:justify-items-stretch\:required:required {
+    justify-items: stretch;
+  }
+
+  .sm\:justify-items-stretch\:visited:visited {
+    justify-items: stretch;
+  }
+}
+@media (min-width: 768px) and (max-width: 1023px) {
+  .md\:justify-items-start {
+    justify-items: start;
+  }
+
+  .md\:justify-items-start\:active:active {
+    justify-items: start;
+  }
+
+  .md\:justify-items-start\:checked:checked {
+    justify-items: start;
+  }
+
+  .md\:justify-items-start\:disabled:disabled {
+    justify-items: start;
+  }
+
+  .md\:justify-items-start\:focus:focus {
+    justify-items: start;
+  }
+
+  .md\:justify-items-start\:hover:hover {
+    justify-items: start;
+  }
+
+  .md\:justify-items-start\:required:required {
+    justify-items: start;
+  }
+
+  .md\:justify-items-start\:visited:visited {
+    justify-items: start;
+  }
+
+  .md\:justify-items-end {
+    justify-items: end;
+  }
+
+  .md\:justify-items-end\:active:active {
+    justify-items: end;
+  }
+
+  .md\:justify-items-end\:checked:checked {
+    justify-items: end;
+  }
+
+  .md\:justify-items-end\:disabled:disabled {
+    justify-items: end;
+  }
+
+  .md\:justify-items-end\:focus:focus {
+    justify-items: end;
+  }
+
+  .md\:justify-items-end\:hover:hover {
+    justify-items: end;
+  }
+
+  .md\:justify-items-end\:required:required {
+    justify-items: end;
+  }
+
+  .md\:justify-items-end\:visited:visited {
+    justify-items: end;
+  }
+
+  .md\:justify-items-center {
+    justify-items: center;
+  }
+
+  .md\:justify-items-center\:active:active {
+    justify-items: center;
+  }
+
+  .md\:justify-items-center\:checked:checked {
+    justify-items: center;
+  }
+
+  .md\:justify-items-center\:disabled:disabled {
+    justify-items: center;
+  }
+
+  .md\:justify-items-center\:focus:focus {
+    justify-items: center;
+  }
+
+  .md\:justify-items-center\:hover:hover {
+    justify-items: center;
+  }
+
+  .md\:justify-items-center\:required:required {
+    justify-items: center;
+  }
+
+  .md\:justify-items-center\:visited:visited {
+    justify-items: center;
+  }
+
+  .md\:justify-items-stretch {
+    justify-items: stretch;
+  }
+
+  .md\:justify-items-stretch\:active:active {
+    justify-items: stretch;
+  }
+
+  .md\:justify-items-stretch\:checked:checked {
+    justify-items: stretch;
+  }
+
+  .md\:justify-items-stretch\:disabled:disabled {
+    justify-items: stretch;
+  }
+
+  .md\:justify-items-stretch\:focus:focus {
+    justify-items: stretch;
+  }
+
+  .md\:justify-items-stretch\:hover:hover {
+    justify-items: stretch;
+  }
+
+  .md\:justify-items-stretch\:required:required {
+    justify-items: stretch;
+  }
+
+  .md\:justify-items-stretch\:visited:visited {
+    justify-items: stretch;
+  }
+}
+@media (min-width: 1024px) and (max-width: 2000px) {
+  .lg\:justify-items-start {
+    justify-items: start;
+  }
+
+  .lg\:justify-items-start\:active:active {
+    justify-items: start;
+  }
+
+  .lg\:justify-items-start\:checked:checked {
+    justify-items: start;
+  }
+
+  .lg\:justify-items-start\:disabled:disabled {
+    justify-items: start;
+  }
+
+  .lg\:justify-items-start\:focus:focus {
+    justify-items: start;
+  }
+
+  .lg\:justify-items-start\:hover:hover {
+    justify-items: start;
+  }
+
+  .lg\:justify-items-start\:required:required {
+    justify-items: start;
+  }
+
+  .lg\:justify-items-start\:visited:visited {
+    justify-items: start;
+  }
+
+  .lg\:justify-items-end {
+    justify-items: end;
+  }
+
+  .lg\:justify-items-end\:active:active {
+    justify-items: end;
+  }
+
+  .lg\:justify-items-end\:checked:checked {
+    justify-items: end;
+  }
+
+  .lg\:justify-items-end\:disabled:disabled {
+    justify-items: end;
+  }
+
+  .lg\:justify-items-end\:focus:focus {
+    justify-items: end;
+  }
+
+  .lg\:justify-items-end\:hover:hover {
+    justify-items: end;
+  }
+
+  .lg\:justify-items-end\:required:required {
+    justify-items: end;
+  }
+
+  .lg\:justify-items-end\:visited:visited {
+    justify-items: end;
+  }
+
+  .lg\:justify-items-center {
+    justify-items: center;
+  }
+
+  .lg\:justify-items-center\:active:active {
+    justify-items: center;
+  }
+
+  .lg\:justify-items-center\:checked:checked {
+    justify-items: center;
+  }
+
+  .lg\:justify-items-center\:disabled:disabled {
+    justify-items: center;
+  }
+
+  .lg\:justify-items-center\:focus:focus {
+    justify-items: center;
+  }
+
+  .lg\:justify-items-center\:hover:hover {
+    justify-items: center;
+  }
+
+  .lg\:justify-items-center\:required:required {
+    justify-items: center;
+  }
+
+  .lg\:justify-items-center\:visited:visited {
+    justify-items: center;
+  }
+
+  .lg\:justify-items-stretch {
+    justify-items: stretch;
+  }
+
+  .lg\:justify-items-stretch\:active:active {
+    justify-items: stretch;
+  }
+
+  .lg\:justify-items-stretch\:checked:checked {
+    justify-items: stretch;
+  }
+
+  .lg\:justify-items-stretch\:disabled:disabled {
+    justify-items: stretch;
+  }
+
+  .lg\:justify-items-stretch\:focus:focus {
+    justify-items: stretch;
+  }
+
+  .lg\:justify-items-stretch\:hover:hover {
+    justify-items: stretch;
+  }
+
+  .lg\:justify-items-stretch\:required:required {
+    justify-items: stretch;
+  }
+
+  .lg\:justify-items-stretch\:visited:visited {
+    justify-items: stretch;
+  }
+}

@@ -1,0 +1,804 @@
+.static {
+  position: static;
+}
+
+.static\:active:active {
+  position: static;
+}
+
+.static\:checked:checked {
+  position: static;
+}
+
+.static\:disabled:disabled {
+  position: static;
+}
+
+.static\:focus:focus {
+  position: static;
+}
+
+.static\:hover:hover {
+  position: static;
+}
+
+.static\:required:required {
+  position: static;
+}
+
+.static\:visited:visited {
+  position: static;
+}
+
+.fixed {
+  position: fixed;
+}
+
+.fixed\:active:active {
+  position: fixed;
+}
+
+.fixed\:checked:checked {
+  position: fixed;
+}
+
+.fixed\:disabled:disabled {
+  position: fixed;
+}
+
+.fixed\:focus:focus {
+  position: fixed;
+}
+
+.fixed\:hover:hover {
+  position: fixed;
+}
+
+.fixed\:required:required {
+  position: fixed;
+}
+
+.fixed\:visited:visited {
+  position: fixed;
+}
+
+.absolute {
+  position: absolute;
+}
+
+.absolute\:active:active {
+  position: absolute;
+}
+
+.absolute\:checked:checked {
+  position: absolute;
+}
+
+.absolute\:disabled:disabled {
+  position: absolute;
+}
+
+.absolute\:focus:focus {
+  position: absolute;
+}
+
+.absolute\:hover:hover {
+  position: absolute;
+}
+
+.absolute\:required:required {
+  position: absolute;
+}
+
+.absolute\:visited:visited {
+  position: absolute;
+}
+
+.relative {
+  position: relative;
+}
+
+.relative\:active:active {
+  position: relative;
+}
+
+.relative\:checked:checked {
+  position: relative;
+}
+
+.relative\:disabled:disabled {
+  position: relative;
+}
+
+.relative\:focus:focus {
+  position: relative;
+}
+
+.relative\:hover:hover {
+  position: relative;
+}
+
+.relative\:required:required {
+  position: relative;
+}
+
+.relative\:visited:visited {
+  position: relative;
+}
+
+.sticky {
+  position: sticky;
+}
+
+.sticky\:active:active {
+  position: sticky;
+}
+
+.sticky\:checked:checked {
+  position: sticky;
+}
+
+.sticky\:disabled:disabled {
+  position: sticky;
+}
+
+.sticky\:focus:focus {
+  position: sticky;
+}
+
+.sticky\:hover:hover {
+  position: sticky;
+}
+
+.sticky\:required:required {
+  position: sticky;
+}
+
+.sticky\:visited:visited {
+  position: sticky;
+}
+
+@media (min-width: 0px) and (max-width: 639px) {
+  .xs\:static {
+    position: static;
+  }
+
+  .xs\:static\:active:active {
+    position: static;
+  }
+
+  .xs\:static\:checked:checked {
+    position: static;
+  }
+
+  .xs\:static\:disabled:disabled {
+    position: static;
+  }
+
+  .xs\:static\:focus:focus {
+    position: static;
+  }
+
+  .xs\:static\:hover:hover {
+    position: static;
+  }
+
+  .xs\:static\:required:required {
+    position: static;
+  }
+
+  .xs\:static\:visited:visited {
+    position: static;
+  }
+
+  .xs\:fixed {
+    position: fixed;
+  }
+
+  .xs\:fixed\:active:active {
+    position: fixed;
+  }
+
+  .xs\:fixed\:checked:checked {
+    position: fixed;
+  }
+
+  .xs\:fixed\:disabled:disabled {
+    position: fixed;
+  }
+
+  .xs\:fixed\:focus:focus {
+    position: fixed;
+  }
+
+  .xs\:fixed\:hover:hover {
+    position: fixed;
+  }
+
+  .xs\:fixed\:required:required {
+    position: fixed;
+  }
+
+  .xs\:fixed\:visited:visited {
+    position: fixed;
+  }
+
+  .xs\:absolute {
+    position: absolute;
+  }
+
+  .xs\:absolute\:active:active {
+    position: absolute;
+  }
+
+  .xs\:absolute\:checked:checked {
+    position: absolute;
+  }
+
+  .xs\:absolute\:disabled:disabled {
+    position: absolute;
+  }
+
+  .xs\:absolute\:focus:focus {
+    position: absolute;
+  }
+
+  .xs\:absolute\:hover:hover {
+    position: absolute;
+  }
+
+  .xs\:absolute\:required:required {
+    position: absolute;
+  }
+
+  .xs\:absolute\:visited:visited {
+    position: absolute;
+  }
+
+  .xs\:relative {
+    position: relative;
+  }
+
+  .xs\:relative\:active:active {
+    position: relative;
+  }
+
+  .xs\:relative\:checked:checked {
+    position: relative;
+  }
+
+  .xs\:relative\:disabled:disabled {
+    position: relative;
+  }
+
+  .xs\:relative\:focus:focus {
+    position: relative;
+  }
+
+  .xs\:relative\:hover:hover {
+    position: relative;
+  }
+
+  .xs\:relative\:required:required {
+    position: relative;
+  }
+
+  .xs\:relative\:visited:visited {
+    position: relative;
+  }
+
+  .xs\:sticky {
+    position: sticky;
+  }
+
+  .xs\:sticky\:active:active {
+    position: sticky;
+  }
+
+  .xs\:sticky\:checked:checked {
+    position: sticky;
+  }
+
+  .xs\:sticky\:disabled:disabled {
+    position: sticky;
+  }
+
+  .xs\:sticky\:focus:focus {
+    position: sticky;
+  }
+
+  .xs\:sticky\:hover:hover {
+    position: sticky;
+  }
+
+  .xs\:sticky\:required:required {
+    position: sticky;
+  }
+
+  .xs\:sticky\:visited:visited {
+    position: sticky;
+  }
+}
+@media (min-width: 640px) and (max-width: 767px) {
+  .sm\:static {
+    position: static;
+  }
+
+  .sm\:static\:active:active {
+    position: static;
+  }
+
+  .sm\:static\:checked:checked {
+    position: static;
+  }
+
+  .sm\:static\:disabled:disabled {
+    position: static;
+  }
+
+  .sm\:static\:focus:focus {
+    position: static;
+  }
+
+  .sm\:static\:hover:hover {
+    position: static;
+  }
+
+  .sm\:static\:required:required {
+    position: static;
+  }
+
+  .sm\:static\:visited:visited {
+    position: static;
+  }
+
+  .sm\:fixed {
+    position: fixed;
+  }
+
+  .sm\:fixed\:active:active {
+    position: fixed;
+  }
+
+  .sm\:fixed\:checked:checked {
+    position: fixed;
+  }
+
+  .sm\:fixed\:disabled:disabled {
+    position: fixed;
+  }
+
+  .sm\:fixed\:focus:focus {
+    position: fixed;
+  }
+
+  .sm\:fixed\:hover:hover {
+    position: fixed;
+  }
+
+  .sm\:fixed\:required:required {
+    position: fixed;
+  }
+
+  .sm\:fixed\:visited:visited {
+    position: fixed;
+  }
+
+  .sm\:absolute {
+    position: absolute;
+  }
+
+  .sm\:absolute\:active:active {
+    position: absolute;
+  }
+
+  .sm\:absolute\:checked:checked {
+    position: absolute;
+  }
+
+  .sm\:absolute\:disabled:disabled {
+    position: absolute;
+  }
+
+  .sm\:absolute\:focus:focus {
+    position: absolute;
+  }
+
+  .sm\:absolute\:hover:hover {
+    position: absolute;
+  }
+
+  .sm\:absolute\:required:required {
+    position: absolute;
+  }
+
+  .sm\:absolute\:visited:visited {
+    position: absolute;
+  }
+
+  .sm\:relative {
+    position: relative;
+  }
+
+  .sm\:relative\:active:active {
+    position: relative;
+  }
+
+  .sm\:relative\:checked:checked {
+    position: relative;
+  }
+
+  .sm\:relative\:disabled:disabled {
+    position: relative;
+  }
+
+  .sm\:relative\:focus:focus {
+    position: relative;
+  }
+
+  .sm\:relative\:hover:hover {
+    position: relative;
+  }
+
+  .sm\:relative\:required:required {
+    position: relative;
+  }
+
+  .sm\:relative\:visited:visited {
+    position: relative;
+  }
+
+  .sm\:sticky {
+    position: sticky;
+  }
+
+  .sm\:sticky\:active:active {
+    position: sticky;
+  }
+
+  .sm\:sticky\:checked:checked {
+    position: sticky;
+  }
+
+  .sm\:sticky\:disabled:disabled {
+    position: sticky;
+  }
+
+  .sm\:sticky\:focus:focus {
+    position: sticky;
+  }
+
+  .sm\:sticky\:hover:hover {
+    position: sticky;
+  }
+
+  .sm\:sticky\:required:required {
+    position: sticky;
+  }
+
+  .sm\:sticky\:visited:visited {
+    position: sticky;
+  }
+}
+@media (min-width: 768px) and (max-width: 1023px) {
+  .md\:static {
+    position: static;
+  }
+
+  .md\:static\:active:active {
+    position: static;
+  }
+
+  .md\:static\:checked:checked {
+    position: static;
+  }
+
+  .md\:static\:disabled:disabled {
+    position: static;
+  }
+
+  .md\:static\:focus:focus {
+    position: static;
+  }
+
+  .md\:static\:hover:hover {
+    position: static;
+  }
+
+  .md\:static\:required:required {
+    position: static;
+  }
+
+  .md\:static\:visited:visited {
+    position: static;
+  }
+
+  .md\:fixed {
+    position: fixed;
+  }
+
+  .md\:fixed\:active:active {
+    position: fixed;
+  }
+
+  .md\:fixed\:checked:checked {
+    position: fixed;
+  }
+
+  .md\:fixed\:disabled:disabled {
+    position: fixed;
+  }
+
+  .md\:fixed\:focus:focus {
+    position: fixed;
+  }
+
+  .md\:fixed\:hover:hover {
+    position: fixed;
+  }
+
+  .md\:fixed\:required:required {
+    position: fixed;
+  }
+
+  .md\:fixed\:visited:visited {
+    position: fixed;
+  }
+
+  .md\:absolute {
+    position: absolute;
+  }
+
+  .md\:absolute\:active:active {
+    position: absolute;
+  }
+
+  .md\:absolute\:checked:checked {
+    position: absolute;
+  }
+
+  .md\:absolute\:disabled:disabled {
+    position: absolute;
+  }
+
+  .md\:absolute\:focus:focus {
+    position: absolute;
+  }
+
+  .md\:absolute\:hover:hover {
+    position: absolute;
+  }
+
+  .md\:absolute\:required:required {
+    position: absolute;
+  }
+
+  .md\:absolute\:visited:visited {
+    position: absolute;
+  }
+
+  .md\:relative {
+    position: relative;
+  }
+
+  .md\:relative\:active:active {
+    position: relative;
+  }
+
+  .md\:relative\:checked:checked {
+    position: relative;
+  }
+
+  .md\:relative\:disabled:disabled {
+    position: relative;
+  }
+
+  .md\:relative\:focus:focus {
+    position: relative;
+  }
+
+  .md\:relative\:hover:hover {
+    position: relative;
+  }
+
+  .md\:relative\:required:required {
+    position: relative;
+  }
+
+  .md\:relative\:visited:visited {
+    position: relative;
+  }
+
+  .md\:sticky {
+    position: sticky;
+  }
+
+  .md\:sticky\:active:active {
+    position: sticky;
+  }
+
+  .md\:sticky\:checked:checked {
+    position: sticky;
+  }
+
+  .md\:sticky\:disabled:disabled {
+    position: sticky;
+  }
+
+  .md\:sticky\:focus:focus {
+    position: sticky;
+  }
+
+  .md\:sticky\:hover:hover {
+    position: sticky;
+  }
+
+  .md\:sticky\:required:required {
+    position: sticky;
+  }
+
+  .md\:sticky\:visited:visited {
+    position: sticky;
+  }
+}
+@media (min-width: 1024px) and (max-width: 2000px) {
+  .lg\:static {
+    position: static;
+  }
+
+  .lg\:static\:active:active {
+    position: static;
+  }
+
+  .lg\:static\:checked:checked {
+    position: static;
+  }
+
+  .lg\:static\:disabled:disabled {
+    position: static;
+  }
+
+  .lg\:static\:focus:focus {
+    position: static;
+  }
+
+  .lg\:static\:hover:hover {
+    position: static;
+  }
+
+  .lg\:static\:required:required {
+    position: static;
+  }
+
+  .lg\:static\:visited:visited {
+    position: static;
+  }
+
+  .lg\:fixed {
+    position: fixed;
+  }
+
+  .lg\:fixed\:active:active {
+    position: fixed;
+  }
+
+  .lg\:fixed\:checked:checked {
+    position: fixed;
+  }
+
+  .lg\:fixed\:disabled:disabled {
+    position: fixed;
+  }
+
+  .lg\:fixed\:focus:focus {
+    position: fixed;
+  }
+
+  .lg\:fixed\:hover:hover {
+    position: fixed;
+  }
+
+  .lg\:fixed\:required:required {
+    position: fixed;
+  }
+
+  .lg\:fixed\:visited:visited {
+    position: fixed;
+  }
+
+  .lg\:absolute {
+    position: absolute;
+  }
+
+  .lg\:absolute\:active:active {
+    position: absolute;
+  }
+
+  .lg\:absolute\:checked:checked {
+    position: absolute;
+  }
+
+  .lg\:absolute\:disabled:disabled {
+    position: absolute;
+  }
+
+  .lg\:absolute\:focus:focus {
+    position: absolute;
+  }
+
+  .lg\:absolute\:hover:hover {
+    position: absolute;
+  }
+
+  .lg\:absolute\:required:required {
+    position: absolute;
+  }
+
+  .lg\:absolute\:visited:visited {
+    position: absolute;
+  }
+
+  .lg\:relative {
+    position: relative;
+  }
+
+  .lg\:relative\:active:active {
+    position: relative;
+  }
+
+  .lg\:relative\:checked:checked {
+    position: relative;
+  }
+
+  .lg\:relative\:disabled:disabled {
+    position: relative;
+  }
+
+  .lg\:relative\:focus:focus {
+    position: relative;
+  }
+
+  .lg\:relative\:hover:hover {
+    position: relative;
+  }
+
+  .lg\:relative\:required:required {
+    position: relative;
+  }
+
+  .lg\:relative\:visited:visited {
+    position: relative;
+  }
+
+  .lg\:sticky {
+    position: sticky;
+  }
+
+  .lg\:sticky\:active:active {
+    position: sticky;
+  }
+
+  .lg\:sticky\:checked:checked {
+    position: sticky;
+  }
+
+  .lg\:sticky\:disabled:disabled {
+    position: sticky;
+  }
+
+  .lg\:sticky\:focus:focus {
+    position: sticky;
+  }
+
+  .lg\:sticky\:hover:hover {
+    position: sticky;
+  }
+
+  .lg\:sticky\:required:required {
+    position: sticky;
+  }
+
+  .lg\:sticky\:visited:visited {
+    position: sticky;
+  }
+}

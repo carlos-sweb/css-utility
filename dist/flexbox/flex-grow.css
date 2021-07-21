@@ -1,0 +1,324 @@
+.flex-grow-0 {
+  flex-grow: 0;
+}
+
+.flex-grow-0\:active:active {
+  flex-grow: 0;
+}
+
+.flex-grow-0\:checked:checked {
+  flex-grow: 0;
+}
+
+.flex-grow-0\:disabled:disabled {
+  flex-grow: 0;
+}
+
+.flex-grow-0\:focus:focus {
+  flex-grow: 0;
+}
+
+.flex-grow-0\:hover:hover {
+  flex-grow: 0;
+}
+
+.flex-grow-0\:required:required {
+  flex-grow: 0;
+}
+
+.flex-grow-0\:visited:visited {
+  flex-grow: 0;
+}
+
+.flex-grow {
+  flex-grow: 1;
+}
+
+.flex-grow\:active:active {
+  flex-grow: 1;
+}
+
+.flex-grow\:checked:checked {
+  flex-grow: 1;
+}
+
+.flex-grow\:disabled:disabled {
+  flex-grow: 1;
+}
+
+.flex-grow\:focus:focus {
+  flex-grow: 1;
+}
+
+.flex-grow\:hover:hover {
+  flex-grow: 1;
+}
+
+.flex-grow\:required:required {
+  flex-grow: 1;
+}
+
+.flex-grow\:visited:visited {
+  flex-grow: 1;
+}
+
+@media (min-width: 0px) and (max-width: 639px) {
+  .xs\:flex-grow-0 {
+    flex-grow: 0;
+  }
+
+  .xs\:flex-grow-0\:active:active {
+    flex-grow: 0;
+  }
+
+  .xs\:flex-grow-0\:checked:checked {
+    flex-grow: 0;
+  }
+
+  .xs\:flex-grow-0\:disabled:disabled {
+    flex-grow: 0;
+  }
+
+  .xs\:flex-grow-0\:focus:focus {
+    flex-grow: 0;
+  }
+
+  .xs\:flex-grow-0\:hover:hover {
+    flex-grow: 0;
+  }
+
+  .xs\:flex-grow-0\:required:required {
+    flex-grow: 0;
+  }
+
+  .xs\:flex-grow-0\:visited:visited {
+    flex-grow: 0;
+  }
+
+  .xs\:flex-grow {
+    flex-grow: 1;
+  }
+
+  .xs\:flex-grow\:active:active {
+    flex-grow: 1;
+  }
+
+  .xs\:flex-grow\:checked:checked {
+    flex-grow: 1;
+  }
+
+  .xs\:flex-grow\:disabled:disabled {
+    flex-grow: 1;
+  }
+
+  .xs\:flex-grow\:focus:focus {
+    flex-grow: 1;
+  }
+
+  .xs\:flex-grow\:hover:hover {
+    flex-grow: 1;
+  }
+
+  .xs\:flex-grow\:required:required {
+    flex-grow: 1;
+  }
+
+  .xs\:flex-grow\:visited:visited {
+    flex-grow: 1;
+  }
+}
+@media (min-width: 640px) and (max-width: 767px) {
+  .sm\:flex-grow-0 {
+    flex-grow: 0;
+  }
+
+  .sm\:flex-grow-0\:active:active {
+    flex-grow: 0;
+  }
+
+  .sm\:flex-grow-0\:checked:checked {
+    flex-grow: 0;
+  }
+
+  .sm\:flex-grow-0\:disabled:disabled {
+    flex-grow: 0;
+  }
+
+  .sm\:flex-grow-0\:focus:focus {
+    flex-grow: 0;
+  }
+
+  .sm\:flex-grow-0\:hover:hover {
+    flex-grow: 0;
+  }
+
+  .sm\:flex-grow-0\:required:required {
+    flex-grow: 0;
+  }
+
+  .sm\:flex-grow-0\:visited:visited {
+    flex-grow: 0;
+  }
+
+  .sm\:flex-grow {
+    flex-grow: 1;
+  }
+
+  .sm\:flex-grow\:active:active {
+    flex-grow: 1;
+  }
+
+  .sm\:flex-grow\:checked:checked {
+    flex-grow: 1;
+  }
+
+  .sm\:flex-grow\:disabled:disabled {
+    flex-grow: 1;
+  }
+
+  .sm\:flex-grow\:focus:focus {
+    flex-grow: 1;
+  }
+
+  .sm\:flex-grow\:hover:hover {
+    flex-grow: 1;
+  }
+
+  .sm\:flex-grow\:required:required {
+    flex-grow: 1;
+  }
+
+  .sm\:flex-grow\:visited:visited {
+    flex-grow: 1;
+  }
+}
+@media (min-width: 768px) and (max-width: 1023px) {
+  .md\:flex-grow-0 {
+    flex-grow: 0;
+  }
+
+  .md\:flex-grow-0\:active:active {
+    flex-grow: 0;
+  }
+
+  .md\:flex-grow-0\:checked:checked {
+    flex-grow: 0;
+  }
+
+  .md\:flex-grow-0\:disabled:disabled {
+    flex-grow: 0;
+  }
+
+  .md\:flex-grow-0\:focus:focus {
+    flex-grow: 0;
+  }
+
+  .md\:flex-grow-0\:hover:hover {
+    flex-grow: 0;
+  }
+
+  .md\:flex-grow-0\:required:required {
+    flex-grow: 0;
+  }
+
+  .md\:flex-grow-0\:visited:visited {
+    flex-grow: 0;
+  }
+
+  .md\:flex-grow {
+    flex-grow: 1;
+  }
+
+  .md\:flex-grow\:active:active {
+    flex-grow: 1;
+  }
+
+  .md\:flex-grow\:checked:checked {
+    flex-grow: 1;
+  }
+
+  .md\:flex-grow\:disabled:disabled {
+    flex-grow: 1;
+  }
+
+  .md\:flex-grow\:focus:focus {
+    flex-grow: 1;
+  }
+
+  .md\:flex-grow\:hover:hover {
+    flex-grow: 1;
+  }
+
+  .md\:flex-grow\:required:required {
+    flex-grow: 1;
+  }
+
+  .md\:flex-grow\:visited:visited {
+    flex-grow: 1;
+  }
+}
+@media (min-width: 1024px) and (max-width: 2000px) {
+  .lg\:flex-grow-0 {
+    flex-grow: 0;
+  }
+
+  .lg\:flex-grow-0\:active:active {
+    flex-grow: 0;
+  }
+
+  .lg\:flex-grow-0\:checked:checked {
+    flex-grow: 0;
+  }
+
+  .lg\:flex-grow-0\:disabled:disabled {
+    flex-grow: 0;
+  }
+
+  .lg\:flex-grow-0\:focus:focus {
+    flex-grow: 0;
+  }
+
+  .lg\:flex-grow-0\:hover:hover {
+    flex-grow: 0;
+  }
+
+  .lg\:flex-grow-0\:required:required {
+    flex-grow: 0;
+  }
+
+  .lg\:flex-grow-0\:visited:visited {
+    flex-grow: 0;
+  }
+
+  .lg\:flex-grow {
+    flex-grow: 1;
+  }
+
+  .lg\:flex-grow\:active:active {
+    flex-grow: 1;
+  }
+
+  .lg\:flex-grow\:checked:checked {
+    flex-grow: 1;
+  }
+
+  .lg\:flex-grow\:disabled:disabled {
+    flex-grow: 1;
+  }
+
+  .lg\:flex-grow\:focus:focus {
+    flex-grow: 1;
+  }
+
+  .lg\:flex-grow\:hover:hover {
+    flex-grow: 1;
+  }
+
+  .lg\:flex-grow\:required:required {
+    flex-grow: 1;
+  }
+
+  .lg\:flex-grow\:visited:visited {
+    flex-grow: 1;
+  }
+}

@@ -1,0 +1,26 @@
+@import "../screen.scss";
+@import "../state.scss";
+@each $key, $value in (max-w-0:'0rem',max-w-none:'0rem',max-w-xs:'0rem',max-w-sm:'0rem',max-w-md:'0rem',max-w-lg:'0rem',max-w-xl:'0rem',max-w-2xl:'0rem',max-w-3xl:'0rem',max-w-4xl:'0rem',max-w-5xl:'0rem',max-w-6xl:'0rem',max-w-7xl:'0rem',max-w-full:'0rem',max-w-min:'0rem',max-w-max:'0rem',max-w-prose:'0rem'){
+	.#{$key}{
+		max-width:#{$value};
+	}
+ @each $valueState in $state{
+	.#{$key}\:#{$valueState}:#{$valueState}{
+		max-width:#{$value};
+	}
+ }
+};
+@each $sizeScreen, $pixel in $screen{
+	@media (min-width: #{map-get($pixel,min)}#{px}) and (max-width: #{map-get($pixel,max)}#{px}){
+		@each $key, $value in (max-w-0:'0rem',max-w-none:'0rem',max-w-xs:'0rem',max-w-sm:'0rem',max-w-md:'0rem',max-w-lg:'0rem',max-w-xl:'0rem',max-w-2xl:'0rem',max-w-3xl:'0rem',max-w-4xl:'0rem',max-w-5xl:'0rem',max-w-6xl:'0rem',max-w-7xl:'0rem',max-w-full:'0rem',max-w-min:'0rem',max-w-max:'0rem',max-w-prose:'0rem'){
+			.#{$sizeScreen}\:#{$key}{
+				max-width:#{$value};
+			}
+      @each $valueState in $state{
+	     .#{$sizeScreen}\:#{$key}\:#{$valueState}:#{$valueState}{
+		     max-width:#{$value};
+	     }
+      }
+		}
+	}
+}

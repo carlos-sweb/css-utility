@@ -1,0 +1,3364 @@
+.block {
+  display: block;
+}
+
+.block\:active:active {
+  display: block;
+}
+
+.block\:checked:checked {
+  display: block;
+}
+
+.block\:disabled:disabled {
+  display: block;
+}
+
+.block\:focus:focus {
+  display: block;
+}
+
+.block\:hover:hover {
+  display: block;
+}
+
+.block\:required:required {
+  display: block;
+}
+
+.block\:visited:visited {
+  display: block;
+}
+
+.inline-block {
+  display: inline-block;
+}
+
+.inline-block\:active:active {
+  display: inline-block;
+}
+
+.inline-block\:checked:checked {
+  display: inline-block;
+}
+
+.inline-block\:disabled:disabled {
+  display: inline-block;
+}
+
+.inline-block\:focus:focus {
+  display: inline-block;
+}
+
+.inline-block\:hover:hover {
+  display: inline-block;
+}
+
+.inline-block\:required:required {
+  display: inline-block;
+}
+
+.inline-block\:visited:visited {
+  display: inline-block;
+}
+
+.inline {
+  display: inline;
+}
+
+.inline\:active:active {
+  display: inline;
+}
+
+.inline\:checked:checked {
+  display: inline;
+}
+
+.inline\:disabled:disabled {
+  display: inline;
+}
+
+.inline\:focus:focus {
+  display: inline;
+}
+
+.inline\:hover:hover {
+  display: inline;
+}
+
+.inline\:required:required {
+  display: inline;
+}
+
+.inline\:visited:visited {
+  display: inline;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex\:active:active {
+  display: flex;
+}
+
+.flex\:checked:checked {
+  display: flex;
+}
+
+.flex\:disabled:disabled {
+  display: flex;
+}
+
+.flex\:focus:focus {
+  display: flex;
+}
+
+.flex\:hover:hover {
+  display: flex;
+}
+
+.flex\:required:required {
+  display: flex;
+}
+
+.flex\:visited:visited {
+  display: flex;
+}
+
+.inline-flex {
+  display: inline-flex;
+}
+
+.inline-flex\:active:active {
+  display: inline-flex;
+}
+
+.inline-flex\:checked:checked {
+  display: inline-flex;
+}
+
+.inline-flex\:disabled:disabled {
+  display: inline-flex;
+}
+
+.inline-flex\:focus:focus {
+  display: inline-flex;
+}
+
+.inline-flex\:hover:hover {
+  display: inline-flex;
+}
+
+.inline-flex\:required:required {
+  display: inline-flex;
+}
+
+.inline-flex\:visited:visited {
+  display: inline-flex;
+}
+
+.table {
+  display: table;
+}
+
+.table\:active:active {
+  display: table;
+}
+
+.table\:checked:checked {
+  display: table;
+}
+
+.table\:disabled:disabled {
+  display: table;
+}
+
+.table\:focus:focus {
+  display: table;
+}
+
+.table\:hover:hover {
+  display: table;
+}
+
+.table\:required:required {
+  display: table;
+}
+
+.table\:visited:visited {
+  display: table;
+}
+
+.inline-table {
+  display: inline-table;
+}
+
+.inline-table\:active:active {
+  display: inline-table;
+}
+
+.inline-table\:checked:checked {
+  display: inline-table;
+}
+
+.inline-table\:disabled:disabled {
+  display: inline-table;
+}
+
+.inline-table\:focus:focus {
+  display: inline-table;
+}
+
+.inline-table\:hover:hover {
+  display: inline-table;
+}
+
+.inline-table\:required:required {
+  display: inline-table;
+}
+
+.inline-table\:visited:visited {
+  display: inline-table;
+}
+
+.table-caption {
+  display: table-caption;
+}
+
+.table-caption\:active:active {
+  display: table-caption;
+}
+
+.table-caption\:checked:checked {
+  display: table-caption;
+}
+
+.table-caption\:disabled:disabled {
+  display: table-caption;
+}
+
+.table-caption\:focus:focus {
+  display: table-caption;
+}
+
+.table-caption\:hover:hover {
+  display: table-caption;
+}
+
+.table-caption\:required:required {
+  display: table-caption;
+}
+
+.table-caption\:visited:visited {
+  display: table-caption;
+}
+
+.table-cell {
+  display: table-cell;
+}
+
+.table-cell\:active:active {
+  display: table-cell;
+}
+
+.table-cell\:checked:checked {
+  display: table-cell;
+}
+
+.table-cell\:disabled:disabled {
+  display: table-cell;
+}
+
+.table-cell\:focus:focus {
+  display: table-cell;
+}
+
+.table-cell\:hover:hover {
+  display: table-cell;
+}
+
+.table-cell\:required:required {
+  display: table-cell;
+}
+
+.table-cell\:visited:visited {
+  display: table-cell;
+}
+
+.table-column {
+  display: table-column;
+}
+
+.table-column\:active:active {
+  display: table-column;
+}
+
+.table-column\:checked:checked {
+  display: table-column;
+}
+
+.table-column\:disabled:disabled {
+  display: table-column;
+}
+
+.table-column\:focus:focus {
+  display: table-column;
+}
+
+.table-column\:hover:hover {
+  display: table-column;
+}
+
+.table-column\:required:required {
+  display: table-column;
+}
+
+.table-column\:visited:visited {
+  display: table-column;
+}
+
+.table-column-group {
+  display: table-column-group;
+}
+
+.table-column-group\:active:active {
+  display: table-column-group;
+}
+
+.table-column-group\:checked:checked {
+  display: table-column-group;
+}
+
+.table-column-group\:disabled:disabled {
+  display: table-column-group;
+}
+
+.table-column-group\:focus:focus {
+  display: table-column-group;
+}
+
+.table-column-group\:hover:hover {
+  display: table-column-group;
+}
+
+.table-column-group\:required:required {
+  display: table-column-group;
+}
+
+.table-column-group\:visited:visited {
+  display: table-column-group;
+}
+
+.table-footer-group {
+  display: table-footer-group;
+}
+
+.table-footer-group\:active:active {
+  display: table-footer-group;
+}
+
+.table-footer-group\:checked:checked {
+  display: table-footer-group;
+}
+
+.table-footer-group\:disabled:disabled {
+  display: table-footer-group;
+}
+
+.table-footer-group\:focus:focus {
+  display: table-footer-group;
+}
+
+.table-footer-group\:hover:hover {
+  display: table-footer-group;
+}
+
+.table-footer-group\:required:required {
+  display: table-footer-group;
+}
+
+.table-footer-group\:visited:visited {
+  display: table-footer-group;
+}
+
+.table-header-group {
+  display: table-header-group;
+}
+
+.table-header-group\:active:active {
+  display: table-header-group;
+}
+
+.table-header-group\:checked:checked {
+  display: table-header-group;
+}
+
+.table-header-group\:disabled:disabled {
+  display: table-header-group;
+}
+
+.table-header-group\:focus:focus {
+  display: table-header-group;
+}
+
+.table-header-group\:hover:hover {
+  display: table-header-group;
+}
+
+.table-header-group\:required:required {
+  display: table-header-group;
+}
+
+.table-header-group\:visited:visited {
+  display: table-header-group;
+}
+
+.table-row-group {
+  display: table-row-group;
+}
+
+.table-row-group\:active:active {
+  display: table-row-group;
+}
+
+.table-row-group\:checked:checked {
+  display: table-row-group;
+}
+
+.table-row-group\:disabled:disabled {
+  display: table-row-group;
+}
+
+.table-row-group\:focus:focus {
+  display: table-row-group;
+}
+
+.table-row-group\:hover:hover {
+  display: table-row-group;
+}
+
+.table-row-group\:required:required {
+  display: table-row-group;
+}
+
+.table-row-group\:visited:visited {
+  display: table-row-group;
+}
+
+.table-row {
+  display: table-row;
+}
+
+.table-row\:active:active {
+  display: table-row;
+}
+
+.table-row\:checked:checked {
+  display: table-row;
+}
+
+.table-row\:disabled:disabled {
+  display: table-row;
+}
+
+.table-row\:focus:focus {
+  display: table-row;
+}
+
+.table-row\:hover:hover {
+  display: table-row;
+}
+
+.table-row\:required:required {
+  display: table-row;
+}
+
+.table-row\:visited:visited {
+  display: table-row;
+}
+
+.flow-root {
+  display: flow-root;
+}
+
+.flow-root\:active:active {
+  display: flow-root;
+}
+
+.flow-root\:checked:checked {
+  display: flow-root;
+}
+
+.flow-root\:disabled:disabled {
+  display: flow-root;
+}
+
+.flow-root\:focus:focus {
+  display: flow-root;
+}
+
+.flow-root\:hover:hover {
+  display: flow-root;
+}
+
+.flow-root\:required:required {
+  display: flow-root;
+}
+
+.flow-root\:visited:visited {
+  display: flow-root;
+}
+
+.grid {
+  display: grid;
+}
+
+.grid\:active:active {
+  display: grid;
+}
+
+.grid\:checked:checked {
+  display: grid;
+}
+
+.grid\:disabled:disabled {
+  display: grid;
+}
+
+.grid\:focus:focus {
+  display: grid;
+}
+
+.grid\:hover:hover {
+  display: grid;
+}
+
+.grid\:required:required {
+  display: grid;
+}
+
+.grid\:visited:visited {
+  display: grid;
+}
+
+.inline-grid {
+  display: inline-grid;
+}
+
+.inline-grid\:active:active {
+  display: inline-grid;
+}
+
+.inline-grid\:checked:checked {
+  display: inline-grid;
+}
+
+.inline-grid\:disabled:disabled {
+  display: inline-grid;
+}
+
+.inline-grid\:focus:focus {
+  display: inline-grid;
+}
+
+.inline-grid\:hover:hover {
+  display: inline-grid;
+}
+
+.inline-grid\:required:required {
+  display: inline-grid;
+}
+
+.inline-grid\:visited:visited {
+  display: inline-grid;
+}
+
+.contents {
+  display: contents;
+}
+
+.contents\:active:active {
+  display: contents;
+}
+
+.contents\:checked:checked {
+  display: contents;
+}
+
+.contents\:disabled:disabled {
+  display: contents;
+}
+
+.contents\:focus:focus {
+  display: contents;
+}
+
+.contents\:hover:hover {
+  display: contents;
+}
+
+.contents\:required:required {
+  display: contents;
+}
+
+.contents\:visited:visited {
+  display: contents;
+}
+
+.list-item {
+  display: list-item;
+}
+
+.list-item\:active:active {
+  display: list-item;
+}
+
+.list-item\:checked:checked {
+  display: list-item;
+}
+
+.list-item\:disabled:disabled {
+  display: list-item;
+}
+
+.list-item\:focus:focus {
+  display: list-item;
+}
+
+.list-item\:hover:hover {
+  display: list-item;
+}
+
+.list-item\:required:required {
+  display: list-item;
+}
+
+.list-item\:visited:visited {
+  display: list-item;
+}
+
+.hidden {
+  display: none;
+}
+
+.hidden\:active:active {
+  display: none;
+}
+
+.hidden\:checked:checked {
+  display: none;
+}
+
+.hidden\:disabled:disabled {
+  display: none;
+}
+
+.hidden\:focus:focus {
+  display: none;
+}
+
+.hidden\:hover:hover {
+  display: none;
+}
+
+.hidden\:required:required {
+  display: none;
+}
+
+.hidden\:visited:visited {
+  display: none;
+}
+
+@media (min-width: 0px) and (max-width: 639px) {
+  .xs\:block {
+    display: block;
+  }
+
+  .xs\:block\:active:active {
+    display: block;
+  }
+
+  .xs\:block\:checked:checked {
+    display: block;
+  }
+
+  .xs\:block\:disabled:disabled {
+    display: block;
+  }
+
+  .xs\:block\:focus:focus {
+    display: block;
+  }
+
+  .xs\:block\:hover:hover {
+    display: block;
+  }
+
+  .xs\:block\:required:required {
+    display: block;
+  }
+
+  .xs\:block\:visited:visited {
+    display: block;
+  }
+
+  .xs\:inline-block {
+    display: inline-block;
+  }
+
+  .xs\:inline-block\:active:active {
+    display: inline-block;
+  }
+
+  .xs\:inline-block\:checked:checked {
+    display: inline-block;
+  }
+
+  .xs\:inline-block\:disabled:disabled {
+    display: inline-block;
+  }
+
+  .xs\:inline-block\:focus:focus {
+    display: inline-block;
+  }
+
+  .xs\:inline-block\:hover:hover {
+    display: inline-block;
+  }
+
+  .xs\:inline-block\:required:required {
+    display: inline-block;
+  }
+
+  .xs\:inline-block\:visited:visited {
+    display: inline-block;
+  }
+
+  .xs\:inline {
+    display: inline;
+  }
+
+  .xs\:inline\:active:active {
+    display: inline;
+  }
+
+  .xs\:inline\:checked:checked {
+    display: inline;
+  }
+
+  .xs\:inline\:disabled:disabled {
+    display: inline;
+  }
+
+  .xs\:inline\:focus:focus {
+    display: inline;
+  }
+
+  .xs\:inline\:hover:hover {
+    display: inline;
+  }
+
+  .xs\:inline\:required:required {
+    display: inline;
+  }
+
+  .xs\:inline\:visited:visited {
+    display: inline;
+  }
+
+  .xs\:flex {
+    display: flex;
+  }
+
+  .xs\:flex\:active:active {
+    display: flex;
+  }
+
+  .xs\:flex\:checked:checked {
+    display: flex;
+  }
+
+  .xs\:flex\:disabled:disabled {
+    display: flex;
+  }
+
+  .xs\:flex\:focus:focus {
+    display: flex;
+  }
+
+  .xs\:flex\:hover:hover {
+    display: flex;
+  }
+
+  .xs\:flex\:required:required {
+    display: flex;
+  }
+
+  .xs\:flex\:visited:visited {
+    display: flex;
+  }
+
+  .xs\:inline-flex {
+    display: inline-flex;
+  }
+
+  .xs\:inline-flex\:active:active {
+    display: inline-flex;
+  }
+
+  .xs\:inline-flex\:checked:checked {
+    display: inline-flex;
+  }
+
+  .xs\:inline-flex\:disabled:disabled {
+    display: inline-flex;
+  }
+
+  .xs\:inline-flex\:focus:focus {
+    display: inline-flex;
+  }
+
+  .xs\:inline-flex\:hover:hover {
+    display: inline-flex;
+  }
+
+  .xs\:inline-flex\:required:required {
+    display: inline-flex;
+  }
+
+  .xs\:inline-flex\:visited:visited {
+    display: inline-flex;
+  }
+
+  .xs\:table {
+    display: table;
+  }
+
+  .xs\:table\:active:active {
+    display: table;
+  }
+
+  .xs\:table\:checked:checked {
+    display: table;
+  }
+
+  .xs\:table\:disabled:disabled {
+    display: table;
+  }
+
+  .xs\:table\:focus:focus {
+    display: table;
+  }
+
+  .xs\:table\:hover:hover {
+    display: table;
+  }
+
+  .xs\:table\:required:required {
+    display: table;
+  }
+
+  .xs\:table\:visited:visited {
+    display: table;
+  }
+
+  .xs\:inline-table {
+    display: inline-table;
+  }
+
+  .xs\:inline-table\:active:active {
+    display: inline-table;
+  }
+
+  .xs\:inline-table\:checked:checked {
+    display: inline-table;
+  }
+
+  .xs\:inline-table\:disabled:disabled {
+    display: inline-table;
+  }
+
+  .xs\:inline-table\:focus:focus {
+    display: inline-table;
+  }
+
+  .xs\:inline-table\:hover:hover {
+    display: inline-table;
+  }
+
+  .xs\:inline-table\:required:required {
+    display: inline-table;
+  }
+
+  .xs\:inline-table\:visited:visited {
+    display: inline-table;
+  }
+
+  .xs\:table-caption {
+    display: table-caption;
+  }
+
+  .xs\:table-caption\:active:active {
+    display: table-caption;
+  }
+
+  .xs\:table-caption\:checked:checked {
+    display: table-caption;
+  }
+
+  .xs\:table-caption\:disabled:disabled {
+    display: table-caption;
+  }
+
+  .xs\:table-caption\:focus:focus {
+    display: table-caption;
+  }
+
+  .xs\:table-caption\:hover:hover {
+    display: table-caption;
+  }
+
+  .xs\:table-caption\:required:required {
+    display: table-caption;
+  }
+
+  .xs\:table-caption\:visited:visited {
+    display: table-caption;
+  }
+
+  .xs\:table-cell {
+    display: table-cell;
+  }
+
+  .xs\:table-cell\:active:active {
+    display: table-cell;
+  }
+
+  .xs\:table-cell\:checked:checked {
+    display: table-cell;
+  }
+
+  .xs\:table-cell\:disabled:disabled {
+    display: table-cell;
+  }
+
+  .xs\:table-cell\:focus:focus {
+    display: table-cell;
+  }
+
+  .xs\:table-cell\:hover:hover {
+    display: table-cell;
+  }
+
+  .xs\:table-cell\:required:required {
+    display: table-cell;
+  }
+
+  .xs\:table-cell\:visited:visited {
+    display: table-cell;
+  }
+
+  .xs\:table-column {
+    display: table-column;
+  }
+
+  .xs\:table-column\:active:active {
+    display: table-column;
+  }
+
+  .xs\:table-column\:checked:checked {
+    display: table-column;
+  }
+
+  .xs\:table-column\:disabled:disabled {
+    display: table-column;
+  }
+
+  .xs\:table-column\:focus:focus {
+    display: table-column;
+  }
+
+  .xs\:table-column\:hover:hover {
+    display: table-column;
+  }
+
+  .xs\:table-column\:required:required {
+    display: table-column;
+  }
+
+  .xs\:table-column\:visited:visited {
+    display: table-column;
+  }
+
+  .xs\:table-column-group {
+    display: table-column-group;
+  }
+
+  .xs\:table-column-group\:active:active {
+    display: table-column-group;
+  }
+
+  .xs\:table-column-group\:checked:checked {
+    display: table-column-group;
+  }
+
+  .xs\:table-column-group\:disabled:disabled {
+    display: table-column-group;
+  }
+
+  .xs\:table-column-group\:focus:focus {
+    display: table-column-group;
+  }
+
+  .xs\:table-column-group\:hover:hover {
+    display: table-column-group;
+  }
+
+  .xs\:table-column-group\:required:required {
+    display: table-column-group;
+  }
+
+  .xs\:table-column-group\:visited:visited {
+    display: table-column-group;
+  }
+
+  .xs\:table-footer-group {
+    display: table-footer-group;
+  }
+
+  .xs\:table-footer-group\:active:active {
+    display: table-footer-group;
+  }
+
+  .xs\:table-footer-group\:checked:checked {
+    display: table-footer-group;
+  }
+
+  .xs\:table-footer-group\:disabled:disabled {
+    display: table-footer-group;
+  }
+
+  .xs\:table-footer-group\:focus:focus {
+    display: table-footer-group;
+  }
+
+  .xs\:table-footer-group\:hover:hover {
+    display: table-footer-group;
+  }
+
+  .xs\:table-footer-group\:required:required {
+    display: table-footer-group;
+  }
+
+  .xs\:table-footer-group\:visited:visited {
+    display: table-footer-group;
+  }
+
+  .xs\:table-header-group {
+    display: table-header-group;
+  }
+
+  .xs\:table-header-group\:active:active {
+    display: table-header-group;
+  }
+
+  .xs\:table-header-group\:checked:checked {
+    display: table-header-group;
+  }
+
+  .xs\:table-header-group\:disabled:disabled {
+    display: table-header-group;
+  }
+
+  .xs\:table-header-group\:focus:focus {
+    display: table-header-group;
+  }
+
+  .xs\:table-header-group\:hover:hover {
+    display: table-header-group;
+  }
+
+  .xs\:table-header-group\:required:required {
+    display: table-header-group;
+  }
+
+  .xs\:table-header-group\:visited:visited {
+    display: table-header-group;
+  }
+
+  .xs\:table-row-group {
+    display: table-row-group;
+  }
+
+  .xs\:table-row-group\:active:active {
+    display: table-row-group;
+  }
+
+  .xs\:table-row-group\:checked:checked {
+    display: table-row-group;
+  }
+
+  .xs\:table-row-group\:disabled:disabled {
+    display: table-row-group;
+  }
+
+  .xs\:table-row-group\:focus:focus {
+    display: table-row-group;
+  }
+
+  .xs\:table-row-group\:hover:hover {
+    display: table-row-group;
+  }
+
+  .xs\:table-row-group\:required:required {
+    display: table-row-group;
+  }
+
+  .xs\:table-row-group\:visited:visited {
+    display: table-row-group;
+  }
+
+  .xs\:table-row {
+    display: table-row;
+  }
+
+  .xs\:table-row\:active:active {
+    display: table-row;
+  }
+
+  .xs\:table-row\:checked:checked {
+    display: table-row;
+  }
+
+  .xs\:table-row\:disabled:disabled {
+    display: table-row;
+  }
+
+  .xs\:table-row\:focus:focus {
+    display: table-row;
+  }
+
+  .xs\:table-row\:hover:hover {
+    display: table-row;
+  }
+
+  .xs\:table-row\:required:required {
+    display: table-row;
+  }
+
+  .xs\:table-row\:visited:visited {
+    display: table-row;
+  }
+
+  .xs\:flow-root {
+    display: flow-root;
+  }
+
+  .xs\:flow-root\:active:active {
+    display: flow-root;
+  }
+
+  .xs\:flow-root\:checked:checked {
+    display: flow-root;
+  }
+
+  .xs\:flow-root\:disabled:disabled {
+    display: flow-root;
+  }
+
+  .xs\:flow-root\:focus:focus {
+    display: flow-root;
+  }
+
+  .xs\:flow-root\:hover:hover {
+    display: flow-root;
+  }
+
+  .xs\:flow-root\:required:required {
+    display: flow-root;
+  }
+
+  .xs\:flow-root\:visited:visited {
+    display: flow-root;
+  }
+
+  .xs\:grid {
+    display: grid;
+  }
+
+  .xs\:grid\:active:active {
+    display: grid;
+  }
+
+  .xs\:grid\:checked:checked {
+    display: grid;
+  }
+
+  .xs\:grid\:disabled:disabled {
+    display: grid;
+  }
+
+  .xs\:grid\:focus:focus {
+    display: grid;
+  }
+
+  .xs\:grid\:hover:hover {
+    display: grid;
+  }
+
+  .xs\:grid\:required:required {
+    display: grid;
+  }
+
+  .xs\:grid\:visited:visited {
+    display: grid;
+  }
+
+  .xs\:inline-grid {
+    display: inline-grid;
+  }
+
+  .xs\:inline-grid\:active:active {
+    display: inline-grid;
+  }
+
+  .xs\:inline-grid\:checked:checked {
+    display: inline-grid;
+  }
+
+  .xs\:inline-grid\:disabled:disabled {
+    display: inline-grid;
+  }
+
+  .xs\:inline-grid\:focus:focus {
+    display: inline-grid;
+  }
+
+  .xs\:inline-grid\:hover:hover {
+    display: inline-grid;
+  }
+
+  .xs\:inline-grid\:required:required {
+    display: inline-grid;
+  }
+
+  .xs\:inline-grid\:visited:visited {
+    display: inline-grid;
+  }
+
+  .xs\:contents {
+    display: contents;
+  }
+
+  .xs\:contents\:active:active {
+    display: contents;
+  }
+
+  .xs\:contents\:checked:checked {
+    display: contents;
+  }
+
+  .xs\:contents\:disabled:disabled {
+    display: contents;
+  }
+
+  .xs\:contents\:focus:focus {
+    display: contents;
+  }
+
+  .xs\:contents\:hover:hover {
+    display: contents;
+  }
+
+  .xs\:contents\:required:required {
+    display: contents;
+  }
+
+  .xs\:contents\:visited:visited {
+    display: contents;
+  }
+
+  .xs\:list-item {
+    display: list-item;
+  }
+
+  .xs\:list-item\:active:active {
+    display: list-item;
+  }
+
+  .xs\:list-item\:checked:checked {
+    display: list-item;
+  }
+
+  .xs\:list-item\:disabled:disabled {
+    display: list-item;
+  }
+
+  .xs\:list-item\:focus:focus {
+    display: list-item;
+  }
+
+  .xs\:list-item\:hover:hover {
+    display: list-item;
+  }
+
+  .xs\:list-item\:required:required {
+    display: list-item;
+  }
+
+  .xs\:list-item\:visited:visited {
+    display: list-item;
+  }
+
+  .xs\:hidden {
+    display: none;
+  }
+
+  .xs\:hidden\:active:active {
+    display: none;
+  }
+
+  .xs\:hidden\:checked:checked {
+    display: none;
+  }
+
+  .xs\:hidden\:disabled:disabled {
+    display: none;
+  }
+
+  .xs\:hidden\:focus:focus {
+    display: none;
+  }
+
+  .xs\:hidden\:hover:hover {
+    display: none;
+  }
+
+  .xs\:hidden\:required:required {
+    display: none;
+  }
+
+  .xs\:hidden\:visited:visited {
+    display: none;
+  }
+}
+@media (min-width: 640px) and (max-width: 767px) {
+  .sm\:block {
+    display: block;
+  }
+
+  .sm\:block\:active:active {
+    display: block;
+  }
+
+  .sm\:block\:checked:checked {
+    display: block;
+  }
+
+  .sm\:block\:disabled:disabled {
+    display: block;
+  }
+
+  .sm\:block\:focus:focus {
+    display: block;
+  }
+
+  .sm\:block\:hover:hover {
+    display: block;
+  }
+
+  .sm\:block\:required:required {
+    display: block;
+  }
+
+  .sm\:block\:visited:visited {
+    display: block;
+  }
+
+  .sm\:inline-block {
+    display: inline-block;
+  }
+
+  .sm\:inline-block\:active:active {
+    display: inline-block;
+  }
+
+  .sm\:inline-block\:checked:checked {
+    display: inline-block;
+  }
+
+  .sm\:inline-block\:disabled:disabled {
+    display: inline-block;
+  }
+
+  .sm\:inline-block\:focus:focus {
+    display: inline-block;
+  }
+
+  .sm\:inline-block\:hover:hover {
+    display: inline-block;
+  }
+
+  .sm\:inline-block\:required:required {
+    display: inline-block;
+  }
+
+  .sm\:inline-block\:visited:visited {
+    display: inline-block;
+  }
+
+  .sm\:inline {
+    display: inline;
+  }
+
+  .sm\:inline\:active:active {
+    display: inline;
+  }
+
+  .sm\:inline\:checked:checked {
+    display: inline;
+  }
+
+  .sm\:inline\:disabled:disabled {
+    display: inline;
+  }
+
+  .sm\:inline\:focus:focus {
+    display: inline;
+  }
+
+  .sm\:inline\:hover:hover {
+    display: inline;
+  }
+
+  .sm\:inline\:required:required {
+    display: inline;
+  }
+
+  .sm\:inline\:visited:visited {
+    display: inline;
+  }
+
+  .sm\:flex {
+    display: flex;
+  }
+
+  .sm\:flex\:active:active {
+    display: flex;
+  }
+
+  .sm\:flex\:checked:checked {
+    display: flex;
+  }
+
+  .sm\:flex\:disabled:disabled {
+    display: flex;
+  }
+
+  .sm\:flex\:focus:focus {
+    display: flex;
+  }
+
+  .sm\:flex\:hover:hover {
+    display: flex;
+  }
+
+  .sm\:flex\:required:required {
+    display: flex;
+  }
+
+  .sm\:flex\:visited:visited {
+    display: flex;
+  }
+
+  .sm\:inline-flex {
+    display: inline-flex;
+  }
+
+  .sm\:inline-flex\:active:active {
+    display: inline-flex;
+  }
+
+  .sm\:inline-flex\:checked:checked {
+    display: inline-flex;
+  }
+
+  .sm\:inline-flex\:disabled:disabled {
+    display: inline-flex;
+  }
+
+  .sm\:inline-flex\:focus:focus {
+    display: inline-flex;
+  }
+
+  .sm\:inline-flex\:hover:hover {
+    display: inline-flex;
+  }
+
+  .sm\:inline-flex\:required:required {
+    display: inline-flex;
+  }
+
+  .sm\:inline-flex\:visited:visited {
+    display: inline-flex;
+  }
+
+  .sm\:table {
+    display: table;
+  }
+
+  .sm\:table\:active:active {
+    display: table;
+  }
+
+  .sm\:table\:checked:checked {
+    display: table;
+  }
+
+  .sm\:table\:disabled:disabled {
+    display: table;
+  }
+
+  .sm\:table\:focus:focus {
+    display: table;
+  }
+
+  .sm\:table\:hover:hover {
+    display: table;
+  }
+
+  .sm\:table\:required:required {
+    display: table;
+  }
+
+  .sm\:table\:visited:visited {
+    display: table;
+  }
+
+  .sm\:inline-table {
+    display: inline-table;
+  }
+
+  .sm\:inline-table\:active:active {
+    display: inline-table;
+  }
+
+  .sm\:inline-table\:checked:checked {
+    display: inline-table;
+  }
+
+  .sm\:inline-table\:disabled:disabled {
+    display: inline-table;
+  }
+
+  .sm\:inline-table\:focus:focus {
+    display: inline-table;
+  }
+
+  .sm\:inline-table\:hover:hover {
+    display: inline-table;
+  }
+
+  .sm\:inline-table\:required:required {
+    display: inline-table;
+  }
+
+  .sm\:inline-table\:visited:visited {
+    display: inline-table;
+  }
+
+  .sm\:table-caption {
+    display: table-caption;
+  }
+
+  .sm\:table-caption\:active:active {
+    display: table-caption;
+  }
+
+  .sm\:table-caption\:checked:checked {
+    display: table-caption;
+  }
+
+  .sm\:table-caption\:disabled:disabled {
+    display: table-caption;
+  }
+
+  .sm\:table-caption\:focus:focus {
+    display: table-caption;
+  }
+
+  .sm\:table-caption\:hover:hover {
+    display: table-caption;
+  }
+
+  .sm\:table-caption\:required:required {
+    display: table-caption;
+  }
+
+  .sm\:table-caption\:visited:visited {
+    display: table-caption;
+  }
+
+  .sm\:table-cell {
+    display: table-cell;
+  }
+
+  .sm\:table-cell\:active:active {
+    display: table-cell;
+  }
+
+  .sm\:table-cell\:checked:checked {
+    display: table-cell;
+  }
+
+  .sm\:table-cell\:disabled:disabled {
+    display: table-cell;
+  }
+
+  .sm\:table-cell\:focus:focus {
+    display: table-cell;
+  }
+
+  .sm\:table-cell\:hover:hover {
+    display: table-cell;
+  }
+
+  .sm\:table-cell\:required:required {
+    display: table-cell;
+  }
+
+  .sm\:table-cell\:visited:visited {
+    display: table-cell;
+  }
+
+  .sm\:table-column {
+    display: table-column;
+  }
+
+  .sm\:table-column\:active:active {
+    display: table-column;
+  }
+
+  .sm\:table-column\:checked:checked {
+    display: table-column;
+  }
+
+  .sm\:table-column\:disabled:disabled {
+    display: table-column;
+  }
+
+  .sm\:table-column\:focus:focus {
+    display: table-column;
+  }
+
+  .sm\:table-column\:hover:hover {
+    display: table-column;
+  }
+
+  .sm\:table-column\:required:required {
+    display: table-column;
+  }
+
+  .sm\:table-column\:visited:visited {
+    display: table-column;
+  }
+
+  .sm\:table-column-group {
+    display: table-column-group;
+  }
+
+  .sm\:table-column-group\:active:active {
+    display: table-column-group;
+  }
+
+  .sm\:table-column-group\:checked:checked {
+    display: table-column-group;
+  }
+
+  .sm\:table-column-group\:disabled:disabled {
+    display: table-column-group;
+  }
+
+  .sm\:table-column-group\:focus:focus {
+    display: table-column-group;
+  }
+
+  .sm\:table-column-group\:hover:hover {
+    display: table-column-group;
+  }
+
+  .sm\:table-column-group\:required:required {
+    display: table-column-group;
+  }
+
+  .sm\:table-column-group\:visited:visited {
+    display: table-column-group;
+  }
+
+  .sm\:table-footer-group {
+    display: table-footer-group;
+  }
+
+  .sm\:table-footer-group\:active:active {
+    display: table-footer-group;
+  }
+
+  .sm\:table-footer-group\:checked:checked {
+    display: table-footer-group;
+  }
+
+  .sm\:table-footer-group\:disabled:disabled {
+    display: table-footer-group;
+  }
+
+  .sm\:table-footer-group\:focus:focus {
+    display: table-footer-group;
+  }
+
+  .sm\:table-footer-group\:hover:hover {
+    display: table-footer-group;
+  }
+
+  .sm\:table-footer-group\:required:required {
+    display: table-footer-group;
+  }
+
+  .sm\:table-footer-group\:visited:visited {
+    display: table-footer-group;
+  }
+
+  .sm\:table-header-group {
+    display: table-header-group;
+  }
+
+  .sm\:table-header-group\:active:active {
+    display: table-header-group;
+  }
+
+  .sm\:table-header-group\:checked:checked {
+    display: table-header-group;
+  }
+
+  .sm\:table-header-group\:disabled:disabled {
+    display: table-header-group;
+  }
+
+  .sm\:table-header-group\:focus:focus {
+    display: table-header-group;
+  }
+
+  .sm\:table-header-group\:hover:hover {
+    display: table-header-group;
+  }
+
+  .sm\:table-header-group\:required:required {
+    display: table-header-group;
+  }
+
+  .sm\:table-header-group\:visited:visited {
+    display: table-header-group;
+  }
+
+  .sm\:table-row-group {
+    display: table-row-group;
+  }
+
+  .sm\:table-row-group\:active:active {
+    display: table-row-group;
+  }
+
+  .sm\:table-row-group\:checked:checked {
+    display: table-row-group;
+  }
+
+  .sm\:table-row-group\:disabled:disabled {
+    display: table-row-group;
+  }
+
+  .sm\:table-row-group\:focus:focus {
+    display: table-row-group;
+  }
+
+  .sm\:table-row-group\:hover:hover {
+    display: table-row-group;
+  }
+
+  .sm\:table-row-group\:required:required {
+    display: table-row-group;
+  }
+
+  .sm\:table-row-group\:visited:visited {
+    display: table-row-group;
+  }
+
+  .sm\:table-row {
+    display: table-row;
+  }
+
+  .sm\:table-row\:active:active {
+    display: table-row;
+  }
+
+  .sm\:table-row\:checked:checked {
+    display: table-row;
+  }
+
+  .sm\:table-row\:disabled:disabled {
+    display: table-row;
+  }
+
+  .sm\:table-row\:focus:focus {
+    display: table-row;
+  }
+
+  .sm\:table-row\:hover:hover {
+    display: table-row;
+  }
+
+  .sm\:table-row\:required:required {
+    display: table-row;
+  }
+
+  .sm\:table-row\:visited:visited {
+    display: table-row;
+  }
+
+  .sm\:flow-root {
+    display: flow-root;
+  }
+
+  .sm\:flow-root\:active:active {
+    display: flow-root;
+  }
+
+  .sm\:flow-root\:checked:checked {
+    display: flow-root;
+  }
+
+  .sm\:flow-root\:disabled:disabled {
+    display: flow-root;
+  }
+
+  .sm\:flow-root\:focus:focus {
+    display: flow-root;
+  }
+
+  .sm\:flow-root\:hover:hover {
+    display: flow-root;
+  }
+
+  .sm\:flow-root\:required:required {
+    display: flow-root;
+  }
+
+  .sm\:flow-root\:visited:visited {
+    display: flow-root;
+  }
+
+  .sm\:grid {
+    display: grid;
+  }
+
+  .sm\:grid\:active:active {
+    display: grid;
+  }
+
+  .sm\:grid\:checked:checked {
+    display: grid;
+  }
+
+  .sm\:grid\:disabled:disabled {
+    display: grid;
+  }
+
+  .sm\:grid\:focus:focus {
+    display: grid;
+  }
+
+  .sm\:grid\:hover:hover {
+    display: grid;
+  }
+
+  .sm\:grid\:required:required {
+    display: grid;
+  }
+
+  .sm\:grid\:visited:visited {
+    display: grid;
+  }
+
+  .sm\:inline-grid {
+    display: inline-grid;
+  }
+
+  .sm\:inline-grid\:active:active {
+    display: inline-grid;
+  }
+
+  .sm\:inline-grid\:checked:checked {
+    display: inline-grid;
+  }
+
+  .sm\:inline-grid\:disabled:disabled {
+    display: inline-grid;
+  }
+
+  .sm\:inline-grid\:focus:focus {
+    display: inline-grid;
+  }
+
+  .sm\:inline-grid\:hover:hover {
+    display: inline-grid;
+  }
+
+  .sm\:inline-grid\:required:required {
+    display: inline-grid;
+  }
+
+  .sm\:inline-grid\:visited:visited {
+    display: inline-grid;
+  }
+
+  .sm\:contents {
+    display: contents;
+  }
+
+  .sm\:contents\:active:active {
+    display: contents;
+  }
+
+  .sm\:contents\:checked:checked {
+    display: contents;
+  }
+
+  .sm\:contents\:disabled:disabled {
+    display: contents;
+  }
+
+  .sm\:contents\:focus:focus {
+    display: contents;
+  }
+
+  .sm\:contents\:hover:hover {
+    display: contents;
+  }
+
+  .sm\:contents\:required:required {
+    display: contents;
+  }
+
+  .sm\:contents\:visited:visited {
+    display: contents;
+  }
+
+  .sm\:list-item {
+    display: list-item;
+  }
+
+  .sm\:list-item\:active:active {
+    display: list-item;
+  }
+
+  .sm\:list-item\:checked:checked {
+    display: list-item;
+  }
+
+  .sm\:list-item\:disabled:disabled {
+    display: list-item;
+  }
+
+  .sm\:list-item\:focus:focus {
+    display: list-item;
+  }
+
+  .sm\:list-item\:hover:hover {
+    display: list-item;
+  }
+
+  .sm\:list-item\:required:required {
+    display: list-item;
+  }
+
+  .sm\:list-item\:visited:visited {
+    display: list-item;
+  }
+
+  .sm\:hidden {
+    display: none;
+  }
+
+  .sm\:hidden\:active:active {
+    display: none;
+  }
+
+  .sm\:hidden\:checked:checked {
+    display: none;
+  }
+
+  .sm\:hidden\:disabled:disabled {
+    display: none;
+  }
+
+  .sm\:hidden\:focus:focus {
+    display: none;
+  }
+
+  .sm\:hidden\:hover:hover {
+    display: none;
+  }
+
+  .sm\:hidden\:required:required {
+    display: none;
+  }
+
+  .sm\:hidden\:visited:visited {
+    display: none;
+  }
+}
+@media (min-width: 768px) and (max-width: 1023px) {
+  .md\:block {
+    display: block;
+  }
+
+  .md\:block\:active:active {
+    display: block;
+  }
+
+  .md\:block\:checked:checked {
+    display: block;
+  }
+
+  .md\:block\:disabled:disabled {
+    display: block;
+  }
+
+  .md\:block\:focus:focus {
+    display: block;
+  }
+
+  .md\:block\:hover:hover {
+    display: block;
+  }
+
+  .md\:block\:required:required {
+    display: block;
+  }
+
+  .md\:block\:visited:visited {
+    display: block;
+  }
+
+  .md\:inline-block {
+    display: inline-block;
+  }
+
+  .md\:inline-block\:active:active {
+    display: inline-block;
+  }
+
+  .md\:inline-block\:checked:checked {
+    display: inline-block;
+  }
+
+  .md\:inline-block\:disabled:disabled {
+    display: inline-block;
+  }
+
+  .md\:inline-block\:focus:focus {
+    display: inline-block;
+  }
+
+  .md\:inline-block\:hover:hover {
+    display: inline-block;
+  }
+
+  .md\:inline-block\:required:required {
+    display: inline-block;
+  }
+
+  .md\:inline-block\:visited:visited {
+    display: inline-block;
+  }
+
+  .md\:inline {
+    display: inline;
+  }
+
+  .md\:inline\:active:active {
+    display: inline;
+  }
+
+  .md\:inline\:checked:checked {
+    display: inline;
+  }
+
+  .md\:inline\:disabled:disabled {
+    display: inline;
+  }
+
+  .md\:inline\:focus:focus {
+    display: inline;
+  }
+
+  .md\:inline\:hover:hover {
+    display: inline;
+  }
+
+  .md\:inline\:required:required {
+    display: inline;
+  }
+
+  .md\:inline\:visited:visited {
+    display: inline;
+  }
+
+  .md\:flex {
+    display: flex;
+  }
+
+  .md\:flex\:active:active {
+    display: flex;
+  }
+
+  .md\:flex\:checked:checked {
+    display: flex;
+  }
+
+  .md\:flex\:disabled:disabled {
+    display: flex;
+  }
+
+  .md\:flex\:focus:focus {
+    display: flex;
+  }
+
+  .md\:flex\:hover:hover {
+    display: flex;
+  }
+
+  .md\:flex\:required:required {
+    display: flex;
+  }
+
+  .md\:flex\:visited:visited {
+    display: flex;
+  }
+
+  .md\:inline-flex {
+    display: inline-flex;
+  }
+
+  .md\:inline-flex\:active:active {
+    display: inline-flex;
+  }
+
+  .md\:inline-flex\:checked:checked {
+    display: inline-flex;
+  }
+
+  .md\:inline-flex\:disabled:disabled {
+    display: inline-flex;
+  }
+
+  .md\:inline-flex\:focus:focus {
+    display: inline-flex;
+  }
+
+  .md\:inline-flex\:hover:hover {
+    display: inline-flex;
+  }
+
+  .md\:inline-flex\:required:required {
+    display: inline-flex;
+  }
+
+  .md\:inline-flex\:visited:visited {
+    display: inline-flex;
+  }
+
+  .md\:table {
+    display: table;
+  }
+
+  .md\:table\:active:active {
+    display: table;
+  }
+
+  .md\:table\:checked:checked {
+    display: table;
+  }
+
+  .md\:table\:disabled:disabled {
+    display: table;
+  }
+
+  .md\:table\:focus:focus {
+    display: table;
+  }
+
+  .md\:table\:hover:hover {
+    display: table;
+  }
+
+  .md\:table\:required:required {
+    display: table;
+  }
+
+  .md\:table\:visited:visited {
+    display: table;
+  }
+
+  .md\:inline-table {
+    display: inline-table;
+  }
+
+  .md\:inline-table\:active:active {
+    display: inline-table;
+  }
+
+  .md\:inline-table\:checked:checked {
+    display: inline-table;
+  }
+
+  .md\:inline-table\:disabled:disabled {
+    display: inline-table;
+  }
+
+  .md\:inline-table\:focus:focus {
+    display: inline-table;
+  }
+
+  .md\:inline-table\:hover:hover {
+    display: inline-table;
+  }
+
+  .md\:inline-table\:required:required {
+    display: inline-table;
+  }
+
+  .md\:inline-table\:visited:visited {
+    display: inline-table;
+  }
+
+  .md\:table-caption {
+    display: table-caption;
+  }
+
+  .md\:table-caption\:active:active {
+    display: table-caption;
+  }
+
+  .md\:table-caption\:checked:checked {
+    display: table-caption;
+  }
+
+  .md\:table-caption\:disabled:disabled {
+    display: table-caption;
+  }
+
+  .md\:table-caption\:focus:focus {
+    display: table-caption;
+  }
+
+  .md\:table-caption\:hover:hover {
+    display: table-caption;
+  }
+
+  .md\:table-caption\:required:required {
+    display: table-caption;
+  }
+
+  .md\:table-caption\:visited:visited {
+    display: table-caption;
+  }
+
+  .md\:table-cell {
+    display: table-cell;
+  }
+
+  .md\:table-cell\:active:active {
+    display: table-cell;
+  }
+
+  .md\:table-cell\:checked:checked {
+    display: table-cell;
+  }
+
+  .md\:table-cell\:disabled:disabled {
+    display: table-cell;
+  }
+
+  .md\:table-cell\:focus:focus {
+    display: table-cell;
+  }
+
+  .md\:table-cell\:hover:hover {
+    display: table-cell;
+  }
+
+  .md\:table-cell\:required:required {
+    display: table-cell;
+  }
+
+  .md\:table-cell\:visited:visited {
+    display: table-cell;
+  }
+
+  .md\:table-column {
+    display: table-column;
+  }
+
+  .md\:table-column\:active:active {
+    display: table-column;
+  }
+
+  .md\:table-column\:checked:checked {
+    display: table-column;
+  }
+
+  .md\:table-column\:disabled:disabled {
+    display: table-column;
+  }
+
+  .md\:table-column\:focus:focus {
+    display: table-column;
+  }
+
+  .md\:table-column\:hover:hover {
+    display: table-column;
+  }
+
+  .md\:table-column\:required:required {
+    display: table-column;
+  }
+
+  .md\:table-column\:visited:visited {
+    display: table-column;
+  }
+
+  .md\:table-column-group {
+    display: table-column-group;
+  }
+
+  .md\:table-column-group\:active:active {
+    display: table-column-group;
+  }
+
+  .md\:table-column-group\:checked:checked {
+    display: table-column-group;
+  }
+
+  .md\:table-column-group\:disabled:disabled {
+    display: table-column-group;
+  }
+
+  .md\:table-column-group\:focus:focus {
+    display: table-column-group;
+  }
+
+  .md\:table-column-group\:hover:hover {
+    display: table-column-group;
+  }
+
+  .md\:table-column-group\:required:required {
+    display: table-column-group;
+  }
+
+  .md\:table-column-group\:visited:visited {
+    display: table-column-group;
+  }
+
+  .md\:table-footer-group {
+    display: table-footer-group;
+  }
+
+  .md\:table-footer-group\:active:active {
+    display: table-footer-group;
+  }
+
+  .md\:table-footer-group\:checked:checked {
+    display: table-footer-group;
+  }
+
+  .md\:table-footer-group\:disabled:disabled {
+    display: table-footer-group;
+  }
+
+  .md\:table-footer-group\:focus:focus {
+    display: table-footer-group;
+  }
+
+  .md\:table-footer-group\:hover:hover {
+    display: table-footer-group;
+  }
+
+  .md\:table-footer-group\:required:required {
+    display: table-footer-group;
+  }
+
+  .md\:table-footer-group\:visited:visited {
+    display: table-footer-group;
+  }
+
+  .md\:table-header-group {
+    display: table-header-group;
+  }
+
+  .md\:table-header-group\:active:active {
+    display: table-header-group;
+  }
+
+  .md\:table-header-group\:checked:checked {
+    display: table-header-group;
+  }
+
+  .md\:table-header-group\:disabled:disabled {
+    display: table-header-group;
+  }
+
+  .md\:table-header-group\:focus:focus {
+    display: table-header-group;
+  }
+
+  .md\:table-header-group\:hover:hover {
+    display: table-header-group;
+  }
+
+  .md\:table-header-group\:required:required {
+    display: table-header-group;
+  }
+
+  .md\:table-header-group\:visited:visited {
+    display: table-header-group;
+  }
+
+  .md\:table-row-group {
+    display: table-row-group;
+  }
+
+  .md\:table-row-group\:active:active {
+    display: table-row-group;
+  }
+
+  .md\:table-row-group\:checked:checked {
+    display: table-row-group;
+  }
+
+  .md\:table-row-group\:disabled:disabled {
+    display: table-row-group;
+  }
+
+  .md\:table-row-group\:focus:focus {
+    display: table-row-group;
+  }
+
+  .md\:table-row-group\:hover:hover {
+    display: table-row-group;
+  }
+
+  .md\:table-row-group\:required:required {
+    display: table-row-group;
+  }
+
+  .md\:table-row-group\:visited:visited {
+    display: table-row-group;
+  }
+
+  .md\:table-row {
+    display: table-row;
+  }
+
+  .md\:table-row\:active:active {
+    display: table-row;
+  }
+
+  .md\:table-row\:checked:checked {
+    display: table-row;
+  }
+
+  .md\:table-row\:disabled:disabled {
+    display: table-row;
+  }
+
+  .md\:table-row\:focus:focus {
+    display: table-row;
+  }
+
+  .md\:table-row\:hover:hover {
+    display: table-row;
+  }
+
+  .md\:table-row\:required:required {
+    display: table-row;
+  }
+
+  .md\:table-row\:visited:visited {
+    display: table-row;
+  }
+
+  .md\:flow-root {
+    display: flow-root;
+  }
+
+  .md\:flow-root\:active:active {
+    display: flow-root;
+  }
+
+  .md\:flow-root\:checked:checked {
+    display: flow-root;
+  }
+
+  .md\:flow-root\:disabled:disabled {
+    display: flow-root;
+  }
+
+  .md\:flow-root\:focus:focus {
+    display: flow-root;
+  }
+
+  .md\:flow-root\:hover:hover {
+    display: flow-root;
+  }
+
+  .md\:flow-root\:required:required {
+    display: flow-root;
+  }
+
+  .md\:flow-root\:visited:visited {
+    display: flow-root;
+  }
+
+  .md\:grid {
+    display: grid;
+  }
+
+  .md\:grid\:active:active {
+    display: grid;
+  }
+
+  .md\:grid\:checked:checked {
+    display: grid;
+  }
+
+  .md\:grid\:disabled:disabled {
+    display: grid;
+  }
+
+  .md\:grid\:focus:focus {
+    display: grid;
+  }
+
+  .md\:grid\:hover:hover {
+    display: grid;
+  }
+
+  .md\:grid\:required:required {
+    display: grid;
+  }
+
+  .md\:grid\:visited:visited {
+    display: grid;
+  }
+
+  .md\:inline-grid {
+    display: inline-grid;
+  }
+
+  .md\:inline-grid\:active:active {
+    display: inline-grid;
+  }
+
+  .md\:inline-grid\:checked:checked {
+    display: inline-grid;
+  }
+
+  .md\:inline-grid\:disabled:disabled {
+    display: inline-grid;
+  }
+
+  .md\:inline-grid\:focus:focus {
+    display: inline-grid;
+  }
+
+  .md\:inline-grid\:hover:hover {
+    display: inline-grid;
+  }
+
+  .md\:inline-grid\:required:required {
+    display: inline-grid;
+  }
+
+  .md\:inline-grid\:visited:visited {
+    display: inline-grid;
+  }
+
+  .md\:contents {
+    display: contents;
+  }
+
+  .md\:contents\:active:active {
+    display: contents;
+  }
+
+  .md\:contents\:checked:checked {
+    display: contents;
+  }
+
+  .md\:contents\:disabled:disabled {
+    display: contents;
+  }
+
+  .md\:contents\:focus:focus {
+    display: contents;
+  }
+
+  .md\:contents\:hover:hover {
+    display: contents;
+  }
+
+  .md\:contents\:required:required {
+    display: contents;
+  }
+
+  .md\:contents\:visited:visited {
+    display: contents;
+  }
+
+  .md\:list-item {
+    display: list-item;
+  }
+
+  .md\:list-item\:active:active {
+    display: list-item;
+  }
+
+  .md\:list-item\:checked:checked {
+    display: list-item;
+  }
+
+  .md\:list-item\:disabled:disabled {
+    display: list-item;
+  }
+
+  .md\:list-item\:focus:focus {
+    display: list-item;
+  }
+
+  .md\:list-item\:hover:hover {
+    display: list-item;
+  }
+
+  .md\:list-item\:required:required {
+    display: list-item;
+  }
+
+  .md\:list-item\:visited:visited {
+    display: list-item;
+  }
+
+  .md\:hidden {
+    display: none;
+  }
+
+  .md\:hidden\:active:active {
+    display: none;
+  }
+
+  .md\:hidden\:checked:checked {
+    display: none;
+  }
+
+  .md\:hidden\:disabled:disabled {
+    display: none;
+  }
+
+  .md\:hidden\:focus:focus {
+    display: none;
+  }
+
+  .md\:hidden\:hover:hover {
+    display: none;
+  }
+
+  .md\:hidden\:required:required {
+    display: none;
+  }
+
+  .md\:hidden\:visited:visited {
+    display: none;
+  }
+}
+@media (min-width: 1024px) and (max-width: 2000px) {
+  .lg\:block {
+    display: block;
+  }
+
+  .lg\:block\:active:active {
+    display: block;
+  }
+
+  .lg\:block\:checked:checked {
+    display: block;
+  }
+
+  .lg\:block\:disabled:disabled {
+    display: block;
+  }
+
+  .lg\:block\:focus:focus {
+    display: block;
+  }
+
+  .lg\:block\:hover:hover {
+    display: block;
+  }
+
+  .lg\:block\:required:required {
+    display: block;
+  }
+
+  .lg\:block\:visited:visited {
+    display: block;
+  }
+
+  .lg\:inline-block {
+    display: inline-block;
+  }
+
+  .lg\:inline-block\:active:active {
+    display: inline-block;
+  }
+
+  .lg\:inline-block\:checked:checked {
+    display: inline-block;
+  }
+
+  .lg\:inline-block\:disabled:disabled {
+    display: inline-block;
+  }
+
+  .lg\:inline-block\:focus:focus {
+    display: inline-block;
+  }
+
+  .lg\:inline-block\:hover:hover {
+    display: inline-block;
+  }
+
+  .lg\:inline-block\:required:required {
+    display: inline-block;
+  }
+
+  .lg\:inline-block\:visited:visited {
+    display: inline-block;
+  }
+
+  .lg\:inline {
+    display: inline;
+  }
+
+  .lg\:inline\:active:active {
+    display: inline;
+  }
+
+  .lg\:inline\:checked:checked {
+    display: inline;
+  }
+
+  .lg\:inline\:disabled:disabled {
+    display: inline;
+  }
+
+  .lg\:inline\:focus:focus {
+    display: inline;
+  }
+
+  .lg\:inline\:hover:hover {
+    display: inline;
+  }
+
+  .lg\:inline\:required:required {
+    display: inline;
+  }
+
+  .lg\:inline\:visited:visited {
+    display: inline;
+  }
+
+  .lg\:flex {
+    display: flex;
+  }
+
+  .lg\:flex\:active:active {
+    display: flex;
+  }
+
+  .lg\:flex\:checked:checked {
+    display: flex;
+  }
+
+  .lg\:flex\:disabled:disabled {
+    display: flex;
+  }
+
+  .lg\:flex\:focus:focus {
+    display: flex;
+  }
+
+  .lg\:flex\:hover:hover {
+    display: flex;
+  }
+
+  .lg\:flex\:required:required {
+    display: flex;
+  }
+
+  .lg\:flex\:visited:visited {
+    display: flex;
+  }
+
+  .lg\:inline-flex {
+    display: inline-flex;
+  }
+
+  .lg\:inline-flex\:active:active {
+    display: inline-flex;
+  }
+
+  .lg\:inline-flex\:checked:checked {
+    display: inline-flex;
+  }
+
+  .lg\:inline-flex\:disabled:disabled {
+    display: inline-flex;
+  }
+
+  .lg\:inline-flex\:focus:focus {
+    display: inline-flex;
+  }
+
+  .lg\:inline-flex\:hover:hover {
+    display: inline-flex;
+  }
+
+  .lg\:inline-flex\:required:required {
+    display: inline-flex;
+  }
+
+  .lg\:inline-flex\:visited:visited {
+    display: inline-flex;
+  }
+
+  .lg\:table {
+    display: table;
+  }
+
+  .lg\:table\:active:active {
+    display: table;
+  }
+
+  .lg\:table\:checked:checked {
+    display: table;
+  }
+
+  .lg\:table\:disabled:disabled {
+    display: table;
+  }
+
+  .lg\:table\:focus:focus {
+    display: table;
+  }
+
+  .lg\:table\:hover:hover {
+    display: table;
+  }
+
+  .lg\:table\:required:required {
+    display: table;
+  }
+
+  .lg\:table\:visited:visited {
+    display: table;
+  }
+
+  .lg\:inline-table {
+    display: inline-table;
+  }
+
+  .lg\:inline-table\:active:active {
+    display: inline-table;
+  }
+
+  .lg\:inline-table\:checked:checked {
+    display: inline-table;
+  }
+
+  .lg\:inline-table\:disabled:disabled {
+    display: inline-table;
+  }
+
+  .lg\:inline-table\:focus:focus {
+    display: inline-table;
+  }
+
+  .lg\:inline-table\:hover:hover {
+    display: inline-table;
+  }
+
+  .lg\:inline-table\:required:required {
+    display: inline-table;
+  }
+
+  .lg\:inline-table\:visited:visited {
+    display: inline-table;
+  }
+
+  .lg\:table-caption {
+    display: table-caption;
+  }
+
+  .lg\:table-caption\:active:active {
+    display: table-caption;
+  }
+
+  .lg\:table-caption\:checked:checked {
+    display: table-caption;
+  }
+
+  .lg\:table-caption\:disabled:disabled {
+    display: table-caption;
+  }
+
+  .lg\:table-caption\:focus:focus {
+    display: table-caption;
+  }
+
+  .lg\:table-caption\:hover:hover {
+    display: table-caption;
+  }
+
+  .lg\:table-caption\:required:required {
+    display: table-caption;
+  }
+
+  .lg\:table-caption\:visited:visited {
+    display: table-caption;
+  }
+
+  .lg\:table-cell {
+    display: table-cell;
+  }
+
+  .lg\:table-cell\:active:active {
+    display: table-cell;
+  }
+
+  .lg\:table-cell\:checked:checked {
+    display: table-cell;
+  }
+
+  .lg\:table-cell\:disabled:disabled {
+    display: table-cell;
+  }
+
+  .lg\:table-cell\:focus:focus {
+    display: table-cell;
+  }
+
+  .lg\:table-cell\:hover:hover {
+    display: table-cell;
+  }
+
+  .lg\:table-cell\:required:required {
+    display: table-cell;
+  }
+
+  .lg\:table-cell\:visited:visited {
+    display: table-cell;
+  }
+
+  .lg\:table-column {
+    display: table-column;
+  }
+
+  .lg\:table-column\:active:active {
+    display: table-column;
+  }
+
+  .lg\:table-column\:checked:checked {
+    display: table-column;
+  }
+
+  .lg\:table-column\:disabled:disabled {
+    display: table-column;
+  }
+
+  .lg\:table-column\:focus:focus {
+    display: table-column;
+  }
+
+  .lg\:table-column\:hover:hover {
+    display: table-column;
+  }
+
+  .lg\:table-column\:required:required {
+    display: table-column;
+  }
+
+  .lg\:table-column\:visited:visited {
+    display: table-column;
+  }
+
+  .lg\:table-column-group {
+    display: table-column-group;
+  }
+
+  .lg\:table-column-group\:active:active {
+    display: table-column-group;
+  }
+
+  .lg\:table-column-group\:checked:checked {
+    display: table-column-group;
+  }
+
+  .lg\:table-column-group\:disabled:disabled {
+    display: table-column-group;
+  }
+
+  .lg\:table-column-group\:focus:focus {
+    display: table-column-group;
+  }
+
+  .lg\:table-column-group\:hover:hover {
+    display: table-column-group;
+  }
+
+  .lg\:table-column-group\:required:required {
+    display: table-column-group;
+  }
+
+  .lg\:table-column-group\:visited:visited {
+    display: table-column-group;
+  }
+
+  .lg\:table-footer-group {
+    display: table-footer-group;
+  }
+
+  .lg\:table-footer-group\:active:active {
+    display: table-footer-group;
+  }
+
+  .lg\:table-footer-group\:checked:checked {
+    display: table-footer-group;
+  }
+
+  .lg\:table-footer-group\:disabled:disabled {
+    display: table-footer-group;
+  }
+
+  .lg\:table-footer-group\:focus:focus {
+    display: table-footer-group;
+  }
+
+  .lg\:table-footer-group\:hover:hover {
+    display: table-footer-group;
+  }
+
+  .lg\:table-footer-group\:required:required {
+    display: table-footer-group;
+  }
+
+  .lg\:table-footer-group\:visited:visited {
+    display: table-footer-group;
+  }
+
+  .lg\:table-header-group {
+    display: table-header-group;
+  }
+
+  .lg\:table-header-group\:active:active {
+    display: table-header-group;
+  }
+
+  .lg\:table-header-group\:checked:checked {
+    display: table-header-group;
+  }
+
+  .lg\:table-header-group\:disabled:disabled {
+    display: table-header-group;
+  }
+
+  .lg\:table-header-group\:focus:focus {
+    display: table-header-group;
+  }
+
+  .lg\:table-header-group\:hover:hover {
+    display: table-header-group;
+  }
+
+  .lg\:table-header-group\:required:required {
+    display: table-header-group;
+  }
+
+  .lg\:table-header-group\:visited:visited {
+    display: table-header-group;
+  }
+
+  .lg\:table-row-group {
+    display: table-row-group;
+  }
+
+  .lg\:table-row-group\:active:active {
+    display: table-row-group;
+  }
+
+  .lg\:table-row-group\:checked:checked {
+    display: table-row-group;
+  }
+
+  .lg\:table-row-group\:disabled:disabled {
+    display: table-row-group;
+  }
+
+  .lg\:table-row-group\:focus:focus {
+    display: table-row-group;
+  }
+
+  .lg\:table-row-group\:hover:hover {
+    display: table-row-group;
+  }
+
+  .lg\:table-row-group\:required:required {
+    display: table-row-group;
+  }
+
+  .lg\:table-row-group\:visited:visited {
+    display: table-row-group;
+  }
+
+  .lg\:table-row {
+    display: table-row;
+  }
+
+  .lg\:table-row\:active:active {
+    display: table-row;
+  }
+
+  .lg\:table-row\:checked:checked {
+    display: table-row;
+  }
+
+  .lg\:table-row\:disabled:disabled {
+    display: table-row;
+  }
+
+  .lg\:table-row\:focus:focus {
+    display: table-row;
+  }
+
+  .lg\:table-row\:hover:hover {
+    display: table-row;
+  }
+
+  .lg\:table-row\:required:required {
+    display: table-row;
+  }
+
+  .lg\:table-row\:visited:visited {
+    display: table-row;
+  }
+
+  .lg\:flow-root {
+    display: flow-root;
+  }
+
+  .lg\:flow-root\:active:active {
+    display: flow-root;
+  }
+
+  .lg\:flow-root\:checked:checked {
+    display: flow-root;
+  }
+
+  .lg\:flow-root\:disabled:disabled {
+    display: flow-root;
+  }
+
+  .lg\:flow-root\:focus:focus {
+    display: flow-root;
+  }
+
+  .lg\:flow-root\:hover:hover {
+    display: flow-root;
+  }
+
+  .lg\:flow-root\:required:required {
+    display: flow-root;
+  }
+
+  .lg\:flow-root\:visited:visited {
+    display: flow-root;
+  }
+
+  .lg\:grid {
+    display: grid;
+  }
+
+  .lg\:grid\:active:active {
+    display: grid;
+  }
+
+  .lg\:grid\:checked:checked {
+    display: grid;
+  }
+
+  .lg\:grid\:disabled:disabled {
+    display: grid;
+  }
+
+  .lg\:grid\:focus:focus {
+    display: grid;
+  }
+
+  .lg\:grid\:hover:hover {
+    display: grid;
+  }
+
+  .lg\:grid\:required:required {
+    display: grid;
+  }
+
+  .lg\:grid\:visited:visited {
+    display: grid;
+  }
+
+  .lg\:inline-grid {
+    display: inline-grid;
+  }
+
+  .lg\:inline-grid\:active:active {
+    display: inline-grid;
+  }
+
+  .lg\:inline-grid\:checked:checked {
+    display: inline-grid;
+  }
+
+  .lg\:inline-grid\:disabled:disabled {
+    display: inline-grid;
+  }
+
+  .lg\:inline-grid\:focus:focus {
+    display: inline-grid;
+  }
+
+  .lg\:inline-grid\:hover:hover {
+    display: inline-grid;
+  }
+
+  .lg\:inline-grid\:required:required {
+    display: inline-grid;
+  }
+
+  .lg\:inline-grid\:visited:visited {
+    display: inline-grid;
+  }
+
+  .lg\:contents {
+    display: contents;
+  }
+
+  .lg\:contents\:active:active {
+    display: contents;
+  }
+
+  .lg\:contents\:checked:checked {
+    display: contents;
+  }
+
+  .lg\:contents\:disabled:disabled {
+    display: contents;
+  }
+
+  .lg\:contents\:focus:focus {
+    display: contents;
+  }
+
+  .lg\:contents\:hover:hover {
+    display: contents;
+  }
+
+  .lg\:contents\:required:required {
+    display: contents;
+  }
+
+  .lg\:contents\:visited:visited {
+    display: contents;
+  }
+
+  .lg\:list-item {
+    display: list-item;
+  }
+
+  .lg\:list-item\:active:active {
+    display: list-item;
+  }
+
+  .lg\:list-item\:checked:checked {
+    display: list-item;
+  }
+
+  .lg\:list-item\:disabled:disabled {
+    display: list-item;
+  }
+
+  .lg\:list-item\:focus:focus {
+    display: list-item;
+  }
+
+  .lg\:list-item\:hover:hover {
+    display: list-item;
+  }
+
+  .lg\:list-item\:required:required {
+    display: list-item;
+  }
+
+  .lg\:list-item\:visited:visited {
+    display: list-item;
+  }
+
+  .lg\:hidden {
+    display: none;
+  }
+
+  .lg\:hidden\:active:active {
+    display: none;
+  }
+
+  .lg\:hidden\:checked:checked {
+    display: none;
+  }
+
+  .lg\:hidden\:disabled:disabled {
+    display: none;
+  }
+
+  .lg\:hidden\:focus:focus {
+    display: none;
+  }
+
+  .lg\:hidden\:hover:hover {
+    display: none;
+  }
+
+  .lg\:hidden\:required:required {
+    display: none;
+  }
+
+  .lg\:hidden\:visited:visited {
+    display: none;
+  }
+}

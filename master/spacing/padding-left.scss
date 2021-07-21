@@ -1,0 +1,26 @@
+@import "../screen.scss";
+@import "../state.scss";
+@each $key, $value in (pl-0:'0px',pl-0\.5:'0.125rem',pl-1:'0.25rem',pl-1\.5:'0.375rem',pl-2:'0.5rem',pl-2\.5:'0.625rem',pl-3:'0.75rem',pl-3\.5:'0.875rem',pl-4:'1rem',pl-5:'1.25rem',pl-6:'1.5rem',pl-7:'1.75rem',pl-8:'2rem',pl-9:'2.25rem',pl-10:'2.5rem',pl-11:'2.75rem',pl-12:'3rem',pl-14:'3.5rem',pl-16:'4rem',pl-20:'5rem',pl-24:'6rem',pl-28:'7rem',pl-32:'8rem',pl-36:'9rem',pl-40:'10rem',pl-44:'11rem',pl-48:'12rem',pl-52:'13rem',pl-56:'14rem',pl-60:'15rem',pl-64:'16rem',pl-72:'18rem',pl-80:'20rem',pl-96:'24rem',pl-px:'1px'){
+	.#{$key}{
+		padding-left:#{$value};
+	}
+ @each $valueState in $state{
+	.#{$key}\:#{$valueState}:#{$valueState}{
+		padding-left:#{$value};
+	}
+ }
+};
+@each $sizeScreen, $pixel in $screen{
+	@media (min-width: #{map-get($pixel,min)}#{px}) and (max-width: #{map-get($pixel,max)}#{px}){
+		@each $key, $value in (pl-0:'0px',pl-0\.5:'0.125rem',pl-1:'0.25rem',pl-1\.5:'0.375rem',pl-2:'0.5rem',pl-2\.5:'0.625rem',pl-3:'0.75rem',pl-3\.5:'0.875rem',pl-4:'1rem',pl-5:'1.25rem',pl-6:'1.5rem',pl-7:'1.75rem',pl-8:'2rem',pl-9:'2.25rem',pl-10:'2.5rem',pl-11:'2.75rem',pl-12:'3rem',pl-14:'3.5rem',pl-16:'4rem',pl-20:'5rem',pl-24:'6rem',pl-28:'7rem',pl-32:'8rem',pl-36:'9rem',pl-40:'10rem',pl-44:'11rem',pl-48:'12rem',pl-52:'13rem',pl-56:'14rem',pl-60:'15rem',pl-64:'16rem',pl-72:'18rem',pl-80:'20rem',pl-96:'24rem',pl-px:'1px'){
+			.#{$sizeScreen}\:#{$key}{
+				padding-left:#{$value};
+			}
+      @each $valueState in $state{
+	     .#{$sizeScreen}\:#{$key}\:#{$valueState}:#{$valueState}{
+		     padding-left:#{$value};
+	     }
+      }
+		}
+	}
+}

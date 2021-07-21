@@ -1,0 +1,26 @@
+@import "../screen.scss";
+@import "../state.scss";
+@each $key, $value in (ml-0:'0px',ml-0\.5:'0.125rem',ml-1:'0.25rem',ml-1\.5:'0.375rem',ml-2:'0.5rem',ml-2\.5:'0.625rem',ml-3:'0.75rem',ml-3\.5:'0.875rem',ml-4:'1rem',ml-5:'1.25rem',ml-6:'1.5rem',ml-7:'1.75rem',ml-8:'2rem',ml-9:'2.25rem',ml-10:'2.5rem',ml-11:'2.75rem',ml-12:'3rem',ml-14:'3.5rem',ml-16:'4rem',ml-20:'5rem',ml-24:'6rem',ml-28:'7rem',ml-32:'8rem',ml-36:'9rem',ml-40:'10rem',ml-44:'11rem',ml-48:'12rem',ml-52:'13rem',ml-56:'14rem',ml-60:'15rem',ml-64:'16rem',ml-72:'18rem',ml-80:'20rem',ml-96:'24rem',ml-auto:'auto'){
+	.#{$key}{
+		margin-left:#{$value};
+	}
+ @each $valueState in $state{
+	.#{$key}\:#{$valueState}:#{$valueState}{
+		margin-left:#{$value};
+	}
+ }
+};
+@each $sizeScreen, $pixel in $screen{
+	@media (min-width: #{map-get($pixel,min)}#{px}) and (max-width: #{map-get($pixel,max)}#{px}){
+		@each $key, $value in (ml-0:'0px',ml-0\.5:'0.125rem',ml-1:'0.25rem',ml-1\.5:'0.375rem',ml-2:'0.5rem',ml-2\.5:'0.625rem',ml-3:'0.75rem',ml-3\.5:'0.875rem',ml-4:'1rem',ml-5:'1.25rem',ml-6:'1.5rem',ml-7:'1.75rem',ml-8:'2rem',ml-9:'2.25rem',ml-10:'2.5rem',ml-11:'2.75rem',ml-12:'3rem',ml-14:'3.5rem',ml-16:'4rem',ml-20:'5rem',ml-24:'6rem',ml-28:'7rem',ml-32:'8rem',ml-36:'9rem',ml-40:'10rem',ml-44:'11rem',ml-48:'12rem',ml-52:'13rem',ml-56:'14rem',ml-60:'15rem',ml-64:'16rem',ml-72:'18rem',ml-80:'20rem',ml-96:'24rem',ml-auto:'auto'){
+			.#{$sizeScreen}\:#{$key}{
+				margin-left:#{$value};
+			}
+      @each $valueState in $state{
+	     .#{$sizeScreen}\:#{$key}\:#{$valueState}:#{$valueState}{
+		     margin-left:#{$value};
+	     }
+      }
+		}
+	}
+}

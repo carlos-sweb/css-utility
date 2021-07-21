@@ -1,0 +1,26 @@
+@import "../screen.scss";
+@import "../state.scss";
+@each $key, $value in (rounded-tr-none:'0px',rounded-tr-sm:'0.125rem',rounded-tr:'0.25rem',rounded-tr-md:'0.375rem',rounded-tr-lg:'0.5rem',rounded-tr-xl:'0.75rem',rounded-tr-2xl:'1rem',rounded-tr-3xl:'1.5rem',rounded-tr-full:'9999px'){
+	.#{$key}{
+		border-top-right-radius:#{$value};
+	}
+ @each $valueState in $state{
+	.#{$key}\:#{$valueState}:#{$valueState}{
+		border-top-right-radius:#{$value};
+	}
+ }
+};
+@each $sizeScreen, $pixel in $screen{
+	@media (min-width: #{map-get($pixel,min)}#{px}) and (max-width: #{map-get($pixel,max)}#{px}){
+		@each $key, $value in (rounded-tr-none:'0px',rounded-tr-sm:'0.125rem',rounded-tr:'0.25rem',rounded-tr-md:'0.375rem',rounded-tr-lg:'0.5rem',rounded-tr-xl:'0.75rem',rounded-tr-2xl:'1rem',rounded-tr-3xl:'1.5rem',rounded-tr-full:'9999px'){
+			.#{$sizeScreen}\:#{$key}{
+				border-top-right-radius:#{$value};
+			}
+      @each $valueState in $state{
+	     .#{$sizeScreen}\:#{$key}\:#{$valueState}:#{$valueState}{
+		     border-top-right-radius:#{$value};
+	     }
+      }
+		}
+	}
+}

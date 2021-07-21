@@ -1,0 +1,1444 @@
+.font-thin {
+  font-weight: 100;
+}
+
+.font-thin\:active:active {
+  font-weight: 100;
+}
+
+.font-thin\:checked:checked {
+  font-weight: 100;
+}
+
+.font-thin\:disabled:disabled {
+  font-weight: 100;
+}
+
+.font-thin\:focus:focus {
+  font-weight: 100;
+}
+
+.font-thin\:hover:hover {
+  font-weight: 100;
+}
+
+.font-thin\:required:required {
+  font-weight: 100;
+}
+
+.font-thin\:visited:visited {
+  font-weight: 100;
+}
+
+.font-extralight {
+  font-weight: 200;
+}
+
+.font-extralight\:active:active {
+  font-weight: 200;
+}
+
+.font-extralight\:checked:checked {
+  font-weight: 200;
+}
+
+.font-extralight\:disabled:disabled {
+  font-weight: 200;
+}
+
+.font-extralight\:focus:focus {
+  font-weight: 200;
+}
+
+.font-extralight\:hover:hover {
+  font-weight: 200;
+}
+
+.font-extralight\:required:required {
+  font-weight: 200;
+}
+
+.font-extralight\:visited:visited {
+  font-weight: 200;
+}
+
+.font-light {
+  font-weight: 300;
+}
+
+.font-light\:active:active {
+  font-weight: 300;
+}
+
+.font-light\:checked:checked {
+  font-weight: 300;
+}
+
+.font-light\:disabled:disabled {
+  font-weight: 300;
+}
+
+.font-light\:focus:focus {
+  font-weight: 300;
+}
+
+.font-light\:hover:hover {
+  font-weight: 300;
+}
+
+.font-light\:required:required {
+  font-weight: 300;
+}
+
+.font-light\:visited:visited {
+  font-weight: 300;
+}
+
+.font-normal {
+  font-weight: 400;
+}
+
+.font-normal\:active:active {
+  font-weight: 400;
+}
+
+.font-normal\:checked:checked {
+  font-weight: 400;
+}
+
+.font-normal\:disabled:disabled {
+  font-weight: 400;
+}
+
+.font-normal\:focus:focus {
+  font-weight: 400;
+}
+
+.font-normal\:hover:hover {
+  font-weight: 400;
+}
+
+.font-normal\:required:required {
+  font-weight: 400;
+}
+
+.font-normal\:visited:visited {
+  font-weight: 400;
+}
+
+.font-medium {
+  font-weight: 500;
+}
+
+.font-medium\:active:active {
+  font-weight: 500;
+}
+
+.font-medium\:checked:checked {
+  font-weight: 500;
+}
+
+.font-medium\:disabled:disabled {
+  font-weight: 500;
+}
+
+.font-medium\:focus:focus {
+  font-weight: 500;
+}
+
+.font-medium\:hover:hover {
+  font-weight: 500;
+}
+
+.font-medium\:required:required {
+  font-weight: 500;
+}
+
+.font-medium\:visited:visited {
+  font-weight: 500;
+}
+
+.font-tsemiboldhin {
+  font-weight: 600;
+}
+
+.font-tsemiboldhin\:active:active {
+  font-weight: 600;
+}
+
+.font-tsemiboldhin\:checked:checked {
+  font-weight: 600;
+}
+
+.font-tsemiboldhin\:disabled:disabled {
+  font-weight: 600;
+}
+
+.font-tsemiboldhin\:focus:focus {
+  font-weight: 600;
+}
+
+.font-tsemiboldhin\:hover:hover {
+  font-weight: 600;
+}
+
+.font-tsemiboldhin\:required:required {
+  font-weight: 600;
+}
+
+.font-tsemiboldhin\:visited:visited {
+  font-weight: 600;
+}
+
+.font-bold {
+  font-weight: 700;
+}
+
+.font-bold\:active:active {
+  font-weight: 700;
+}
+
+.font-bold\:checked:checked {
+  font-weight: 700;
+}
+
+.font-bold\:disabled:disabled {
+  font-weight: 700;
+}
+
+.font-bold\:focus:focus {
+  font-weight: 700;
+}
+
+.font-bold\:hover:hover {
+  font-weight: 700;
+}
+
+.font-bold\:required:required {
+  font-weight: 700;
+}
+
+.font-bold\:visited:visited {
+  font-weight: 700;
+}
+
+.font-extrabold {
+  font-weight: 800;
+}
+
+.font-extrabold\:active:active {
+  font-weight: 800;
+}
+
+.font-extrabold\:checked:checked {
+  font-weight: 800;
+}
+
+.font-extrabold\:disabled:disabled {
+  font-weight: 800;
+}
+
+.font-extrabold\:focus:focus {
+  font-weight: 800;
+}
+
+.font-extrabold\:hover:hover {
+  font-weight: 800;
+}
+
+.font-extrabold\:required:required {
+  font-weight: 800;
+}
+
+.font-extrabold\:visited:visited {
+  font-weight: 800;
+}
+
+.font-black {
+  font-weight: 900;
+}
+
+.font-black\:active:active {
+  font-weight: 900;
+}
+
+.font-black\:checked:checked {
+  font-weight: 900;
+}
+
+.font-black\:disabled:disabled {
+  font-weight: 900;
+}
+
+.font-black\:focus:focus {
+  font-weight: 900;
+}
+
+.font-black\:hover:hover {
+  font-weight: 900;
+}
+
+.font-black\:required:required {
+  font-weight: 900;
+}
+
+.font-black\:visited:visited {
+  font-weight: 900;
+}
+
+@media (min-width: 0px) and (max-width: 639px) {
+  .xs\:font-thin {
+    font-weight: 100;
+  }
+
+  .xs\:font-thin\:active:active {
+    font-weight: 100;
+  }
+
+  .xs\:font-thin\:checked:checked {
+    font-weight: 100;
+  }
+
+  .xs\:font-thin\:disabled:disabled {
+    font-weight: 100;
+  }
+
+  .xs\:font-thin\:focus:focus {
+    font-weight: 100;
+  }
+
+  .xs\:font-thin\:hover:hover {
+    font-weight: 100;
+  }
+
+  .xs\:font-thin\:required:required {
+    font-weight: 100;
+  }
+
+  .xs\:font-thin\:visited:visited {
+    font-weight: 100;
+  }
+
+  .xs\:font-extralight {
+    font-weight: 200;
+  }
+
+  .xs\:font-extralight\:active:active {
+    font-weight: 200;
+  }
+
+  .xs\:font-extralight\:checked:checked {
+    font-weight: 200;
+  }
+
+  .xs\:font-extralight\:disabled:disabled {
+    font-weight: 200;
+  }
+
+  .xs\:font-extralight\:focus:focus {
+    font-weight: 200;
+  }
+
+  .xs\:font-extralight\:hover:hover {
+    font-weight: 200;
+  }
+
+  .xs\:font-extralight\:required:required {
+    font-weight: 200;
+  }
+
+  .xs\:font-extralight\:visited:visited {
+    font-weight: 200;
+  }
+
+  .xs\:font-light {
+    font-weight: 300;
+  }
+
+  .xs\:font-light\:active:active {
+    font-weight: 300;
+  }
+
+  .xs\:font-light\:checked:checked {
+    font-weight: 300;
+  }
+
+  .xs\:font-light\:disabled:disabled {
+    font-weight: 300;
+  }
+
+  .xs\:font-light\:focus:focus {
+    font-weight: 300;
+  }
+
+  .xs\:font-light\:hover:hover {
+    font-weight: 300;
+  }
+
+  .xs\:font-light\:required:required {
+    font-weight: 300;
+  }
+
+  .xs\:font-light\:visited:visited {
+    font-weight: 300;
+  }
+
+  .xs\:font-normal {
+    font-weight: 400;
+  }
+
+  .xs\:font-normal\:active:active {
+    font-weight: 400;
+  }
+
+  .xs\:font-normal\:checked:checked {
+    font-weight: 400;
+  }
+
+  .xs\:font-normal\:disabled:disabled {
+    font-weight: 400;
+  }
+
+  .xs\:font-normal\:focus:focus {
+    font-weight: 400;
+  }
+
+  .xs\:font-normal\:hover:hover {
+    font-weight: 400;
+  }
+
+  .xs\:font-normal\:required:required {
+    font-weight: 400;
+  }
+
+  .xs\:font-normal\:visited:visited {
+    font-weight: 400;
+  }
+
+  .xs\:font-medium {
+    font-weight: 500;
+  }
+
+  .xs\:font-medium\:active:active {
+    font-weight: 500;
+  }
+
+  .xs\:font-medium\:checked:checked {
+    font-weight: 500;
+  }
+
+  .xs\:font-medium\:disabled:disabled {
+    font-weight: 500;
+  }
+
+  .xs\:font-medium\:focus:focus {
+    font-weight: 500;
+  }
+
+  .xs\:font-medium\:hover:hover {
+    font-weight: 500;
+  }
+
+  .xs\:font-medium\:required:required {
+    font-weight: 500;
+  }
+
+  .xs\:font-medium\:visited:visited {
+    font-weight: 500;
+  }
+
+  .xs\:font-tsemiboldhin {
+    font-weight: 600;
+  }
+
+  .xs\:font-tsemiboldhin\:active:active {
+    font-weight: 600;
+  }
+
+  .xs\:font-tsemiboldhin\:checked:checked {
+    font-weight: 600;
+  }
+
+  .xs\:font-tsemiboldhin\:disabled:disabled {
+    font-weight: 600;
+  }
+
+  .xs\:font-tsemiboldhin\:focus:focus {
+    font-weight: 600;
+  }
+
+  .xs\:font-tsemiboldhin\:hover:hover {
+    font-weight: 600;
+  }
+
+  .xs\:font-tsemiboldhin\:required:required {
+    font-weight: 600;
+  }
+
+  .xs\:font-tsemiboldhin\:visited:visited {
+    font-weight: 600;
+  }
+
+  .xs\:font-bold {
+    font-weight: 700;
+  }
+
+  .xs\:font-bold\:active:active {
+    font-weight: 700;
+  }
+
+  .xs\:font-bold\:checked:checked {
+    font-weight: 700;
+  }
+
+  .xs\:font-bold\:disabled:disabled {
+    font-weight: 700;
+  }
+
+  .xs\:font-bold\:focus:focus {
+    font-weight: 700;
+  }
+
+  .xs\:font-bold\:hover:hover {
+    font-weight: 700;
+  }
+
+  .xs\:font-bold\:required:required {
+    font-weight: 700;
+  }
+
+  .xs\:font-bold\:visited:visited {
+    font-weight: 700;
+  }
+
+  .xs\:font-extrabold {
+    font-weight: 800;
+  }
+
+  .xs\:font-extrabold\:active:active {
+    font-weight: 800;
+  }
+
+  .xs\:font-extrabold\:checked:checked {
+    font-weight: 800;
+  }
+
+  .xs\:font-extrabold\:disabled:disabled {
+    font-weight: 800;
+  }
+
+  .xs\:font-extrabold\:focus:focus {
+    font-weight: 800;
+  }
+
+  .xs\:font-extrabold\:hover:hover {
+    font-weight: 800;
+  }
+
+  .xs\:font-extrabold\:required:required {
+    font-weight: 800;
+  }
+
+  .xs\:font-extrabold\:visited:visited {
+    font-weight: 800;
+  }
+
+  .xs\:font-black {
+    font-weight: 900;
+  }
+
+  .xs\:font-black\:active:active {
+    font-weight: 900;
+  }
+
+  .xs\:font-black\:checked:checked {
+    font-weight: 900;
+  }
+
+  .xs\:font-black\:disabled:disabled {
+    font-weight: 900;
+  }
+
+  .xs\:font-black\:focus:focus {
+    font-weight: 900;
+  }
+
+  .xs\:font-black\:hover:hover {
+    font-weight: 900;
+  }
+
+  .xs\:font-black\:required:required {
+    font-weight: 900;
+  }
+
+  .xs\:font-black\:visited:visited {
+    font-weight: 900;
+  }
+}
+@media (min-width: 640px) and (max-width: 767px) {
+  .sm\:font-thin {
+    font-weight: 100;
+  }
+
+  .sm\:font-thin\:active:active {
+    font-weight: 100;
+  }
+
+  .sm\:font-thin\:checked:checked {
+    font-weight: 100;
+  }
+
+  .sm\:font-thin\:disabled:disabled {
+    font-weight: 100;
+  }
+
+  .sm\:font-thin\:focus:focus {
+    font-weight: 100;
+  }
+
+  .sm\:font-thin\:hover:hover {
+    font-weight: 100;
+  }
+
+  .sm\:font-thin\:required:required {
+    font-weight: 100;
+  }
+
+  .sm\:font-thin\:visited:visited {
+    font-weight: 100;
+  }
+
+  .sm\:font-extralight {
+    font-weight: 200;
+  }
+
+  .sm\:font-extralight\:active:active {
+    font-weight: 200;
+  }
+
+  .sm\:font-extralight\:checked:checked {
+    font-weight: 200;
+  }
+
+  .sm\:font-extralight\:disabled:disabled {
+    font-weight: 200;
+  }
+
+  .sm\:font-extralight\:focus:focus {
+    font-weight: 200;
+  }
+
+  .sm\:font-extralight\:hover:hover {
+    font-weight: 200;
+  }
+
+  .sm\:font-extralight\:required:required {
+    font-weight: 200;
+  }
+
+  .sm\:font-extralight\:visited:visited {
+    font-weight: 200;
+  }
+
+  .sm\:font-light {
+    font-weight: 300;
+  }
+
+  .sm\:font-light\:active:active {
+    font-weight: 300;
+  }
+
+  .sm\:font-light\:checked:checked {
+    font-weight: 300;
+  }
+
+  .sm\:font-light\:disabled:disabled {
+    font-weight: 300;
+  }
+
+  .sm\:font-light\:focus:focus {
+    font-weight: 300;
+  }
+
+  .sm\:font-light\:hover:hover {
+    font-weight: 300;
+  }
+
+  .sm\:font-light\:required:required {
+    font-weight: 300;
+  }
+
+  .sm\:font-light\:visited:visited {
+    font-weight: 300;
+  }
+
+  .sm\:font-normal {
+    font-weight: 400;
+  }
+
+  .sm\:font-normal\:active:active {
+    font-weight: 400;
+  }
+
+  .sm\:font-normal\:checked:checked {
+    font-weight: 400;
+  }
+
+  .sm\:font-normal\:disabled:disabled {
+    font-weight: 400;
+  }
+
+  .sm\:font-normal\:focus:focus {
+    font-weight: 400;
+  }
+
+  .sm\:font-normal\:hover:hover {
+    font-weight: 400;
+  }
+
+  .sm\:font-normal\:required:required {
+    font-weight: 400;
+  }
+
+  .sm\:font-normal\:visited:visited {
+    font-weight: 400;
+  }
+
+  .sm\:font-medium {
+    font-weight: 500;
+  }
+
+  .sm\:font-medium\:active:active {
+    font-weight: 500;
+  }
+
+  .sm\:font-medium\:checked:checked {
+    font-weight: 500;
+  }
+
+  .sm\:font-medium\:disabled:disabled {
+    font-weight: 500;
+  }
+
+  .sm\:font-medium\:focus:focus {
+    font-weight: 500;
+  }
+
+  .sm\:font-medium\:hover:hover {
+    font-weight: 500;
+  }
+
+  .sm\:font-medium\:required:required {
+    font-weight: 500;
+  }
+
+  .sm\:font-medium\:visited:visited {
+    font-weight: 500;
+  }
+
+  .sm\:font-tsemiboldhin {
+    font-weight: 600;
+  }
+
+  .sm\:font-tsemiboldhin\:active:active {
+    font-weight: 600;
+  }
+
+  .sm\:font-tsemiboldhin\:checked:checked {
+    font-weight: 600;
+  }
+
+  .sm\:font-tsemiboldhin\:disabled:disabled {
+    font-weight: 600;
+  }
+
+  .sm\:font-tsemiboldhin\:focus:focus {
+    font-weight: 600;
+  }
+
+  .sm\:font-tsemiboldhin\:hover:hover {
+    font-weight: 600;
+  }
+
+  .sm\:font-tsemiboldhin\:required:required {
+    font-weight: 600;
+  }
+
+  .sm\:font-tsemiboldhin\:visited:visited {
+    font-weight: 600;
+  }
+
+  .sm\:font-bold {
+    font-weight: 700;
+  }
+
+  .sm\:font-bold\:active:active {
+    font-weight: 700;
+  }
+
+  .sm\:font-bold\:checked:checked {
+    font-weight: 700;
+  }
+
+  .sm\:font-bold\:disabled:disabled {
+    font-weight: 700;
+  }
+
+  .sm\:font-bold\:focus:focus {
+    font-weight: 700;
+  }
+
+  .sm\:font-bold\:hover:hover {
+    font-weight: 700;
+  }
+
+  .sm\:font-bold\:required:required {
+    font-weight: 700;
+  }
+
+  .sm\:font-bold\:visited:visited {
+    font-weight: 700;
+  }
+
+  .sm\:font-extrabold {
+    font-weight: 800;
+  }
+
+  .sm\:font-extrabold\:active:active {
+    font-weight: 800;
+  }
+
+  .sm\:font-extrabold\:checked:checked {
+    font-weight: 800;
+  }
+
+  .sm\:font-extrabold\:disabled:disabled {
+    font-weight: 800;
+  }
+
+  .sm\:font-extrabold\:focus:focus {
+    font-weight: 800;
+  }
+
+  .sm\:font-extrabold\:hover:hover {
+    font-weight: 800;
+  }
+
+  .sm\:font-extrabold\:required:required {
+    font-weight: 800;
+  }
+
+  .sm\:font-extrabold\:visited:visited {
+    font-weight: 800;
+  }
+
+  .sm\:font-black {
+    font-weight: 900;
+  }
+
+  .sm\:font-black\:active:active {
+    font-weight: 900;
+  }
+
+  .sm\:font-black\:checked:checked {
+    font-weight: 900;
+  }
+
+  .sm\:font-black\:disabled:disabled {
+    font-weight: 900;
+  }
+
+  .sm\:font-black\:focus:focus {
+    font-weight: 900;
+  }
+
+  .sm\:font-black\:hover:hover {
+    font-weight: 900;
+  }
+
+  .sm\:font-black\:required:required {
+    font-weight: 900;
+  }
+
+  .sm\:font-black\:visited:visited {
+    font-weight: 900;
+  }
+}
+@media (min-width: 768px) and (max-width: 1023px) {
+  .md\:font-thin {
+    font-weight: 100;
+  }
+
+  .md\:font-thin\:active:active {
+    font-weight: 100;
+  }
+
+  .md\:font-thin\:checked:checked {
+    font-weight: 100;
+  }
+
+  .md\:font-thin\:disabled:disabled {
+    font-weight: 100;
+  }
+
+  .md\:font-thin\:focus:focus {
+    font-weight: 100;
+  }
+
+  .md\:font-thin\:hover:hover {
+    font-weight: 100;
+  }
+
+  .md\:font-thin\:required:required {
+    font-weight: 100;
+  }
+
+  .md\:font-thin\:visited:visited {
+    font-weight: 100;
+  }
+
+  .md\:font-extralight {
+    font-weight: 200;
+  }
+
+  .md\:font-extralight\:active:active {
+    font-weight: 200;
+  }
+
+  .md\:font-extralight\:checked:checked {
+    font-weight: 200;
+  }
+
+  .md\:font-extralight\:disabled:disabled {
+    font-weight: 200;
+  }
+
+  .md\:font-extralight\:focus:focus {
+    font-weight: 200;
+  }
+
+  .md\:font-extralight\:hover:hover {
+    font-weight: 200;
+  }
+
+  .md\:font-extralight\:required:required {
+    font-weight: 200;
+  }
+
+  .md\:font-extralight\:visited:visited {
+    font-weight: 200;
+  }
+
+  .md\:font-light {
+    font-weight: 300;
+  }
+
+  .md\:font-light\:active:active {
+    font-weight: 300;
+  }
+
+  .md\:font-light\:checked:checked {
+    font-weight: 300;
+  }
+
+  .md\:font-light\:disabled:disabled {
+    font-weight: 300;
+  }
+
+  .md\:font-light\:focus:focus {
+    font-weight: 300;
+  }
+
+  .md\:font-light\:hover:hover {
+    font-weight: 300;
+  }
+
+  .md\:font-light\:required:required {
+    font-weight: 300;
+  }
+
+  .md\:font-light\:visited:visited {
+    font-weight: 300;
+  }
+
+  .md\:font-normal {
+    font-weight: 400;
+  }
+
+  .md\:font-normal\:active:active {
+    font-weight: 400;
+  }
+
+  .md\:font-normal\:checked:checked {
+    font-weight: 400;
+  }
+
+  .md\:font-normal\:disabled:disabled {
+    font-weight: 400;
+  }
+
+  .md\:font-normal\:focus:focus {
+    font-weight: 400;
+  }
+
+  .md\:font-normal\:hover:hover {
+    font-weight: 400;
+  }
+
+  .md\:font-normal\:required:required {
+    font-weight: 400;
+  }
+
+  .md\:font-normal\:visited:visited {
+    font-weight: 400;
+  }
+
+  .md\:font-medium {
+    font-weight: 500;
+  }
+
+  .md\:font-medium\:active:active {
+    font-weight: 500;
+  }
+
+  .md\:font-medium\:checked:checked {
+    font-weight: 500;
+  }
+
+  .md\:font-medium\:disabled:disabled {
+    font-weight: 500;
+  }
+
+  .md\:font-medium\:focus:focus {
+    font-weight: 500;
+  }
+
+  .md\:font-medium\:hover:hover {
+    font-weight: 500;
+  }
+
+  .md\:font-medium\:required:required {
+    font-weight: 500;
+  }
+
+  .md\:font-medium\:visited:visited {
+    font-weight: 500;
+  }
+
+  .md\:font-tsemiboldhin {
+    font-weight: 600;
+  }
+
+  .md\:font-tsemiboldhin\:active:active {
+    font-weight: 600;
+  }
+
+  .md\:font-tsemiboldhin\:checked:checked {
+    font-weight: 600;
+  }
+
+  .md\:font-tsemiboldhin\:disabled:disabled {
+    font-weight: 600;
+  }
+
+  .md\:font-tsemiboldhin\:focus:focus {
+    font-weight: 600;
+  }
+
+  .md\:font-tsemiboldhin\:hover:hover {
+    font-weight: 600;
+  }
+
+  .md\:font-tsemiboldhin\:required:required {
+    font-weight: 600;
+  }
+
+  .md\:font-tsemiboldhin\:visited:visited {
+    font-weight: 600;
+  }
+
+  .md\:font-bold {
+    font-weight: 700;
+  }
+
+  .md\:font-bold\:active:active {
+    font-weight: 700;
+  }
+
+  .md\:font-bold\:checked:checked {
+    font-weight: 700;
+  }
+
+  .md\:font-bold\:disabled:disabled {
+    font-weight: 700;
+  }
+
+  .md\:font-bold\:focus:focus {
+    font-weight: 700;
+  }
+
+  .md\:font-bold\:hover:hover {
+    font-weight: 700;
+  }
+
+  .md\:font-bold\:required:required {
+    font-weight: 700;
+  }
+
+  .md\:font-bold\:visited:visited {
+    font-weight: 700;
+  }
+
+  .md\:font-extrabold {
+    font-weight: 800;
+  }
+
+  .md\:font-extrabold\:active:active {
+    font-weight: 800;
+  }
+
+  .md\:font-extrabold\:checked:checked {
+    font-weight: 800;
+  }
+
+  .md\:font-extrabold\:disabled:disabled {
+    font-weight: 800;
+  }
+
+  .md\:font-extrabold\:focus:focus {
+    font-weight: 800;
+  }
+
+  .md\:font-extrabold\:hover:hover {
+    font-weight: 800;
+  }
+
+  .md\:font-extrabold\:required:required {
+    font-weight: 800;
+  }
+
+  .md\:font-extrabold\:visited:visited {
+    font-weight: 800;
+  }
+
+  .md\:font-black {
+    font-weight: 900;
+  }
+
+  .md\:font-black\:active:active {
+    font-weight: 900;
+  }
+
+  .md\:font-black\:checked:checked {
+    font-weight: 900;
+  }
+
+  .md\:font-black\:disabled:disabled {
+    font-weight: 900;
+  }
+
+  .md\:font-black\:focus:focus {
+    font-weight: 900;
+  }
+
+  .md\:font-black\:hover:hover {
+    font-weight: 900;
+  }
+
+  .md\:font-black\:required:required {
+    font-weight: 900;
+  }
+
+  .md\:font-black\:visited:visited {
+    font-weight: 900;
+  }
+}
+@media (min-width: 1024px) and (max-width: 2000px) {
+  .lg\:font-thin {
+    font-weight: 100;
+  }
+
+  .lg\:font-thin\:active:active {
+    font-weight: 100;
+  }
+
+  .lg\:font-thin\:checked:checked {
+    font-weight: 100;
+  }
+
+  .lg\:font-thin\:disabled:disabled {
+    font-weight: 100;
+  }
+
+  .lg\:font-thin\:focus:focus {
+    font-weight: 100;
+  }
+
+  .lg\:font-thin\:hover:hover {
+    font-weight: 100;
+  }
+
+  .lg\:font-thin\:required:required {
+    font-weight: 100;
+  }
+
+  .lg\:font-thin\:visited:visited {
+    font-weight: 100;
+  }
+
+  .lg\:font-extralight {
+    font-weight: 200;
+  }
+
+  .lg\:font-extralight\:active:active {
+    font-weight: 200;
+  }
+
+  .lg\:font-extralight\:checked:checked {
+    font-weight: 200;
+  }
+
+  .lg\:font-extralight\:disabled:disabled {
+    font-weight: 200;
+  }
+
+  .lg\:font-extralight\:focus:focus {
+    font-weight: 200;
+  }
+
+  .lg\:font-extralight\:hover:hover {
+    font-weight: 200;
+  }
+
+  .lg\:font-extralight\:required:required {
+    font-weight: 200;
+  }
+
+  .lg\:font-extralight\:visited:visited {
+    font-weight: 200;
+  }
+
+  .lg\:font-light {
+    font-weight: 300;
+  }
+
+  .lg\:font-light\:active:active {
+    font-weight: 300;
+  }
+
+  .lg\:font-light\:checked:checked {
+    font-weight: 300;
+  }
+
+  .lg\:font-light\:disabled:disabled {
+    font-weight: 300;
+  }
+
+  .lg\:font-light\:focus:focus {
+    font-weight: 300;
+  }
+
+  .lg\:font-light\:hover:hover {
+    font-weight: 300;
+  }
+
+  .lg\:font-light\:required:required {
+    font-weight: 300;
+  }
+
+  .lg\:font-light\:visited:visited {
+    font-weight: 300;
+  }
+
+  .lg\:font-normal {
+    font-weight: 400;
+  }
+
+  .lg\:font-normal\:active:active {
+    font-weight: 400;
+  }
+
+  .lg\:font-normal\:checked:checked {
+    font-weight: 400;
+  }
+
+  .lg\:font-normal\:disabled:disabled {
+    font-weight: 400;
+  }
+
+  .lg\:font-normal\:focus:focus {
+    font-weight: 400;
+  }
+
+  .lg\:font-normal\:hover:hover {
+    font-weight: 400;
+  }
+
+  .lg\:font-normal\:required:required {
+    font-weight: 400;
+  }
+
+  .lg\:font-normal\:visited:visited {
+    font-weight: 400;
+  }
+
+  .lg\:font-medium {
+    font-weight: 500;
+  }
+
+  .lg\:font-medium\:active:active {
+    font-weight: 500;
+  }
+
+  .lg\:font-medium\:checked:checked {
+    font-weight: 500;
+  }
+
+  .lg\:font-medium\:disabled:disabled {
+    font-weight: 500;
+  }
+
+  .lg\:font-medium\:focus:focus {
+    font-weight: 500;
+  }
+
+  .lg\:font-medium\:hover:hover {
+    font-weight: 500;
+  }
+
+  .lg\:font-medium\:required:required {
+    font-weight: 500;
+  }
+
+  .lg\:font-medium\:visited:visited {
+    font-weight: 500;
+  }
+
+  .lg\:font-tsemiboldhin {
+    font-weight: 600;
+  }
+
+  .lg\:font-tsemiboldhin\:active:active {
+    font-weight: 600;
+  }
+
+  .lg\:font-tsemiboldhin\:checked:checked {
+    font-weight: 600;
+  }
+
+  .lg\:font-tsemiboldhin\:disabled:disabled {
+    font-weight: 600;
+  }
+
+  .lg\:font-tsemiboldhin\:focus:focus {
+    font-weight: 600;
+  }
+
+  .lg\:font-tsemiboldhin\:hover:hover {
+    font-weight: 600;
+  }
+
+  .lg\:font-tsemiboldhin\:required:required {
+    font-weight: 600;
+  }
+
+  .lg\:font-tsemiboldhin\:visited:visited {
+    font-weight: 600;
+  }
+
+  .lg\:font-bold {
+    font-weight: 700;
+  }
+
+  .lg\:font-bold\:active:active {
+    font-weight: 700;
+  }
+
+  .lg\:font-bold\:checked:checked {
+    font-weight: 700;
+  }
+
+  .lg\:font-bold\:disabled:disabled {
+    font-weight: 700;
+  }
+
+  .lg\:font-bold\:focus:focus {
+    font-weight: 700;
+  }
+
+  .lg\:font-bold\:hover:hover {
+    font-weight: 700;
+  }
+
+  .lg\:font-bold\:required:required {
+    font-weight: 700;
+  }
+
+  .lg\:font-bold\:visited:visited {
+    font-weight: 700;
+  }
+
+  .lg\:font-extrabold {
+    font-weight: 800;
+  }
+
+  .lg\:font-extrabold\:active:active {
+    font-weight: 800;
+  }
+
+  .lg\:font-extrabold\:checked:checked {
+    font-weight: 800;
+  }
+
+  .lg\:font-extrabold\:disabled:disabled {
+    font-weight: 800;
+  }
+
+  .lg\:font-extrabold\:focus:focus {
+    font-weight: 800;
+  }
+
+  .lg\:font-extrabold\:hover:hover {
+    font-weight: 800;
+  }
+
+  .lg\:font-extrabold\:required:required {
+    font-weight: 800;
+  }
+
+  .lg\:font-extrabold\:visited:visited {
+    font-weight: 800;
+  }
+
+  .lg\:font-black {
+    font-weight: 900;
+  }
+
+  .lg\:font-black\:active:active {
+    font-weight: 900;
+  }
+
+  .lg\:font-black\:checked:checked {
+    font-weight: 900;
+  }
+
+  .lg\:font-black\:disabled:disabled {
+    font-weight: 900;
+  }
+
+  .lg\:font-black\:focus:focus {
+    font-weight: 900;
+  }
+
+  .lg\:font-black\:hover:hover {
+    font-weight: 900;
+  }
+
+  .lg\:font-black\:required:required {
+    font-weight: 900;
+  }
+
+  .lg\:font-black\:visited:visited {
+    font-weight: 900;
+  }
+}

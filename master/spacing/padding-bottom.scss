@@ -1,0 +1,26 @@
+@import "../screen.scss";
+@import "../state.scss";
+@each $key, $value in (pb-0:'0px',pb-0\.5:'0.125rem',pb-1:'0.25rem',pb-1\.5:'0.375rem',pb-2:'0.5rem',pb-2\.5:'0.625rem',pb-3:'0.75rem',pb-3\.5:'0.875rem',pb-4:'1rem',pb-5:'1.25rem',pb-6:'1.5rem',pb-7:'1.75rem',pb-8:'2rem',pb-9:'2.25rem',pb-10:'2.5rem',pb-11:'2.75rem',pb-12:'3rem',pb-14:'3.5rem',pb-16:'4rem',pb-20:'5rem',pb-24:'6rem',pb-28:'7rem',pb-32:'8rem',pb-36:'9rem',pb-40:'10rem',pb-44:'11rem',pb-48:'12rem',pb-52:'13rem',pb-56:'14rem',pb-60:'15rem',pb-64:'16rem',pb-72:'18rem',pb-80:'20rem',pb-96:'24rem',pb-px:'1px'){
+	.#{$key}{
+		padding-bottom:#{$value};
+	}
+ @each $valueState in $state{
+	.#{$key}\:#{$valueState}:#{$valueState}{
+		padding-bottom:#{$value};
+	}
+ }
+};
+@each $sizeScreen, $pixel in $screen{
+	@media (min-width: #{map-get($pixel,min)}#{px}) and (max-width: #{map-get($pixel,max)}#{px}){
+		@each $key, $value in (pb-0:'0px',pb-0\.5:'0.125rem',pb-1:'0.25rem',pb-1\.5:'0.375rem',pb-2:'0.5rem',pb-2\.5:'0.625rem',pb-3:'0.75rem',pb-3\.5:'0.875rem',pb-4:'1rem',pb-5:'1.25rem',pb-6:'1.5rem',pb-7:'1.75rem',pb-8:'2rem',pb-9:'2.25rem',pb-10:'2.5rem',pb-11:'2.75rem',pb-12:'3rem',pb-14:'3.5rem',pb-16:'4rem',pb-20:'5rem',pb-24:'6rem',pb-28:'7rem',pb-32:'8rem',pb-36:'9rem',pb-40:'10rem',pb-44:'11rem',pb-48:'12rem',pb-52:'13rem',pb-56:'14rem',pb-60:'15rem',pb-64:'16rem',pb-72:'18rem',pb-80:'20rem',pb-96:'24rem',pb-px:'1px'){
+			.#{$sizeScreen}\:#{$key}{
+				padding-bottom:#{$value};
+			}
+      @each $valueState in $state{
+	     .#{$sizeScreen}\:#{$key}\:#{$valueState}:#{$valueState}{
+		     padding-bottom:#{$value};
+	     }
+      }
+		}
+	}
+}

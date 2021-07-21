@@ -1,0 +1,26 @@
+@import "../screen.scss";
+@import "../state.scss";
+@each $key, $value in (grid-flow-row:'row',grid-flow-col:'col',grid-flow-row-dense:'row dense',grid-flow-col-dense:'column dense'){
+	.#{$key}{
+		grid-auto-flow:#{$value};
+	}
+ @each $valueState in $state{
+	.#{$key}\:#{$valueState}:#{$valueState}{
+		grid-auto-flow:#{$value};
+	}
+ }
+};
+@each $sizeScreen, $pixel in $screen{
+	@media (min-width: #{map-get($pixel,min)}#{px}) and (max-width: #{map-get($pixel,max)}#{px}){
+		@each $key, $value in (grid-flow-row:'row',grid-flow-col:'col',grid-flow-row-dense:'row dense',grid-flow-col-dense:'column dense'){
+			.#{$sizeScreen}\:#{$key}{
+				grid-auto-flow:#{$value};
+			}
+      @each $valueState in $state{
+	     .#{$sizeScreen}\:#{$key}\:#{$valueState}:#{$valueState}{
+		     grid-auto-flow:#{$value};
+	     }
+      }
+		}
+	}
+}

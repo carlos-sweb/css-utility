@@ -1,0 +1,644 @@
+.place-items-center {
+  place-items: center;
+}
+
+.place-items-center\:active:active {
+  place-items: center;
+}
+
+.place-items-center\:checked:checked {
+  place-items: center;
+}
+
+.place-items-center\:disabled:disabled {
+  place-items: center;
+}
+
+.place-items-center\:focus:focus {
+  place-items: center;
+}
+
+.place-items-center\:hover:hover {
+  place-items: center;
+}
+
+.place-items-center\:required:required {
+  place-items: center;
+}
+
+.place-items-center\:visited:visited {
+  place-items: center;
+}
+
+.place-items-start {
+  place-items: start;
+}
+
+.place-items-start\:active:active {
+  place-items: start;
+}
+
+.place-items-start\:checked:checked {
+  place-items: start;
+}
+
+.place-items-start\:disabled:disabled {
+  place-items: start;
+}
+
+.place-items-start\:focus:focus {
+  place-items: start;
+}
+
+.place-items-start\:hover:hover {
+  place-items: start;
+}
+
+.place-items-start\:required:required {
+  place-items: start;
+}
+
+.place-items-start\:visited:visited {
+  place-items: start;
+}
+
+.place-items-end {
+  place-items: end;
+}
+
+.place-items-end\:active:active {
+  place-items: end;
+}
+
+.place-items-end\:checked:checked {
+  place-items: end;
+}
+
+.place-items-end\:disabled:disabled {
+  place-items: end;
+}
+
+.place-items-end\:focus:focus {
+  place-items: end;
+}
+
+.place-items-end\:hover:hover {
+  place-items: end;
+}
+
+.place-items-end\:required:required {
+  place-items: end;
+}
+
+.place-items-end\:visited:visited {
+  place-items: end;
+}
+
+.place-items-stretch {
+  place-items: stretch;
+}
+
+.place-items-stretch\:active:active {
+  place-items: stretch;
+}
+
+.place-items-stretch\:checked:checked {
+  place-items: stretch;
+}
+
+.place-items-stretch\:disabled:disabled {
+  place-items: stretch;
+}
+
+.place-items-stretch\:focus:focus {
+  place-items: stretch;
+}
+
+.place-items-stretch\:hover:hover {
+  place-items: stretch;
+}
+
+.place-items-stretch\:required:required {
+  place-items: stretch;
+}
+
+.place-items-stretch\:visited:visited {
+  place-items: stretch;
+}
+
+@media (min-width: 0px) and (max-width: 639px) {
+  .xs\:place-items-center {
+    place-items: center;
+  }
+
+  .xs\:place-items-center\:active:active {
+    place-items: center;
+  }
+
+  .xs\:place-items-center\:checked:checked {
+    place-items: center;
+  }
+
+  .xs\:place-items-center\:disabled:disabled {
+    place-items: center;
+  }
+
+  .xs\:place-items-center\:focus:focus {
+    place-items: center;
+  }
+
+  .xs\:place-items-center\:hover:hover {
+    place-items: center;
+  }
+
+  .xs\:place-items-center\:required:required {
+    place-items: center;
+  }
+
+  .xs\:place-items-center\:visited:visited {
+    place-items: center;
+  }
+
+  .xs\:place-items-start {
+    place-items: start;
+  }
+
+  .xs\:place-items-start\:active:active {
+    place-items: start;
+  }
+
+  .xs\:place-items-start\:checked:checked {
+    place-items: start;
+  }
+
+  .xs\:place-items-start\:disabled:disabled {
+    place-items: start;
+  }
+
+  .xs\:place-items-start\:focus:focus {
+    place-items: start;
+  }
+
+  .xs\:place-items-start\:hover:hover {
+    place-items: start;
+  }
+
+  .xs\:place-items-start\:required:required {
+    place-items: start;
+  }
+
+  .xs\:place-items-start\:visited:visited {
+    place-items: start;
+  }
+
+  .xs\:place-items-end {
+    place-items: end;
+  }
+
+  .xs\:place-items-end\:active:active {
+    place-items: end;
+  }
+
+  .xs\:place-items-end\:checked:checked {
+    place-items: end;
+  }
+
+  .xs\:place-items-end\:disabled:disabled {
+    place-items: end;
+  }
+
+  .xs\:place-items-end\:focus:focus {
+    place-items: end;
+  }
+
+  .xs\:place-items-end\:hover:hover {
+    place-items: end;
+  }
+
+  .xs\:place-items-end\:required:required {
+    place-items: end;
+  }
+
+  .xs\:place-items-end\:visited:visited {
+    place-items: end;
+  }
+
+  .xs\:place-items-stretch {
+    place-items: stretch;
+  }
+
+  .xs\:place-items-stretch\:active:active {
+    place-items: stretch;
+  }
+
+  .xs\:place-items-stretch\:checked:checked {
+    place-items: stretch;
+  }
+
+  .xs\:place-items-stretch\:disabled:disabled {
+    place-items: stretch;
+  }
+
+  .xs\:place-items-stretch\:focus:focus {
+    place-items: stretch;
+  }
+
+  .xs\:place-items-stretch\:hover:hover {
+    place-items: stretch;
+  }
+
+  .xs\:place-items-stretch\:required:required {
+    place-items: stretch;
+  }
+
+  .xs\:place-items-stretch\:visited:visited {
+    place-items: stretch;
+  }
+}
+@media (min-width: 640px) and (max-width: 767px) {
+  .sm\:place-items-center {
+    place-items: center;
+  }
+
+  .sm\:place-items-center\:active:active {
+    place-items: center;
+  }
+
+  .sm\:place-items-center\:checked:checked {
+    place-items: center;
+  }
+
+  .sm\:place-items-center\:disabled:disabled {
+    place-items: center;
+  }
+
+  .sm\:place-items-center\:focus:focus {
+    place-items: center;
+  }
+
+  .sm\:place-items-center\:hover:hover {
+    place-items: center;
+  }
+
+  .sm\:place-items-center\:required:required {
+    place-items: center;
+  }
+
+  .sm\:place-items-center\:visited:visited {
+    place-items: center;
+  }
+
+  .sm\:place-items-start {
+    place-items: start;
+  }
+
+  .sm\:place-items-start\:active:active {
+    place-items: start;
+  }
+
+  .sm\:place-items-start\:checked:checked {
+    place-items: start;
+  }
+
+  .sm\:place-items-start\:disabled:disabled {
+    place-items: start;
+  }
+
+  .sm\:place-items-start\:focus:focus {
+    place-items: start;
+  }
+
+  .sm\:place-items-start\:hover:hover {
+    place-items: start;
+  }
+
+  .sm\:place-items-start\:required:required {
+    place-items: start;
+  }
+
+  .sm\:place-items-start\:visited:visited {
+    place-items: start;
+  }
+
+  .sm\:place-items-end {
+    place-items: end;
+  }
+
+  .sm\:place-items-end\:active:active {
+    place-items: end;
+  }
+
+  .sm\:place-items-end\:checked:checked {
+    place-items: end;
+  }
+
+  .sm\:place-items-end\:disabled:disabled {
+    place-items: end;
+  }
+
+  .sm\:place-items-end\:focus:focus {
+    place-items: end;
+  }
+
+  .sm\:place-items-end\:hover:hover {
+    place-items: end;
+  }
+
+  .sm\:place-items-end\:required:required {
+    place-items: end;
+  }
+
+  .sm\:place-items-end\:visited:visited {
+    place-items: end;
+  }
+
+  .sm\:place-items-stretch {
+    place-items: stretch;
+  }
+
+  .sm\:place-items-stretch\:active:active {
+    place-items: stretch;
+  }
+
+  .sm\:place-items-stretch\:checked:checked {
+    place-items: stretch;
+  }
+
+  .sm\:place-items-stretch\:disabled:disabled {
+    place-items: stretch;
+  }
+
+  .sm\:place-items-stretch\:focus:focus {
+    place-items: stretch;
+  }
+
+  .sm\:place-items-stretch\:hover:hover {
+    place-items: stretch;
+  }
+
+  .sm\:place-items-stretch\:required:required {
+    place-items: stretch;
+  }
+
+  .sm\:place-items-stretch\:visited:visited {
+    place-items: stretch;
+  }
+}
+@media (min-width: 768px) and (max-width: 1023px) {
+  .md\:place-items-center {
+    place-items: center;
+  }
+
+  .md\:place-items-center\:active:active {
+    place-items: center;
+  }
+
+  .md\:place-items-center\:checked:checked {
+    place-items: center;
+  }
+
+  .md\:place-items-center\:disabled:disabled {
+    place-items: center;
+  }
+
+  .md\:place-items-center\:focus:focus {
+    place-items: center;
+  }
+
+  .md\:place-items-center\:hover:hover {
+    place-items: center;
+  }
+
+  .md\:place-items-center\:required:required {
+    place-items: center;
+  }
+
+  .md\:place-items-center\:visited:visited {
+    place-items: center;
+  }
+
+  .md\:place-items-start {
+    place-items: start;
+  }
+
+  .md\:place-items-start\:active:active {
+    place-items: start;
+  }
+
+  .md\:place-items-start\:checked:checked {
+    place-items: start;
+  }
+
+  .md\:place-items-start\:disabled:disabled {
+    place-items: start;
+  }
+
+  .md\:place-items-start\:focus:focus {
+    place-items: start;
+  }
+
+  .md\:place-items-start\:hover:hover {
+    place-items: start;
+  }
+
+  .md\:place-items-start\:required:required {
+    place-items: start;
+  }
+
+  .md\:place-items-start\:visited:visited {
+    place-items: start;
+  }
+
+  .md\:place-items-end {
+    place-items: end;
+  }
+
+  .md\:place-items-end\:active:active {
+    place-items: end;
+  }
+
+  .md\:place-items-end\:checked:checked {
+    place-items: end;
+  }
+
+  .md\:place-items-end\:disabled:disabled {
+    place-items: end;
+  }
+
+  .md\:place-items-end\:focus:focus {
+    place-items: end;
+  }
+
+  .md\:place-items-end\:hover:hover {
+    place-items: end;
+  }
+
+  .md\:place-items-end\:required:required {
+    place-items: end;
+  }
+
+  .md\:place-items-end\:visited:visited {
+    place-items: end;
+  }
+
+  .md\:place-items-stretch {
+    place-items: stretch;
+  }
+
+  .md\:place-items-stretch\:active:active {
+    place-items: stretch;
+  }
+
+  .md\:place-items-stretch\:checked:checked {
+    place-items: stretch;
+  }
+
+  .md\:place-items-stretch\:disabled:disabled {
+    place-items: stretch;
+  }
+
+  .md\:place-items-stretch\:focus:focus {
+    place-items: stretch;
+  }
+
+  .md\:place-items-stretch\:hover:hover {
+    place-items: stretch;
+  }
+
+  .md\:place-items-stretch\:required:required {
+    place-items: stretch;
+  }
+
+  .md\:place-items-stretch\:visited:visited {
+    place-items: stretch;
+  }
+}
+@media (min-width: 1024px) and (max-width: 2000px) {
+  .lg\:place-items-center {
+    place-items: center;
+  }
+
+  .lg\:place-items-center\:active:active {
+    place-items: center;
+  }
+
+  .lg\:place-items-center\:checked:checked {
+    place-items: center;
+  }
+
+  .lg\:place-items-center\:disabled:disabled {
+    place-items: center;
+  }
+
+  .lg\:place-items-center\:focus:focus {
+    place-items: center;
+  }
+
+  .lg\:place-items-center\:hover:hover {
+    place-items: center;
+  }
+
+  .lg\:place-items-center\:required:required {
+    place-items: center;
+  }
+
+  .lg\:place-items-center\:visited:visited {
+    place-items: center;
+  }
+
+  .lg\:place-items-start {
+    place-items: start;
+  }
+
+  .lg\:place-items-start\:active:active {
+    place-items: start;
+  }
+
+  .lg\:place-items-start\:checked:checked {
+    place-items: start;
+  }
+
+  .lg\:place-items-start\:disabled:disabled {
+    place-items: start;
+  }
+
+  .lg\:place-items-start\:focus:focus {
+    place-items: start;
+  }
+
+  .lg\:place-items-start\:hover:hover {
+    place-items: start;
+  }
+
+  .lg\:place-items-start\:required:required {
+    place-items: start;
+  }
+
+  .lg\:place-items-start\:visited:visited {
+    place-items: start;
+  }
+
+  .lg\:place-items-end {
+    place-items: end;
+  }
+
+  .lg\:place-items-end\:active:active {
+    place-items: end;
+  }
+
+  .lg\:place-items-end\:checked:checked {
+    place-items: end;
+  }
+
+  .lg\:place-items-end\:disabled:disabled {
+    place-items: end;
+  }
+
+  .lg\:place-items-end\:focus:focus {
+    place-items: end;
+  }
+
+  .lg\:place-items-end\:hover:hover {
+    place-items: end;
+  }
+
+  .lg\:place-items-end\:required:required {
+    place-items: end;
+  }
+
+  .lg\:place-items-end\:visited:visited {
+    place-items: end;
+  }
+
+  .lg\:place-items-stretch {
+    place-items: stretch;
+  }
+
+  .lg\:place-items-stretch\:active:active {
+    place-items: stretch;
+  }
+
+  .lg\:place-items-stretch\:checked:checked {
+    place-items: stretch;
+  }
+
+  .lg\:place-items-stretch\:disabled:disabled {
+    place-items: stretch;
+  }
+
+  .lg\:place-items-stretch\:focus:focus {
+    place-items: stretch;
+  }
+
+  .lg\:place-items-stretch\:hover:hover {
+    place-items: stretch;
+  }
+
+  .lg\:place-items-stretch\:required:required {
+    place-items: stretch;
+  }
+
+  .lg\:place-items-stretch\:visited:visited {
+    place-items: stretch;
+  }
+}

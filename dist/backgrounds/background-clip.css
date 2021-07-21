@@ -1,0 +1,644 @@
+.bg-clip-border {
+  background-clip: border-box;
+}
+
+.bg-clip-border\:active:active {
+  background-clip: border-box;
+}
+
+.bg-clip-border\:checked:checked {
+  background-clip: border-box;
+}
+
+.bg-clip-border\:disabled:disabled {
+  background-clip: border-box;
+}
+
+.bg-clip-border\:focus:focus {
+  background-clip: border-box;
+}
+
+.bg-clip-border\:hover:hover {
+  background-clip: border-box;
+}
+
+.bg-clip-border\:required:required {
+  background-clip: border-box;
+}
+
+.bg-clip-border\:visited:visited {
+  background-clip: border-box;
+}
+
+.bg-clip-padding {
+  background-clip: padding-box;
+}
+
+.bg-clip-padding\:active:active {
+  background-clip: padding-box;
+}
+
+.bg-clip-padding\:checked:checked {
+  background-clip: padding-box;
+}
+
+.bg-clip-padding\:disabled:disabled {
+  background-clip: padding-box;
+}
+
+.bg-clip-padding\:focus:focus {
+  background-clip: padding-box;
+}
+
+.bg-clip-padding\:hover:hover {
+  background-clip: padding-box;
+}
+
+.bg-clip-padding\:required:required {
+  background-clip: padding-box;
+}
+
+.bg-clip-padding\:visited:visited {
+  background-clip: padding-box;
+}
+
+.bg-clip-content {
+  background-clip: content-box;
+}
+
+.bg-clip-content\:active:active {
+  background-clip: content-box;
+}
+
+.bg-clip-content\:checked:checked {
+  background-clip: content-box;
+}
+
+.bg-clip-content\:disabled:disabled {
+  background-clip: content-box;
+}
+
+.bg-clip-content\:focus:focus {
+  background-clip: content-box;
+}
+
+.bg-clip-content\:hover:hover {
+  background-clip: content-box;
+}
+
+.bg-clip-content\:required:required {
+  background-clip: content-box;
+}
+
+.bg-clip-content\:visited:visited {
+  background-clip: content-box;
+}
+
+.bg-clip-text {
+  background-clip:  text;
+}
+
+.bg-clip-text\:active:active {
+  background-clip:  text;
+}
+
+.bg-clip-text\:checked:checked {
+  background-clip:  text;
+}
+
+.bg-clip-text\:disabled:disabled {
+  background-clip:  text;
+}
+
+.bg-clip-text\:focus:focus {
+  background-clip:  text;
+}
+
+.bg-clip-text\:hover:hover {
+  background-clip:  text;
+}
+
+.bg-clip-text\:required:required {
+  background-clip:  text;
+}
+
+.bg-clip-text\:visited:visited {
+  background-clip:  text;
+}
+
+@media (min-width: 0px) and (max-width: 639px) {
+  .xs\:bg-clip-border {
+    background-clip: border-box;
+  }
+
+  .xs\:bg-clip-border\:active:active {
+    background-clip: border-box;
+  }
+
+  .xs\:bg-clip-border\:checked:checked {
+    background-clip: border-box;
+  }
+
+  .xs\:bg-clip-border\:disabled:disabled {
+    background-clip: border-box;
+  }
+
+  .xs\:bg-clip-border\:focus:focus {
+    background-clip: border-box;
+  }
+
+  .xs\:bg-clip-border\:hover:hover {
+    background-clip: border-box;
+  }
+
+  .xs\:bg-clip-border\:required:required {
+    background-clip: border-box;
+  }
+
+  .xs\:bg-clip-border\:visited:visited {
+    background-clip: border-box;
+  }
+
+  .xs\:bg-clip-padding {
+    background-clip: padding-box;
+  }
+
+  .xs\:bg-clip-padding\:active:active {
+    background-clip: padding-box;
+  }
+
+  .xs\:bg-clip-padding\:checked:checked {
+    background-clip: padding-box;
+  }
+
+  .xs\:bg-clip-padding\:disabled:disabled {
+    background-clip: padding-box;
+  }
+
+  .xs\:bg-clip-padding\:focus:focus {
+    background-clip: padding-box;
+  }
+
+  .xs\:bg-clip-padding\:hover:hover {
+    background-clip: padding-box;
+  }
+
+  .xs\:bg-clip-padding\:required:required {
+    background-clip: padding-box;
+  }
+
+  .xs\:bg-clip-padding\:visited:visited {
+    background-clip: padding-box;
+  }
+
+  .xs\:bg-clip-content {
+    background-clip: content-box;
+  }
+
+  .xs\:bg-clip-content\:active:active {
+    background-clip: content-box;
+  }
+
+  .xs\:bg-clip-content\:checked:checked {
+    background-clip: content-box;
+  }
+
+  .xs\:bg-clip-content\:disabled:disabled {
+    background-clip: content-box;
+  }
+
+  .xs\:bg-clip-content\:focus:focus {
+    background-clip: content-box;
+  }
+
+  .xs\:bg-clip-content\:hover:hover {
+    background-clip: content-box;
+  }
+
+  .xs\:bg-clip-content\:required:required {
+    background-clip: content-box;
+  }
+
+  .xs\:bg-clip-content\:visited:visited {
+    background-clip: content-box;
+  }
+
+  .xs\:bg-clip-text {
+    background-clip:  text;
+  }
+
+  .xs\:bg-clip-text\:active:active {
+    background-clip:  text;
+  }
+
+  .xs\:bg-clip-text\:checked:checked {
+    background-clip:  text;
+  }
+
+  .xs\:bg-clip-text\:disabled:disabled {
+    background-clip:  text;
+  }
+
+  .xs\:bg-clip-text\:focus:focus {
+    background-clip:  text;
+  }
+
+  .xs\:bg-clip-text\:hover:hover {
+    background-clip:  text;
+  }
+
+  .xs\:bg-clip-text\:required:required {
+    background-clip:  text;
+  }
+
+  .xs\:bg-clip-text\:visited:visited {
+    background-clip:  text;
+  }
+}
+@media (min-width: 640px) and (max-width: 767px) {
+  .sm\:bg-clip-border {
+    background-clip: border-box;
+  }
+
+  .sm\:bg-clip-border\:active:active {
+    background-clip: border-box;
+  }
+
+  .sm\:bg-clip-border\:checked:checked {
+    background-clip: border-box;
+  }
+
+  .sm\:bg-clip-border\:disabled:disabled {
+    background-clip: border-box;
+  }
+
+  .sm\:bg-clip-border\:focus:focus {
+    background-clip: border-box;
+  }
+
+  .sm\:bg-clip-border\:hover:hover {
+    background-clip: border-box;
+  }
+
+  .sm\:bg-clip-border\:required:required {
+    background-clip: border-box;
+  }
+
+  .sm\:bg-clip-border\:visited:visited {
+    background-clip: border-box;
+  }
+
+  .sm\:bg-clip-padding {
+    background-clip: padding-box;
+  }
+
+  .sm\:bg-clip-padding\:active:active {
+    background-clip: padding-box;
+  }
+
+  .sm\:bg-clip-padding\:checked:checked {
+    background-clip: padding-box;
+  }
+
+  .sm\:bg-clip-padding\:disabled:disabled {
+    background-clip: padding-box;
+  }
+
+  .sm\:bg-clip-padding\:focus:focus {
+    background-clip: padding-box;
+  }
+
+  .sm\:bg-clip-padding\:hover:hover {
+    background-clip: padding-box;
+  }
+
+  .sm\:bg-clip-padding\:required:required {
+    background-clip: padding-box;
+  }
+
+  .sm\:bg-clip-padding\:visited:visited {
+    background-clip: padding-box;
+  }
+
+  .sm\:bg-clip-content {
+    background-clip: content-box;
+  }
+
+  .sm\:bg-clip-content\:active:active {
+    background-clip: content-box;
+  }
+
+  .sm\:bg-clip-content\:checked:checked {
+    background-clip: content-box;
+  }
+
+  .sm\:bg-clip-content\:disabled:disabled {
+    background-clip: content-box;
+  }
+
+  .sm\:bg-clip-content\:focus:focus {
+    background-clip: content-box;
+  }
+
+  .sm\:bg-clip-content\:hover:hover {
+    background-clip: content-box;
+  }
+
+  .sm\:bg-clip-content\:required:required {
+    background-clip: content-box;
+  }
+
+  .sm\:bg-clip-content\:visited:visited {
+    background-clip: content-box;
+  }
+
+  .sm\:bg-clip-text {
+    background-clip:  text;
+  }
+
+  .sm\:bg-clip-text\:active:active {
+    background-clip:  text;
+  }
+
+  .sm\:bg-clip-text\:checked:checked {
+    background-clip:  text;
+  }
+
+  .sm\:bg-clip-text\:disabled:disabled {
+    background-clip:  text;
+  }
+
+  .sm\:bg-clip-text\:focus:focus {
+    background-clip:  text;
+  }
+
+  .sm\:bg-clip-text\:hover:hover {
+    background-clip:  text;
+  }
+
+  .sm\:bg-clip-text\:required:required {
+    background-clip:  text;
+  }
+
+  .sm\:bg-clip-text\:visited:visited {
+    background-clip:  text;
+  }
+}
+@media (min-width: 768px) and (max-width: 1023px) {
+  .md\:bg-clip-border {
+    background-clip: border-box;
+  }
+
+  .md\:bg-clip-border\:active:active {
+    background-clip: border-box;
+  }
+
+  .md\:bg-clip-border\:checked:checked {
+    background-clip: border-box;
+  }
+
+  .md\:bg-clip-border\:disabled:disabled {
+    background-clip: border-box;
+  }
+
+  .md\:bg-clip-border\:focus:focus {
+    background-clip: border-box;
+  }
+
+  .md\:bg-clip-border\:hover:hover {
+    background-clip: border-box;
+  }
+
+  .md\:bg-clip-border\:required:required {
+    background-clip: border-box;
+  }
+
+  .md\:bg-clip-border\:visited:visited {
+    background-clip: border-box;
+  }
+
+  .md\:bg-clip-padding {
+    background-clip: padding-box;
+  }
+
+  .md\:bg-clip-padding\:active:active {
+    background-clip: padding-box;
+  }
+
+  .md\:bg-clip-padding\:checked:checked {
+    background-clip: padding-box;
+  }
+
+  .md\:bg-clip-padding\:disabled:disabled {
+    background-clip: padding-box;
+  }
+
+  .md\:bg-clip-padding\:focus:focus {
+    background-clip: padding-box;
+  }
+
+  .md\:bg-clip-padding\:hover:hover {
+    background-clip: padding-box;
+  }
+
+  .md\:bg-clip-padding\:required:required {
+    background-clip: padding-box;
+  }
+
+  .md\:bg-clip-padding\:visited:visited {
+    background-clip: padding-box;
+  }
+
+  .md\:bg-clip-content {
+    background-clip: content-box;
+  }
+
+  .md\:bg-clip-content\:active:active {
+    background-clip: content-box;
+  }
+
+  .md\:bg-clip-content\:checked:checked {
+    background-clip: content-box;
+  }
+
+  .md\:bg-clip-content\:disabled:disabled {
+    background-clip: content-box;
+  }
+
+  .md\:bg-clip-content\:focus:focus {
+    background-clip: content-box;
+  }
+
+  .md\:bg-clip-content\:hover:hover {
+    background-clip: content-box;
+  }
+
+  .md\:bg-clip-content\:required:required {
+    background-clip: content-box;
+  }
+
+  .md\:bg-clip-content\:visited:visited {
+    background-clip: content-box;
+  }
+
+  .md\:bg-clip-text {
+    background-clip:  text;
+  }
+
+  .md\:bg-clip-text\:active:active {
+    background-clip:  text;
+  }
+
+  .md\:bg-clip-text\:checked:checked {
+    background-clip:  text;
+  }
+
+  .md\:bg-clip-text\:disabled:disabled {
+    background-clip:  text;
+  }
+
+  .md\:bg-clip-text\:focus:focus {
+    background-clip:  text;
+  }
+
+  .md\:bg-clip-text\:hover:hover {
+    background-clip:  text;
+  }
+
+  .md\:bg-clip-text\:required:required {
+    background-clip:  text;
+  }
+
+  .md\:bg-clip-text\:visited:visited {
+    background-clip:  text;
+  }
+}
+@media (min-width: 1024px) and (max-width: 2000px) {
+  .lg\:bg-clip-border {
+    background-clip: border-box;
+  }
+
+  .lg\:bg-clip-border\:active:active {
+    background-clip: border-box;
+  }
+
+  .lg\:bg-clip-border\:checked:checked {
+    background-clip: border-box;
+  }
+
+  .lg\:bg-clip-border\:disabled:disabled {
+    background-clip: border-box;
+  }
+
+  .lg\:bg-clip-border\:focus:focus {
+    background-clip: border-box;
+  }
+
+  .lg\:bg-clip-border\:hover:hover {
+    background-clip: border-box;
+  }
+
+  .lg\:bg-clip-border\:required:required {
+    background-clip: border-box;
+  }
+
+  .lg\:bg-clip-border\:visited:visited {
+    background-clip: border-box;
+  }
+
+  .lg\:bg-clip-padding {
+    background-clip: padding-box;
+  }
+
+  .lg\:bg-clip-padding\:active:active {
+    background-clip: padding-box;
+  }
+
+  .lg\:bg-clip-padding\:checked:checked {
+    background-clip: padding-box;
+  }
+
+  .lg\:bg-clip-padding\:disabled:disabled {
+    background-clip: padding-box;
+  }
+
+  .lg\:bg-clip-padding\:focus:focus {
+    background-clip: padding-box;
+  }
+
+  .lg\:bg-clip-padding\:hover:hover {
+    background-clip: padding-box;
+  }
+
+  .lg\:bg-clip-padding\:required:required {
+    background-clip: padding-box;
+  }
+
+  .lg\:bg-clip-padding\:visited:visited {
+    background-clip: padding-box;
+  }
+
+  .lg\:bg-clip-content {
+    background-clip: content-box;
+  }
+
+  .lg\:bg-clip-content\:active:active {
+    background-clip: content-box;
+  }
+
+  .lg\:bg-clip-content\:checked:checked {
+    background-clip: content-box;
+  }
+
+  .lg\:bg-clip-content\:disabled:disabled {
+    background-clip: content-box;
+  }
+
+  .lg\:bg-clip-content\:focus:focus {
+    background-clip: content-box;
+  }
+
+  .lg\:bg-clip-content\:hover:hover {
+    background-clip: content-box;
+  }
+
+  .lg\:bg-clip-content\:required:required {
+    background-clip: content-box;
+  }
+
+  .lg\:bg-clip-content\:visited:visited {
+    background-clip: content-box;
+  }
+
+  .lg\:bg-clip-text {
+    background-clip:  text;
+  }
+
+  .lg\:bg-clip-text\:active:active {
+    background-clip:  text;
+  }
+
+  .lg\:bg-clip-text\:checked:checked {
+    background-clip:  text;
+  }
+
+  .lg\:bg-clip-text\:disabled:disabled {
+    background-clip:  text;
+  }
+
+  .lg\:bg-clip-text\:focus:focus {
+    background-clip:  text;
+  }
+
+  .lg\:bg-clip-text\:hover:hover {
+    background-clip:  text;
+  }
+
+  .lg\:bg-clip-text\:required:required {
+    background-clip:  text;
+  }
+
+  .lg\:bg-clip-text\:visited:visited {
+    background-clip:  text;
+  }
+}

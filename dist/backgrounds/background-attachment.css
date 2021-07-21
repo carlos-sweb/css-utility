@@ -1,0 +1,484 @@
+.bg-fixed {
+  background-attachment: fixed;
+}
+
+.bg-fixed\:active:active {
+  background-attachment: fixed;
+}
+
+.bg-fixed\:checked:checked {
+  background-attachment: fixed;
+}
+
+.bg-fixed\:disabled:disabled {
+  background-attachment: fixed;
+}
+
+.bg-fixed\:focus:focus {
+  background-attachment: fixed;
+}
+
+.bg-fixed\:hover:hover {
+  background-attachment: fixed;
+}
+
+.bg-fixed\:required:required {
+  background-attachment: fixed;
+}
+
+.bg-fixed\:visited:visited {
+  background-attachment: fixed;
+}
+
+.bg-local {
+  background-attachment: local;
+}
+
+.bg-local\:active:active {
+  background-attachment: local;
+}
+
+.bg-local\:checked:checked {
+  background-attachment: local;
+}
+
+.bg-local\:disabled:disabled {
+  background-attachment: local;
+}
+
+.bg-local\:focus:focus {
+  background-attachment: local;
+}
+
+.bg-local\:hover:hover {
+  background-attachment: local;
+}
+
+.bg-local\:required:required {
+  background-attachment: local;
+}
+
+.bg-local\:visited:visited {
+  background-attachment: local;
+}
+
+.bg-scroll {
+  background-attachment: scroll;
+}
+
+.bg-scroll\:active:active {
+  background-attachment: scroll;
+}
+
+.bg-scroll\:checked:checked {
+  background-attachment: scroll;
+}
+
+.bg-scroll\:disabled:disabled {
+  background-attachment: scroll;
+}
+
+.bg-scroll\:focus:focus {
+  background-attachment: scroll;
+}
+
+.bg-scroll\:hover:hover {
+  background-attachment: scroll;
+}
+
+.bg-scroll\:required:required {
+  background-attachment: scroll;
+}
+
+.bg-scroll\:visited:visited {
+  background-attachment: scroll;
+}
+
+@media (min-width: 0px) and (max-width: 639px) {
+  .xs\:bg-fixed {
+    background-attachment: fixed;
+  }
+
+  .xs\:bg-fixed\:active:active {
+    background-attachment: fixed;
+  }
+
+  .xs\:bg-fixed\:checked:checked {
+    background-attachment: fixed;
+  }
+
+  .xs\:bg-fixed\:disabled:disabled {
+    background-attachment: fixed;
+  }
+
+  .xs\:bg-fixed\:focus:focus {
+    background-attachment: fixed;
+  }
+
+  .xs\:bg-fixed\:hover:hover {
+    background-attachment: fixed;
+  }
+
+  .xs\:bg-fixed\:required:required {
+    background-attachment: fixed;
+  }
+
+  .xs\:bg-fixed\:visited:visited {
+    background-attachment: fixed;
+  }
+
+  .xs\:bg-local {
+    background-attachment: local;
+  }
+
+  .xs\:bg-local\:active:active {
+    background-attachment: local;
+  }
+
+  .xs\:bg-local\:checked:checked {
+    background-attachment: local;
+  }
+
+  .xs\:bg-local\:disabled:disabled {
+    background-attachment: local;
+  }
+
+  .xs\:bg-local\:focus:focus {
+    background-attachment: local;
+  }
+
+  .xs\:bg-local\:hover:hover {
+    background-attachment: local;
+  }
+
+  .xs\:bg-local\:required:required {
+    background-attachment: local;
+  }
+
+  .xs\:bg-local\:visited:visited {
+    background-attachment: local;
+  }
+
+  .xs\:bg-scroll {
+    background-attachment: scroll;
+  }
+
+  .xs\:bg-scroll\:active:active {
+    background-attachment: scroll;
+  }
+
+  .xs\:bg-scroll\:checked:checked {
+    background-attachment: scroll;
+  }
+
+  .xs\:bg-scroll\:disabled:disabled {
+    background-attachment: scroll;
+  }
+
+  .xs\:bg-scroll\:focus:focus {
+    background-attachment: scroll;
+  }
+
+  .xs\:bg-scroll\:hover:hover {
+    background-attachment: scroll;
+  }
+
+  .xs\:bg-scroll\:required:required {
+    background-attachment: scroll;
+  }
+
+  .xs\:bg-scroll\:visited:visited {
+    background-attachment: scroll;
+  }
+}
+@media (min-width: 640px) and (max-width: 767px) {
+  .sm\:bg-fixed {
+    background-attachment: fixed;
+  }
+
+  .sm\:bg-fixed\:active:active {
+    background-attachment: fixed;
+  }
+
+  .sm\:bg-fixed\:checked:checked {
+    background-attachment: fixed;
+  }
+
+  .sm\:bg-fixed\:disabled:disabled {
+    background-attachment: fixed;
+  }
+
+  .sm\:bg-fixed\:focus:focus {
+    background-attachment: fixed;
+  }
+
+  .sm\:bg-fixed\:hover:hover {
+    background-attachment: fixed;
+  }
+
+  .sm\:bg-fixed\:required:required {
+    background-attachment: fixed;
+  }
+
+  .sm\:bg-fixed\:visited:visited {
+    background-attachment: fixed;
+  }
+
+  .sm\:bg-local {
+    background-attachment: local;
+  }
+
+  .sm\:bg-local\:active:active {
+    background-attachment: local;
+  }
+
+  .sm\:bg-local\:checked:checked {
+    background-attachment: local;
+  }
+
+  .sm\:bg-local\:disabled:disabled {
+    background-attachment: local;
+  }
+
+  .sm\:bg-local\:focus:focus {
+    background-attachment: local;
+  }
+
+  .sm\:bg-local\:hover:hover {
+    background-attachment: local;
+  }
+
+  .sm\:bg-local\:required:required {
+    background-attachment: local;
+  }
+
+  .sm\:bg-local\:visited:visited {
+    background-attachment: local;
+  }
+
+  .sm\:bg-scroll {
+    background-attachment: scroll;
+  }
+
+  .sm\:bg-scroll\:active:active {
+    background-attachment: scroll;
+  }
+
+  .sm\:bg-scroll\:checked:checked {
+    background-attachment: scroll;
+  }
+
+  .sm\:bg-scroll\:disabled:disabled {
+    background-attachment: scroll;
+  }
+
+  .sm\:bg-scroll\:focus:focus {
+    background-attachment: scroll;
+  }
+
+  .sm\:bg-scroll\:hover:hover {
+    background-attachment: scroll;
+  }
+
+  .sm\:bg-scroll\:required:required {
+    background-attachment: scroll;
+  }
+
+  .sm\:bg-scroll\:visited:visited {
+    background-attachment: scroll;
+  }
+}
+@media (min-width: 768px) and (max-width: 1023px) {
+  .md\:bg-fixed {
+    background-attachment: fixed;
+  }
+
+  .md\:bg-fixed\:active:active {
+    background-attachment: fixed;
+  }
+
+  .md\:bg-fixed\:checked:checked {
+    background-attachment: fixed;
+  }
+
+  .md\:bg-fixed\:disabled:disabled {
+    background-attachment: fixed;
+  }
+
+  .md\:bg-fixed\:focus:focus {
+    background-attachment: fixed;
+  }
+
+  .md\:bg-fixed\:hover:hover {
+    background-attachment: fixed;
+  }
+
+  .md\:bg-fixed\:required:required {
+    background-attachment: fixed;
+  }
+
+  .md\:bg-fixed\:visited:visited {
+    background-attachment: fixed;
+  }
+
+  .md\:bg-local {
+    background-attachment: local;
+  }
+
+  .md\:bg-local\:active:active {
+    background-attachment: local;
+  }
+
+  .md\:bg-local\:checked:checked {
+    background-attachment: local;
+  }
+
+  .md\:bg-local\:disabled:disabled {
+    background-attachment: local;
+  }
+
+  .md\:bg-local\:focus:focus {
+    background-attachment: local;
+  }
+
+  .md\:bg-local\:hover:hover {
+    background-attachment: local;
+  }
+
+  .md\:bg-local\:required:required {
+    background-attachment: local;
+  }
+
+  .md\:bg-local\:visited:visited {
+    background-attachment: local;
+  }
+
+  .md\:bg-scroll {
+    background-attachment: scroll;
+  }
+
+  .md\:bg-scroll\:active:active {
+    background-attachment: scroll;
+  }
+
+  .md\:bg-scroll\:checked:checked {
+    background-attachment: scroll;
+  }
+
+  .md\:bg-scroll\:disabled:disabled {
+    background-attachment: scroll;
+  }
+
+  .md\:bg-scroll\:focus:focus {
+    background-attachment: scroll;
+  }
+
+  .md\:bg-scroll\:hover:hover {
+    background-attachment: scroll;
+  }
+
+  .md\:bg-scroll\:required:required {
+    background-attachment: scroll;
+  }
+
+  .md\:bg-scroll\:visited:visited {
+    background-attachment: scroll;
+  }
+}
+@media (min-width: 1024px) and (max-width: 2000px) {
+  .lg\:bg-fixed {
+    background-attachment: fixed;
+  }
+
+  .lg\:bg-fixed\:active:active {
+    background-attachment: fixed;
+  }
+
+  .lg\:bg-fixed\:checked:checked {
+    background-attachment: fixed;
+  }
+
+  .lg\:bg-fixed\:disabled:disabled {
+    background-attachment: fixed;
+  }
+
+  .lg\:bg-fixed\:focus:focus {
+    background-attachment: fixed;
+  }
+
+  .lg\:bg-fixed\:hover:hover {
+    background-attachment: fixed;
+  }
+
+  .lg\:bg-fixed\:required:required {
+    background-attachment: fixed;
+  }
+
+  .lg\:bg-fixed\:visited:visited {
+    background-attachment: fixed;
+  }
+
+  .lg\:bg-local {
+    background-attachment: local;
+  }
+
+  .lg\:bg-local\:active:active {
+    background-attachment: local;
+  }
+
+  .lg\:bg-local\:checked:checked {
+    background-attachment: local;
+  }
+
+  .lg\:bg-local\:disabled:disabled {
+    background-attachment: local;
+  }
+
+  .lg\:bg-local\:focus:focus {
+    background-attachment: local;
+  }
+
+  .lg\:bg-local\:hover:hover {
+    background-attachment: local;
+  }
+
+  .lg\:bg-local\:required:required {
+    background-attachment: local;
+  }
+
+  .lg\:bg-local\:visited:visited {
+    background-attachment: local;
+  }
+
+  .lg\:bg-scroll {
+    background-attachment: scroll;
+  }
+
+  .lg\:bg-scroll\:active:active {
+    background-attachment: scroll;
+  }
+
+  .lg\:bg-scroll\:checked:checked {
+    background-attachment: scroll;
+  }
+
+  .lg\:bg-scroll\:disabled:disabled {
+    background-attachment: scroll;
+  }
+
+  .lg\:bg-scroll\:focus:focus {
+    background-attachment: scroll;
+  }
+
+  .lg\:bg-scroll\:hover:hover {
+    background-attachment: scroll;
+  }
+
+  .lg\:bg-scroll\:required:required {
+    background-attachment: scroll;
+  }
+
+  .lg\:bg-scroll\:visited:visited {
+    background-attachment: scroll;
+  }
+}

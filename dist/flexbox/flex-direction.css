@@ -1,0 +1,644 @@
+.flex-row {
+  flex-direction: row;
+}
+
+.flex-row\:active:active {
+  flex-direction: row;
+}
+
+.flex-row\:checked:checked {
+  flex-direction: row;
+}
+
+.flex-row\:disabled:disabled {
+  flex-direction: row;
+}
+
+.flex-row\:focus:focus {
+  flex-direction: row;
+}
+
+.flex-row\:hover:hover {
+  flex-direction: row;
+}
+
+.flex-row\:required:required {
+  flex-direction: row;
+}
+
+.flex-row\:visited:visited {
+  flex-direction: row;
+}
+
+.flex-row-reverse {
+  flex-direction: row-reverse;
+}
+
+.flex-row-reverse\:active:active {
+  flex-direction: row-reverse;
+}
+
+.flex-row-reverse\:checked:checked {
+  flex-direction: row-reverse;
+}
+
+.flex-row-reverse\:disabled:disabled {
+  flex-direction: row-reverse;
+}
+
+.flex-row-reverse\:focus:focus {
+  flex-direction: row-reverse;
+}
+
+.flex-row-reverse\:hover:hover {
+  flex-direction: row-reverse;
+}
+
+.flex-row-reverse\:required:required {
+  flex-direction: row-reverse;
+}
+
+.flex-row-reverse\:visited:visited {
+  flex-direction: row-reverse;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
+.flex-col\:active:active {
+  flex-direction: column;
+}
+
+.flex-col\:checked:checked {
+  flex-direction: column;
+}
+
+.flex-col\:disabled:disabled {
+  flex-direction: column;
+}
+
+.flex-col\:focus:focus {
+  flex-direction: column;
+}
+
+.flex-col\:hover:hover {
+  flex-direction: column;
+}
+
+.flex-col\:required:required {
+  flex-direction: column;
+}
+
+.flex-col\:visited:visited {
+  flex-direction: column;
+}
+
+.flex-col-reverse {
+  flex-direction: column-reverse;
+}
+
+.flex-col-reverse\:active:active {
+  flex-direction: column-reverse;
+}
+
+.flex-col-reverse\:checked:checked {
+  flex-direction: column-reverse;
+}
+
+.flex-col-reverse\:disabled:disabled {
+  flex-direction: column-reverse;
+}
+
+.flex-col-reverse\:focus:focus {
+  flex-direction: column-reverse;
+}
+
+.flex-col-reverse\:hover:hover {
+  flex-direction: column-reverse;
+}
+
+.flex-col-reverse\:required:required {
+  flex-direction: column-reverse;
+}
+
+.flex-col-reverse\:visited:visited {
+  flex-direction: column-reverse;
+}
+
+@media (min-width: 0px) and (max-width: 639px) {
+  .xs\:flex-row {
+    flex-direction: row;
+  }
+
+  .xs\:flex-row\:active:active {
+    flex-direction: row;
+  }
+
+  .xs\:flex-row\:checked:checked {
+    flex-direction: row;
+  }
+
+  .xs\:flex-row\:disabled:disabled {
+    flex-direction: row;
+  }
+
+  .xs\:flex-row\:focus:focus {
+    flex-direction: row;
+  }
+
+  .xs\:flex-row\:hover:hover {
+    flex-direction: row;
+  }
+
+  .xs\:flex-row\:required:required {
+    flex-direction: row;
+  }
+
+  .xs\:flex-row\:visited:visited {
+    flex-direction: row;
+  }
+
+  .xs\:flex-row-reverse {
+    flex-direction: row-reverse;
+  }
+
+  .xs\:flex-row-reverse\:active:active {
+    flex-direction: row-reverse;
+  }
+
+  .xs\:flex-row-reverse\:checked:checked {
+    flex-direction: row-reverse;
+  }
+
+  .xs\:flex-row-reverse\:disabled:disabled {
+    flex-direction: row-reverse;
+  }
+
+  .xs\:flex-row-reverse\:focus:focus {
+    flex-direction: row-reverse;
+  }
+
+  .xs\:flex-row-reverse\:hover:hover {
+    flex-direction: row-reverse;
+  }
+
+  .xs\:flex-row-reverse\:required:required {
+    flex-direction: row-reverse;
+  }
+
+  .xs\:flex-row-reverse\:visited:visited {
+    flex-direction: row-reverse;
+  }
+
+  .xs\:flex-col {
+    flex-direction: column;
+  }
+
+  .xs\:flex-col\:active:active {
+    flex-direction: column;
+  }
+
+  .xs\:flex-col\:checked:checked {
+    flex-direction: column;
+  }
+
+  .xs\:flex-col\:disabled:disabled {
+    flex-direction: column;
+  }
+
+  .xs\:flex-col\:focus:focus {
+    flex-direction: column;
+  }
+
+  .xs\:flex-col\:hover:hover {
+    flex-direction: column;
+  }
+
+  .xs\:flex-col\:required:required {
+    flex-direction: column;
+  }
+
+  .xs\:flex-col\:visited:visited {
+    flex-direction: column;
+  }
+
+  .xs\:flex-col-reverse {
+    flex-direction: column-reverse;
+  }
+
+  .xs\:flex-col-reverse\:active:active {
+    flex-direction: column-reverse;
+  }
+
+  .xs\:flex-col-reverse\:checked:checked {
+    flex-direction: column-reverse;
+  }
+
+  .xs\:flex-col-reverse\:disabled:disabled {
+    flex-direction: column-reverse;
+  }
+
+  .xs\:flex-col-reverse\:focus:focus {
+    flex-direction: column-reverse;
+  }
+
+  .xs\:flex-col-reverse\:hover:hover {
+    flex-direction: column-reverse;
+  }
+
+  .xs\:flex-col-reverse\:required:required {
+    flex-direction: column-reverse;
+  }
+
+  .xs\:flex-col-reverse\:visited:visited {
+    flex-direction: column-reverse;
+  }
+}
+@media (min-width: 640px) and (max-width: 767px) {
+  .sm\:flex-row {
+    flex-direction: row;
+  }
+
+  .sm\:flex-row\:active:active {
+    flex-direction: row;
+  }
+
+  .sm\:flex-row\:checked:checked {
+    flex-direction: row;
+  }
+
+  .sm\:flex-row\:disabled:disabled {
+    flex-direction: row;
+  }
+
+  .sm\:flex-row\:focus:focus {
+    flex-direction: row;
+  }
+
+  .sm\:flex-row\:hover:hover {
+    flex-direction: row;
+  }
+
+  .sm\:flex-row\:required:required {
+    flex-direction: row;
+  }
+
+  .sm\:flex-row\:visited:visited {
+    flex-direction: row;
+  }
+
+  .sm\:flex-row-reverse {
+    flex-direction: row-reverse;
+  }
+
+  .sm\:flex-row-reverse\:active:active {
+    flex-direction: row-reverse;
+  }
+
+  .sm\:flex-row-reverse\:checked:checked {
+    flex-direction: row-reverse;
+  }
+
+  .sm\:flex-row-reverse\:disabled:disabled {
+    flex-direction: row-reverse;
+  }
+
+  .sm\:flex-row-reverse\:focus:focus {
+    flex-direction: row-reverse;
+  }
+
+  .sm\:flex-row-reverse\:hover:hover {
+    flex-direction: row-reverse;
+  }
+
+  .sm\:flex-row-reverse\:required:required {
+    flex-direction: row-reverse;
+  }
+
+  .sm\:flex-row-reverse\:visited:visited {
+    flex-direction: row-reverse;
+  }
+
+  .sm\:flex-col {
+    flex-direction: column;
+  }
+
+  .sm\:flex-col\:active:active {
+    flex-direction: column;
+  }
+
+  .sm\:flex-col\:checked:checked {
+    flex-direction: column;
+  }
+
+  .sm\:flex-col\:disabled:disabled {
+    flex-direction: column;
+  }
+
+  .sm\:flex-col\:focus:focus {
+    flex-direction: column;
+  }
+
+  .sm\:flex-col\:hover:hover {
+    flex-direction: column;
+  }
+
+  .sm\:flex-col\:required:required {
+    flex-direction: column;
+  }
+
+  .sm\:flex-col\:visited:visited {
+    flex-direction: column;
+  }
+
+  .sm\:flex-col-reverse {
+    flex-direction: column-reverse;
+  }
+
+  .sm\:flex-col-reverse\:active:active {
+    flex-direction: column-reverse;
+  }
+
+  .sm\:flex-col-reverse\:checked:checked {
+    flex-direction: column-reverse;
+  }
+
+  .sm\:flex-col-reverse\:disabled:disabled {
+    flex-direction: column-reverse;
+  }
+
+  .sm\:flex-col-reverse\:focus:focus {
+    flex-direction: column-reverse;
+  }
+
+  .sm\:flex-col-reverse\:hover:hover {
+    flex-direction: column-reverse;
+  }
+
+  .sm\:flex-col-reverse\:required:required {
+    flex-direction: column-reverse;
+  }
+
+  .sm\:flex-col-reverse\:visited:visited {
+    flex-direction: column-reverse;
+  }
+}
+@media (min-width: 768px) and (max-width: 1023px) {
+  .md\:flex-row {
+    flex-direction: row;
+  }
+
+  .md\:flex-row\:active:active {
+    flex-direction: row;
+  }
+
+  .md\:flex-row\:checked:checked {
+    flex-direction: row;
+  }
+
+  .md\:flex-row\:disabled:disabled {
+    flex-direction: row;
+  }
+
+  .md\:flex-row\:focus:focus {
+    flex-direction: row;
+  }
+
+  .md\:flex-row\:hover:hover {
+    flex-direction: row;
+  }
+
+  .md\:flex-row\:required:required {
+    flex-direction: row;
+  }
+
+  .md\:flex-row\:visited:visited {
+    flex-direction: row;
+  }
+
+  .md\:flex-row-reverse {
+    flex-direction: row-reverse;
+  }
+
+  .md\:flex-row-reverse\:active:active {
+    flex-direction: row-reverse;
+  }
+
+  .md\:flex-row-reverse\:checked:checked {
+    flex-direction: row-reverse;
+  }
+
+  .md\:flex-row-reverse\:disabled:disabled {
+    flex-direction: row-reverse;
+  }
+
+  .md\:flex-row-reverse\:focus:focus {
+    flex-direction: row-reverse;
+  }
+
+  .md\:flex-row-reverse\:hover:hover {
+    flex-direction: row-reverse;
+  }
+
+  .md\:flex-row-reverse\:required:required {
+    flex-direction: row-reverse;
+  }
+
+  .md\:flex-row-reverse\:visited:visited {
+    flex-direction: row-reverse;
+  }
+
+  .md\:flex-col {
+    flex-direction: column;
+  }
+
+  .md\:flex-col\:active:active {
+    flex-direction: column;
+  }
+
+  .md\:flex-col\:checked:checked {
+    flex-direction: column;
+  }
+
+  .md\:flex-col\:disabled:disabled {
+    flex-direction: column;
+  }
+
+  .md\:flex-col\:focus:focus {
+    flex-direction: column;
+  }
+
+  .md\:flex-col\:hover:hover {
+    flex-direction: column;
+  }
+
+  .md\:flex-col\:required:required {
+    flex-direction: column;
+  }
+
+  .md\:flex-col\:visited:visited {
+    flex-direction: column;
+  }
+
+  .md\:flex-col-reverse {
+    flex-direction: column-reverse;
+  }
+
+  .md\:flex-col-reverse\:active:active {
+    flex-direction: column-reverse;
+  }
+
+  .md\:flex-col-reverse\:checked:checked {
+    flex-direction: column-reverse;
+  }
+
+  .md\:flex-col-reverse\:disabled:disabled {
+    flex-direction: column-reverse;
+  }
+
+  .md\:flex-col-reverse\:focus:focus {
+    flex-direction: column-reverse;
+  }
+
+  .md\:flex-col-reverse\:hover:hover {
+    flex-direction: column-reverse;
+  }
+
+  .md\:flex-col-reverse\:required:required {
+    flex-direction: column-reverse;
+  }
+
+  .md\:flex-col-reverse\:visited:visited {
+    flex-direction: column-reverse;
+  }
+}
+@media (min-width: 1024px) and (max-width: 2000px) {
+  .lg\:flex-row {
+    flex-direction: row;
+  }
+
+  .lg\:flex-row\:active:active {
+    flex-direction: row;
+  }
+
+  .lg\:flex-row\:checked:checked {
+    flex-direction: row;
+  }
+
+  .lg\:flex-row\:disabled:disabled {
+    flex-direction: row;
+  }
+
+  .lg\:flex-row\:focus:focus {
+    flex-direction: row;
+  }
+
+  .lg\:flex-row\:hover:hover {
+    flex-direction: row;
+  }
+
+  .lg\:flex-row\:required:required {
+    flex-direction: row;
+  }
+
+  .lg\:flex-row\:visited:visited {
+    flex-direction: row;
+  }
+
+  .lg\:flex-row-reverse {
+    flex-direction: row-reverse;
+  }
+
+  .lg\:flex-row-reverse\:active:active {
+    flex-direction: row-reverse;
+  }
+
+  .lg\:flex-row-reverse\:checked:checked {
+    flex-direction: row-reverse;
+  }
+
+  .lg\:flex-row-reverse\:disabled:disabled {
+    flex-direction: row-reverse;
+  }
+
+  .lg\:flex-row-reverse\:focus:focus {
+    flex-direction: row-reverse;
+  }
+
+  .lg\:flex-row-reverse\:hover:hover {
+    flex-direction: row-reverse;
+  }
+
+  .lg\:flex-row-reverse\:required:required {
+    flex-direction: row-reverse;
+  }
+
+  .lg\:flex-row-reverse\:visited:visited {
+    flex-direction: row-reverse;
+  }
+
+  .lg\:flex-col {
+    flex-direction: column;
+  }
+
+  .lg\:flex-col\:active:active {
+    flex-direction: column;
+  }
+
+  .lg\:flex-col\:checked:checked {
+    flex-direction: column;
+  }
+
+  .lg\:flex-col\:disabled:disabled {
+    flex-direction: column;
+  }
+
+  .lg\:flex-col\:focus:focus {
+    flex-direction: column;
+  }
+
+  .lg\:flex-col\:hover:hover {
+    flex-direction: column;
+  }
+
+  .lg\:flex-col\:required:required {
+    flex-direction: column;
+  }
+
+  .lg\:flex-col\:visited:visited {
+    flex-direction: column;
+  }
+
+  .lg\:flex-col-reverse {
+    flex-direction: column-reverse;
+  }
+
+  .lg\:flex-col-reverse\:active:active {
+    flex-direction: column-reverse;
+  }
+
+  .lg\:flex-col-reverse\:checked:checked {
+    flex-direction: column-reverse;
+  }
+
+  .lg\:flex-col-reverse\:disabled:disabled {
+    flex-direction: column-reverse;
+  }
+
+  .lg\:flex-col-reverse\:focus:focus {
+    flex-direction: column-reverse;
+  }
+
+  .lg\:flex-col-reverse\:hover:hover {
+    flex-direction: column-reverse;
+  }
+
+  .lg\:flex-col-reverse\:required:required {
+    flex-direction: column-reverse;
+  }
+
+  .lg\:flex-col-reverse\:visited:visited {
+    flex-direction: column-reverse;
+  }
+}

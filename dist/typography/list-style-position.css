@@ -1,0 +1,324 @@
+.list-inside {
+  list-style-position: inside;
+}
+
+.list-inside\:active:active {
+  list-style-position: inside;
+}
+
+.list-inside\:checked:checked {
+  list-style-position: inside;
+}
+
+.list-inside\:disabled:disabled {
+  list-style-position: inside;
+}
+
+.list-inside\:focus:focus {
+  list-style-position: inside;
+}
+
+.list-inside\:hover:hover {
+  list-style-position: inside;
+}
+
+.list-inside\:required:required {
+  list-style-position: inside;
+}
+
+.list-inside\:visited:visited {
+  list-style-position: inside;
+}
+
+.list-outside {
+  list-style-position: outside;
+}
+
+.list-outside\:active:active {
+  list-style-position: outside;
+}
+
+.list-outside\:checked:checked {
+  list-style-position: outside;
+}
+
+.list-outside\:disabled:disabled {
+  list-style-position: outside;
+}
+
+.list-outside\:focus:focus {
+  list-style-position: outside;
+}
+
+.list-outside\:hover:hover {
+  list-style-position: outside;
+}
+
+.list-outside\:required:required {
+  list-style-position: outside;
+}
+
+.list-outside\:visited:visited {
+  list-style-position: outside;
+}
+
+@media (min-width: 0px) and (max-width: 639px) {
+  .xs\:list-inside {
+    list-style-position: inside;
+  }
+
+  .xs\:list-inside\:active:active {
+    list-style-position: inside;
+  }
+
+  .xs\:list-inside\:checked:checked {
+    list-style-position: inside;
+  }
+
+  .xs\:list-inside\:disabled:disabled {
+    list-style-position: inside;
+  }
+
+  .xs\:list-inside\:focus:focus {
+    list-style-position: inside;
+  }
+
+  .xs\:list-inside\:hover:hover {
+    list-style-position: inside;
+  }
+
+  .xs\:list-inside\:required:required {
+    list-style-position: inside;
+  }
+
+  .xs\:list-inside\:visited:visited {
+    list-style-position: inside;
+  }
+
+  .xs\:list-outside {
+    list-style-position: outside;
+  }
+
+  .xs\:list-outside\:active:active {
+    list-style-position: outside;
+  }
+
+  .xs\:list-outside\:checked:checked {
+    list-style-position: outside;
+  }
+
+  .xs\:list-outside\:disabled:disabled {
+    list-style-position: outside;
+  }
+
+  .xs\:list-outside\:focus:focus {
+    list-style-position: outside;
+  }
+
+  .xs\:list-outside\:hover:hover {
+    list-style-position: outside;
+  }
+
+  .xs\:list-outside\:required:required {
+    list-style-position: outside;
+  }
+
+  .xs\:list-outside\:visited:visited {
+    list-style-position: outside;
+  }
+}
+@media (min-width: 640px) and (max-width: 767px) {
+  .sm\:list-inside {
+    list-style-position: inside;
+  }
+
+  .sm\:list-inside\:active:active {
+    list-style-position: inside;
+  }
+
+  .sm\:list-inside\:checked:checked {
+    list-style-position: inside;
+  }
+
+  .sm\:list-inside\:disabled:disabled {
+    list-style-position: inside;
+  }
+
+  .sm\:list-inside\:focus:focus {
+    list-style-position: inside;
+  }
+
+  .sm\:list-inside\:hover:hover {
+    list-style-position: inside;
+  }
+
+  .sm\:list-inside\:required:required {
+    list-style-position: inside;
+  }
+
+  .sm\:list-inside\:visited:visited {
+    list-style-position: inside;
+  }
+
+  .sm\:list-outside {
+    list-style-position: outside;
+  }
+
+  .sm\:list-outside\:active:active {
+    list-style-position: outside;
+  }
+
+  .sm\:list-outside\:checked:checked {
+    list-style-position: outside;
+  }
+
+  .sm\:list-outside\:disabled:disabled {
+    list-style-position: outside;
+  }
+
+  .sm\:list-outside\:focus:focus {
+    list-style-position: outside;
+  }
+
+  .sm\:list-outside\:hover:hover {
+    list-style-position: outside;
+  }
+
+  .sm\:list-outside\:required:required {
+    list-style-position: outside;
+  }
+
+  .sm\:list-outside\:visited:visited {
+    list-style-position: outside;
+  }
+}
+@media (min-width: 768px) and (max-width: 1023px) {
+  .md\:list-inside {
+    list-style-position: inside;
+  }
+
+  .md\:list-inside\:active:active {
+    list-style-position: inside;
+  }
+
+  .md\:list-inside\:checked:checked {
+    list-style-position: inside;
+  }
+
+  .md\:list-inside\:disabled:disabled {
+    list-style-position: inside;
+  }
+
+  .md\:list-inside\:focus:focus {
+    list-style-position: inside;
+  }
+
+  .md\:list-inside\:hover:hover {
+    list-style-position: inside;
+  }
+
+  .md\:list-inside\:required:required {
+    list-style-position: inside;
+  }
+
+  .md\:list-inside\:visited:visited {
+    list-style-position: inside;
+  }
+
+  .md\:list-outside {
+    list-style-position: outside;
+  }
+
+  .md\:list-outside\:active:active {
+    list-style-position: outside;
+  }
+
+  .md\:list-outside\:checked:checked {
+    list-style-position: outside;
+  }
+
+  .md\:list-outside\:disabled:disabled {
+    list-style-position: outside;
+  }
+
+  .md\:list-outside\:focus:focus {
+    list-style-position: outside;
+  }
+
+  .md\:list-outside\:hover:hover {
+    list-style-position: outside;
+  }
+
+  .md\:list-outside\:required:required {
+    list-style-position: outside;
+  }
+
+  .md\:list-outside\:visited:visited {
+    list-style-position: outside;
+  }
+}
+@media (min-width: 1024px) and (max-width: 2000px) {
+  .lg\:list-inside {
+    list-style-position: inside;
+  }
+
+  .lg\:list-inside\:active:active {
+    list-style-position: inside;
+  }
+
+  .lg\:list-inside\:checked:checked {
+    list-style-position: inside;
+  }
+
+  .lg\:list-inside\:disabled:disabled {
+    list-style-position: inside;
+  }
+
+  .lg\:list-inside\:focus:focus {
+    list-style-position: inside;
+  }
+
+  .lg\:list-inside\:hover:hover {
+    list-style-position: inside;
+  }
+
+  .lg\:list-inside\:required:required {
+    list-style-position: inside;
+  }
+
+  .lg\:list-inside\:visited:visited {
+    list-style-position: inside;
+  }
+
+  .lg\:list-outside {
+    list-style-position: outside;
+  }
+
+  .lg\:list-outside\:active:active {
+    list-style-position: outside;
+  }
+
+  .lg\:list-outside\:checked:checked {
+    list-style-position: outside;
+  }
+
+  .lg\:list-outside\:disabled:disabled {
+    list-style-position: outside;
+  }
+
+  .lg\:list-outside\:focus:focus {
+    list-style-position: outside;
+  }
+
+  .lg\:list-outside\:hover:hover {
+    list-style-position: outside;
+  }
+
+  .lg\:list-outside\:required:required {
+    list-style-position: outside;
+  }
+
+  .lg\:list-outside\:visited:visited {
+    list-style-position: outside;
+  }
+}

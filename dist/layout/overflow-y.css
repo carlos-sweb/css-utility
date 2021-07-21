@@ -1,0 +1,644 @@
+.overflow-y-auto {
+  overflow-y: auto;
+}
+
+.overflow-y-auto\:active:active {
+  overflow-y: auto;
+}
+
+.overflow-y-auto\:checked:checked {
+  overflow-y: auto;
+}
+
+.overflow-y-auto\:disabled:disabled {
+  overflow-y: auto;
+}
+
+.overflow-y-auto\:focus:focus {
+  overflow-y: auto;
+}
+
+.overflow-y-auto\:hover:hover {
+  overflow-y: auto;
+}
+
+.overflow-y-auto\:required:required {
+  overflow-y: auto;
+}
+
+.overflow-y-auto\:visited:visited {
+  overflow-y: auto;
+}
+
+.overflow-y-hidden {
+  overflow-y: hidden;
+}
+
+.overflow-y-hidden\:active:active {
+  overflow-y: hidden;
+}
+
+.overflow-y-hidden\:checked:checked {
+  overflow-y: hidden;
+}
+
+.overflow-y-hidden\:disabled:disabled {
+  overflow-y: hidden;
+}
+
+.overflow-y-hidden\:focus:focus {
+  overflow-y: hidden;
+}
+
+.overflow-y-hidden\:hover:hover {
+  overflow-y: hidden;
+}
+
+.overflow-y-hidden\:required:required {
+  overflow-y: hidden;
+}
+
+.overflow-y-hidden\:visited:visited {
+  overflow-y: hidden;
+}
+
+.overflow-y-visible {
+  overflow-y: visible;
+}
+
+.overflow-y-visible\:active:active {
+  overflow-y: visible;
+}
+
+.overflow-y-visible\:checked:checked {
+  overflow-y: visible;
+}
+
+.overflow-y-visible\:disabled:disabled {
+  overflow-y: visible;
+}
+
+.overflow-y-visible\:focus:focus {
+  overflow-y: visible;
+}
+
+.overflow-y-visible\:hover:hover {
+  overflow-y: visible;
+}
+
+.overflow-y-visible\:required:required {
+  overflow-y: visible;
+}
+
+.overflow-y-visible\:visited:visited {
+  overflow-y: visible;
+}
+
+.overflow-y-scroll {
+  overflow-y: scroll;
+}
+
+.overflow-y-scroll\:active:active {
+  overflow-y: scroll;
+}
+
+.overflow-y-scroll\:checked:checked {
+  overflow-y: scroll;
+}
+
+.overflow-y-scroll\:disabled:disabled {
+  overflow-y: scroll;
+}
+
+.overflow-y-scroll\:focus:focus {
+  overflow-y: scroll;
+}
+
+.overflow-y-scroll\:hover:hover {
+  overflow-y: scroll;
+}
+
+.overflow-y-scroll\:required:required {
+  overflow-y: scroll;
+}
+
+.overflow-y-scroll\:visited:visited {
+  overflow-y: scroll;
+}
+
+@media (min-width: 0px) and (max-width: 639px) {
+  .xs\:overflow-y-auto {
+    overflow-y: auto;
+  }
+
+  .xs\:overflow-y-auto\:active:active {
+    overflow-y: auto;
+  }
+
+  .xs\:overflow-y-auto\:checked:checked {
+    overflow-y: auto;
+  }
+
+  .xs\:overflow-y-auto\:disabled:disabled {
+    overflow-y: auto;
+  }
+
+  .xs\:overflow-y-auto\:focus:focus {
+    overflow-y: auto;
+  }
+
+  .xs\:overflow-y-auto\:hover:hover {
+    overflow-y: auto;
+  }
+
+  .xs\:overflow-y-auto\:required:required {
+    overflow-y: auto;
+  }
+
+  .xs\:overflow-y-auto\:visited:visited {
+    overflow-y: auto;
+  }
+
+  .xs\:overflow-y-hidden {
+    overflow-y: hidden;
+  }
+
+  .xs\:overflow-y-hidden\:active:active {
+    overflow-y: hidden;
+  }
+
+  .xs\:overflow-y-hidden\:checked:checked {
+    overflow-y: hidden;
+  }
+
+  .xs\:overflow-y-hidden\:disabled:disabled {
+    overflow-y: hidden;
+  }
+
+  .xs\:overflow-y-hidden\:focus:focus {
+    overflow-y: hidden;
+  }
+
+  .xs\:overflow-y-hidden\:hover:hover {
+    overflow-y: hidden;
+  }
+
+  .xs\:overflow-y-hidden\:required:required {
+    overflow-y: hidden;
+  }
+
+  .xs\:overflow-y-hidden\:visited:visited {
+    overflow-y: hidden;
+  }
+
+  .xs\:overflow-y-visible {
+    overflow-y: visible;
+  }
+
+  .xs\:overflow-y-visible\:active:active {
+    overflow-y: visible;
+  }
+
+  .xs\:overflow-y-visible\:checked:checked {
+    overflow-y: visible;
+  }
+
+  .xs\:overflow-y-visible\:disabled:disabled {
+    overflow-y: visible;
+  }
+
+  .xs\:overflow-y-visible\:focus:focus {
+    overflow-y: visible;
+  }
+
+  .xs\:overflow-y-visible\:hover:hover {
+    overflow-y: visible;
+  }
+
+  .xs\:overflow-y-visible\:required:required {
+    overflow-y: visible;
+  }
+
+  .xs\:overflow-y-visible\:visited:visited {
+    overflow-y: visible;
+  }
+
+  .xs\:overflow-y-scroll {
+    overflow-y: scroll;
+  }
+
+  .xs\:overflow-y-scroll\:active:active {
+    overflow-y: scroll;
+  }
+
+  .xs\:overflow-y-scroll\:checked:checked {
+    overflow-y: scroll;
+  }
+
+  .xs\:overflow-y-scroll\:disabled:disabled {
+    overflow-y: scroll;
+  }
+
+  .xs\:overflow-y-scroll\:focus:focus {
+    overflow-y: scroll;
+  }
+
+  .xs\:overflow-y-scroll\:hover:hover {
+    overflow-y: scroll;
+  }
+
+  .xs\:overflow-y-scroll\:required:required {
+    overflow-y: scroll;
+  }
+
+  .xs\:overflow-y-scroll\:visited:visited {
+    overflow-y: scroll;
+  }
+}
+@media (min-width: 640px) and (max-width: 767px) {
+  .sm\:overflow-y-auto {
+    overflow-y: auto;
+  }
+
+  .sm\:overflow-y-auto\:active:active {
+    overflow-y: auto;
+  }
+
+  .sm\:overflow-y-auto\:checked:checked {
+    overflow-y: auto;
+  }
+
+  .sm\:overflow-y-auto\:disabled:disabled {
+    overflow-y: auto;
+  }
+
+  .sm\:overflow-y-auto\:focus:focus {
+    overflow-y: auto;
+  }
+
+  .sm\:overflow-y-auto\:hover:hover {
+    overflow-y: auto;
+  }
+
+  .sm\:overflow-y-auto\:required:required {
+    overflow-y: auto;
+  }
+
+  .sm\:overflow-y-auto\:visited:visited {
+    overflow-y: auto;
+  }
+
+  .sm\:overflow-y-hidden {
+    overflow-y: hidden;
+  }
+
+  .sm\:overflow-y-hidden\:active:active {
+    overflow-y: hidden;
+  }
+
+  .sm\:overflow-y-hidden\:checked:checked {
+    overflow-y: hidden;
+  }
+
+  .sm\:overflow-y-hidden\:disabled:disabled {
+    overflow-y: hidden;
+  }
+
+  .sm\:overflow-y-hidden\:focus:focus {
+    overflow-y: hidden;
+  }
+
+  .sm\:overflow-y-hidden\:hover:hover {
+    overflow-y: hidden;
+  }
+
+  .sm\:overflow-y-hidden\:required:required {
+    overflow-y: hidden;
+  }
+
+  .sm\:overflow-y-hidden\:visited:visited {
+    overflow-y: hidden;
+  }
+
+  .sm\:overflow-y-visible {
+    overflow-y: visible;
+  }
+
+  .sm\:overflow-y-visible\:active:active {
+    overflow-y: visible;
+  }
+
+  .sm\:overflow-y-visible\:checked:checked {
+    overflow-y: visible;
+  }
+
+  .sm\:overflow-y-visible\:disabled:disabled {
+    overflow-y: visible;
+  }
+
+  .sm\:overflow-y-visible\:focus:focus {
+    overflow-y: visible;
+  }
+
+  .sm\:overflow-y-visible\:hover:hover {
+    overflow-y: visible;
+  }
+
+  .sm\:overflow-y-visible\:required:required {
+    overflow-y: visible;
+  }
+
+  .sm\:overflow-y-visible\:visited:visited {
+    overflow-y: visible;
+  }
+
+  .sm\:overflow-y-scroll {
+    overflow-y: scroll;
+  }
+
+  .sm\:overflow-y-scroll\:active:active {
+    overflow-y: scroll;
+  }
+
+  .sm\:overflow-y-scroll\:checked:checked {
+    overflow-y: scroll;
+  }
+
+  .sm\:overflow-y-scroll\:disabled:disabled {
+    overflow-y: scroll;
+  }
+
+  .sm\:overflow-y-scroll\:focus:focus {
+    overflow-y: scroll;
+  }
+
+  .sm\:overflow-y-scroll\:hover:hover {
+    overflow-y: scroll;
+  }
+
+  .sm\:overflow-y-scroll\:required:required {
+    overflow-y: scroll;
+  }
+
+  .sm\:overflow-y-scroll\:visited:visited {
+    overflow-y: scroll;
+  }
+}
+@media (min-width: 768px) and (max-width: 1023px) {
+  .md\:overflow-y-auto {
+    overflow-y: auto;
+  }
+
+  .md\:overflow-y-auto\:active:active {
+    overflow-y: auto;
+  }
+
+  .md\:overflow-y-auto\:checked:checked {
+    overflow-y: auto;
+  }
+
+  .md\:overflow-y-auto\:disabled:disabled {
+    overflow-y: auto;
+  }
+
+  .md\:overflow-y-auto\:focus:focus {
+    overflow-y: auto;
+  }
+
+  .md\:overflow-y-auto\:hover:hover {
+    overflow-y: auto;
+  }
+
+  .md\:overflow-y-auto\:required:required {
+    overflow-y: auto;
+  }
+
+  .md\:overflow-y-auto\:visited:visited {
+    overflow-y: auto;
+  }
+
+  .md\:overflow-y-hidden {
+    overflow-y: hidden;
+  }
+
+  .md\:overflow-y-hidden\:active:active {
+    overflow-y: hidden;
+  }
+
+  .md\:overflow-y-hidden\:checked:checked {
+    overflow-y: hidden;
+  }
+
+  .md\:overflow-y-hidden\:disabled:disabled {
+    overflow-y: hidden;
+  }
+
+  .md\:overflow-y-hidden\:focus:focus {
+    overflow-y: hidden;
+  }
+
+  .md\:overflow-y-hidden\:hover:hover {
+    overflow-y: hidden;
+  }
+
+  .md\:overflow-y-hidden\:required:required {
+    overflow-y: hidden;
+  }
+
+  .md\:overflow-y-hidden\:visited:visited {
+    overflow-y: hidden;
+  }
+
+  .md\:overflow-y-visible {
+    overflow-y: visible;
+  }
+
+  .md\:overflow-y-visible\:active:active {
+    overflow-y: visible;
+  }
+
+  .md\:overflow-y-visible\:checked:checked {
+    overflow-y: visible;
+  }
+
+  .md\:overflow-y-visible\:disabled:disabled {
+    overflow-y: visible;
+  }
+
+  .md\:overflow-y-visible\:focus:focus {
+    overflow-y: visible;
+  }
+
+  .md\:overflow-y-visible\:hover:hover {
+    overflow-y: visible;
+  }
+
+  .md\:overflow-y-visible\:required:required {
+    overflow-y: visible;
+  }
+
+  .md\:overflow-y-visible\:visited:visited {
+    overflow-y: visible;
+  }
+
+  .md\:overflow-y-scroll {
+    overflow-y: scroll;
+  }
+
+  .md\:overflow-y-scroll\:active:active {
+    overflow-y: scroll;
+  }
+
+  .md\:overflow-y-scroll\:checked:checked {
+    overflow-y: scroll;
+  }
+
+  .md\:overflow-y-scroll\:disabled:disabled {
+    overflow-y: scroll;
+  }
+
+  .md\:overflow-y-scroll\:focus:focus {
+    overflow-y: scroll;
+  }
+
+  .md\:overflow-y-scroll\:hover:hover {
+    overflow-y: scroll;
+  }
+
+  .md\:overflow-y-scroll\:required:required {
+    overflow-y: scroll;
+  }
+
+  .md\:overflow-y-scroll\:visited:visited {
+    overflow-y: scroll;
+  }
+}
+@media (min-width: 1024px) and (max-width: 2000px) {
+  .lg\:overflow-y-auto {
+    overflow-y: auto;
+  }
+
+  .lg\:overflow-y-auto\:active:active {
+    overflow-y: auto;
+  }
+
+  .lg\:overflow-y-auto\:checked:checked {
+    overflow-y: auto;
+  }
+
+  .lg\:overflow-y-auto\:disabled:disabled {
+    overflow-y: auto;
+  }
+
+  .lg\:overflow-y-auto\:focus:focus {
+    overflow-y: auto;
+  }
+
+  .lg\:overflow-y-auto\:hover:hover {
+    overflow-y: auto;
+  }
+
+  .lg\:overflow-y-auto\:required:required {
+    overflow-y: auto;
+  }
+
+  .lg\:overflow-y-auto\:visited:visited {
+    overflow-y: auto;
+  }
+
+  .lg\:overflow-y-hidden {
+    overflow-y: hidden;
+  }
+
+  .lg\:overflow-y-hidden\:active:active {
+    overflow-y: hidden;
+  }
+
+  .lg\:overflow-y-hidden\:checked:checked {
+    overflow-y: hidden;
+  }
+
+  .lg\:overflow-y-hidden\:disabled:disabled {
+    overflow-y: hidden;
+  }
+
+  .lg\:overflow-y-hidden\:focus:focus {
+    overflow-y: hidden;
+  }
+
+  .lg\:overflow-y-hidden\:hover:hover {
+    overflow-y: hidden;
+  }
+
+  .lg\:overflow-y-hidden\:required:required {
+    overflow-y: hidden;
+  }
+
+  .lg\:overflow-y-hidden\:visited:visited {
+    overflow-y: hidden;
+  }
+
+  .lg\:overflow-y-visible {
+    overflow-y: visible;
+  }
+
+  .lg\:overflow-y-visible\:active:active {
+    overflow-y: visible;
+  }
+
+  .lg\:overflow-y-visible\:checked:checked {
+    overflow-y: visible;
+  }
+
+  .lg\:overflow-y-visible\:disabled:disabled {
+    overflow-y: visible;
+  }
+
+  .lg\:overflow-y-visible\:focus:focus {
+    overflow-y: visible;
+  }
+
+  .lg\:overflow-y-visible\:hover:hover {
+    overflow-y: visible;
+  }
+
+  .lg\:overflow-y-visible\:required:required {
+    overflow-y: visible;
+  }
+
+  .lg\:overflow-y-visible\:visited:visited {
+    overflow-y: visible;
+  }
+
+  .lg\:overflow-y-scroll {
+    overflow-y: scroll;
+  }
+
+  .lg\:overflow-y-scroll\:active:active {
+    overflow-y: scroll;
+  }
+
+  .lg\:overflow-y-scroll\:checked:checked {
+    overflow-y: scroll;
+  }
+
+  .lg\:overflow-y-scroll\:disabled:disabled {
+    overflow-y: scroll;
+  }
+
+  .lg\:overflow-y-scroll\:focus:focus {
+    overflow-y: scroll;
+  }
+
+  .lg\:overflow-y-scroll\:hover:hover {
+    overflow-y: scroll;
+  }
+
+  .lg\:overflow-y-scroll\:required:required {
+    overflow-y: scroll;
+  }
+
+  .lg\:overflow-y-scroll\:visited:visited {
+    overflow-y: scroll;
+  }
+}

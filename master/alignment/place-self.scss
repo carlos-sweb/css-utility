@@ -1,0 +1,26 @@
+@import "../screen.scss";
+@import "../state.scss";
+@each $key, $value in (place-self-auto:'auto',place-self-center:'center',place-self-start:'start',place-self-end:'end',place-self-stretch:'stretch'){
+	.#{$key}{
+		place-self:#{$value};
+	}
+ @each $valueState in $state{
+	.#{$key}\:#{$valueState}:#{$valueState}{
+		place-self:#{$value};
+	}
+ }
+};
+@each $sizeScreen, $pixel in $screen{
+	@media (min-width: #{map-get($pixel,min)}#{px}) and (max-width: #{map-get($pixel,max)}#{px}){
+		@each $key, $value in (place-self-auto:'auto',place-self-center:'center',place-self-start:'start',place-self-end:'end',place-self-stretch:'stretch'){
+			.#{$sizeScreen}\:#{$key}{
+				place-self:#{$value};
+			}
+      @each $valueState in $state{
+	     .#{$sizeScreen}\:#{$key}\:#{$valueState}:#{$valueState}{
+		     place-self:#{$value};
+	     }
+      }
+		}
+	}
+}

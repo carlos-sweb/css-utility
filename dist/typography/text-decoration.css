@@ -1,0 +1,484 @@
+.underline {
+  text-decoration: underline;
+}
+
+.underline\:active:active {
+  text-decoration: underline;
+}
+
+.underline\:checked:checked {
+  text-decoration: underline;
+}
+
+.underline\:disabled:disabled {
+  text-decoration: underline;
+}
+
+.underline\:focus:focus {
+  text-decoration: underline;
+}
+
+.underline\:hover:hover {
+  text-decoration: underline;
+}
+
+.underline\:required:required {
+  text-decoration: underline;
+}
+
+.underline\:visited:visited {
+  text-decoration: underline;
+}
+
+.line-through {
+  text-decoration: line-through;
+}
+
+.line-through\:active:active {
+  text-decoration: line-through;
+}
+
+.line-through\:checked:checked {
+  text-decoration: line-through;
+}
+
+.line-through\:disabled:disabled {
+  text-decoration: line-through;
+}
+
+.line-through\:focus:focus {
+  text-decoration: line-through;
+}
+
+.line-through\:hover:hover {
+  text-decoration: line-through;
+}
+
+.line-through\:required:required {
+  text-decoration: line-through;
+}
+
+.line-through\:visited:visited {
+  text-decoration: line-through;
+}
+
+.no-underline {
+  text-decoration: none;
+}
+
+.no-underline\:active:active {
+  text-decoration: none;
+}
+
+.no-underline\:checked:checked {
+  text-decoration: none;
+}
+
+.no-underline\:disabled:disabled {
+  text-decoration: none;
+}
+
+.no-underline\:focus:focus {
+  text-decoration: none;
+}
+
+.no-underline\:hover:hover {
+  text-decoration: none;
+}
+
+.no-underline\:required:required {
+  text-decoration: none;
+}
+
+.no-underline\:visited:visited {
+  text-decoration: none;
+}
+
+@media (min-width: 0px) and (max-width: 639px) {
+  .xs\:underline {
+    text-decoration: underline;
+  }
+
+  .xs\:underline\:active:active {
+    text-decoration: underline;
+  }
+
+  .xs\:underline\:checked:checked {
+    text-decoration: underline;
+  }
+
+  .xs\:underline\:disabled:disabled {
+    text-decoration: underline;
+  }
+
+  .xs\:underline\:focus:focus {
+    text-decoration: underline;
+  }
+
+  .xs\:underline\:hover:hover {
+    text-decoration: underline;
+  }
+
+  .xs\:underline\:required:required {
+    text-decoration: underline;
+  }
+
+  .xs\:underline\:visited:visited {
+    text-decoration: underline;
+  }
+
+  .xs\:line-through {
+    text-decoration: line-through;
+  }
+
+  .xs\:line-through\:active:active {
+    text-decoration: line-through;
+  }
+
+  .xs\:line-through\:checked:checked {
+    text-decoration: line-through;
+  }
+
+  .xs\:line-through\:disabled:disabled {
+    text-decoration: line-through;
+  }
+
+  .xs\:line-through\:focus:focus {
+    text-decoration: line-through;
+  }
+
+  .xs\:line-through\:hover:hover {
+    text-decoration: line-through;
+  }
+
+  .xs\:line-through\:required:required {
+    text-decoration: line-through;
+  }
+
+  .xs\:line-through\:visited:visited {
+    text-decoration: line-through;
+  }
+
+  .xs\:no-underline {
+    text-decoration: none;
+  }
+
+  .xs\:no-underline\:active:active {
+    text-decoration: none;
+  }
+
+  .xs\:no-underline\:checked:checked {
+    text-decoration: none;
+  }
+
+  .xs\:no-underline\:disabled:disabled {
+    text-decoration: none;
+  }
+
+  .xs\:no-underline\:focus:focus {
+    text-decoration: none;
+  }
+
+  .xs\:no-underline\:hover:hover {
+    text-decoration: none;
+  }
+
+  .xs\:no-underline\:required:required {
+    text-decoration: none;
+  }
+
+  .xs\:no-underline\:visited:visited {
+    text-decoration: none;
+  }
+}
+@media (min-width: 640px) and (max-width: 767px) {
+  .sm\:underline {
+    text-decoration: underline;
+  }
+
+  .sm\:underline\:active:active {
+    text-decoration: underline;
+  }
+
+  .sm\:underline\:checked:checked {
+    text-decoration: underline;
+  }
+
+  .sm\:underline\:disabled:disabled {
+    text-decoration: underline;
+  }
+
+  .sm\:underline\:focus:focus {
+    text-decoration: underline;
+  }
+
+  .sm\:underline\:hover:hover {
+    text-decoration: underline;
+  }
+
+  .sm\:underline\:required:required {
+    text-decoration: underline;
+  }
+
+  .sm\:underline\:visited:visited {
+    text-decoration: underline;
+  }
+
+  .sm\:line-through {
+    text-decoration: line-through;
+  }
+
+  .sm\:line-through\:active:active {
+    text-decoration: line-through;
+  }
+
+  .sm\:line-through\:checked:checked {
+    text-decoration: line-through;
+  }
+
+  .sm\:line-through\:disabled:disabled {
+    text-decoration: line-through;
+  }
+
+  .sm\:line-through\:focus:focus {
+    text-decoration: line-through;
+  }
+
+  .sm\:line-through\:hover:hover {
+    text-decoration: line-through;
+  }
+
+  .sm\:line-through\:required:required {
+    text-decoration: line-through;
+  }
+
+  .sm\:line-through\:visited:visited {
+    text-decoration: line-through;
+  }
+
+  .sm\:no-underline {
+    text-decoration: none;
+  }
+
+  .sm\:no-underline\:active:active {
+    text-decoration: none;
+  }
+
+  .sm\:no-underline\:checked:checked {
+    text-decoration: none;
+  }
+
+  .sm\:no-underline\:disabled:disabled {
+    text-decoration: none;
+  }
+
+  .sm\:no-underline\:focus:focus {
+    text-decoration: none;
+  }
+
+  .sm\:no-underline\:hover:hover {
+    text-decoration: none;
+  }
+
+  .sm\:no-underline\:required:required {
+    text-decoration: none;
+  }
+
+  .sm\:no-underline\:visited:visited {
+    text-decoration: none;
+  }
+}
+@media (min-width: 768px) and (max-width: 1023px) {
+  .md\:underline {
+    text-decoration: underline;
+  }
+
+  .md\:underline\:active:active {
+    text-decoration: underline;
+  }
+
+  .md\:underline\:checked:checked {
+    text-decoration: underline;
+  }
+
+  .md\:underline\:disabled:disabled {
+    text-decoration: underline;
+  }
+
+  .md\:underline\:focus:focus {
+    text-decoration: underline;
+  }
+
+  .md\:underline\:hover:hover {
+    text-decoration: underline;
+  }
+
+  .md\:underline\:required:required {
+    text-decoration: underline;
+  }
+
+  .md\:underline\:visited:visited {
+    text-decoration: underline;
+  }
+
+  .md\:line-through {
+    text-decoration: line-through;
+  }
+
+  .md\:line-through\:active:active {
+    text-decoration: line-through;
+  }
+
+  .md\:line-through\:checked:checked {
+    text-decoration: line-through;
+  }
+
+  .md\:line-through\:disabled:disabled {
+    text-decoration: line-through;
+  }
+
+  .md\:line-through\:focus:focus {
+    text-decoration: line-through;
+  }
+
+  .md\:line-through\:hover:hover {
+    text-decoration: line-through;
+  }
+
+  .md\:line-through\:required:required {
+    text-decoration: line-through;
+  }
+
+  .md\:line-through\:visited:visited {
+    text-decoration: line-through;
+  }
+
+  .md\:no-underline {
+    text-decoration: none;
+  }
+
+  .md\:no-underline\:active:active {
+    text-decoration: none;
+  }
+
+  .md\:no-underline\:checked:checked {
+    text-decoration: none;
+  }
+
+  .md\:no-underline\:disabled:disabled {
+    text-decoration: none;
+  }
+
+  .md\:no-underline\:focus:focus {
+    text-decoration: none;
+  }
+
+  .md\:no-underline\:hover:hover {
+    text-decoration: none;
+  }
+
+  .md\:no-underline\:required:required {
+    text-decoration: none;
+  }
+
+  .md\:no-underline\:visited:visited {
+    text-decoration: none;
+  }
+}
+@media (min-width: 1024px) and (max-width: 2000px) {
+  .lg\:underline {
+    text-decoration: underline;
+  }
+
+  .lg\:underline\:active:active {
+    text-decoration: underline;
+  }
+
+  .lg\:underline\:checked:checked {
+    text-decoration: underline;
+  }
+
+  .lg\:underline\:disabled:disabled {
+    text-decoration: underline;
+  }
+
+  .lg\:underline\:focus:focus {
+    text-decoration: underline;
+  }
+
+  .lg\:underline\:hover:hover {
+    text-decoration: underline;
+  }
+
+  .lg\:underline\:required:required {
+    text-decoration: underline;
+  }
+
+  .lg\:underline\:visited:visited {
+    text-decoration: underline;
+  }
+
+  .lg\:line-through {
+    text-decoration: line-through;
+  }
+
+  .lg\:line-through\:active:active {
+    text-decoration: line-through;
+  }
+
+  .lg\:line-through\:checked:checked {
+    text-decoration: line-through;
+  }
+
+  .lg\:line-through\:disabled:disabled {
+    text-decoration: line-through;
+  }
+
+  .lg\:line-through\:focus:focus {
+    text-decoration: line-through;
+  }
+
+  .lg\:line-through\:hover:hover {
+    text-decoration: line-through;
+  }
+
+  .lg\:line-through\:required:required {
+    text-decoration: line-through;
+  }
+
+  .lg\:line-through\:visited:visited {
+    text-decoration: line-through;
+  }
+
+  .lg\:no-underline {
+    text-decoration: none;
+  }
+
+  .lg\:no-underline\:active:active {
+    text-decoration: none;
+  }
+
+  .lg\:no-underline\:checked:checked {
+    text-decoration: none;
+  }
+
+  .lg\:no-underline\:disabled:disabled {
+    text-decoration: none;
+  }
+
+  .lg\:no-underline\:focus:focus {
+    text-decoration: none;
+  }
+
+  .lg\:no-underline\:hover:hover {
+    text-decoration: none;
+  }
+
+  .lg\:no-underline\:required:required {
+    text-decoration: none;
+  }
+
+  .lg\:no-underline\:visited:visited {
+    text-decoration: none;
+  }
+}

@@ -1,0 +1,26 @@
+@import "../screen.scss";
+@import "../state.scss";
+@each $key, $value in (border-0:'0px',border-2:'2px',border-4:'4px',border-8:'8px',border:'1px'){
+	.#{$key}{
+		border-width:#{$value};
+	}
+ @each $valueState in $state{
+	.#{$key}\:#{$valueState}:#{$valueState}{
+		border-width:#{$value};
+	}
+ }
+};
+@each $sizeScreen, $pixel in $screen{
+	@media (min-width: #{map-get($pixel,min)}#{px}) and (max-width: #{map-get($pixel,max)}#{px}){
+		@each $key, $value in (border-0:'0px',border-2:'2px',border-4:'4px',border-8:'8px',border:'1px'){
+			.#{$sizeScreen}\:#{$key}{
+				border-width:#{$value};
+			}
+      @each $valueState in $state{
+	     .#{$sizeScreen}\:#{$key}\:#{$valueState}:#{$valueState}{
+		     border-width:#{$value};
+	     }
+      }
+		}
+	}
+}

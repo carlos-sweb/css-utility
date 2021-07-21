@@ -1,0 +1,324 @@
+.italic {
+  font-style: italic;
+}
+
+.italic\:active:active {
+  font-style: italic;
+}
+
+.italic\:checked:checked {
+  font-style: italic;
+}
+
+.italic\:disabled:disabled {
+  font-style: italic;
+}
+
+.italic\:focus:focus {
+  font-style: italic;
+}
+
+.italic\:hover:hover {
+  font-style: italic;
+}
+
+.italic\:required:required {
+  font-style: italic;
+}
+
+.italic\:visited:visited {
+  font-style: italic;
+}
+
+.no-italic {
+  font-style: normal;
+}
+
+.no-italic\:active:active {
+  font-style: normal;
+}
+
+.no-italic\:checked:checked {
+  font-style: normal;
+}
+
+.no-italic\:disabled:disabled {
+  font-style: normal;
+}
+
+.no-italic\:focus:focus {
+  font-style: normal;
+}
+
+.no-italic\:hover:hover {
+  font-style: normal;
+}
+
+.no-italic\:required:required {
+  font-style: normal;
+}
+
+.no-italic\:visited:visited {
+  font-style: normal;
+}
+
+@media (min-width: 0px) and (max-width: 639px) {
+  .xs\:italic {
+    font-style: italic;
+  }
+
+  .xs\:italic\:active:active {
+    font-style: italic;
+  }
+
+  .xs\:italic\:checked:checked {
+    font-style: italic;
+  }
+
+  .xs\:italic\:disabled:disabled {
+    font-style: italic;
+  }
+
+  .xs\:italic\:focus:focus {
+    font-style: italic;
+  }
+
+  .xs\:italic\:hover:hover {
+    font-style: italic;
+  }
+
+  .xs\:italic\:required:required {
+    font-style: italic;
+  }
+
+  .xs\:italic\:visited:visited {
+    font-style: italic;
+  }
+
+  .xs\:no-italic {
+    font-style: normal;
+  }
+
+  .xs\:no-italic\:active:active {
+    font-style: normal;
+  }
+
+  .xs\:no-italic\:checked:checked {
+    font-style: normal;
+  }
+
+  .xs\:no-italic\:disabled:disabled {
+    font-style: normal;
+  }
+
+  .xs\:no-italic\:focus:focus {
+    font-style: normal;
+  }
+
+  .xs\:no-italic\:hover:hover {
+    font-style: normal;
+  }
+
+  .xs\:no-italic\:required:required {
+    font-style: normal;
+  }
+
+  .xs\:no-italic\:visited:visited {
+    font-style: normal;
+  }
+}
+@media (min-width: 640px) and (max-width: 767px) {
+  .sm\:italic {
+    font-style: italic;
+  }
+
+  .sm\:italic\:active:active {
+    font-style: italic;
+  }
+
+  .sm\:italic\:checked:checked {
+    font-style: italic;
+  }
+
+  .sm\:italic\:disabled:disabled {
+    font-style: italic;
+  }
+
+  .sm\:italic\:focus:focus {
+    font-style: italic;
+  }
+
+  .sm\:italic\:hover:hover {
+    font-style: italic;
+  }
+
+  .sm\:italic\:required:required {
+    font-style: italic;
+  }
+
+  .sm\:italic\:visited:visited {
+    font-style: italic;
+  }
+
+  .sm\:no-italic {
+    font-style: normal;
+  }
+
+  .sm\:no-italic\:active:active {
+    font-style: normal;
+  }
+
+  .sm\:no-italic\:checked:checked {
+    font-style: normal;
+  }
+
+  .sm\:no-italic\:disabled:disabled {
+    font-style: normal;
+  }
+
+  .sm\:no-italic\:focus:focus {
+    font-style: normal;
+  }
+
+  .sm\:no-italic\:hover:hover {
+    font-style: normal;
+  }
+
+  .sm\:no-italic\:required:required {
+    font-style: normal;
+  }
+
+  .sm\:no-italic\:visited:visited {
+    font-style: normal;
+  }
+}
+@media (min-width: 768px) and (max-width: 1023px) {
+  .md\:italic {
+    font-style: italic;
+  }
+
+  .md\:italic\:active:active {
+    font-style: italic;
+  }
+
+  .md\:italic\:checked:checked {
+    font-style: italic;
+  }
+
+  .md\:italic\:disabled:disabled {
+    font-style: italic;
+  }
+
+  .md\:italic\:focus:focus {
+    font-style: italic;
+  }
+
+  .md\:italic\:hover:hover {
+    font-style: italic;
+  }
+
+  .md\:italic\:required:required {
+    font-style: italic;
+  }
+
+  .md\:italic\:visited:visited {
+    font-style: italic;
+  }
+
+  .md\:no-italic {
+    font-style: normal;
+  }
+
+  .md\:no-italic\:active:active {
+    font-style: normal;
+  }
+
+  .md\:no-italic\:checked:checked {
+    font-style: normal;
+  }
+
+  .md\:no-italic\:disabled:disabled {
+    font-style: normal;
+  }
+
+  .md\:no-italic\:focus:focus {
+    font-style: normal;
+  }
+
+  .md\:no-italic\:hover:hover {
+    font-style: normal;
+  }
+
+  .md\:no-italic\:required:required {
+    font-style: normal;
+  }
+
+  .md\:no-italic\:visited:visited {
+    font-style: normal;
+  }
+}
+@media (min-width: 1024px) and (max-width: 2000px) {
+  .lg\:italic {
+    font-style: italic;
+  }
+
+  .lg\:italic\:active:active {
+    font-style: italic;
+  }
+
+  .lg\:italic\:checked:checked {
+    font-style: italic;
+  }
+
+  .lg\:italic\:disabled:disabled {
+    font-style: italic;
+  }
+
+  .lg\:italic\:focus:focus {
+    font-style: italic;
+  }
+
+  .lg\:italic\:hover:hover {
+    font-style: italic;
+  }
+
+  .lg\:italic\:required:required {
+    font-style: italic;
+  }
+
+  .lg\:italic\:visited:visited {
+    font-style: italic;
+  }
+
+  .lg\:no-italic {
+    font-style: normal;
+  }
+
+  .lg\:no-italic\:active:active {
+    font-style: normal;
+  }
+
+  .lg\:no-italic\:checked:checked {
+    font-style: normal;
+  }
+
+  .lg\:no-italic\:disabled:disabled {
+    font-style: normal;
+  }
+
+  .lg\:no-italic\:focus:focus {
+    font-style: normal;
+  }
+
+  .lg\:no-italic\:hover:hover {
+    font-style: normal;
+  }
+
+  .lg\:no-italic\:required:required {
+    font-style: normal;
+  }
+
+  .lg\:no-italic\:visited:visited {
+    font-style: normal;
+  }
+}

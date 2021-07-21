@@ -1,0 +1,26 @@
+@import "../screen.scss";
+@import "../state.scss";
+@each $key, $value in (isolate:'isolate',isolation-auto:'auto'){
+	.#{$key}{
+		isolate:#{$value};
+	}
+ @each $valueState in $state{
+	.#{$key}\:#{$valueState}:#{$valueState}{
+		isolate:#{$value};
+	}
+ }
+};
+@each $sizeScreen, $pixel in $screen{
+	@media (min-width: #{map-get($pixel,min)}#{px}) and (max-width: #{map-get($pixel,max)}#{px}){
+		@each $key, $value in (isolate:'isolate',isolation-auto:'auto'){
+			.#{$sizeScreen}\:#{$key}{
+				isolate:#{$value};
+			}
+      @each $valueState in $state{
+	     .#{$sizeScreen}\:#{$key}\:#{$valueState}:#{$valueState}{
+		     isolate:#{$value};
+	     }
+      }
+		}
+	}
+}

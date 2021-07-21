@@ -1,0 +1,1444 @@
+.bg-bottom {
+  background-position: bottom;
+}
+
+.bg-bottom\:active:active {
+  background-position: bottom;
+}
+
+.bg-bottom\:checked:checked {
+  background-position: bottom;
+}
+
+.bg-bottom\:disabled:disabled {
+  background-position: bottom;
+}
+
+.bg-bottom\:focus:focus {
+  background-position: bottom;
+}
+
+.bg-bottom\:hover:hover {
+  background-position: bottom;
+}
+
+.bg-bottom\:required:required {
+  background-position: bottom;
+}
+
+.bg-bottom\:visited:visited {
+  background-position: bottom;
+}
+
+.bg-center {
+  background-position: center;
+}
+
+.bg-center\:active:active {
+  background-position: center;
+}
+
+.bg-center\:checked:checked {
+  background-position: center;
+}
+
+.bg-center\:disabled:disabled {
+  background-position: center;
+}
+
+.bg-center\:focus:focus {
+  background-position: center;
+}
+
+.bg-center\:hover:hover {
+  background-position: center;
+}
+
+.bg-center\:required:required {
+  background-position: center;
+}
+
+.bg-center\:visited:visited {
+  background-position: center;
+}
+
+.bg-left {
+  background-position: left;
+}
+
+.bg-left\:active:active {
+  background-position: left;
+}
+
+.bg-left\:checked:checked {
+  background-position: left;
+}
+
+.bg-left\:disabled:disabled {
+  background-position: left;
+}
+
+.bg-left\:focus:focus {
+  background-position: left;
+}
+
+.bg-left\:hover:hover {
+  background-position: left;
+}
+
+.bg-left\:required:required {
+  background-position: left;
+}
+
+.bg-left\:visited:visited {
+  background-position: left;
+}
+
+.bg-left-bottom {
+  background-position: left-bottom;
+}
+
+.bg-left-bottom\:active:active {
+  background-position: left-bottom;
+}
+
+.bg-left-bottom\:checked:checked {
+  background-position: left-bottom;
+}
+
+.bg-left-bottom\:disabled:disabled {
+  background-position: left-bottom;
+}
+
+.bg-left-bottom\:focus:focus {
+  background-position: left-bottom;
+}
+
+.bg-left-bottom\:hover:hover {
+  background-position: left-bottom;
+}
+
+.bg-left-bottom\:required:required {
+  background-position: left-bottom;
+}
+
+.bg-left-bottom\:visited:visited {
+  background-position: left-bottom;
+}
+
+.bg-left-top {
+  background-position: left-top;
+}
+
+.bg-left-top\:active:active {
+  background-position: left-top;
+}
+
+.bg-left-top\:checked:checked {
+  background-position: left-top;
+}
+
+.bg-left-top\:disabled:disabled {
+  background-position: left-top;
+}
+
+.bg-left-top\:focus:focus {
+  background-position: left-top;
+}
+
+.bg-left-top\:hover:hover {
+  background-position: left-top;
+}
+
+.bg-left-top\:required:required {
+  background-position: left-top;
+}
+
+.bg-left-top\:visited:visited {
+  background-position: left-top;
+}
+
+.bg-right {
+  background-position: right;
+}
+
+.bg-right\:active:active {
+  background-position: right;
+}
+
+.bg-right\:checked:checked {
+  background-position: right;
+}
+
+.bg-right\:disabled:disabled {
+  background-position: right;
+}
+
+.bg-right\:focus:focus {
+  background-position: right;
+}
+
+.bg-right\:hover:hover {
+  background-position: right;
+}
+
+.bg-right\:required:required {
+  background-position: right;
+}
+
+.bg-right\:visited:visited {
+  background-position: right;
+}
+
+.bg-right-bottom {
+  background-position: right-bottom;
+}
+
+.bg-right-bottom\:active:active {
+  background-position: right-bottom;
+}
+
+.bg-right-bottom\:checked:checked {
+  background-position: right-bottom;
+}
+
+.bg-right-bottom\:disabled:disabled {
+  background-position: right-bottom;
+}
+
+.bg-right-bottom\:focus:focus {
+  background-position: right-bottom;
+}
+
+.bg-right-bottom\:hover:hover {
+  background-position: right-bottom;
+}
+
+.bg-right-bottom\:required:required {
+  background-position: right-bottom;
+}
+
+.bg-right-bottom\:visited:visited {
+  background-position: right-bottom;
+}
+
+.bg-right-top {
+  background-position: right-top;
+}
+
+.bg-right-top\:active:active {
+  background-position: right-top;
+}
+
+.bg-right-top\:checked:checked {
+  background-position: right-top;
+}
+
+.bg-right-top\:disabled:disabled {
+  background-position: right-top;
+}
+
+.bg-right-top\:focus:focus {
+  background-position: right-top;
+}
+
+.bg-right-top\:hover:hover {
+  background-position: right-top;
+}
+
+.bg-right-top\:required:required {
+  background-position: right-top;
+}
+
+.bg-right-top\:visited:visited {
+  background-position: right-top;
+}
+
+.bg-top {
+  background-position: top;
+}
+
+.bg-top\:active:active {
+  background-position: top;
+}
+
+.bg-top\:checked:checked {
+  background-position: top;
+}
+
+.bg-top\:disabled:disabled {
+  background-position: top;
+}
+
+.bg-top\:focus:focus {
+  background-position: top;
+}
+
+.bg-top\:hover:hover {
+  background-position: top;
+}
+
+.bg-top\:required:required {
+  background-position: top;
+}
+
+.bg-top\:visited:visited {
+  background-position: top;
+}
+
+@media (min-width: 0px) and (max-width: 639px) {
+  .xs\:bg-bottom {
+    background-position: bottom;
+  }
+
+  .xs\:bg-bottom\:active:active {
+    background-position: bottom;
+  }
+
+  .xs\:bg-bottom\:checked:checked {
+    background-position: bottom;
+  }
+
+  .xs\:bg-bottom\:disabled:disabled {
+    background-position: bottom;
+  }
+
+  .xs\:bg-bottom\:focus:focus {
+    background-position: bottom;
+  }
+
+  .xs\:bg-bottom\:hover:hover {
+    background-position: bottom;
+  }
+
+  .xs\:bg-bottom\:required:required {
+    background-position: bottom;
+  }
+
+  .xs\:bg-bottom\:visited:visited {
+    background-position: bottom;
+  }
+
+  .xs\:bg-center {
+    background-position: center;
+  }
+
+  .xs\:bg-center\:active:active {
+    background-position: center;
+  }
+
+  .xs\:bg-center\:checked:checked {
+    background-position: center;
+  }
+
+  .xs\:bg-center\:disabled:disabled {
+    background-position: center;
+  }
+
+  .xs\:bg-center\:focus:focus {
+    background-position: center;
+  }
+
+  .xs\:bg-center\:hover:hover {
+    background-position: center;
+  }
+
+  .xs\:bg-center\:required:required {
+    background-position: center;
+  }
+
+  .xs\:bg-center\:visited:visited {
+    background-position: center;
+  }
+
+  .xs\:bg-left {
+    background-position: left;
+  }
+
+  .xs\:bg-left\:active:active {
+    background-position: left;
+  }
+
+  .xs\:bg-left\:checked:checked {
+    background-position: left;
+  }
+
+  .xs\:bg-left\:disabled:disabled {
+    background-position: left;
+  }
+
+  .xs\:bg-left\:focus:focus {
+    background-position: left;
+  }
+
+  .xs\:bg-left\:hover:hover {
+    background-position: left;
+  }
+
+  .xs\:bg-left\:required:required {
+    background-position: left;
+  }
+
+  .xs\:bg-left\:visited:visited {
+    background-position: left;
+  }
+
+  .xs\:bg-left-bottom {
+    background-position: left-bottom;
+  }
+
+  .xs\:bg-left-bottom\:active:active {
+    background-position: left-bottom;
+  }
+
+  .xs\:bg-left-bottom\:checked:checked {
+    background-position: left-bottom;
+  }
+
+  .xs\:bg-left-bottom\:disabled:disabled {
+    background-position: left-bottom;
+  }
+
+  .xs\:bg-left-bottom\:focus:focus {
+    background-position: left-bottom;
+  }
+
+  .xs\:bg-left-bottom\:hover:hover {
+    background-position: left-bottom;
+  }
+
+  .xs\:bg-left-bottom\:required:required {
+    background-position: left-bottom;
+  }
+
+  .xs\:bg-left-bottom\:visited:visited {
+    background-position: left-bottom;
+  }
+
+  .xs\:bg-left-top {
+    background-position: left-top;
+  }
+
+  .xs\:bg-left-top\:active:active {
+    background-position: left-top;
+  }
+
+  .xs\:bg-left-top\:checked:checked {
+    background-position: left-top;
+  }
+
+  .xs\:bg-left-top\:disabled:disabled {
+    background-position: left-top;
+  }
+
+  .xs\:bg-left-top\:focus:focus {
+    background-position: left-top;
+  }
+
+  .xs\:bg-left-top\:hover:hover {
+    background-position: left-top;
+  }
+
+  .xs\:bg-left-top\:required:required {
+    background-position: left-top;
+  }
+
+  .xs\:bg-left-top\:visited:visited {
+    background-position: left-top;
+  }
+
+  .xs\:bg-right {
+    background-position: right;
+  }
+
+  .xs\:bg-right\:active:active {
+    background-position: right;
+  }
+
+  .xs\:bg-right\:checked:checked {
+    background-position: right;
+  }
+
+  .xs\:bg-right\:disabled:disabled {
+    background-position: right;
+  }
+
+  .xs\:bg-right\:focus:focus {
+    background-position: right;
+  }
+
+  .xs\:bg-right\:hover:hover {
+    background-position: right;
+  }
+
+  .xs\:bg-right\:required:required {
+    background-position: right;
+  }
+
+  .xs\:bg-right\:visited:visited {
+    background-position: right;
+  }
+
+  .xs\:bg-right-bottom {
+    background-position: right-bottom;
+  }
+
+  .xs\:bg-right-bottom\:active:active {
+    background-position: right-bottom;
+  }
+
+  .xs\:bg-right-bottom\:checked:checked {
+    background-position: right-bottom;
+  }
+
+  .xs\:bg-right-bottom\:disabled:disabled {
+    background-position: right-bottom;
+  }
+
+  .xs\:bg-right-bottom\:focus:focus {
+    background-position: right-bottom;
+  }
+
+  .xs\:bg-right-bottom\:hover:hover {
+    background-position: right-bottom;
+  }
+
+  .xs\:bg-right-bottom\:required:required {
+    background-position: right-bottom;
+  }
+
+  .xs\:bg-right-bottom\:visited:visited {
+    background-position: right-bottom;
+  }
+
+  .xs\:bg-right-top {
+    background-position: right-top;
+  }
+
+  .xs\:bg-right-top\:active:active {
+    background-position: right-top;
+  }
+
+  .xs\:bg-right-top\:checked:checked {
+    background-position: right-top;
+  }
+
+  .xs\:bg-right-top\:disabled:disabled {
+    background-position: right-top;
+  }
+
+  .xs\:bg-right-top\:focus:focus {
+    background-position: right-top;
+  }
+
+  .xs\:bg-right-top\:hover:hover {
+    background-position: right-top;
+  }
+
+  .xs\:bg-right-top\:required:required {
+    background-position: right-top;
+  }
+
+  .xs\:bg-right-top\:visited:visited {
+    background-position: right-top;
+  }
+
+  .xs\:bg-top {
+    background-position: top;
+  }
+
+  .xs\:bg-top\:active:active {
+    background-position: top;
+  }
+
+  .xs\:bg-top\:checked:checked {
+    background-position: top;
+  }
+
+  .xs\:bg-top\:disabled:disabled {
+    background-position: top;
+  }
+
+  .xs\:bg-top\:focus:focus {
+    background-position: top;
+  }
+
+  .xs\:bg-top\:hover:hover {
+    background-position: top;
+  }
+
+  .xs\:bg-top\:required:required {
+    background-position: top;
+  }
+
+  .xs\:bg-top\:visited:visited {
+    background-position: top;
+  }
+}
+@media (min-width: 640px) and (max-width: 767px) {
+  .sm\:bg-bottom {
+    background-position: bottom;
+  }
+
+  .sm\:bg-bottom\:active:active {
+    background-position: bottom;
+  }
+
+  .sm\:bg-bottom\:checked:checked {
+    background-position: bottom;
+  }
+
+  .sm\:bg-bottom\:disabled:disabled {
+    background-position: bottom;
+  }
+
+  .sm\:bg-bottom\:focus:focus {
+    background-position: bottom;
+  }
+
+  .sm\:bg-bottom\:hover:hover {
+    background-position: bottom;
+  }
+
+  .sm\:bg-bottom\:required:required {
+    background-position: bottom;
+  }
+
+  .sm\:bg-bottom\:visited:visited {
+    background-position: bottom;
+  }
+
+  .sm\:bg-center {
+    background-position: center;
+  }
+
+  .sm\:bg-center\:active:active {
+    background-position: center;
+  }
+
+  .sm\:bg-center\:checked:checked {
+    background-position: center;
+  }
+
+  .sm\:bg-center\:disabled:disabled {
+    background-position: center;
+  }
+
+  .sm\:bg-center\:focus:focus {
+    background-position: center;
+  }
+
+  .sm\:bg-center\:hover:hover {
+    background-position: center;
+  }
+
+  .sm\:bg-center\:required:required {
+    background-position: center;
+  }
+
+  .sm\:bg-center\:visited:visited {
+    background-position: center;
+  }
+
+  .sm\:bg-left {
+    background-position: left;
+  }
+
+  .sm\:bg-left\:active:active {
+    background-position: left;
+  }
+
+  .sm\:bg-left\:checked:checked {
+    background-position: left;
+  }
+
+  .sm\:bg-left\:disabled:disabled {
+    background-position: left;
+  }
+
+  .sm\:bg-left\:focus:focus {
+    background-position: left;
+  }
+
+  .sm\:bg-left\:hover:hover {
+    background-position: left;
+  }
+
+  .sm\:bg-left\:required:required {
+    background-position: left;
+  }
+
+  .sm\:bg-left\:visited:visited {
+    background-position: left;
+  }
+
+  .sm\:bg-left-bottom {
+    background-position: left-bottom;
+  }
+
+  .sm\:bg-left-bottom\:active:active {
+    background-position: left-bottom;
+  }
+
+  .sm\:bg-left-bottom\:checked:checked {
+    background-position: left-bottom;
+  }
+
+  .sm\:bg-left-bottom\:disabled:disabled {
+    background-position: left-bottom;
+  }
+
+  .sm\:bg-left-bottom\:focus:focus {
+    background-position: left-bottom;
+  }
+
+  .sm\:bg-left-bottom\:hover:hover {
+    background-position: left-bottom;
+  }
+
+  .sm\:bg-left-bottom\:required:required {
+    background-position: left-bottom;
+  }
+
+  .sm\:bg-left-bottom\:visited:visited {
+    background-position: left-bottom;
+  }
+
+  .sm\:bg-left-top {
+    background-position: left-top;
+  }
+
+  .sm\:bg-left-top\:active:active {
+    background-position: left-top;
+  }
+
+  .sm\:bg-left-top\:checked:checked {
+    background-position: left-top;
+  }
+
+  .sm\:bg-left-top\:disabled:disabled {
+    background-position: left-top;
+  }
+
+  .sm\:bg-left-top\:focus:focus {
+    background-position: left-top;
+  }
+
+  .sm\:bg-left-top\:hover:hover {
+    background-position: left-top;
+  }
+
+  .sm\:bg-left-top\:required:required {
+    background-position: left-top;
+  }
+
+  .sm\:bg-left-top\:visited:visited {
+    background-position: left-top;
+  }
+
+  .sm\:bg-right {
+    background-position: right;
+  }
+
+  .sm\:bg-right\:active:active {
+    background-position: right;
+  }
+
+  .sm\:bg-right\:checked:checked {
+    background-position: right;
+  }
+
+  .sm\:bg-right\:disabled:disabled {
+    background-position: right;
+  }
+
+  .sm\:bg-right\:focus:focus {
+    background-position: right;
+  }
+
+  .sm\:bg-right\:hover:hover {
+    background-position: right;
+  }
+
+  .sm\:bg-right\:required:required {
+    background-position: right;
+  }
+
+  .sm\:bg-right\:visited:visited {
+    background-position: right;
+  }
+
+  .sm\:bg-right-bottom {
+    background-position: right-bottom;
+  }
+
+  .sm\:bg-right-bottom\:active:active {
+    background-position: right-bottom;
+  }
+
+  .sm\:bg-right-bottom\:checked:checked {
+    background-position: right-bottom;
+  }
+
+  .sm\:bg-right-bottom\:disabled:disabled {
+    background-position: right-bottom;
+  }
+
+  .sm\:bg-right-bottom\:focus:focus {
+    background-position: right-bottom;
+  }
+
+  .sm\:bg-right-bottom\:hover:hover {
+    background-position: right-bottom;
+  }
+
+  .sm\:bg-right-bottom\:required:required {
+    background-position: right-bottom;
+  }
+
+  .sm\:bg-right-bottom\:visited:visited {
+    background-position: right-bottom;
+  }
+
+  .sm\:bg-right-top {
+    background-position: right-top;
+  }
+
+  .sm\:bg-right-top\:active:active {
+    background-position: right-top;
+  }
+
+  .sm\:bg-right-top\:checked:checked {
+    background-position: right-top;
+  }
+
+  .sm\:bg-right-top\:disabled:disabled {
+    background-position: right-top;
+  }
+
+  .sm\:bg-right-top\:focus:focus {
+    background-position: right-top;
+  }
+
+  .sm\:bg-right-top\:hover:hover {
+    background-position: right-top;
+  }
+
+  .sm\:bg-right-top\:required:required {
+    background-position: right-top;
+  }
+
+  .sm\:bg-right-top\:visited:visited {
+    background-position: right-top;
+  }
+
+  .sm\:bg-top {
+    background-position: top;
+  }
+
+  .sm\:bg-top\:active:active {
+    background-position: top;
+  }
+
+  .sm\:bg-top\:checked:checked {
+    background-position: top;
+  }
+
+  .sm\:bg-top\:disabled:disabled {
+    background-position: top;
+  }
+
+  .sm\:bg-top\:focus:focus {
+    background-position: top;
+  }
+
+  .sm\:bg-top\:hover:hover {
+    background-position: top;
+  }
+
+  .sm\:bg-top\:required:required {
+    background-position: top;
+  }
+
+  .sm\:bg-top\:visited:visited {
+    background-position: top;
+  }
+}
+@media (min-width: 768px) and (max-width: 1023px) {
+  .md\:bg-bottom {
+    background-position: bottom;
+  }
+
+  .md\:bg-bottom\:active:active {
+    background-position: bottom;
+  }
+
+  .md\:bg-bottom\:checked:checked {
+    background-position: bottom;
+  }
+
+  .md\:bg-bottom\:disabled:disabled {
+    background-position: bottom;
+  }
+
+  .md\:bg-bottom\:focus:focus {
+    background-position: bottom;
+  }
+
+  .md\:bg-bottom\:hover:hover {
+    background-position: bottom;
+  }
+
+  .md\:bg-bottom\:required:required {
+    background-position: bottom;
+  }
+
+  .md\:bg-bottom\:visited:visited {
+    background-position: bottom;
+  }
+
+  .md\:bg-center {
+    background-position: center;
+  }
+
+  .md\:bg-center\:active:active {
+    background-position: center;
+  }
+
+  .md\:bg-center\:checked:checked {
+    background-position: center;
+  }
+
+  .md\:bg-center\:disabled:disabled {
+    background-position: center;
+  }
+
+  .md\:bg-center\:focus:focus {
+    background-position: center;
+  }
+
+  .md\:bg-center\:hover:hover {
+    background-position: center;
+  }
+
+  .md\:bg-center\:required:required {
+    background-position: center;
+  }
+
+  .md\:bg-center\:visited:visited {
+    background-position: center;
+  }
+
+  .md\:bg-left {
+    background-position: left;
+  }
+
+  .md\:bg-left\:active:active {
+    background-position: left;
+  }
+
+  .md\:bg-left\:checked:checked {
+    background-position: left;
+  }
+
+  .md\:bg-left\:disabled:disabled {
+    background-position: left;
+  }
+
+  .md\:bg-left\:focus:focus {
+    background-position: left;
+  }
+
+  .md\:bg-left\:hover:hover {
+    background-position: left;
+  }
+
+  .md\:bg-left\:required:required {
+    background-position: left;
+  }
+
+  .md\:bg-left\:visited:visited {
+    background-position: left;
+  }
+
+  .md\:bg-left-bottom {
+    background-position: left-bottom;
+  }
+
+  .md\:bg-left-bottom\:active:active {
+    background-position: left-bottom;
+  }
+
+  .md\:bg-left-bottom\:checked:checked {
+    background-position: left-bottom;
+  }
+
+  .md\:bg-left-bottom\:disabled:disabled {
+    background-position: left-bottom;
+  }
+
+  .md\:bg-left-bottom\:focus:focus {
+    background-position: left-bottom;
+  }
+
+  .md\:bg-left-bottom\:hover:hover {
+    background-position: left-bottom;
+  }
+
+  .md\:bg-left-bottom\:required:required {
+    background-position: left-bottom;
+  }
+
+  .md\:bg-left-bottom\:visited:visited {
+    background-position: left-bottom;
+  }
+
+  .md\:bg-left-top {
+    background-position: left-top;
+  }
+
+  .md\:bg-left-top\:active:active {
+    background-position: left-top;
+  }
+
+  .md\:bg-left-top\:checked:checked {
+    background-position: left-top;
+  }
+
+  .md\:bg-left-top\:disabled:disabled {
+    background-position: left-top;
+  }
+
+  .md\:bg-left-top\:focus:focus {
+    background-position: left-top;
+  }
+
+  .md\:bg-left-top\:hover:hover {
+    background-position: left-top;
+  }
+
+  .md\:bg-left-top\:required:required {
+    background-position: left-top;
+  }
+
+  .md\:bg-left-top\:visited:visited {
+    background-position: left-top;
+  }
+
+  .md\:bg-right {
+    background-position: right;
+  }
+
+  .md\:bg-right\:active:active {
+    background-position: right;
+  }
+
+  .md\:bg-right\:checked:checked {
+    background-position: right;
+  }
+
+  .md\:bg-right\:disabled:disabled {
+    background-position: right;
+  }
+
+  .md\:bg-right\:focus:focus {
+    background-position: right;
+  }
+
+  .md\:bg-right\:hover:hover {
+    background-position: right;
+  }
+
+  .md\:bg-right\:required:required {
+    background-position: right;
+  }
+
+  .md\:bg-right\:visited:visited {
+    background-position: right;
+  }
+
+  .md\:bg-right-bottom {
+    background-position: right-bottom;
+  }
+
+  .md\:bg-right-bottom\:active:active {
+    background-position: right-bottom;
+  }
+
+  .md\:bg-right-bottom\:checked:checked {
+    background-position: right-bottom;
+  }
+
+  .md\:bg-right-bottom\:disabled:disabled {
+    background-position: right-bottom;
+  }
+
+  .md\:bg-right-bottom\:focus:focus {
+    background-position: right-bottom;
+  }
+
+  .md\:bg-right-bottom\:hover:hover {
+    background-position: right-bottom;
+  }
+
+  .md\:bg-right-bottom\:required:required {
+    background-position: right-bottom;
+  }
+
+  .md\:bg-right-bottom\:visited:visited {
+    background-position: right-bottom;
+  }
+
+  .md\:bg-right-top {
+    background-position: right-top;
+  }
+
+  .md\:bg-right-top\:active:active {
+    background-position: right-top;
+  }
+
+  .md\:bg-right-top\:checked:checked {
+    background-position: right-top;
+  }
+
+  .md\:bg-right-top\:disabled:disabled {
+    background-position: right-top;
+  }
+
+  .md\:bg-right-top\:focus:focus {
+    background-position: right-top;
+  }
+
+  .md\:bg-right-top\:hover:hover {
+    background-position: right-top;
+  }
+
+  .md\:bg-right-top\:required:required {
+    background-position: right-top;
+  }
+
+  .md\:bg-right-top\:visited:visited {
+    background-position: right-top;
+  }
+
+  .md\:bg-top {
+    background-position: top;
+  }
+
+  .md\:bg-top\:active:active {
+    background-position: top;
+  }
+
+  .md\:bg-top\:checked:checked {
+    background-position: top;
+  }
+
+  .md\:bg-top\:disabled:disabled {
+    background-position: top;
+  }
+
+  .md\:bg-top\:focus:focus {
+    background-position: top;
+  }
+
+  .md\:bg-top\:hover:hover {
+    background-position: top;
+  }
+
+  .md\:bg-top\:required:required {
+    background-position: top;
+  }
+
+  .md\:bg-top\:visited:visited {
+    background-position: top;
+  }
+}
+@media (min-width: 1024px) and (max-width: 2000px) {
+  .lg\:bg-bottom {
+    background-position: bottom;
+  }
+
+  .lg\:bg-bottom\:active:active {
+    background-position: bottom;
+  }
+
+  .lg\:bg-bottom\:checked:checked {
+    background-position: bottom;
+  }
+
+  .lg\:bg-bottom\:disabled:disabled {
+    background-position: bottom;
+  }
+
+  .lg\:bg-bottom\:focus:focus {
+    background-position: bottom;
+  }
+
+  .lg\:bg-bottom\:hover:hover {
+    background-position: bottom;
+  }
+
+  .lg\:bg-bottom\:required:required {
+    background-position: bottom;
+  }
+
+  .lg\:bg-bottom\:visited:visited {
+    background-position: bottom;
+  }
+
+  .lg\:bg-center {
+    background-position: center;
+  }
+
+  .lg\:bg-center\:active:active {
+    background-position: center;
+  }
+
+  .lg\:bg-center\:checked:checked {
+    background-position: center;
+  }
+
+  .lg\:bg-center\:disabled:disabled {
+    background-position: center;
+  }
+
+  .lg\:bg-center\:focus:focus {
+    background-position: center;
+  }
+
+  .lg\:bg-center\:hover:hover {
+    background-position: center;
+  }
+
+  .lg\:bg-center\:required:required {
+    background-position: center;
+  }
+
+  .lg\:bg-center\:visited:visited {
+    background-position: center;
+  }
+
+  .lg\:bg-left {
+    background-position: left;
+  }
+
+  .lg\:bg-left\:active:active {
+    background-position: left;
+  }
+
+  .lg\:bg-left\:checked:checked {
+    background-position: left;
+  }
+
+  .lg\:bg-left\:disabled:disabled {
+    background-position: left;
+  }
+
+  .lg\:bg-left\:focus:focus {
+    background-position: left;
+  }
+
+  .lg\:bg-left\:hover:hover {
+    background-position: left;
+  }
+
+  .lg\:bg-left\:required:required {
+    background-position: left;
+  }
+
+  .lg\:bg-left\:visited:visited {
+    background-position: left;
+  }
+
+  .lg\:bg-left-bottom {
+    background-position: left-bottom;
+  }
+
+  .lg\:bg-left-bottom\:active:active {
+    background-position: left-bottom;
+  }
+
+  .lg\:bg-left-bottom\:checked:checked {
+    background-position: left-bottom;
+  }
+
+  .lg\:bg-left-bottom\:disabled:disabled {
+    background-position: left-bottom;
+  }
+
+  .lg\:bg-left-bottom\:focus:focus {
+    background-position: left-bottom;
+  }
+
+  .lg\:bg-left-bottom\:hover:hover {
+    background-position: left-bottom;
+  }
+
+  .lg\:bg-left-bottom\:required:required {
+    background-position: left-bottom;
+  }
+
+  .lg\:bg-left-bottom\:visited:visited {
+    background-position: left-bottom;
+  }
+
+  .lg\:bg-left-top {
+    background-position: left-top;
+  }
+
+  .lg\:bg-left-top\:active:active {
+    background-position: left-top;
+  }
+
+  .lg\:bg-left-top\:checked:checked {
+    background-position: left-top;
+  }
+
+  .lg\:bg-left-top\:disabled:disabled {
+    background-position: left-top;
+  }
+
+  .lg\:bg-left-top\:focus:focus {
+    background-position: left-top;
+  }
+
+  .lg\:bg-left-top\:hover:hover {
+    background-position: left-top;
+  }
+
+  .lg\:bg-left-top\:required:required {
+    background-position: left-top;
+  }
+
+  .lg\:bg-left-top\:visited:visited {
+    background-position: left-top;
+  }
+
+  .lg\:bg-right {
+    background-position: right;
+  }
+
+  .lg\:bg-right\:active:active {
+    background-position: right;
+  }
+
+  .lg\:bg-right\:checked:checked {
+    background-position: right;
+  }
+
+  .lg\:bg-right\:disabled:disabled {
+    background-position: right;
+  }
+
+  .lg\:bg-right\:focus:focus {
+    background-position: right;
+  }
+
+  .lg\:bg-right\:hover:hover {
+    background-position: right;
+  }
+
+  .lg\:bg-right\:required:required {
+    background-position: right;
+  }
+
+  .lg\:bg-right\:visited:visited {
+    background-position: right;
+  }
+
+  .lg\:bg-right-bottom {
+    background-position: right-bottom;
+  }
+
+  .lg\:bg-right-bottom\:active:active {
+    background-position: right-bottom;
+  }
+
+  .lg\:bg-right-bottom\:checked:checked {
+    background-position: right-bottom;
+  }
+
+  .lg\:bg-right-bottom\:disabled:disabled {
+    background-position: right-bottom;
+  }
+
+  .lg\:bg-right-bottom\:focus:focus {
+    background-position: right-bottom;
+  }
+
+  .lg\:bg-right-bottom\:hover:hover {
+    background-position: right-bottom;
+  }
+
+  .lg\:bg-right-bottom\:required:required {
+    background-position: right-bottom;
+  }
+
+  .lg\:bg-right-bottom\:visited:visited {
+    background-position: right-bottom;
+  }
+
+  .lg\:bg-right-top {
+    background-position: right-top;
+  }
+
+  .lg\:bg-right-top\:active:active {
+    background-position: right-top;
+  }
+
+  .lg\:bg-right-top\:checked:checked {
+    background-position: right-top;
+  }
+
+  .lg\:bg-right-top\:disabled:disabled {
+    background-position: right-top;
+  }
+
+  .lg\:bg-right-top\:focus:focus {
+    background-position: right-top;
+  }
+
+  .lg\:bg-right-top\:hover:hover {
+    background-position: right-top;
+  }
+
+  .lg\:bg-right-top\:required:required {
+    background-position: right-top;
+  }
+
+  .lg\:bg-right-top\:visited:visited {
+    background-position: right-top;
+  }
+
+  .lg\:bg-top {
+    background-position: top;
+  }
+
+  .lg\:bg-top\:active:active {
+    background-position: top;
+  }
+
+  .lg\:bg-top\:checked:checked {
+    background-position: top;
+  }
+
+  .lg\:bg-top\:disabled:disabled {
+    background-position: top;
+  }
+
+  .lg\:bg-top\:focus:focus {
+    background-position: top;
+  }
+
+  .lg\:bg-top\:hover:hover {
+    background-position: top;
+  }
+
+  .lg\:bg-top\:required:required {
+    background-position: top;
+  }
+
+  .lg\:bg-top\:visited:visited {
+    background-position: top;
+  }
+}
