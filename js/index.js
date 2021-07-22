@@ -124,7 +124,7 @@ var router = new ppRouter({
             <p>${ cssdescription[ params.attribute ] ? cssdescription[ params.attribute ]["es"] : "" }</p>
 
             <div class="flex flex-row justify-content-center" >
-            <input type="text" class="w-full bg-white rounded-md rounded-md:focus m-2  p-2.5 border-2 border-blue100 border-blue300:focus border-solid outline-none:focus outline-offset-2:focus" placeholder="Search ..." />
+            <input type="text" class="w-full bg-white rounded-md rounded-md:focus m-2  p-2.5 border-2 border-blue100 border-blue300:focus border-solid outline-none:focus outline-offset-2:focus text-bluegray800" placeholder="Search ..." />
             </div>
 
             <br><br>
