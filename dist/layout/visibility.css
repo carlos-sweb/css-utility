@@ -18,6 +18,10 @@
   visibility: visible;
 }
 
+.visible\:focus-visible:focus-visible {
+  visibility: visible;
+}
+
 .visible\:hover:hover {
   visibility: visible;
 }
@@ -47,6 +51,10 @@
 }
 
 .invisible\:focus:focus {
+  visibility: hidden;
+}
+
+.invisible\:focus-visible:focus-visible {
   visibility: hidden;
 }
 
@@ -83,6 +91,10 @@
     visibility: visible;
   }
 
+  .xs\:visible\:focus-visible:focus-visible {
+    visibility: visible;
+  }
+
   .xs\:visible\:hover:hover {
     visibility: visible;
   }
@@ -112,6 +124,10 @@
   }
 
   .xs\:invisible\:focus:focus {
+    visibility: hidden;
+  }
+
+  .xs\:invisible\:focus-visible:focus-visible {
     visibility: hidden;
   }
 
@@ -148,6 +164,10 @@
     visibility: visible;
   }
 
+  .sm\:visible\:focus-visible:focus-visible {
+    visibility: visible;
+  }
+
   .sm\:visible\:hover:hover {
     visibility: visible;
   }
@@ -177,6 +197,10 @@
   }
 
   .sm\:invisible\:focus:focus {
+    visibility: hidden;
+  }
+
+  .sm\:invisible\:focus-visible:focus-visible {
     visibility: hidden;
   }
 
@@ -213,6 +237,10 @@
     visibility: visible;
   }
 
+  .md\:visible\:focus-visible:focus-visible {
+    visibility: visible;
+  }
+
   .md\:visible\:hover:hover {
     visibility: visible;
   }
@@ -242,6 +270,10 @@
   }
 
   .md\:invisible\:focus:focus {
+    visibility: hidden;
+  }
+
+  .md\:invisible\:focus-visible:focus-visible {
     visibility: hidden;
   }
 
@@ -278,6 +310,10 @@
     visibility: visible;
   }
 
+  .lg\:visible\:focus-visible:focus-visible {
+    visibility: visible;
+  }
+
   .lg\:visible\:hover:hover {
     visibility: visible;
   }
@@ -307,6 +343,10 @@
   }
 
   .lg\:invisible\:focus:focus {
+    visibility: hidden;
+  }
+
+  .lg\:invisible\:focus-visible:focus-visible {
     visibility: hidden;
   }
 

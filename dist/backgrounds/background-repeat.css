@@ -18,6 +18,10 @@
   background-repeat: repeat;
 }
 
+.bg-repeat\:focus-visible:focus-visible {
+  background-repeat: repeat;
+}
+
 .bg-repeat\:hover:hover {
   background-repeat: repeat;
 }
@@ -47,6 +51,10 @@
 }
 
 .bg-no-repeat\:focus:focus {
+  background-repeat: no-repeat;
+}
+
+.bg-no-repeat\:focus-visible:focus-visible {
   background-repeat: no-repeat;
 }
 
@@ -82,6 +90,10 @@
   background-repeat: repeat-x;
 }
 
+.bg-repeat-x\:focus-visible:focus-visible {
+  background-repeat: repeat-x;
+}
+
 .bg-repeat-x\:hover:hover {
   background-repeat: repeat-x;
 }
@@ -111,6 +123,10 @@
 }
 
 .bg-repeat-y\:focus:focus {
+  background-repeat: repeat-y;
+}
+
+.bg-repeat-y\:focus-visible:focus-visible {
   background-repeat: repeat-y;
 }
 
@@ -146,6 +162,10 @@
   background-repeat: round;
 }
 
+.bg-repeat-round\:focus-visible:focus-visible {
+  background-repeat: round;
+}
+
 .bg-repeat-round\:hover:hover {
   background-repeat: round;
 }
@@ -175,6 +195,10 @@
 }
 
 .bg-repeat-space\:focus:focus {
+  background-repeat: space;
+}
+
+.bg-repeat-space\:focus-visible:focus-visible {
   background-repeat: space;
 }
 
@@ -211,6 +235,10 @@
     background-repeat: repeat;
   }
 
+  .xs\:bg-repeat\:focus-visible:focus-visible {
+    background-repeat: repeat;
+  }
+
   .xs\:bg-repeat\:hover:hover {
     background-repeat: repeat;
   }
@@ -240,6 +268,10 @@
   }
 
   .xs\:bg-no-repeat\:focus:focus {
+    background-repeat: no-repeat;
+  }
+
+  .xs\:bg-no-repeat\:focus-visible:focus-visible {
     background-repeat: no-repeat;
   }
 
@@ -275,6 +307,10 @@
     background-repeat: repeat-x;
   }
 
+  .xs\:bg-repeat-x\:focus-visible:focus-visible {
+    background-repeat: repeat-x;
+  }
+
   .xs\:bg-repeat-x\:hover:hover {
     background-repeat: repeat-x;
   }
@@ -304,6 +340,10 @@
   }
 
   .xs\:bg-repeat-y\:focus:focus {
+    background-repeat: repeat-y;
+  }
+
+  .xs\:bg-repeat-y\:focus-visible:focus-visible {
     background-repeat: repeat-y;
   }
 
@@ -339,6 +379,10 @@
     background-repeat: round;
   }
 
+  .xs\:bg-repeat-round\:focus-visible:focus-visible {
+    background-repeat: round;
+  }
+
   .xs\:bg-repeat-round\:hover:hover {
     background-repeat: round;
   }
@@ -368,6 +412,10 @@
   }
 
   .xs\:bg-repeat-space\:focus:focus {
+    background-repeat: space;
+  }
+
+  .xs\:bg-repeat-space\:focus-visible:focus-visible {
     background-repeat: space;
   }
 
@@ -404,6 +452,10 @@
     background-repeat: repeat;
   }
 
+  .sm\:bg-repeat\:focus-visible:focus-visible {
+    background-repeat: repeat;
+  }
+
   .sm\:bg-repeat\:hover:hover {
     background-repeat: repeat;
   }
@@ -433,6 +485,10 @@
   }
 
   .sm\:bg-no-repeat\:focus:focus {
+    background-repeat: no-repeat;
+  }
+
+  .sm\:bg-no-repeat\:focus-visible:focus-visible {
     background-repeat: no-repeat;
   }
 
@@ -468,6 +524,10 @@
     background-repeat: repeat-x;
   }
 
+  .sm\:bg-repeat-x\:focus-visible:focus-visible {
+    background-repeat: repeat-x;
+  }
+
   .sm\:bg-repeat-x\:hover:hover {
     background-repeat: repeat-x;
   }
@@ -497,6 +557,10 @@
   }
 
   .sm\:bg-repeat-y\:focus:focus {
+    background-repeat: repeat-y;
+  }
+
+  .sm\:bg-repeat-y\:focus-visible:focus-visible {
     background-repeat: repeat-y;
   }
 
@@ -532,6 +596,10 @@
     background-repeat: round;
   }
 
+  .sm\:bg-repeat-round\:focus-visible:focus-visible {
+    background-repeat: round;
+  }
+
   .sm\:bg-repeat-round\:hover:hover {
     background-repeat: round;
   }
@@ -561,6 +629,10 @@
   }
 
   .sm\:bg-repeat-space\:focus:focus {
+    background-repeat: space;
+  }
+
+  .sm\:bg-repeat-space\:focus-visible:focus-visible {
     background-repeat: space;
   }
 
@@ -597,6 +669,10 @@
     background-repeat: repeat;
   }
 
+  .md\:bg-repeat\:focus-visible:focus-visible {
+    background-repeat: repeat;
+  }
+
   .md\:bg-repeat\:hover:hover {
     background-repeat: repeat;
   }
@@ -626,6 +702,10 @@
   }
 
   .md\:bg-no-repeat\:focus:focus {
+    background-repeat: no-repeat;
+  }
+
+  .md\:bg-no-repeat\:focus-visible:focus-visible {
     background-repeat: no-repeat;
   }
 
@@ -661,6 +741,10 @@
     background-repeat: repeat-x;
   }
 
+  .md\:bg-repeat-x\:focus-visible:focus-visible {
+    background-repeat: repeat-x;
+  }
+
   .md\:bg-repeat-x\:hover:hover {
     background-repeat: repeat-x;
   }
@@ -690,6 +774,10 @@
   }
 
   .md\:bg-repeat-y\:focus:focus {
+    background-repeat: repeat-y;
+  }
+
+  .md\:bg-repeat-y\:focus-visible:focus-visible {
     background-repeat: repeat-y;
   }
 
@@ -725,6 +813,10 @@
     background-repeat: round;
   }
 
+  .md\:bg-repeat-round\:focus-visible:focus-visible {
+    background-repeat: round;
+  }
+
   .md\:bg-repeat-round\:hover:hover {
     background-repeat: round;
   }
@@ -754,6 +846,10 @@
   }
 
   .md\:bg-repeat-space\:focus:focus {
+    background-repeat: space;
+  }
+
+  .md\:bg-repeat-space\:focus-visible:focus-visible {
     background-repeat: space;
   }
 
@@ -790,6 +886,10 @@
     background-repeat: repeat;
   }
 
+  .lg\:bg-repeat\:focus-visible:focus-visible {
+    background-repeat: repeat;
+  }
+
   .lg\:bg-repeat\:hover:hover {
     background-repeat: repeat;
   }
@@ -819,6 +919,10 @@
   }
 
   .lg\:bg-no-repeat\:focus:focus {
+    background-repeat: no-repeat;
+  }
+
+  .lg\:bg-no-repeat\:focus-visible:focus-visible {
     background-repeat: no-repeat;
   }
 
@@ -854,6 +958,10 @@
     background-repeat: repeat-x;
   }
 
+  .lg\:bg-repeat-x\:focus-visible:focus-visible {
+    background-repeat: repeat-x;
+  }
+
   .lg\:bg-repeat-x\:hover:hover {
     background-repeat: repeat-x;
   }
@@ -883,6 +991,10 @@
   }
 
   .lg\:bg-repeat-y\:focus:focus {
+    background-repeat: repeat-y;
+  }
+
+  .lg\:bg-repeat-y\:focus-visible:focus-visible {
     background-repeat: repeat-y;
   }
 
@@ -918,6 +1030,10 @@
     background-repeat: round;
   }
 
+  .lg\:bg-repeat-round\:focus-visible:focus-visible {
+    background-repeat: round;
+  }
+
   .lg\:bg-repeat-round\:hover:hover {
     background-repeat: round;
   }
@@ -947,6 +1063,10 @@
   }
 
   .lg\:bg-repeat-space\:focus:focus {
+    background-repeat: space;
+  }
+
+  .lg\:bg-repeat-space\:focus-visible:focus-visible {
     background-repeat: space;
   }
 

@@ -18,6 +18,10 @@
   border-style: solid;
 }
 
+.border-solid\:focus-visible:focus-visible {
+  border-style: solid;
+}
+
 .border-solid\:hover:hover {
   border-style: solid;
 }
@@ -47,6 +51,10 @@
 }
 
 .border-dashed\:focus:focus {
+  border-style: dashed;
+}
+
+.border-dashed\:focus-visible:focus-visible {
   border-style: dashed;
 }
 
@@ -82,6 +90,10 @@
   border-style: dotted;
 }
 
+.border-dotted\:focus-visible:focus-visible {
+  border-style: dotted;
+}
+
 .border-dotted\:hover:hover {
   border-style: dotted;
 }
@@ -114,6 +126,10 @@
   border-style: double;
 }
 
+.border-double\:focus-visible:focus-visible {
+  border-style: double;
+}
+
 .border-double\:hover:hover {
   border-style: double;
 }
@@ -143,6 +159,10 @@
 }
 
 .border-none\:focus:focus {
+  border-style: none;
+}
+
+.border-none\:focus-visible:focus-visible {
   border-style: none;
 }
 
@@ -179,6 +199,10 @@
     border-style: solid;
   }
 
+  .xs\:border-solid\:focus-visible:focus-visible {
+    border-style: solid;
+  }
+
   .xs\:border-solid\:hover:hover {
     border-style: solid;
   }
@@ -208,6 +232,10 @@
   }
 
   .xs\:border-dashed\:focus:focus {
+    border-style: dashed;
+  }
+
+  .xs\:border-dashed\:focus-visible:focus-visible {
     border-style: dashed;
   }
 
@@ -243,6 +271,10 @@
     border-style: dotted;
   }
 
+  .xs\:border-dotted\:focus-visible:focus-visible {
+    border-style: dotted;
+  }
+
   .xs\:border-dotted\:hover:hover {
     border-style: dotted;
   }
@@ -275,6 +307,10 @@
     border-style: double;
   }
 
+  .xs\:border-double\:focus-visible:focus-visible {
+    border-style: double;
+  }
+
   .xs\:border-double\:hover:hover {
     border-style: double;
   }
@@ -304,6 +340,10 @@
   }
 
   .xs\:border-none\:focus:focus {
+    border-style: none;
+  }
+
+  .xs\:border-none\:focus-visible:focus-visible {
     border-style: none;
   }
 
@@ -340,6 +380,10 @@
     border-style: solid;
   }
 
+  .sm\:border-solid\:focus-visible:focus-visible {
+    border-style: solid;
+  }
+
   .sm\:border-solid\:hover:hover {
     border-style: solid;
   }
@@ -369,6 +413,10 @@
   }
 
   .sm\:border-dashed\:focus:focus {
+    border-style: dashed;
+  }
+
+  .sm\:border-dashed\:focus-visible:focus-visible {
     border-style: dashed;
   }
 
@@ -404,6 +452,10 @@
     border-style: dotted;
   }
 
+  .sm\:border-dotted\:focus-visible:focus-visible {
+    border-style: dotted;
+  }
+
   .sm\:border-dotted\:hover:hover {
     border-style: dotted;
   }
@@ -436,6 +488,10 @@
     border-style: double;
   }
 
+  .sm\:border-double\:focus-visible:focus-visible {
+    border-style: double;
+  }
+
   .sm\:border-double\:hover:hover {
     border-style: double;
   }
@@ -465,6 +521,10 @@
   }
 
   .sm\:border-none\:focus:focus {
+    border-style: none;
+  }
+
+  .sm\:border-none\:focus-visible:focus-visible {
     border-style: none;
   }
 
@@ -501,6 +561,10 @@
     border-style: solid;
   }
 
+  .md\:border-solid\:focus-visible:focus-visible {
+    border-style: solid;
+  }
+
   .md\:border-solid\:hover:hover {
     border-style: solid;
   }
@@ -530,6 +594,10 @@
   }
 
   .md\:border-dashed\:focus:focus {
+    border-style: dashed;
+  }
+
+  .md\:border-dashed\:focus-visible:focus-visible {
     border-style: dashed;
   }
 
@@ -565,6 +633,10 @@
     border-style: dotted;
   }
 
+  .md\:border-dotted\:focus-visible:focus-visible {
+    border-style: dotted;
+  }
+
   .md\:border-dotted\:hover:hover {
     border-style: dotted;
   }
@@ -597,6 +669,10 @@
     border-style: double;
   }
 
+  .md\:border-double\:focus-visible:focus-visible {
+    border-style: double;
+  }
+
   .md\:border-double\:hover:hover {
     border-style: double;
   }
@@ -626,6 +702,10 @@
   }
 
   .md\:border-none\:focus:focus {
+    border-style: none;
+  }
+
+  .md\:border-none\:focus-visible:focus-visible {
     border-style: none;
   }
 
@@ -662,6 +742,10 @@
     border-style: solid;
   }
 
+  .lg\:border-solid\:focus-visible:focus-visible {
+    border-style: solid;
+  }
+
   .lg\:border-solid\:hover:hover {
     border-style: solid;
   }
@@ -691,6 +775,10 @@
   }
 
   .lg\:border-dashed\:focus:focus {
+    border-style: dashed;
+  }
+
+  .lg\:border-dashed\:focus-visible:focus-visible {
     border-style: dashed;
   }
 
@@ -726,6 +814,10 @@
     border-style: dotted;
   }
 
+  .lg\:border-dotted\:focus-visible:focus-visible {
+    border-style: dotted;
+  }
+
   .lg\:border-dotted\:hover:hover {
     border-style: dotted;
   }
@@ -758,6 +850,10 @@
     border-style: double;
   }
 
+  .lg\:border-double\:focus-visible:focus-visible {
+    border-style: double;
+  }
+
   .lg\:border-double\:hover:hover {
     border-style: double;
   }
@@ -787,6 +883,10 @@
   }
 
   .lg\:border-none\:focus:focus {
+    border-style: none;
+  }
+
+  .lg\:border-none\:focus-visible:focus-visible {
     border-style: none;
   }
 

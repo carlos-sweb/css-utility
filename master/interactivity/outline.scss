@@ -1,0 +1,26 @@
+@import "../screen.scss";
+@import "../state.scss";
+@each $key, $value in (outline-none:'2px solid transparent',outline-white:'outline: 2px dotted white',outline-black:'outline: 2px dotted black'){
+	.#{$key}{
+		outline:#{$value};
+	}
+ @each $valueState in $state{
+	.#{$key}\:#{$valueState}:#{$valueState}{
+		outline:#{$value};
+	}
+ }
+};
+@each $sizeScreen, $pixel in $screen{
+	@media (min-width: #{map-get($pixel,min)}#{px}) and (max-width: #{map-get($pixel,max)}#{px}){
+		@each $key, $value in (outline-none:'2px solid transparent',outline-white:'outline: 2px dotted white',outline-black:'outline: 2px dotted black'){
+			.#{$sizeScreen}\:#{$key}{
+				outline:#{$value};
+			}
+      @each $valueState in $state{
+	     .#{$sizeScreen}\:#{$key}\:#{$valueState}:#{$valueState}{
+		     outline:#{$value};
+	     }
+      }
+		}
+	}
+}

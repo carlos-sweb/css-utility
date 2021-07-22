@@ -18,6 +18,10 @@
   grid-template-columns: repeat(1, minmax(0, 1fr));
 }
 
+.grid-cols-1\:focus-visible:focus-visible {
+  grid-template-columns: repeat(1, minmax(0, 1fr));
+}
+
 .grid-cols-1\:hover:hover {
   grid-template-columns: repeat(1, minmax(0, 1fr));
 }
@@ -47,6 +51,10 @@
 }
 
 .grid-cols-2\:focus:focus {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.grid-cols-2\:focus-visible:focus-visible {
   grid-template-columns: repeat(2, minmax(0, 1fr));
 }
 
@@ -82,6 +90,10 @@
   grid-template-columns: repeat(3, minmax(0, 1fr));
 }
 
+.grid-cols-3\:focus-visible:focus-visible {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
 .grid-cols-3\:hover:hover {
   grid-template-columns: repeat(3, minmax(0, 1fr));
 }
@@ -111,6 +123,10 @@
 }
 
 .grid-cols-4\:focus:focus {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
+.grid-cols-4\:focus-visible:focus-visible {
   grid-template-columns: repeat(4, minmax(0, 1fr));
 }
 
@@ -146,6 +162,10 @@
   grid-template-columns: repeat(5, minmax(0, 1fr));
 }
 
+.grid-cols-5\:focus-visible:focus-visible {
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+}
+
 .grid-cols-5\:hover:hover {
   grid-template-columns: repeat(5, minmax(0, 1fr));
 }
@@ -175,6 +195,10 @@
 }
 
 .grid-cols-6\:focus:focus {
+  grid-template-columns: repeat(6, minmax(0, 1fr));
+}
+
+.grid-cols-6\:focus-visible:focus-visible {
   grid-template-columns: repeat(6, minmax(0, 1fr));
 }
 
@@ -210,6 +234,10 @@
   grid-template-columns: repeat(7, minmax(0, 1fr));
 }
 
+.grid-cols-7\:focus-visible:focus-visible {
+  grid-template-columns: repeat(7, minmax(0, 1fr));
+}
+
 .grid-cols-7\:hover:hover {
   grid-template-columns: repeat(7, minmax(0, 1fr));
 }
@@ -239,6 +267,10 @@
 }
 
 .grid-cols-8\:focus:focus {
+  grid-template-columns: repeat(8, minmax(0, 1fr));
+}
+
+.grid-cols-8\:focus-visible:focus-visible {
   grid-template-columns: repeat(8, minmax(0, 1fr));
 }
 
@@ -274,6 +306,10 @@
   grid-template-columns: repeat(9, minmax(0, 1fr));
 }
 
+.grid-cols-9\:focus-visible:focus-visible {
+  grid-template-columns: repeat(9, minmax(0, 1fr));
+}
+
 .grid-cols-9\:hover:hover {
   grid-template-columns: repeat(9, minmax(0, 1fr));
 }
@@ -303,6 +339,10 @@
 }
 
 .grid-cols-10\:focus:focus {
+  grid-template-columns: repeat(10, minmax(0, 1fr));
+}
+
+.grid-cols-10\:focus-visible:focus-visible {
   grid-template-columns: repeat(10, minmax(0, 1fr));
 }
 
@@ -338,6 +378,10 @@
   grid-template-columns: repeat(11, minmax(0, 1fr));
 }
 
+.grid-cols-11\:focus-visible:focus-visible {
+  grid-template-columns: repeat(11, minmax(0, 1fr));
+}
+
 .grid-cols-11\:hover:hover {
   grid-template-columns: repeat(11, minmax(0, 1fr));
 }
@@ -370,6 +414,10 @@
   grid-template-columns: repeat(12, minmax(0, 1fr));
 }
 
+.grid-cols-12\:focus-visible:focus-visible {
+  grid-template-columns: repeat(12, minmax(0, 1fr));
+}
+
 .grid-cols-12\:hover:hover {
   grid-template-columns: repeat(12, minmax(0, 1fr));
 }
@@ -399,6 +447,10 @@
 }
 
 .grid-cols-none\:focus:focus {
+  grid-template-columns: none;
+}
+
+.grid-cols-none\:focus-visible:focus-visible {
   grid-template-columns: none;
 }
 
@@ -435,6 +487,10 @@
     grid-template-columns: repeat(1, minmax(0, 1fr));
   }
 
+  .xs\:grid-cols-1\:focus-visible:focus-visible {
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+  }
+
   .xs\:grid-cols-1\:hover:hover {
     grid-template-columns: repeat(1, minmax(0, 1fr));
   }
@@ -464,6 +520,10 @@
   }
 
   .xs\:grid-cols-2\:focus:focus {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-2\:focus-visible:focus-visible {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
@@ -499,6 +559,10 @@
     grid-template-columns: repeat(3, minmax(0, 1fr));
   }
 
+  .xs\:grid-cols-3\:focus-visible:focus-visible {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
   .xs\:grid-cols-3\:hover:hover {
     grid-template-columns: repeat(3, minmax(0, 1fr));
   }
@@ -528,6 +592,10 @@
   }
 
   .xs\:grid-cols-4\:focus:focus {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-4\:focus-visible:focus-visible {
     grid-template-columns: repeat(4, minmax(0, 1fr));
   }
 
@@ -563,6 +631,10 @@
     grid-template-columns: repeat(5, minmax(0, 1fr));
   }
 
+  .xs\:grid-cols-5\:focus-visible:focus-visible {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+  }
+
   .xs\:grid-cols-5\:hover:hover {
     grid-template-columns: repeat(5, minmax(0, 1fr));
   }
@@ -592,6 +664,10 @@
   }
 
   .xs\:grid-cols-6\:focus:focus {
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-6\:focus-visible:focus-visible {
     grid-template-columns: repeat(6, minmax(0, 1fr));
   }
 
@@ -627,6 +703,10 @@
     grid-template-columns: repeat(7, minmax(0, 1fr));
   }
 
+  .xs\:grid-cols-7\:focus-visible:focus-visible {
+    grid-template-columns: repeat(7, minmax(0, 1fr));
+  }
+
   .xs\:grid-cols-7\:hover:hover {
     grid-template-columns: repeat(7, minmax(0, 1fr));
   }
@@ -656,6 +736,10 @@
   }
 
   .xs\:grid-cols-8\:focus:focus {
+    grid-template-columns: repeat(8, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-8\:focus-visible:focus-visible {
     grid-template-columns: repeat(8, minmax(0, 1fr));
   }
 
@@ -691,6 +775,10 @@
     grid-template-columns: repeat(9, minmax(0, 1fr));
   }
 
+  .xs\:grid-cols-9\:focus-visible:focus-visible {
+    grid-template-columns: repeat(9, minmax(0, 1fr));
+  }
+
   .xs\:grid-cols-9\:hover:hover {
     grid-template-columns: repeat(9, minmax(0, 1fr));
   }
@@ -720,6 +808,10 @@
   }
 
   .xs\:grid-cols-10\:focus:focus {
+    grid-template-columns: repeat(10, minmax(0, 1fr));
+  }
+
+  .xs\:grid-cols-10\:focus-visible:focus-visible {
     grid-template-columns: repeat(10, minmax(0, 1fr));
   }
 
@@ -755,6 +847,10 @@
     grid-template-columns: repeat(11, minmax(0, 1fr));
   }
 
+  .xs\:grid-cols-11\:focus-visible:focus-visible {
+    grid-template-columns: repeat(11, minmax(0, 1fr));
+  }
+
   .xs\:grid-cols-11\:hover:hover {
     grid-template-columns: repeat(11, minmax(0, 1fr));
   }
@@ -787,6 +883,10 @@
     grid-template-columns: repeat(12, minmax(0, 1fr));
   }
 
+  .xs\:grid-cols-12\:focus-visible:focus-visible {
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+  }
+
   .xs\:grid-cols-12\:hover:hover {
     grid-template-columns: repeat(12, minmax(0, 1fr));
   }
@@ -816,6 +916,10 @@
   }
 
   .xs\:grid-cols-none\:focus:focus {
+    grid-template-columns: none;
+  }
+
+  .xs\:grid-cols-none\:focus-visible:focus-visible {
     grid-template-columns: none;
   }
 
@@ -852,6 +956,10 @@
     grid-template-columns: repeat(1, minmax(0, 1fr));
   }
 
+  .sm\:grid-cols-1\:focus-visible:focus-visible {
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+  }
+
   .sm\:grid-cols-1\:hover:hover {
     grid-template-columns: repeat(1, minmax(0, 1fr));
   }
@@ -881,6 +989,10 @@
   }
 
   .sm\:grid-cols-2\:focus:focus {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-2\:focus-visible:focus-visible {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
@@ -916,6 +1028,10 @@
     grid-template-columns: repeat(3, minmax(0, 1fr));
   }
 
+  .sm\:grid-cols-3\:focus-visible:focus-visible {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
   .sm\:grid-cols-3\:hover:hover {
     grid-template-columns: repeat(3, minmax(0, 1fr));
   }
@@ -945,6 +1061,10 @@
   }
 
   .sm\:grid-cols-4\:focus:focus {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-4\:focus-visible:focus-visible {
     grid-template-columns: repeat(4, minmax(0, 1fr));
   }
 
@@ -980,6 +1100,10 @@
     grid-template-columns: repeat(5, minmax(0, 1fr));
   }
 
+  .sm\:grid-cols-5\:focus-visible:focus-visible {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+  }
+
   .sm\:grid-cols-5\:hover:hover {
     grid-template-columns: repeat(5, minmax(0, 1fr));
   }
@@ -1009,6 +1133,10 @@
   }
 
   .sm\:grid-cols-6\:focus:focus {
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-6\:focus-visible:focus-visible {
     grid-template-columns: repeat(6, minmax(0, 1fr));
   }
 
@@ -1044,6 +1172,10 @@
     grid-template-columns: repeat(7, minmax(0, 1fr));
   }
 
+  .sm\:grid-cols-7\:focus-visible:focus-visible {
+    grid-template-columns: repeat(7, minmax(0, 1fr));
+  }
+
   .sm\:grid-cols-7\:hover:hover {
     grid-template-columns: repeat(7, minmax(0, 1fr));
   }
@@ -1073,6 +1205,10 @@
   }
 
   .sm\:grid-cols-8\:focus:focus {
+    grid-template-columns: repeat(8, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-8\:focus-visible:focus-visible {
     grid-template-columns: repeat(8, minmax(0, 1fr));
   }
 
@@ -1108,6 +1244,10 @@
     grid-template-columns: repeat(9, minmax(0, 1fr));
   }
 
+  .sm\:grid-cols-9\:focus-visible:focus-visible {
+    grid-template-columns: repeat(9, minmax(0, 1fr));
+  }
+
   .sm\:grid-cols-9\:hover:hover {
     grid-template-columns: repeat(9, minmax(0, 1fr));
   }
@@ -1137,6 +1277,10 @@
   }
 
   .sm\:grid-cols-10\:focus:focus {
+    grid-template-columns: repeat(10, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-10\:focus-visible:focus-visible {
     grid-template-columns: repeat(10, minmax(0, 1fr));
   }
 
@@ -1172,6 +1316,10 @@
     grid-template-columns: repeat(11, minmax(0, 1fr));
   }
 
+  .sm\:grid-cols-11\:focus-visible:focus-visible {
+    grid-template-columns: repeat(11, minmax(0, 1fr));
+  }
+
   .sm\:grid-cols-11\:hover:hover {
     grid-template-columns: repeat(11, minmax(0, 1fr));
   }
@@ -1204,6 +1352,10 @@
     grid-template-columns: repeat(12, minmax(0, 1fr));
   }
 
+  .sm\:grid-cols-12\:focus-visible:focus-visible {
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+  }
+
   .sm\:grid-cols-12\:hover:hover {
     grid-template-columns: repeat(12, minmax(0, 1fr));
   }
@@ -1233,6 +1385,10 @@
   }
 
   .sm\:grid-cols-none\:focus:focus {
+    grid-template-columns: none;
+  }
+
+  .sm\:grid-cols-none\:focus-visible:focus-visible {
     grid-template-columns: none;
   }
 
@@ -1269,6 +1425,10 @@
     grid-template-columns: repeat(1, minmax(0, 1fr));
   }
 
+  .md\:grid-cols-1\:focus-visible:focus-visible {
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+  }
+
   .md\:grid-cols-1\:hover:hover {
     grid-template-columns: repeat(1, minmax(0, 1fr));
   }
@@ -1298,6 +1458,10 @@
   }
 
   .md\:grid-cols-2\:focus:focus {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-2\:focus-visible:focus-visible {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
@@ -1333,6 +1497,10 @@
     grid-template-columns: repeat(3, minmax(0, 1fr));
   }
 
+  .md\:grid-cols-3\:focus-visible:focus-visible {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
   .md\:grid-cols-3\:hover:hover {
     grid-template-columns: repeat(3, minmax(0, 1fr));
   }
@@ -1362,6 +1530,10 @@
   }
 
   .md\:grid-cols-4\:focus:focus {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-4\:focus-visible:focus-visible {
     grid-template-columns: repeat(4, minmax(0, 1fr));
   }
 
@@ -1397,6 +1569,10 @@
     grid-template-columns: repeat(5, minmax(0, 1fr));
   }
 
+  .md\:grid-cols-5\:focus-visible:focus-visible {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+  }
+
   .md\:grid-cols-5\:hover:hover {
     grid-template-columns: repeat(5, minmax(0, 1fr));
   }
@@ -1426,6 +1602,10 @@
   }
 
   .md\:grid-cols-6\:focus:focus {
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-6\:focus-visible:focus-visible {
     grid-template-columns: repeat(6, minmax(0, 1fr));
   }
 
@@ -1461,6 +1641,10 @@
     grid-template-columns: repeat(7, minmax(0, 1fr));
   }
 
+  .md\:grid-cols-7\:focus-visible:focus-visible {
+    grid-template-columns: repeat(7, minmax(0, 1fr));
+  }
+
   .md\:grid-cols-7\:hover:hover {
     grid-template-columns: repeat(7, minmax(0, 1fr));
   }
@@ -1490,6 +1674,10 @@
   }
 
   .md\:grid-cols-8\:focus:focus {
+    grid-template-columns: repeat(8, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-8\:focus-visible:focus-visible {
     grid-template-columns: repeat(8, minmax(0, 1fr));
   }
 
@@ -1525,6 +1713,10 @@
     grid-template-columns: repeat(9, minmax(0, 1fr));
   }
 
+  .md\:grid-cols-9\:focus-visible:focus-visible {
+    grid-template-columns: repeat(9, minmax(0, 1fr));
+  }
+
   .md\:grid-cols-9\:hover:hover {
     grid-template-columns: repeat(9, minmax(0, 1fr));
   }
@@ -1554,6 +1746,10 @@
   }
 
   .md\:grid-cols-10\:focus:focus {
+    grid-template-columns: repeat(10, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-10\:focus-visible:focus-visible {
     grid-template-columns: repeat(10, minmax(0, 1fr));
   }
 
@@ -1589,6 +1785,10 @@
     grid-template-columns: repeat(11, minmax(0, 1fr));
   }
 
+  .md\:grid-cols-11\:focus-visible:focus-visible {
+    grid-template-columns: repeat(11, minmax(0, 1fr));
+  }
+
   .md\:grid-cols-11\:hover:hover {
     grid-template-columns: repeat(11, minmax(0, 1fr));
   }
@@ -1621,6 +1821,10 @@
     grid-template-columns: repeat(12, minmax(0, 1fr));
   }
 
+  .md\:grid-cols-12\:focus-visible:focus-visible {
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+  }
+
   .md\:grid-cols-12\:hover:hover {
     grid-template-columns: repeat(12, minmax(0, 1fr));
   }
@@ -1650,6 +1854,10 @@
   }
 
   .md\:grid-cols-none\:focus:focus {
+    grid-template-columns: none;
+  }
+
+  .md\:grid-cols-none\:focus-visible:focus-visible {
     grid-template-columns: none;
   }
 
@@ -1686,6 +1894,10 @@
     grid-template-columns: repeat(1, minmax(0, 1fr));
   }
 
+  .lg\:grid-cols-1\:focus-visible:focus-visible {
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+  }
+
   .lg\:grid-cols-1\:hover:hover {
     grid-template-columns: repeat(1, minmax(0, 1fr));
   }
@@ -1715,6 +1927,10 @@
   }
 
   .lg\:grid-cols-2\:focus:focus {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-2\:focus-visible:focus-visible {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
@@ -1750,6 +1966,10 @@
     grid-template-columns: repeat(3, minmax(0, 1fr));
   }
 
+  .lg\:grid-cols-3\:focus-visible:focus-visible {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
   .lg\:grid-cols-3\:hover:hover {
     grid-template-columns: repeat(3, minmax(0, 1fr));
   }
@@ -1779,6 +1999,10 @@
   }
 
   .lg\:grid-cols-4\:focus:focus {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-4\:focus-visible:focus-visible {
     grid-template-columns: repeat(4, minmax(0, 1fr));
   }
 
@@ -1814,6 +2038,10 @@
     grid-template-columns: repeat(5, minmax(0, 1fr));
   }
 
+  .lg\:grid-cols-5\:focus-visible:focus-visible {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+  }
+
   .lg\:grid-cols-5\:hover:hover {
     grid-template-columns: repeat(5, minmax(0, 1fr));
   }
@@ -1843,6 +2071,10 @@
   }
 
   .lg\:grid-cols-6\:focus:focus {
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-6\:focus-visible:focus-visible {
     grid-template-columns: repeat(6, minmax(0, 1fr));
   }
 
@@ -1878,6 +2110,10 @@
     grid-template-columns: repeat(7, minmax(0, 1fr));
   }
 
+  .lg\:grid-cols-7\:focus-visible:focus-visible {
+    grid-template-columns: repeat(7, minmax(0, 1fr));
+  }
+
   .lg\:grid-cols-7\:hover:hover {
     grid-template-columns: repeat(7, minmax(0, 1fr));
   }
@@ -1907,6 +2143,10 @@
   }
 
   .lg\:grid-cols-8\:focus:focus {
+    grid-template-columns: repeat(8, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-8\:focus-visible:focus-visible {
     grid-template-columns: repeat(8, minmax(0, 1fr));
   }
 
@@ -1942,6 +2182,10 @@
     grid-template-columns: repeat(9, minmax(0, 1fr));
   }
 
+  .lg\:grid-cols-9\:focus-visible:focus-visible {
+    grid-template-columns: repeat(9, minmax(0, 1fr));
+  }
+
   .lg\:grid-cols-9\:hover:hover {
     grid-template-columns: repeat(9, minmax(0, 1fr));
   }
@@ -1971,6 +2215,10 @@
   }
 
   .lg\:grid-cols-10\:focus:focus {
+    grid-template-columns: repeat(10, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-10\:focus-visible:focus-visible {
     grid-template-columns: repeat(10, minmax(0, 1fr));
   }
 
@@ -2006,6 +2254,10 @@
     grid-template-columns: repeat(11, minmax(0, 1fr));
   }
 
+  .lg\:grid-cols-11\:focus-visible:focus-visible {
+    grid-template-columns: repeat(11, minmax(0, 1fr));
+  }
+
   .lg\:grid-cols-11\:hover:hover {
     grid-template-columns: repeat(11, minmax(0, 1fr));
   }
@@ -2038,6 +2290,10 @@
     grid-template-columns: repeat(12, minmax(0, 1fr));
   }
 
+  .lg\:grid-cols-12\:focus-visible:focus-visible {
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+  }
+
   .lg\:grid-cols-12\:hover:hover {
     grid-template-columns: repeat(12, minmax(0, 1fr));
   }
@@ -2067,6 +2323,10 @@
   }
 
   .lg\:grid-cols-none\:focus:focus {
+    grid-template-columns: none;
+  }
+
+  .lg\:grid-cols-none\:focus-visible:focus-visible {
     grid-template-columns: none;
   }
 

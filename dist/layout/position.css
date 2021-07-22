@@ -18,6 +18,10 @@
   position: static;
 }
 
+.static\:focus-visible:focus-visible {
+  position: static;
+}
+
 .static\:hover:hover {
   position: static;
 }
@@ -47,6 +51,10 @@
 }
 
 .fixed\:focus:focus {
+  position: fixed;
+}
+
+.fixed\:focus-visible:focus-visible {
   position: fixed;
 }
 
@@ -82,6 +90,10 @@
   position: absolute;
 }
 
+.absolute\:focus-visible:focus-visible {
+  position: absolute;
+}
+
 .absolute\:hover:hover {
   position: absolute;
 }
@@ -114,6 +126,10 @@
   position: relative;
 }
 
+.relative\:focus-visible:focus-visible {
+  position: relative;
+}
+
 .relative\:hover:hover {
   position: relative;
 }
@@ -143,6 +159,10 @@
 }
 
 .sticky\:focus:focus {
+  position: sticky;
+}
+
+.sticky\:focus-visible:focus-visible {
   position: sticky;
 }
 
@@ -179,6 +199,10 @@
     position: static;
   }
 
+  .xs\:static\:focus-visible:focus-visible {
+    position: static;
+  }
+
   .xs\:static\:hover:hover {
     position: static;
   }
@@ -208,6 +232,10 @@
   }
 
   .xs\:fixed\:focus:focus {
+    position: fixed;
+  }
+
+  .xs\:fixed\:focus-visible:focus-visible {
     position: fixed;
   }
 
@@ -243,6 +271,10 @@
     position: absolute;
   }
 
+  .xs\:absolute\:focus-visible:focus-visible {
+    position: absolute;
+  }
+
   .xs\:absolute\:hover:hover {
     position: absolute;
   }
@@ -275,6 +307,10 @@
     position: relative;
   }
 
+  .xs\:relative\:focus-visible:focus-visible {
+    position: relative;
+  }
+
   .xs\:relative\:hover:hover {
     position: relative;
   }
@@ -304,6 +340,10 @@
   }
 
   .xs\:sticky\:focus:focus {
+    position: sticky;
+  }
+
+  .xs\:sticky\:focus-visible:focus-visible {
     position: sticky;
   }
 
@@ -340,6 +380,10 @@
     position: static;
   }
 
+  .sm\:static\:focus-visible:focus-visible {
+    position: static;
+  }
+
   .sm\:static\:hover:hover {
     position: static;
   }
@@ -369,6 +413,10 @@
   }
 
   .sm\:fixed\:focus:focus {
+    position: fixed;
+  }
+
+  .sm\:fixed\:focus-visible:focus-visible {
     position: fixed;
   }
 
@@ -404,6 +452,10 @@
     position: absolute;
   }
 
+  .sm\:absolute\:focus-visible:focus-visible {
+    position: absolute;
+  }
+
   .sm\:absolute\:hover:hover {
     position: absolute;
   }
@@ -436,6 +488,10 @@
     position: relative;
   }
 
+  .sm\:relative\:focus-visible:focus-visible {
+    position: relative;
+  }
+
   .sm\:relative\:hover:hover {
     position: relative;
   }
@@ -465,6 +521,10 @@
   }
 
   .sm\:sticky\:focus:focus {
+    position: sticky;
+  }
+
+  .sm\:sticky\:focus-visible:focus-visible {
     position: sticky;
   }
 
@@ -501,6 +561,10 @@
     position: static;
   }
 
+  .md\:static\:focus-visible:focus-visible {
+    position: static;
+  }
+
   .md\:static\:hover:hover {
     position: static;
   }
@@ -530,6 +594,10 @@
   }
 
   .md\:fixed\:focus:focus {
+    position: fixed;
+  }
+
+  .md\:fixed\:focus-visible:focus-visible {
     position: fixed;
   }
 
@@ -565,6 +633,10 @@
     position: absolute;
   }
 
+  .md\:absolute\:focus-visible:focus-visible {
+    position: absolute;
+  }
+
   .md\:absolute\:hover:hover {
     position: absolute;
   }
@@ -597,6 +669,10 @@
     position: relative;
   }
 
+  .md\:relative\:focus-visible:focus-visible {
+    position: relative;
+  }
+
   .md\:relative\:hover:hover {
     position: relative;
   }
@@ -626,6 +702,10 @@
   }
 
   .md\:sticky\:focus:focus {
+    position: sticky;
+  }
+
+  .md\:sticky\:focus-visible:focus-visible {
     position: sticky;
   }
 
@@ -662,6 +742,10 @@
     position: static;
   }
 
+  .lg\:static\:focus-visible:focus-visible {
+    position: static;
+  }
+
   .lg\:static\:hover:hover {
     position: static;
   }
@@ -691,6 +775,10 @@
   }
 
   .lg\:fixed\:focus:focus {
+    position: fixed;
+  }
+
+  .lg\:fixed\:focus-visible:focus-visible {
     position: fixed;
   }
 
@@ -726,6 +814,10 @@
     position: absolute;
   }
 
+  .lg\:absolute\:focus-visible:focus-visible {
+    position: absolute;
+  }
+
   .lg\:absolute\:hover:hover {
     position: absolute;
   }
@@ -758,6 +850,10 @@
     position: relative;
   }
 
+  .lg\:relative\:focus-visible:focus-visible {
+    position: relative;
+  }
+
   .lg\:relative\:hover:hover {
     position: relative;
   }
@@ -787,6 +883,10 @@
   }
 
   .lg\:sticky\:focus:focus {
+    position: sticky;
+  }
+
+  .lg\:sticky\:focus-visible:focus-visible {
     position: sticky;
   }
 

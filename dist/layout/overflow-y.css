@@ -18,6 +18,10 @@
   overflow-y: auto;
 }
 
+.overflow-y-auto\:focus-visible:focus-visible {
+  overflow-y: auto;
+}
+
 .overflow-y-auto\:hover:hover {
   overflow-y: auto;
 }
@@ -47,6 +51,10 @@
 }
 
 .overflow-y-hidden\:focus:focus {
+  overflow-y: hidden;
+}
+
+.overflow-y-hidden\:focus-visible:focus-visible {
   overflow-y: hidden;
 }
 
@@ -82,6 +90,10 @@
   overflow-y: visible;
 }
 
+.overflow-y-visible\:focus-visible:focus-visible {
+  overflow-y: visible;
+}
+
 .overflow-y-visible\:hover:hover {
   overflow-y: visible;
 }
@@ -111,6 +123,10 @@
 }
 
 .overflow-y-scroll\:focus:focus {
+  overflow-y: scroll;
+}
+
+.overflow-y-scroll\:focus-visible:focus-visible {
   overflow-y: scroll;
 }
 
@@ -147,6 +163,10 @@
     overflow-y: auto;
   }
 
+  .xs\:overflow-y-auto\:focus-visible:focus-visible {
+    overflow-y: auto;
+  }
+
   .xs\:overflow-y-auto\:hover:hover {
     overflow-y: auto;
   }
@@ -176,6 +196,10 @@
   }
 
   .xs\:overflow-y-hidden\:focus:focus {
+    overflow-y: hidden;
+  }
+
+  .xs\:overflow-y-hidden\:focus-visible:focus-visible {
     overflow-y: hidden;
   }
 
@@ -211,6 +235,10 @@
     overflow-y: visible;
   }
 
+  .xs\:overflow-y-visible\:focus-visible:focus-visible {
+    overflow-y: visible;
+  }
+
   .xs\:overflow-y-visible\:hover:hover {
     overflow-y: visible;
   }
@@ -240,6 +268,10 @@
   }
 
   .xs\:overflow-y-scroll\:focus:focus {
+    overflow-y: scroll;
+  }
+
+  .xs\:overflow-y-scroll\:focus-visible:focus-visible {
     overflow-y: scroll;
   }
 
@@ -276,6 +308,10 @@
     overflow-y: auto;
   }
 
+  .sm\:overflow-y-auto\:focus-visible:focus-visible {
+    overflow-y: auto;
+  }
+
   .sm\:overflow-y-auto\:hover:hover {
     overflow-y: auto;
   }
@@ -305,6 +341,10 @@
   }
 
   .sm\:overflow-y-hidden\:focus:focus {
+    overflow-y: hidden;
+  }
+
+  .sm\:overflow-y-hidden\:focus-visible:focus-visible {
     overflow-y: hidden;
   }
 
@@ -340,6 +380,10 @@
     overflow-y: visible;
   }
 
+  .sm\:overflow-y-visible\:focus-visible:focus-visible {
+    overflow-y: visible;
+  }
+
   .sm\:overflow-y-visible\:hover:hover {
     overflow-y: visible;
   }
@@ -369,6 +413,10 @@
   }
 
   .sm\:overflow-y-scroll\:focus:focus {
+    overflow-y: scroll;
+  }
+
+  .sm\:overflow-y-scroll\:focus-visible:focus-visible {
     overflow-y: scroll;
   }
 
@@ -405,6 +453,10 @@
     overflow-y: auto;
   }
 
+  .md\:overflow-y-auto\:focus-visible:focus-visible {
+    overflow-y: auto;
+  }
+
   .md\:overflow-y-auto\:hover:hover {
     overflow-y: auto;
   }
@@ -434,6 +486,10 @@
   }
 
   .md\:overflow-y-hidden\:focus:focus {
+    overflow-y: hidden;
+  }
+
+  .md\:overflow-y-hidden\:focus-visible:focus-visible {
     overflow-y: hidden;
   }
 
@@ -469,6 +525,10 @@
     overflow-y: visible;
   }
 
+  .md\:overflow-y-visible\:focus-visible:focus-visible {
+    overflow-y: visible;
+  }
+
   .md\:overflow-y-visible\:hover:hover {
     overflow-y: visible;
   }
@@ -498,6 +558,10 @@
   }
 
   .md\:overflow-y-scroll\:focus:focus {
+    overflow-y: scroll;
+  }
+
+  .md\:overflow-y-scroll\:focus-visible:focus-visible {
     overflow-y: scroll;
   }
 
@@ -534,6 +598,10 @@
     overflow-y: auto;
   }
 
+  .lg\:overflow-y-auto\:focus-visible:focus-visible {
+    overflow-y: auto;
+  }
+
   .lg\:overflow-y-auto\:hover:hover {
     overflow-y: auto;
   }
@@ -563,6 +631,10 @@
   }
 
   .lg\:overflow-y-hidden\:focus:focus {
+    overflow-y: hidden;
+  }
+
+  .lg\:overflow-y-hidden\:focus-visible:focus-visible {
     overflow-y: hidden;
   }
 
@@ -598,6 +670,10 @@
     overflow-y: visible;
   }
 
+  .lg\:overflow-y-visible\:focus-visible:focus-visible {
+    overflow-y: visible;
+  }
+
   .lg\:overflow-y-visible\:hover:hover {
     overflow-y: visible;
   }
@@ -627,6 +703,10 @@
   }
 
   .lg\:overflow-y-scroll\:focus:focus {
+    overflow-y: scroll;
+  }
+
+  .lg\:overflow-y-scroll\:focus-visible:focus-visible {
     overflow-y: scroll;
   }
 

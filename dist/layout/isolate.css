@@ -18,6 +18,10 @@
   isolate: isolate;
 }
 
+.isolate\:focus-visible:focus-visible {
+  isolate: isolate;
+}
+
 .isolate\:hover:hover {
   isolate: isolate;
 }
@@ -47,6 +51,10 @@
 }
 
 .isolation-auto\:focus:focus {
+  isolate: auto;
+}
+
+.isolation-auto\:focus-visible:focus-visible {
   isolate: auto;
 }
 
@@ -83,6 +91,10 @@
     isolate: isolate;
   }
 
+  .xs\:isolate\:focus-visible:focus-visible {
+    isolate: isolate;
+  }
+
   .xs\:isolate\:hover:hover {
     isolate: isolate;
   }
@@ -112,6 +124,10 @@
   }
 
   .xs\:isolation-auto\:focus:focus {
+    isolate: auto;
+  }
+
+  .xs\:isolation-auto\:focus-visible:focus-visible {
     isolate: auto;
   }
 
@@ -148,6 +164,10 @@
     isolate: isolate;
   }
 
+  .sm\:isolate\:focus-visible:focus-visible {
+    isolate: isolate;
+  }
+
   .sm\:isolate\:hover:hover {
     isolate: isolate;
   }
@@ -177,6 +197,10 @@
   }
 
   .sm\:isolation-auto\:focus:focus {
+    isolate: auto;
+  }
+
+  .sm\:isolation-auto\:focus-visible:focus-visible {
     isolate: auto;
   }
 
@@ -213,6 +237,10 @@
     isolate: isolate;
   }
 
+  .md\:isolate\:focus-visible:focus-visible {
+    isolate: isolate;
+  }
+
   .md\:isolate\:hover:hover {
     isolate: isolate;
   }
@@ -242,6 +270,10 @@
   }
 
   .md\:isolation-auto\:focus:focus {
+    isolate: auto;
+  }
+
+  .md\:isolation-auto\:focus-visible:focus-visible {
     isolate: auto;
   }
 
@@ -278,6 +310,10 @@
     isolate: isolate;
   }
 
+  .lg\:isolate\:focus-visible:focus-visible {
+    isolate: isolate;
+  }
+
   .lg\:isolate\:hover:hover {
     isolate: isolate;
   }
@@ -307,6 +343,10 @@
   }
 
   .lg\:isolation-auto\:focus:focus {
+    isolate: auto;
+  }
+
+  .lg\:isolation-auto\:focus-visible:focus-visible {
     isolate: auto;
   }
 

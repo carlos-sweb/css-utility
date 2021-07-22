@@ -18,6 +18,10 @@
   list-style-position: inside;
 }
 
+.list-inside\:focus-visible:focus-visible {
+  list-style-position: inside;
+}
+
 .list-inside\:hover:hover {
   list-style-position: inside;
 }
@@ -47,6 +51,10 @@
 }
 
 .list-outside\:focus:focus {
+  list-style-position: outside;
+}
+
+.list-outside\:focus-visible:focus-visible {
   list-style-position: outside;
 }
 
@@ -83,6 +91,10 @@
     list-style-position: inside;
   }
 
+  .xs\:list-inside\:focus-visible:focus-visible {
+    list-style-position: inside;
+  }
+
   .xs\:list-inside\:hover:hover {
     list-style-position: inside;
   }
@@ -112,6 +124,10 @@
   }
 
   .xs\:list-outside\:focus:focus {
+    list-style-position: outside;
+  }
+
+  .xs\:list-outside\:focus-visible:focus-visible {
     list-style-position: outside;
   }
 
@@ -148,6 +164,10 @@
     list-style-position: inside;
   }
 
+  .sm\:list-inside\:focus-visible:focus-visible {
+    list-style-position: inside;
+  }
+
   .sm\:list-inside\:hover:hover {
     list-style-position: inside;
   }
@@ -177,6 +197,10 @@
   }
 
   .sm\:list-outside\:focus:focus {
+    list-style-position: outside;
+  }
+
+  .sm\:list-outside\:focus-visible:focus-visible {
     list-style-position: outside;
   }
 
@@ -213,6 +237,10 @@
     list-style-position: inside;
   }
 
+  .md\:list-inside\:focus-visible:focus-visible {
+    list-style-position: inside;
+  }
+
   .md\:list-inside\:hover:hover {
     list-style-position: inside;
   }
@@ -242,6 +270,10 @@
   }
 
   .md\:list-outside\:focus:focus {
+    list-style-position: outside;
+  }
+
+  .md\:list-outside\:focus-visible:focus-visible {
     list-style-position: outside;
   }
 
@@ -278,6 +310,10 @@
     list-style-position: inside;
   }
 
+  .lg\:list-inside\:focus-visible:focus-visible {
+    list-style-position: inside;
+  }
+
   .lg\:list-inside\:hover:hover {
     list-style-position: inside;
   }
@@ -307,6 +343,10 @@
   }
 
   .lg\:list-outside\:focus:focus {
+    list-style-position: outside;
+  }
+
+  .lg\:list-outside\:focus-visible:focus-visible {
     list-style-position: outside;
   }
 

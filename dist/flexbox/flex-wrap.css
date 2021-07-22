@@ -18,6 +18,10 @@
   flex-wrap: wrap;
 }
 
+.flex-wrap\:focus-visible:focus-visible {
+  flex-wrap: wrap;
+}
+
 .flex-wrap\:hover:hover {
   flex-wrap: wrap;
 }
@@ -50,6 +54,10 @@
   flex-wrap: wrap-reverse;
 }
 
+.flex-wrap-reverse\:focus-visible:focus-visible {
+  flex-wrap: wrap-reverse;
+}
+
 .flex-wrap-reverse\:hover:hover {
   flex-wrap: wrap-reverse;
 }
@@ -79,6 +87,10 @@
 }
 
 .flex-nowrap\:focus:focus {
+  flex-wrap: nowrap;
+}
+
+.flex-nowrap\:focus-visible:focus-visible {
   flex-wrap: nowrap;
 }
 
@@ -115,6 +127,10 @@
     flex-wrap: wrap;
   }
 
+  .xs\:flex-wrap\:focus-visible:focus-visible {
+    flex-wrap: wrap;
+  }
+
   .xs\:flex-wrap\:hover:hover {
     flex-wrap: wrap;
   }
@@ -147,6 +163,10 @@
     flex-wrap: wrap-reverse;
   }
 
+  .xs\:flex-wrap-reverse\:focus-visible:focus-visible {
+    flex-wrap: wrap-reverse;
+  }
+
   .xs\:flex-wrap-reverse\:hover:hover {
     flex-wrap: wrap-reverse;
   }
@@ -176,6 +196,10 @@
   }
 
   .xs\:flex-nowrap\:focus:focus {
+    flex-wrap: nowrap;
+  }
+
+  .xs\:flex-nowrap\:focus-visible:focus-visible {
     flex-wrap: nowrap;
   }
 
@@ -212,6 +236,10 @@
     flex-wrap: wrap;
   }
 
+  .sm\:flex-wrap\:focus-visible:focus-visible {
+    flex-wrap: wrap;
+  }
+
   .sm\:flex-wrap\:hover:hover {
     flex-wrap: wrap;
   }
@@ -244,6 +272,10 @@
     flex-wrap: wrap-reverse;
   }
 
+  .sm\:flex-wrap-reverse\:focus-visible:focus-visible {
+    flex-wrap: wrap-reverse;
+  }
+
   .sm\:flex-wrap-reverse\:hover:hover {
     flex-wrap: wrap-reverse;
   }
@@ -273,6 +305,10 @@
   }
 
   .sm\:flex-nowrap\:focus:focus {
+    flex-wrap: nowrap;
+  }
+
+  .sm\:flex-nowrap\:focus-visible:focus-visible {
     flex-wrap: nowrap;
   }
 
@@ -309,6 +345,10 @@
     flex-wrap: wrap;
   }
 
+  .md\:flex-wrap\:focus-visible:focus-visible {
+    flex-wrap: wrap;
+  }
+
   .md\:flex-wrap\:hover:hover {
     flex-wrap: wrap;
   }
@@ -341,6 +381,10 @@
     flex-wrap: wrap-reverse;
   }
 
+  .md\:flex-wrap-reverse\:focus-visible:focus-visible {
+    flex-wrap: wrap-reverse;
+  }
+
   .md\:flex-wrap-reverse\:hover:hover {
     flex-wrap: wrap-reverse;
   }
@@ -370,6 +414,10 @@
   }
 
   .md\:flex-nowrap\:focus:focus {
+    flex-wrap: nowrap;
+  }
+
+  .md\:flex-nowrap\:focus-visible:focus-visible {
     flex-wrap: nowrap;
   }
 
@@ -406,6 +454,10 @@
     flex-wrap: wrap;
   }
 
+  .lg\:flex-wrap\:focus-visible:focus-visible {
+    flex-wrap: wrap;
+  }
+
   .lg\:flex-wrap\:hover:hover {
     flex-wrap: wrap;
   }
@@ -438,6 +490,10 @@
     flex-wrap: wrap-reverse;
   }
 
+  .lg\:flex-wrap-reverse\:focus-visible:focus-visible {
+    flex-wrap: wrap-reverse;
+  }
+
   .lg\:flex-wrap-reverse\:hover:hover {
     flex-wrap: wrap-reverse;
   }
@@ -467,6 +523,10 @@
   }
 
   .lg\:flex-nowrap\:focus:focus {
+    flex-wrap: nowrap;
+  }
+
+  .lg\:flex-nowrap\:focus-visible:focus-visible {
     flex-wrap: nowrap;
   }
 

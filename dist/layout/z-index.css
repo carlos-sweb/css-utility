@@ -18,6 +18,10 @@
   z-index: 0;
 }
 
+.z-0\:focus-visible:focus-visible {
+  z-index: 0;
+}
+
 .z-0\:hover:hover {
   z-index: 0;
 }
@@ -47,6 +51,10 @@
 }
 
 .z-10\:focus:focus {
+  z-index: 10;
+}
+
+.z-10\:focus-visible:focus-visible {
   z-index: 10;
 }
 
@@ -82,6 +90,10 @@
   z-index: 20;
 }
 
+.z-20\:focus-visible:focus-visible {
+  z-index: 20;
+}
+
 .z-20\:hover:hover {
   z-index: 20;
 }
@@ -111,6 +123,10 @@
 }
 
 .z-30\:focus:focus {
+  z-index: 30;
+}
+
+.z-30\:focus-visible:focus-visible {
   z-index: 30;
 }
 
@@ -146,6 +162,10 @@
   z-index: 40;
 }
 
+.z-40\:focus-visible:focus-visible {
+  z-index: 40;
+}
+
 .z-40\:hover:hover {
   z-index: 40;
 }
@@ -178,6 +198,10 @@
   z-index: 50;
 }
 
+.z-50\:focus-visible:focus-visible {
+  z-index: 50;
+}
+
 .z-50\:hover:hover {
   z-index: 50;
 }
@@ -207,6 +231,10 @@
 }
 
 .z-auto\:focus:focus {
+  z-index: auto;
+}
+
+.z-auto\:focus-visible:focus-visible {
   z-index: auto;
 }
 
@@ -243,6 +271,10 @@
     z-index: 0;
   }
 
+  .xs\:z-0\:focus-visible:focus-visible {
+    z-index: 0;
+  }
+
   .xs\:z-0\:hover:hover {
     z-index: 0;
   }
@@ -272,6 +304,10 @@
   }
 
   .xs\:z-10\:focus:focus {
+    z-index: 10;
+  }
+
+  .xs\:z-10\:focus-visible:focus-visible {
     z-index: 10;
   }
 
@@ -307,6 +343,10 @@
     z-index: 20;
   }
 
+  .xs\:z-20\:focus-visible:focus-visible {
+    z-index: 20;
+  }
+
   .xs\:z-20\:hover:hover {
     z-index: 20;
   }
@@ -336,6 +376,10 @@
   }
 
   .xs\:z-30\:focus:focus {
+    z-index: 30;
+  }
+
+  .xs\:z-30\:focus-visible:focus-visible {
     z-index: 30;
   }
 
@@ -371,6 +415,10 @@
     z-index: 40;
   }
 
+  .xs\:z-40\:focus-visible:focus-visible {
+    z-index: 40;
+  }
+
   .xs\:z-40\:hover:hover {
     z-index: 40;
   }
@@ -403,6 +451,10 @@
     z-index: 50;
   }
 
+  .xs\:z-50\:focus-visible:focus-visible {
+    z-index: 50;
+  }
+
   .xs\:z-50\:hover:hover {
     z-index: 50;
   }
@@ -432,6 +484,10 @@
   }
 
   .xs\:z-auto\:focus:focus {
+    z-index: auto;
+  }
+
+  .xs\:z-auto\:focus-visible:focus-visible {
     z-index: auto;
   }
 
@@ -468,6 +524,10 @@
     z-index: 0;
   }
 
+  .sm\:z-0\:focus-visible:focus-visible {
+    z-index: 0;
+  }
+
   .sm\:z-0\:hover:hover {
     z-index: 0;
   }
@@ -497,6 +557,10 @@
   }
 
   .sm\:z-10\:focus:focus {
+    z-index: 10;
+  }
+
+  .sm\:z-10\:focus-visible:focus-visible {
     z-index: 10;
   }
 
@@ -532,6 +596,10 @@
     z-index: 20;
   }
 
+  .sm\:z-20\:focus-visible:focus-visible {
+    z-index: 20;
+  }
+
   .sm\:z-20\:hover:hover {
     z-index: 20;
   }
@@ -561,6 +629,10 @@
   }
 
   .sm\:z-30\:focus:focus {
+    z-index: 30;
+  }
+
+  .sm\:z-30\:focus-visible:focus-visible {
     z-index: 30;
   }
 
@@ -596,6 +668,10 @@
     z-index: 40;
   }
 
+  .sm\:z-40\:focus-visible:focus-visible {
+    z-index: 40;
+  }
+
   .sm\:z-40\:hover:hover {
     z-index: 40;
   }
@@ -628,6 +704,10 @@
     z-index: 50;
   }
 
+  .sm\:z-50\:focus-visible:focus-visible {
+    z-index: 50;
+  }
+
   .sm\:z-50\:hover:hover {
     z-index: 50;
   }
@@ -657,6 +737,10 @@
   }
 
   .sm\:z-auto\:focus:focus {
+    z-index: auto;
+  }
+
+  .sm\:z-auto\:focus-visible:focus-visible {
     z-index: auto;
   }
 
@@ -693,6 +777,10 @@
     z-index: 0;
   }
 
+  .md\:z-0\:focus-visible:focus-visible {
+    z-index: 0;
+  }
+
   .md\:z-0\:hover:hover {
     z-index: 0;
   }
@@ -722,6 +810,10 @@
   }
 
   .md\:z-10\:focus:focus {
+    z-index: 10;
+  }
+
+  .md\:z-10\:focus-visible:focus-visible {
     z-index: 10;
   }
 
@@ -757,6 +849,10 @@
     z-index: 20;
   }
 
+  .md\:z-20\:focus-visible:focus-visible {
+    z-index: 20;
+  }
+
   .md\:z-20\:hover:hover {
     z-index: 20;
   }
@@ -786,6 +882,10 @@
   }
 
   .md\:z-30\:focus:focus {
+    z-index: 30;
+  }
+
+  .md\:z-30\:focus-visible:focus-visible {
     z-index: 30;
   }
 
@@ -821,6 +921,10 @@
     z-index: 40;
   }
 
+  .md\:z-40\:focus-visible:focus-visible {
+    z-index: 40;
+  }
+
   .md\:z-40\:hover:hover {
     z-index: 40;
   }
@@ -853,6 +957,10 @@
     z-index: 50;
   }
 
+  .md\:z-50\:focus-visible:focus-visible {
+    z-index: 50;
+  }
+
   .md\:z-50\:hover:hover {
     z-index: 50;
   }
@@ -882,6 +990,10 @@
   }
 
   .md\:z-auto\:focus:focus {
+    z-index: auto;
+  }
+
+  .md\:z-auto\:focus-visible:focus-visible {
     z-index: auto;
   }
 
@@ -918,6 +1030,10 @@
     z-index: 0;
   }
 
+  .lg\:z-0\:focus-visible:focus-visible {
+    z-index: 0;
+  }
+
   .lg\:z-0\:hover:hover {
     z-index: 0;
   }
@@ -947,6 +1063,10 @@
   }
 
   .lg\:z-10\:focus:focus {
+    z-index: 10;
+  }
+
+  .lg\:z-10\:focus-visible:focus-visible {
     z-index: 10;
   }
 
@@ -982,6 +1102,10 @@
     z-index: 20;
   }
 
+  .lg\:z-20\:focus-visible:focus-visible {
+    z-index: 20;
+  }
+
   .lg\:z-20\:hover:hover {
     z-index: 20;
   }
@@ -1011,6 +1135,10 @@
   }
 
   .lg\:z-30\:focus:focus {
+    z-index: 30;
+  }
+
+  .lg\:z-30\:focus-visible:focus-visible {
     z-index: 30;
   }
 
@@ -1046,6 +1174,10 @@
     z-index: 40;
   }
 
+  .lg\:z-40\:focus-visible:focus-visible {
+    z-index: 40;
+  }
+
   .lg\:z-40\:hover:hover {
     z-index: 40;
   }
@@ -1078,6 +1210,10 @@
     z-index: 50;
   }
 
+  .lg\:z-50\:focus-visible:focus-visible {
+    z-index: 50;
+  }
+
   .lg\:z-50\:hover:hover {
     z-index: 50;
   }
@@ -1107,6 +1243,10 @@
   }
 
   .lg\:z-auto\:focus:focus {
+    z-index: auto;
+  }
+
+  .lg\:z-auto\:focus-visible:focus-visible {
     z-index: auto;
   }
 

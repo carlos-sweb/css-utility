@@ -18,6 +18,10 @@
   object-fit: contain;
 }
 
+.object-contain\:focus-visible:focus-visible {
+  object-fit: contain;
+}
+
 .object-contain\:hover:hover {
   object-fit: contain;
 }
@@ -47,6 +51,10 @@
 }
 
 .object-cover\:focus:focus {
+  object-fit: cover;
+}
+
+.object-cover\:focus-visible:focus-visible {
   object-fit: cover;
 }
 
@@ -82,6 +90,10 @@
   object-fit: fill;
 }
 
+.object-fill\:focus-visible:focus-visible {
+  object-fit: fill;
+}
+
 .object-fill\:hover:hover {
   object-fit: fill;
 }
@@ -114,6 +126,10 @@
   object-fit: none;
 }
 
+.object-none\:focus-visible:focus-visible {
+  object-fit: none;
+}
+
 .object-none\:hover:hover {
   object-fit: none;
 }
@@ -143,6 +159,10 @@
 }
 
 .object-scale-down\:focus:focus {
+  object-fit: scale-down;
+}
+
+.object-scale-down\:focus-visible:focus-visible {
   object-fit: scale-down;
 }
 
@@ -179,6 +199,10 @@
     object-fit: contain;
   }
 
+  .xs\:object-contain\:focus-visible:focus-visible {
+    object-fit: contain;
+  }
+
   .xs\:object-contain\:hover:hover {
     object-fit: contain;
   }
@@ -208,6 +232,10 @@
   }
 
   .xs\:object-cover\:focus:focus {
+    object-fit: cover;
+  }
+
+  .xs\:object-cover\:focus-visible:focus-visible {
     object-fit: cover;
   }
 
@@ -243,6 +271,10 @@
     object-fit: fill;
   }
 
+  .xs\:object-fill\:focus-visible:focus-visible {
+    object-fit: fill;
+  }
+
   .xs\:object-fill\:hover:hover {
     object-fit: fill;
   }
@@ -275,6 +307,10 @@
     object-fit: none;
   }
 
+  .xs\:object-none\:focus-visible:focus-visible {
+    object-fit: none;
+  }
+
   .xs\:object-none\:hover:hover {
     object-fit: none;
   }
@@ -304,6 +340,10 @@
   }
 
   .xs\:object-scale-down\:focus:focus {
+    object-fit: scale-down;
+  }
+
+  .xs\:object-scale-down\:focus-visible:focus-visible {
     object-fit: scale-down;
   }
 
@@ -340,6 +380,10 @@
     object-fit: contain;
   }
 
+  .sm\:object-contain\:focus-visible:focus-visible {
+    object-fit: contain;
+  }
+
   .sm\:object-contain\:hover:hover {
     object-fit: contain;
   }
@@ -369,6 +413,10 @@
   }
 
   .sm\:object-cover\:focus:focus {
+    object-fit: cover;
+  }
+
+  .sm\:object-cover\:focus-visible:focus-visible {
     object-fit: cover;
   }
 
@@ -404,6 +452,10 @@
     object-fit: fill;
   }
 
+  .sm\:object-fill\:focus-visible:focus-visible {
+    object-fit: fill;
+  }
+
   .sm\:object-fill\:hover:hover {
     object-fit: fill;
   }
@@ -436,6 +488,10 @@
     object-fit: none;
   }
 
+  .sm\:object-none\:focus-visible:focus-visible {
+    object-fit: none;
+  }
+
   .sm\:object-none\:hover:hover {
     object-fit: none;
   }
@@ -465,6 +521,10 @@
   }
 
   .sm\:object-scale-down\:focus:focus {
+    object-fit: scale-down;
+  }
+
+  .sm\:object-scale-down\:focus-visible:focus-visible {
     object-fit: scale-down;
   }
 
@@ -501,6 +561,10 @@
     object-fit: contain;
   }
 
+  .md\:object-contain\:focus-visible:focus-visible {
+    object-fit: contain;
+  }
+
   .md\:object-contain\:hover:hover {
     object-fit: contain;
   }
@@ -530,6 +594,10 @@
   }
 
   .md\:object-cover\:focus:focus {
+    object-fit: cover;
+  }
+
+  .md\:object-cover\:focus-visible:focus-visible {
     object-fit: cover;
   }
 
@@ -565,6 +633,10 @@
     object-fit: fill;
   }
 
+  .md\:object-fill\:focus-visible:focus-visible {
+    object-fit: fill;
+  }
+
   .md\:object-fill\:hover:hover {
     object-fit: fill;
   }
@@ -597,6 +669,10 @@
     object-fit: none;
   }
 
+  .md\:object-none\:focus-visible:focus-visible {
+    object-fit: none;
+  }
+
   .md\:object-none\:hover:hover {
     object-fit: none;
   }
@@ -626,6 +702,10 @@
   }
 
   .md\:object-scale-down\:focus:focus {
+    object-fit: scale-down;
+  }
+
+  .md\:object-scale-down\:focus-visible:focus-visible {
     object-fit: scale-down;
   }
 
@@ -662,6 +742,10 @@
     object-fit: contain;
   }
 
+  .lg\:object-contain\:focus-visible:focus-visible {
+    object-fit: contain;
+  }
+
   .lg\:object-contain\:hover:hover {
     object-fit: contain;
   }
@@ -691,6 +775,10 @@
   }
 
   .lg\:object-cover\:focus:focus {
+    object-fit: cover;
+  }
+
+  .lg\:object-cover\:focus-visible:focus-visible {
     object-fit: cover;
   }
 
@@ -726,6 +814,10 @@
     object-fit: fill;
   }
 
+  .lg\:object-fill\:focus-visible:focus-visible {
+    object-fit: fill;
+  }
+
   .lg\:object-fill\:hover:hover {
     object-fit: fill;
   }
@@ -758,6 +850,10 @@
     object-fit: none;
   }
 
+  .lg\:object-none\:focus-visible:focus-visible {
+    object-fit: none;
+  }
+
   .lg\:object-none\:hover:hover {
     object-fit: none;
   }
@@ -787,6 +883,10 @@
   }
 
   .lg\:object-scale-down\:focus:focus {
+    object-fit: scale-down;
+  }
+
+  .lg\:object-scale-down\:focus-visible:focus-visible {
     object-fit: scale-down;
   }
 

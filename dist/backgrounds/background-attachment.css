@@ -18,6 +18,10 @@
   background-attachment: fixed;
 }
 
+.bg-fixed\:focus-visible:focus-visible {
+  background-attachment: fixed;
+}
+
 .bg-fixed\:hover:hover {
   background-attachment: fixed;
 }
@@ -50,6 +54,10 @@
   background-attachment: local;
 }
 
+.bg-local\:focus-visible:focus-visible {
+  background-attachment: local;
+}
+
 .bg-local\:hover:hover {
   background-attachment: local;
 }
@@ -79,6 +87,10 @@
 }
 
 .bg-scroll\:focus:focus {
+  background-attachment: scroll;
+}
+
+.bg-scroll\:focus-visible:focus-visible {
   background-attachment: scroll;
 }
 
@@ -115,6 +127,10 @@
     background-attachment: fixed;
   }
 
+  .xs\:bg-fixed\:focus-visible:focus-visible {
+    background-attachment: fixed;
+  }
+
   .xs\:bg-fixed\:hover:hover {
     background-attachment: fixed;
   }
@@ -147,6 +163,10 @@
     background-attachment: local;
   }
 
+  .xs\:bg-local\:focus-visible:focus-visible {
+    background-attachment: local;
+  }
+
   .xs\:bg-local\:hover:hover {
     background-attachment: local;
   }
@@ -176,6 +196,10 @@
   }
 
   .xs\:bg-scroll\:focus:focus {
+    background-attachment: scroll;
+  }
+
+  .xs\:bg-scroll\:focus-visible:focus-visible {
     background-attachment: scroll;
   }
 
@@ -212,6 +236,10 @@
     background-attachment: fixed;
   }
 
+  .sm\:bg-fixed\:focus-visible:focus-visible {
+    background-attachment: fixed;
+  }
+
   .sm\:bg-fixed\:hover:hover {
     background-attachment: fixed;
   }
@@ -244,6 +272,10 @@
     background-attachment: local;
   }
 
+  .sm\:bg-local\:focus-visible:focus-visible {
+    background-attachment: local;
+  }
+
   .sm\:bg-local\:hover:hover {
     background-attachment: local;
   }
@@ -273,6 +305,10 @@
   }
 
   .sm\:bg-scroll\:focus:focus {
+    background-attachment: scroll;
+  }
+
+  .sm\:bg-scroll\:focus-visible:focus-visible {
     background-attachment: scroll;
   }
 
@@ -309,6 +345,10 @@
     background-attachment: fixed;
   }
 
+  .md\:bg-fixed\:focus-visible:focus-visible {
+    background-attachment: fixed;
+  }
+
   .md\:bg-fixed\:hover:hover {
     background-attachment: fixed;
   }
@@ -341,6 +381,10 @@
     background-attachment: local;
   }
 
+  .md\:bg-local\:focus-visible:focus-visible {
+    background-attachment: local;
+  }
+
   .md\:bg-local\:hover:hover {
     background-attachment: local;
   }
@@ -370,6 +414,10 @@
   }
 
   .md\:bg-scroll\:focus:focus {
+    background-attachment: scroll;
+  }
+
+  .md\:bg-scroll\:focus-visible:focus-visible {
     background-attachment: scroll;
   }
 
@@ -406,6 +454,10 @@
     background-attachment: fixed;
   }
 
+  .lg\:bg-fixed\:focus-visible:focus-visible {
+    background-attachment: fixed;
+  }
+
   .lg\:bg-fixed\:hover:hover {
     background-attachment: fixed;
   }
@@ -438,6 +490,10 @@
     background-attachment: local;
   }
 
+  .lg\:bg-local\:focus-visible:focus-visible {
+    background-attachment: local;
+  }
+
   .lg\:bg-local\:hover:hover {
     background-attachment: local;
   }
@@ -467,6 +523,10 @@
   }
 
   .lg\:bg-scroll\:focus:focus {
+    background-attachment: scroll;
+  }
+
+  .lg\:bg-scroll\:focus-visible:focus-visible {
     background-attachment: scroll;
   }
 

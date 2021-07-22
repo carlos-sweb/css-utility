@@ -18,6 +18,10 @@
   text-decoration: underline;
 }
 
+.underline\:focus-visible:focus-visible {
+  text-decoration: underline;
+}
+
 .underline\:hover:hover {
   text-decoration: underline;
 }
@@ -50,6 +54,10 @@
   text-decoration: line-through;
 }
 
+.line-through\:focus-visible:focus-visible {
+  text-decoration: line-through;
+}
+
 .line-through\:hover:hover {
   text-decoration: line-through;
 }
@@ -79,6 +87,10 @@
 }
 
 .no-underline\:focus:focus {
+  text-decoration: none;
+}
+
+.no-underline\:focus-visible:focus-visible {
   text-decoration: none;
 }
 
@@ -115,6 +127,10 @@
     text-decoration: underline;
   }
 
+  .xs\:underline\:focus-visible:focus-visible {
+    text-decoration: underline;
+  }
+
   .xs\:underline\:hover:hover {
     text-decoration: underline;
   }
@@ -147,6 +163,10 @@
     text-decoration: line-through;
   }
 
+  .xs\:line-through\:focus-visible:focus-visible {
+    text-decoration: line-through;
+  }
+
   .xs\:line-through\:hover:hover {
     text-decoration: line-through;
   }
@@ -176,6 +196,10 @@
   }
 
   .xs\:no-underline\:focus:focus {
+    text-decoration: none;
+  }
+
+  .xs\:no-underline\:focus-visible:focus-visible {
     text-decoration: none;
   }
 
@@ -212,6 +236,10 @@
     text-decoration: underline;
   }
 
+  .sm\:underline\:focus-visible:focus-visible {
+    text-decoration: underline;
+  }
+
   .sm\:underline\:hover:hover {
     text-decoration: underline;
   }
@@ -244,6 +272,10 @@
     text-decoration: line-through;
   }
 
+  .sm\:line-through\:focus-visible:focus-visible {
+    text-decoration: line-through;
+  }
+
   .sm\:line-through\:hover:hover {
     text-decoration: line-through;
   }
@@ -273,6 +305,10 @@
   }
 
   .sm\:no-underline\:focus:focus {
+    text-decoration: none;
+  }
+
+  .sm\:no-underline\:focus-visible:focus-visible {
     text-decoration: none;
   }
 
@@ -309,6 +345,10 @@
     text-decoration: underline;
   }
 
+  .md\:underline\:focus-visible:focus-visible {
+    text-decoration: underline;
+  }
+
   .md\:underline\:hover:hover {
     text-decoration: underline;
   }
@@ -341,6 +381,10 @@
     text-decoration: line-through;
   }
 
+  .md\:line-through\:focus-visible:focus-visible {
+    text-decoration: line-through;
+  }
+
   .md\:line-through\:hover:hover {
     text-decoration: line-through;
   }
@@ -370,6 +414,10 @@
   }
 
   .md\:no-underline\:focus:focus {
+    text-decoration: none;
+  }
+
+  .md\:no-underline\:focus-visible:focus-visible {
     text-decoration: none;
   }
 
@@ -406,6 +454,10 @@
     text-decoration: underline;
   }
 
+  .lg\:underline\:focus-visible:focus-visible {
+    text-decoration: underline;
+  }
+
   .lg\:underline\:hover:hover {
     text-decoration: underline;
   }
@@ -438,6 +490,10 @@
     text-decoration: line-through;
   }
 
+  .lg\:line-through\:focus-visible:focus-visible {
+    text-decoration: line-through;
+  }
+
   .lg\:line-through\:hover:hover {
     text-decoration: line-through;
   }
@@ -467,6 +523,10 @@
   }
 
   .lg\:no-underline\:focus:focus {
+    text-decoration: none;
+  }
+
+  .lg\:no-underline\:focus-visible:focus-visible {
     text-decoration: none;
   }
 

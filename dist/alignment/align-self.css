@@ -18,6 +18,10 @@
   align-self: auto;
 }
 
+.self-auto\:focus-visible:focus-visible {
+  align-self: auto;
+}
+
 .self-auto\:hover:hover {
   align-self: auto;
 }
@@ -47,6 +51,10 @@
 }
 
 .self-start\:focus:focus {
+  align-self: flex-start;
+}
+
+.self-start\:focus-visible:focus-visible {
   align-self: flex-start;
 }
 
@@ -82,6 +90,10 @@
   align-self: flex-end;
 }
 
+.self-end\:focus-visible:focus-visible {
+  align-self: flex-end;
+}
+
 .self-end\:hover:hover {
   align-self: flex-end;
 }
@@ -114,6 +126,10 @@
   align-self: flex-center;
 }
 
+.self-center\:focus-visible:focus-visible {
+  align-self: flex-center;
+}
+
 .self-center\:hover:hover {
   align-self: flex-center;
 }
@@ -143,6 +159,10 @@
 }
 
 .self-stretch\:focus:focus {
+  align-self: flex-stretch;
+}
+
+.self-stretch\:focus-visible:focus-visible {
   align-self: flex-stretch;
 }
 
@@ -179,6 +199,10 @@
     align-self: auto;
   }
 
+  .xs\:self-auto\:focus-visible:focus-visible {
+    align-self: auto;
+  }
+
   .xs\:self-auto\:hover:hover {
     align-self: auto;
   }
@@ -208,6 +232,10 @@
   }
 
   .xs\:self-start\:focus:focus {
+    align-self: flex-start;
+  }
+
+  .xs\:self-start\:focus-visible:focus-visible {
     align-self: flex-start;
   }
 
@@ -243,6 +271,10 @@
     align-self: flex-end;
   }
 
+  .xs\:self-end\:focus-visible:focus-visible {
+    align-self: flex-end;
+  }
+
   .xs\:self-end\:hover:hover {
     align-self: flex-end;
   }
@@ -275,6 +307,10 @@
     align-self: flex-center;
   }
 
+  .xs\:self-center\:focus-visible:focus-visible {
+    align-self: flex-center;
+  }
+
   .xs\:self-center\:hover:hover {
     align-self: flex-center;
   }
@@ -304,6 +340,10 @@
   }
 
   .xs\:self-stretch\:focus:focus {
+    align-self: flex-stretch;
+  }
+
+  .xs\:self-stretch\:focus-visible:focus-visible {
     align-self: flex-stretch;
   }
 
@@ -340,6 +380,10 @@
     align-self: auto;
   }
 
+  .sm\:self-auto\:focus-visible:focus-visible {
+    align-self: auto;
+  }
+
   .sm\:self-auto\:hover:hover {
     align-self: auto;
   }
@@ -369,6 +413,10 @@
   }
 
   .sm\:self-start\:focus:focus {
+    align-self: flex-start;
+  }
+
+  .sm\:self-start\:focus-visible:focus-visible {
     align-self: flex-start;
   }
 
@@ -404,6 +452,10 @@
     align-self: flex-end;
   }
 
+  .sm\:self-end\:focus-visible:focus-visible {
+    align-self: flex-end;
+  }
+
   .sm\:self-end\:hover:hover {
     align-self: flex-end;
   }
@@ -436,6 +488,10 @@
     align-self: flex-center;
   }
 
+  .sm\:self-center\:focus-visible:focus-visible {
+    align-self: flex-center;
+  }
+
   .sm\:self-center\:hover:hover {
     align-self: flex-center;
   }
@@ -465,6 +521,10 @@
   }
 
   .sm\:self-stretch\:focus:focus {
+    align-self: flex-stretch;
+  }
+
+  .sm\:self-stretch\:focus-visible:focus-visible {
     align-self: flex-stretch;
   }
 
@@ -501,6 +561,10 @@
     align-self: auto;
   }
 
+  .md\:self-auto\:focus-visible:focus-visible {
+    align-self: auto;
+  }
+
   .md\:self-auto\:hover:hover {
     align-self: auto;
   }
@@ -530,6 +594,10 @@
   }
 
   .md\:self-start\:focus:focus {
+    align-self: flex-start;
+  }
+
+  .md\:self-start\:focus-visible:focus-visible {
     align-self: flex-start;
   }
 
@@ -565,6 +633,10 @@
     align-self: flex-end;
   }
 
+  .md\:self-end\:focus-visible:focus-visible {
+    align-self: flex-end;
+  }
+
   .md\:self-end\:hover:hover {
     align-self: flex-end;
   }
@@ -597,6 +669,10 @@
     align-self: flex-center;
   }
 
+  .md\:self-center\:focus-visible:focus-visible {
+    align-self: flex-center;
+  }
+
   .md\:self-center\:hover:hover {
     align-self: flex-center;
   }
@@ -626,6 +702,10 @@
   }
 
   .md\:self-stretch\:focus:focus {
+    align-self: flex-stretch;
+  }
+
+  .md\:self-stretch\:focus-visible:focus-visible {
     align-self: flex-stretch;
   }
 
@@ -662,6 +742,10 @@
     align-self: auto;
   }
 
+  .lg\:self-auto\:focus-visible:focus-visible {
+    align-self: auto;
+  }
+
   .lg\:self-auto\:hover:hover {
     align-self: auto;
   }
@@ -691,6 +775,10 @@
   }
 
   .lg\:self-start\:focus:focus {
+    align-self: flex-start;
+  }
+
+  .lg\:self-start\:focus-visible:focus-visible {
     align-self: flex-start;
   }
 
@@ -726,6 +814,10 @@
     align-self: flex-end;
   }
 
+  .lg\:self-end\:focus-visible:focus-visible {
+    align-self: flex-end;
+  }
+
   .lg\:self-end\:hover:hover {
     align-self: flex-end;
   }
@@ -758,6 +850,10 @@
     align-self: flex-center;
   }
 
+  .lg\:self-center\:focus-visible:focus-visible {
+    align-self: flex-center;
+  }
+
   .lg\:self-center\:hover:hover {
     align-self: flex-center;
   }
@@ -787,6 +883,10 @@
   }
 
   .lg\:self-stretch\:focus:focus {
+    align-self: flex-stretch;
+  }
+
+  .lg\:self-stretch\:focus-visible:focus-visible {
     align-self: flex-stretch;
   }
 

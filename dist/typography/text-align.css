@@ -18,6 +18,10 @@
   text-align: left;
 }
 
+.text-left\:focus-visible:focus-visible {
+  text-align: left;
+}
+
 .text-left\:hover:hover {
   text-align: left;
 }
@@ -47,6 +51,10 @@
 }
 
 .text-center\:focus:focus {
+  text-align: center;
+}
+
+.text-center\:focus-visible:focus-visible {
   text-align: center;
 }
 
@@ -82,6 +90,10 @@
   text-align: right;
 }
 
+.text-right\:focus-visible:focus-visible {
+  text-align: right;
+}
+
 .text-right\:hover:hover {
   text-align: right;
 }
@@ -114,6 +126,10 @@
   text-align: inherit;
 }
 
+.text-inherit\:focus-visible:focus-visible {
+  text-align: inherit;
+}
+
 .text-inherit\:hover:hover {
   text-align: inherit;
 }
@@ -143,6 +159,10 @@
 }
 
 .text-justify\:focus:focus {
+  text-align: justify;
+}
+
+.text-justify\:focus-visible:focus-visible {
   text-align: justify;
 }
 
@@ -179,6 +199,10 @@
     text-align: left;
   }
 
+  .xs\:text-left\:focus-visible:focus-visible {
+    text-align: left;
+  }
+
   .xs\:text-left\:hover:hover {
     text-align: left;
   }
@@ -208,6 +232,10 @@
   }
 
   .xs\:text-center\:focus:focus {
+    text-align: center;
+  }
+
+  .xs\:text-center\:focus-visible:focus-visible {
     text-align: center;
   }
 
@@ -243,6 +271,10 @@
     text-align: right;
   }
 
+  .xs\:text-right\:focus-visible:focus-visible {
+    text-align: right;
+  }
+
   .xs\:text-right\:hover:hover {
     text-align: right;
   }
@@ -275,6 +307,10 @@
     text-align: inherit;
   }
 
+  .xs\:text-inherit\:focus-visible:focus-visible {
+    text-align: inherit;
+  }
+
   .xs\:text-inherit\:hover:hover {
     text-align: inherit;
   }
@@ -304,6 +340,10 @@
   }
 
   .xs\:text-justify\:focus:focus {
+    text-align: justify;
+  }
+
+  .xs\:text-justify\:focus-visible:focus-visible {
     text-align: justify;
   }
 
@@ -340,6 +380,10 @@
     text-align: left;
   }
 
+  .sm\:text-left\:focus-visible:focus-visible {
+    text-align: left;
+  }
+
   .sm\:text-left\:hover:hover {
     text-align: left;
   }
@@ -369,6 +413,10 @@
   }
 
   .sm\:text-center\:focus:focus {
+    text-align: center;
+  }
+
+  .sm\:text-center\:focus-visible:focus-visible {
     text-align: center;
   }
 
@@ -404,6 +452,10 @@
     text-align: right;
   }
 
+  .sm\:text-right\:focus-visible:focus-visible {
+    text-align: right;
+  }
+
   .sm\:text-right\:hover:hover {
     text-align: right;
   }
@@ -436,6 +488,10 @@
     text-align: inherit;
   }
 
+  .sm\:text-inherit\:focus-visible:focus-visible {
+    text-align: inherit;
+  }
+
   .sm\:text-inherit\:hover:hover {
     text-align: inherit;
   }
@@ -465,6 +521,10 @@
   }
 
   .sm\:text-justify\:focus:focus {
+    text-align: justify;
+  }
+
+  .sm\:text-justify\:focus-visible:focus-visible {
     text-align: justify;
   }
 
@@ -501,6 +561,10 @@
     text-align: left;
   }
 
+  .md\:text-left\:focus-visible:focus-visible {
+    text-align: left;
+  }
+
   .md\:text-left\:hover:hover {
     text-align: left;
   }
@@ -530,6 +594,10 @@
   }
 
   .md\:text-center\:focus:focus {
+    text-align: center;
+  }
+
+  .md\:text-center\:focus-visible:focus-visible {
     text-align: center;
   }
 
@@ -565,6 +633,10 @@
     text-align: right;
   }
 
+  .md\:text-right\:focus-visible:focus-visible {
+    text-align: right;
+  }
+
   .md\:text-right\:hover:hover {
     text-align: right;
   }
@@ -597,6 +669,10 @@
     text-align: inherit;
   }
 
+  .md\:text-inherit\:focus-visible:focus-visible {
+    text-align: inherit;
+  }
+
   .md\:text-inherit\:hover:hover {
     text-align: inherit;
   }
@@ -626,6 +702,10 @@
   }
 
   .md\:text-justify\:focus:focus {
+    text-align: justify;
+  }
+
+  .md\:text-justify\:focus-visible:focus-visible {
     text-align: justify;
   }
 
@@ -662,6 +742,10 @@
     text-align: left;
   }
 
+  .lg\:text-left\:focus-visible:focus-visible {
+    text-align: left;
+  }
+
   .lg\:text-left\:hover:hover {
     text-align: left;
   }
@@ -691,6 +775,10 @@
   }
 
   .lg\:text-center\:focus:focus {
+    text-align: center;
+  }
+
+  .lg\:text-center\:focus-visible:focus-visible {
     text-align: center;
   }
 
@@ -726,6 +814,10 @@
     text-align: right;
   }
 
+  .lg\:text-right\:focus-visible:focus-visible {
+    text-align: right;
+  }
+
   .lg\:text-right\:hover:hover {
     text-align: right;
   }
@@ -758,6 +850,10 @@
     text-align: inherit;
   }
 
+  .lg\:text-inherit\:focus-visible:focus-visible {
+    text-align: inherit;
+  }
+
   .lg\:text-inherit\:hover:hover {
     text-align: inherit;
   }
@@ -787,6 +883,10 @@
   }
 
   .lg\:text-justify\:focus:focus {
+    text-align: justify;
+  }
+
+  .lg\:text-justify\:focus-visible:focus-visible {
     text-align: justify;
   }
 

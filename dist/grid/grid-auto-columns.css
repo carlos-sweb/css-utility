@@ -18,6 +18,10 @@
   grid-auto-columns: auto;
 }
 
+.auto-cols-auto\:focus-visible:focus-visible {
+  grid-auto-columns: auto;
+}
+
 .auto-cols-auto\:hover:hover {
   grid-auto-columns: auto;
 }
@@ -47,6 +51,10 @@
 }
 
 .auto-cols-min\:focus:focus {
+  grid-auto-columns: min-content;
+}
+
+.auto-cols-min\:focus-visible:focus-visible {
   grid-auto-columns: min-content;
 }
 
@@ -82,6 +90,10 @@
   grid-auto-columns: max-content;
 }
 
+.auto-cols-max\:focus-visible:focus-visible {
+  grid-auto-columns: max-content;
+}
+
 .auto-cols-max\:hover:hover {
   grid-auto-columns: max-content;
 }
@@ -111,6 +123,10 @@
 }
 
 .auto-cols-fr\:focus:focus {
+  grid-auto-columns:  minmax(0, 1fr);
+}
+
+.auto-cols-fr\:focus-visible:focus-visible {
   grid-auto-columns:  minmax(0, 1fr);
 }
 
@@ -147,6 +163,10 @@
     grid-auto-columns: auto;
   }
 
+  .xs\:auto-cols-auto\:focus-visible:focus-visible {
+    grid-auto-columns: auto;
+  }
+
   .xs\:auto-cols-auto\:hover:hover {
     grid-auto-columns: auto;
   }
@@ -176,6 +196,10 @@
   }
 
   .xs\:auto-cols-min\:focus:focus {
+    grid-auto-columns: min-content;
+  }
+
+  .xs\:auto-cols-min\:focus-visible:focus-visible {
     grid-auto-columns: min-content;
   }
 
@@ -211,6 +235,10 @@
     grid-auto-columns: max-content;
   }
 
+  .xs\:auto-cols-max\:focus-visible:focus-visible {
+    grid-auto-columns: max-content;
+  }
+
   .xs\:auto-cols-max\:hover:hover {
     grid-auto-columns: max-content;
   }
@@ -240,6 +268,10 @@
   }
 
   .xs\:auto-cols-fr\:focus:focus {
+    grid-auto-columns:  minmax(0, 1fr);
+  }
+
+  .xs\:auto-cols-fr\:focus-visible:focus-visible {
     grid-auto-columns:  minmax(0, 1fr);
   }
 
@@ -276,6 +308,10 @@
     grid-auto-columns: auto;
   }
 
+  .sm\:auto-cols-auto\:focus-visible:focus-visible {
+    grid-auto-columns: auto;
+  }
+
   .sm\:auto-cols-auto\:hover:hover {
     grid-auto-columns: auto;
   }
@@ -305,6 +341,10 @@
   }
 
   .sm\:auto-cols-min\:focus:focus {
+    grid-auto-columns: min-content;
+  }
+
+  .sm\:auto-cols-min\:focus-visible:focus-visible {
     grid-auto-columns: min-content;
   }
 
@@ -340,6 +380,10 @@
     grid-auto-columns: max-content;
   }
 
+  .sm\:auto-cols-max\:focus-visible:focus-visible {
+    grid-auto-columns: max-content;
+  }
+
   .sm\:auto-cols-max\:hover:hover {
     grid-auto-columns: max-content;
   }
@@ -369,6 +413,10 @@
   }
 
   .sm\:auto-cols-fr\:focus:focus {
+    grid-auto-columns:  minmax(0, 1fr);
+  }
+
+  .sm\:auto-cols-fr\:focus-visible:focus-visible {
     grid-auto-columns:  minmax(0, 1fr);
   }
 
@@ -405,6 +453,10 @@
     grid-auto-columns: auto;
   }
 
+  .md\:auto-cols-auto\:focus-visible:focus-visible {
+    grid-auto-columns: auto;
+  }
+
   .md\:auto-cols-auto\:hover:hover {
     grid-auto-columns: auto;
   }
@@ -434,6 +486,10 @@
   }
 
   .md\:auto-cols-min\:focus:focus {
+    grid-auto-columns: min-content;
+  }
+
+  .md\:auto-cols-min\:focus-visible:focus-visible {
     grid-auto-columns: min-content;
   }
 
@@ -469,6 +525,10 @@
     grid-auto-columns: max-content;
   }
 
+  .md\:auto-cols-max\:focus-visible:focus-visible {
+    grid-auto-columns: max-content;
+  }
+
   .md\:auto-cols-max\:hover:hover {
     grid-auto-columns: max-content;
   }
@@ -498,6 +558,10 @@
   }
 
   .md\:auto-cols-fr\:focus:focus {
+    grid-auto-columns:  minmax(0, 1fr);
+  }
+
+  .md\:auto-cols-fr\:focus-visible:focus-visible {
     grid-auto-columns:  minmax(0, 1fr);
   }
 
@@ -534,6 +598,10 @@
     grid-auto-columns: auto;
   }
 
+  .lg\:auto-cols-auto\:focus-visible:focus-visible {
+    grid-auto-columns: auto;
+  }
+
   .lg\:auto-cols-auto\:hover:hover {
     grid-auto-columns: auto;
   }
@@ -563,6 +631,10 @@
   }
 
   .lg\:auto-cols-min\:focus:focus {
+    grid-auto-columns: min-content;
+  }
+
+  .lg\:auto-cols-min\:focus-visible:focus-visible {
     grid-auto-columns: min-content;
   }
 
@@ -598,6 +670,10 @@
     grid-auto-columns: max-content;
   }
 
+  .lg\:auto-cols-max\:focus-visible:focus-visible {
+    grid-auto-columns: max-content;
+  }
+
   .lg\:auto-cols-max\:hover:hover {
     grid-auto-columns: max-content;
   }
@@ -627,6 +703,10 @@
   }
 
   .lg\:auto-cols-fr\:focus:focus {
+    grid-auto-columns:  minmax(0, 1fr);
+  }
+
+  .lg\:auto-cols-fr\:focus-visible:focus-visible {
     grid-auto-columns:  minmax(0, 1fr);
   }
 

@@ -18,6 +18,10 @@
   font-style: italic;
 }
 
+.italic\:focus-visible:focus-visible {
+  font-style: italic;
+}
+
 .italic\:hover:hover {
   font-style: italic;
 }
@@ -47,6 +51,10 @@
 }
 
 .no-italic\:focus:focus {
+  font-style: normal;
+}
+
+.no-italic\:focus-visible:focus-visible {
   font-style: normal;
 }
 
@@ -83,6 +91,10 @@
     font-style: italic;
   }
 
+  .xs\:italic\:focus-visible:focus-visible {
+    font-style: italic;
+  }
+
   .xs\:italic\:hover:hover {
     font-style: italic;
   }
@@ -112,6 +124,10 @@
   }
 
   .xs\:no-italic\:focus:focus {
+    font-style: normal;
+  }
+
+  .xs\:no-italic\:focus-visible:focus-visible {
     font-style: normal;
   }
 
@@ -148,6 +164,10 @@
     font-style: italic;
   }
 
+  .sm\:italic\:focus-visible:focus-visible {
+    font-style: italic;
+  }
+
   .sm\:italic\:hover:hover {
     font-style: italic;
   }
@@ -177,6 +197,10 @@
   }
 
   .sm\:no-italic\:focus:focus {
+    font-style: normal;
+  }
+
+  .sm\:no-italic\:focus-visible:focus-visible {
     font-style: normal;
   }
 
@@ -213,6 +237,10 @@
     font-style: italic;
   }
 
+  .md\:italic\:focus-visible:focus-visible {
+    font-style: italic;
+  }
+
   .md\:italic\:hover:hover {
     font-style: italic;
   }
@@ -242,6 +270,10 @@
   }
 
   .md\:no-italic\:focus:focus {
+    font-style: normal;
+  }
+
+  .md\:no-italic\:focus-visible:focus-visible {
     font-style: normal;
   }
 
@@ -278,6 +310,10 @@
     font-style: italic;
   }
 
+  .lg\:italic\:focus-visible:focus-visible {
+    font-style: italic;
+  }
+
   .lg\:italic\:hover:hover {
     font-style: italic;
   }
@@ -307,6 +343,10 @@
   }
 
   .lg\:no-italic\:focus:focus {
+    font-style: normal;
+  }
+
+  .lg\:no-italic\:focus-visible:focus-visible {
     font-style: normal;
   }
 

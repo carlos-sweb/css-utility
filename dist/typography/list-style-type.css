@@ -18,6 +18,10 @@
   list-style-type: none;
 }
 
+.list-none\:focus-visible:focus-visible {
+  list-style-type: none;
+}
+
 .list-none\:hover:hover {
   list-style-type: none;
 }
@@ -50,6 +54,10 @@
   list-style-type: disc;
 }
 
+.list-disc\:focus-visible:focus-visible {
+  list-style-type: disc;
+}
+
 .list-disc\:hover:hover {
   list-style-type: disc;
 }
@@ -79,6 +87,10 @@
 }
 
 .list-decimal\:focus:focus {
+  list-style-type: decimal;
+}
+
+.list-decimal\:focus-visible:focus-visible {
   list-style-type: decimal;
 }
 
@@ -115,6 +127,10 @@
     list-style-type: none;
   }
 
+  .xs\:list-none\:focus-visible:focus-visible {
+    list-style-type: none;
+  }
+
   .xs\:list-none\:hover:hover {
     list-style-type: none;
   }
@@ -147,6 +163,10 @@
     list-style-type: disc;
   }
 
+  .xs\:list-disc\:focus-visible:focus-visible {
+    list-style-type: disc;
+  }
+
   .xs\:list-disc\:hover:hover {
     list-style-type: disc;
   }
@@ -176,6 +196,10 @@
   }
 
   .xs\:list-decimal\:focus:focus {
+    list-style-type: decimal;
+  }
+
+  .xs\:list-decimal\:focus-visible:focus-visible {
     list-style-type: decimal;
   }
 
@@ -212,6 +236,10 @@
     list-style-type: none;
   }
 
+  .sm\:list-none\:focus-visible:focus-visible {
+    list-style-type: none;
+  }
+
   .sm\:list-none\:hover:hover {
     list-style-type: none;
   }
@@ -244,6 +272,10 @@
     list-style-type: disc;
   }
 
+  .sm\:list-disc\:focus-visible:focus-visible {
+    list-style-type: disc;
+  }
+
   .sm\:list-disc\:hover:hover {
     list-style-type: disc;
   }
@@ -273,6 +305,10 @@
   }
 
   .sm\:list-decimal\:focus:focus {
+    list-style-type: decimal;
+  }
+
+  .sm\:list-decimal\:focus-visible:focus-visible {
     list-style-type: decimal;
   }
 
@@ -309,6 +345,10 @@
     list-style-type: none;
   }
 
+  .md\:list-none\:focus-visible:focus-visible {
+    list-style-type: none;
+  }
+
   .md\:list-none\:hover:hover {
     list-style-type: none;
   }
@@ -341,6 +381,10 @@
     list-style-type: disc;
   }
 
+  .md\:list-disc\:focus-visible:focus-visible {
+    list-style-type: disc;
+  }
+
   .md\:list-disc\:hover:hover {
     list-style-type: disc;
   }
@@ -370,6 +414,10 @@
   }
 
   .md\:list-decimal\:focus:focus {
+    list-style-type: decimal;
+  }
+
+  .md\:list-decimal\:focus-visible:focus-visible {
     list-style-type: decimal;
   }
 
@@ -406,6 +454,10 @@
     list-style-type: none;
   }
 
+  .lg\:list-none\:focus-visible:focus-visible {
+    list-style-type: none;
+  }
+
   .lg\:list-none\:hover:hover {
     list-style-type: none;
   }
@@ -438,6 +490,10 @@
     list-style-type: disc;
   }
 
+  .lg\:list-disc\:focus-visible:focus-visible {
+    list-style-type: disc;
+  }
+
   .lg\:list-disc\:hover:hover {
     list-style-type: disc;
   }
@@ -467,6 +523,10 @@
   }
 
   .lg\:list-decimal\:focus:focus {
+    list-style-type: decimal;
+  }
+
+  .lg\:list-decimal\:focus-visible:focus-visible {
     list-style-type: decimal;
   }
 

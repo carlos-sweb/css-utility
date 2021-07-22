@@ -18,6 +18,10 @@
   resize: none;
 }
 
+.resize-none\:focus-visible:focus-visible {
+  resize: none;
+}
+
 .resize-none\:hover:hover {
   resize: none;
 }
@@ -47,6 +51,10 @@
 }
 
 .resize-vertical\:focus:focus {
+  resize: vertical;
+}
+
+.resize-vertical\:focus-visible:focus-visible {
   resize: vertical;
 }
 
@@ -82,6 +90,10 @@
   resize: horizontal;
 }
 
+.resize-horizontal\:focus-visible:focus-visible {
+  resize: horizontal;
+}
+
 .resize-horizontal\:hover:hover {
   resize: horizontal;
 }
@@ -111,6 +123,10 @@
 }
 
 .resize\:focus:focus {
+  resize: both;
+}
+
+.resize\:focus-visible:focus-visible {
   resize: both;
 }
 
@@ -147,6 +163,10 @@
     resize: none;
   }
 
+  .xs\:resize-none\:focus-visible:focus-visible {
+    resize: none;
+  }
+
   .xs\:resize-none\:hover:hover {
     resize: none;
   }
@@ -176,6 +196,10 @@
   }
 
   .xs\:resize-vertical\:focus:focus {
+    resize: vertical;
+  }
+
+  .xs\:resize-vertical\:focus-visible:focus-visible {
     resize: vertical;
   }
 
@@ -211,6 +235,10 @@
     resize: horizontal;
   }
 
+  .xs\:resize-horizontal\:focus-visible:focus-visible {
+    resize: horizontal;
+  }
+
   .xs\:resize-horizontal\:hover:hover {
     resize: horizontal;
   }
@@ -240,6 +268,10 @@
   }
 
   .xs\:resize\:focus:focus {
+    resize: both;
+  }
+
+  .xs\:resize\:focus-visible:focus-visible {
     resize: both;
   }
 
@@ -276,6 +308,10 @@
     resize: none;
   }
 
+  .sm\:resize-none\:focus-visible:focus-visible {
+    resize: none;
+  }
+
   .sm\:resize-none\:hover:hover {
     resize: none;
   }
@@ -305,6 +341,10 @@
   }
 
   .sm\:resize-vertical\:focus:focus {
+    resize: vertical;
+  }
+
+  .sm\:resize-vertical\:focus-visible:focus-visible {
     resize: vertical;
   }
 
@@ -340,6 +380,10 @@
     resize: horizontal;
   }
 
+  .sm\:resize-horizontal\:focus-visible:focus-visible {
+    resize: horizontal;
+  }
+
   .sm\:resize-horizontal\:hover:hover {
     resize: horizontal;
   }
@@ -369,6 +413,10 @@
   }
 
   .sm\:resize\:focus:focus {
+    resize: both;
+  }
+
+  .sm\:resize\:focus-visible:focus-visible {
     resize: both;
   }
 
@@ -405,6 +453,10 @@
     resize: none;
   }
 
+  .md\:resize-none\:focus-visible:focus-visible {
+    resize: none;
+  }
+
   .md\:resize-none\:hover:hover {
     resize: none;
   }
@@ -434,6 +486,10 @@
   }
 
   .md\:resize-vertical\:focus:focus {
+    resize: vertical;
+  }
+
+  .md\:resize-vertical\:focus-visible:focus-visible {
     resize: vertical;
   }
 
@@ -469,6 +525,10 @@
     resize: horizontal;
   }
 
+  .md\:resize-horizontal\:focus-visible:focus-visible {
+    resize: horizontal;
+  }
+
   .md\:resize-horizontal\:hover:hover {
     resize: horizontal;
   }
@@ -498,6 +558,10 @@
   }
 
   .md\:resize\:focus:focus {
+    resize: both;
+  }
+
+  .md\:resize\:focus-visible:focus-visible {
     resize: both;
   }
 
@@ -534,6 +598,10 @@
     resize: none;
   }
 
+  .lg\:resize-none\:focus-visible:focus-visible {
+    resize: none;
+  }
+
   .lg\:resize-none\:hover:hover {
     resize: none;
   }
@@ -563,6 +631,10 @@
   }
 
   .lg\:resize-vertical\:focus:focus {
+    resize: vertical;
+  }
+
+  .lg\:resize-vertical\:focus-visible:focus-visible {
     resize: vertical;
   }
 
@@ -598,6 +670,10 @@
     resize: horizontal;
   }
 
+  .lg\:resize-horizontal\:focus-visible:focus-visible {
+    resize: horizontal;
+  }
+
   .lg\:resize-horizontal\:hover:hover {
     resize: horizontal;
   }
@@ -627,6 +703,10 @@
   }
 
   .lg\:resize\:focus:focus {
+    resize: both;
+  }
+
+  .lg\:resize\:focus-visible:focus-visible {
     resize: both;
   }
 

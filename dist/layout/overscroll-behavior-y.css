@@ -18,6 +18,10 @@
   overscroll-behavior-y: auto;
 }
 
+.overscroll-y-auto\:focus-visible:focus-visible {
+  overscroll-behavior-y: auto;
+}
+
 .overscroll-y-auto\:hover:hover {
   overscroll-behavior-y: auto;
 }
@@ -50,6 +54,10 @@
   overscroll-behavior-y: contain;
 }
 
+.overscroll-y-contain\:focus-visible:focus-visible {
+  overscroll-behavior-y: contain;
+}
+
 .overscroll-y-contain\:hover:hover {
   overscroll-behavior-y: contain;
 }
@@ -79,6 +87,10 @@
 }
 
 .overscroll-y-none\:focus:focus {
+  overscroll-behavior-y: none;
+}
+
+.overscroll-y-none\:focus-visible:focus-visible {
   overscroll-behavior-y: none;
 }
 
@@ -115,6 +127,10 @@
     overscroll-behavior-y: auto;
   }
 
+  .xs\:overscroll-y-auto\:focus-visible:focus-visible {
+    overscroll-behavior-y: auto;
+  }
+
   .xs\:overscroll-y-auto\:hover:hover {
     overscroll-behavior-y: auto;
   }
@@ -147,6 +163,10 @@
     overscroll-behavior-y: contain;
   }
 
+  .xs\:overscroll-y-contain\:focus-visible:focus-visible {
+    overscroll-behavior-y: contain;
+  }
+
   .xs\:overscroll-y-contain\:hover:hover {
     overscroll-behavior-y: contain;
   }
@@ -176,6 +196,10 @@
   }
 
   .xs\:overscroll-y-none\:focus:focus {
+    overscroll-behavior-y: none;
+  }
+
+  .xs\:overscroll-y-none\:focus-visible:focus-visible {
     overscroll-behavior-y: none;
   }
 
@@ -212,6 +236,10 @@
     overscroll-behavior-y: auto;
   }
 
+  .sm\:overscroll-y-auto\:focus-visible:focus-visible {
+    overscroll-behavior-y: auto;
+  }
+
   .sm\:overscroll-y-auto\:hover:hover {
     overscroll-behavior-y: auto;
   }
@@ -244,6 +272,10 @@
     overscroll-behavior-y: contain;
   }
 
+  .sm\:overscroll-y-contain\:focus-visible:focus-visible {
+    overscroll-behavior-y: contain;
+  }
+
   .sm\:overscroll-y-contain\:hover:hover {
     overscroll-behavior-y: contain;
   }
@@ -273,6 +305,10 @@
   }
 
   .sm\:overscroll-y-none\:focus:focus {
+    overscroll-behavior-y: none;
+  }
+
+  .sm\:overscroll-y-none\:focus-visible:focus-visible {
     overscroll-behavior-y: none;
   }
 
@@ -309,6 +345,10 @@
     overscroll-behavior-y: auto;
   }
 
+  .md\:overscroll-y-auto\:focus-visible:focus-visible {
+    overscroll-behavior-y: auto;
+  }
+
   .md\:overscroll-y-auto\:hover:hover {
     overscroll-behavior-y: auto;
   }
@@ -341,6 +381,10 @@
     overscroll-behavior-y: contain;
   }
 
+  .md\:overscroll-y-contain\:focus-visible:focus-visible {
+    overscroll-behavior-y: contain;
+  }
+
   .md\:overscroll-y-contain\:hover:hover {
     overscroll-behavior-y: contain;
   }
@@ -370,6 +414,10 @@
   }
 
   .md\:overscroll-y-none\:focus:focus {
+    overscroll-behavior-y: none;
+  }
+
+  .md\:overscroll-y-none\:focus-visible:focus-visible {
     overscroll-behavior-y: none;
   }
 
@@ -406,6 +454,10 @@
     overscroll-behavior-y: auto;
   }
 
+  .lg\:overscroll-y-auto\:focus-visible:focus-visible {
+    overscroll-behavior-y: auto;
+  }
+
   .lg\:overscroll-y-auto\:hover:hover {
     overscroll-behavior-y: auto;
   }
@@ -438,6 +490,10 @@
     overscroll-behavior-y: contain;
   }
 
+  .lg\:overscroll-y-contain\:focus-visible:focus-visible {
+    overscroll-behavior-y: contain;
+  }
+
   .lg\:overscroll-y-contain\:hover:hover {
     overscroll-behavior-y: contain;
   }
@@ -467,6 +523,10 @@
   }
 
   .lg\:overscroll-y-none\:focus:focus {
+    overscroll-behavior-y: none;
+  }
+
+  .lg\:overscroll-y-none\:focus-visible:focus-visible {
     overscroll-behavior-y: none;
   }
 

@@ -1,0 +1,544 @@
+.outline-none {
+  outline: 2px solid transparent;
+}
+
+.outline-none\:active:active {
+  outline: 2px solid transparent;
+}
+
+.outline-none\:checked:checked {
+  outline: 2px solid transparent;
+}
+
+.outline-none\:disabled:disabled {
+  outline: 2px solid transparent;
+}
+
+.outline-none\:focus:focus {
+  outline: 2px solid transparent;
+}
+
+.outline-none\:focus-visible:focus-visible {
+  outline: 2px solid transparent;
+}
+
+.outline-none\:hover:hover {
+  outline: 2px solid transparent;
+}
+
+.outline-none\:required:required {
+  outline: 2px solid transparent;
+}
+
+.outline-none\:visited:visited {
+  outline: 2px solid transparent;
+}
+
+.outline-white {
+  outline: outline: 2px dotted white;
+}
+
+.outline-white\:active:active {
+  outline: outline: 2px dotted white;
+}
+
+.outline-white\:checked:checked {
+  outline: outline: 2px dotted white;
+}
+
+.outline-white\:disabled:disabled {
+  outline: outline: 2px dotted white;
+}
+
+.outline-white\:focus:focus {
+  outline: outline: 2px dotted white;
+}
+
+.outline-white\:focus-visible:focus-visible {
+  outline: outline: 2px dotted white;
+}
+
+.outline-white\:hover:hover {
+  outline: outline: 2px dotted white;
+}
+
+.outline-white\:required:required {
+  outline: outline: 2px dotted white;
+}
+
+.outline-white\:visited:visited {
+  outline: outline: 2px dotted white;
+}
+
+.outline-black {
+  outline: outline: 2px dotted black;
+}
+
+.outline-black\:active:active {
+  outline: outline: 2px dotted black;
+}
+
+.outline-black\:checked:checked {
+  outline: outline: 2px dotted black;
+}
+
+.outline-black\:disabled:disabled {
+  outline: outline: 2px dotted black;
+}
+
+.outline-black\:focus:focus {
+  outline: outline: 2px dotted black;
+}
+
+.outline-black\:focus-visible:focus-visible {
+  outline: outline: 2px dotted black;
+}
+
+.outline-black\:hover:hover {
+  outline: outline: 2px dotted black;
+}
+
+.outline-black\:required:required {
+  outline: outline: 2px dotted black;
+}
+
+.outline-black\:visited:visited {
+  outline: outline: 2px dotted black;
+}
+
+@media (min-width: 0px) and (max-width: 639px) {
+  .xs\:outline-none {
+    outline: 2px solid transparent;
+  }
+
+  .xs\:outline-none\:active:active {
+    outline: 2px solid transparent;
+  }
+
+  .xs\:outline-none\:checked:checked {
+    outline: 2px solid transparent;
+  }
+
+  .xs\:outline-none\:disabled:disabled {
+    outline: 2px solid transparent;
+  }
+
+  .xs\:outline-none\:focus:focus {
+    outline: 2px solid transparent;
+  }
+
+  .xs\:outline-none\:focus-visible:focus-visible {
+    outline: 2px solid transparent;
+  }
+
+  .xs\:outline-none\:hover:hover {
+    outline: 2px solid transparent;
+  }
+
+  .xs\:outline-none\:required:required {
+    outline: 2px solid transparent;
+  }
+
+  .xs\:outline-none\:visited:visited {
+    outline: 2px solid transparent;
+  }
+
+  .xs\:outline-white {
+    outline: outline: 2px dotted white;
+  }
+
+  .xs\:outline-white\:active:active {
+    outline: outline: 2px dotted white;
+  }
+
+  .xs\:outline-white\:checked:checked {
+    outline: outline: 2px dotted white;
+  }
+
+  .xs\:outline-white\:disabled:disabled {
+    outline: outline: 2px dotted white;
+  }
+
+  .xs\:outline-white\:focus:focus {
+    outline: outline: 2px dotted white;
+  }
+
+  .xs\:outline-white\:focus-visible:focus-visible {
+    outline: outline: 2px dotted white;
+  }
+
+  .xs\:outline-white\:hover:hover {
+    outline: outline: 2px dotted white;
+  }
+
+  .xs\:outline-white\:required:required {
+    outline: outline: 2px dotted white;
+  }
+
+  .xs\:outline-white\:visited:visited {
+    outline: outline: 2px dotted white;
+  }
+
+  .xs\:outline-black {
+    outline: outline: 2px dotted black;
+  }
+
+  .xs\:outline-black\:active:active {
+    outline: outline: 2px dotted black;
+  }
+
+  .xs\:outline-black\:checked:checked {
+    outline: outline: 2px dotted black;
+  }
+
+  .xs\:outline-black\:disabled:disabled {
+    outline: outline: 2px dotted black;
+  }
+
+  .xs\:outline-black\:focus:focus {
+    outline: outline: 2px dotted black;
+  }
+
+  .xs\:outline-black\:focus-visible:focus-visible {
+    outline: outline: 2px dotted black;
+  }
+
+  .xs\:outline-black\:hover:hover {
+    outline: outline: 2px dotted black;
+  }
+
+  .xs\:outline-black\:required:required {
+    outline: outline: 2px dotted black;
+  }
+
+  .xs\:outline-black\:visited:visited {
+    outline: outline: 2px dotted black;
+  }
+}
+@media (min-width: 640px) and (max-width: 767px) {
+  .sm\:outline-none {
+    outline: 2px solid transparent;
+  }
+
+  .sm\:outline-none\:active:active {
+    outline: 2px solid transparent;
+  }
+
+  .sm\:outline-none\:checked:checked {
+    outline: 2px solid transparent;
+  }
+
+  .sm\:outline-none\:disabled:disabled {
+    outline: 2px solid transparent;
+  }
+
+  .sm\:outline-none\:focus:focus {
+    outline: 2px solid transparent;
+  }
+
+  .sm\:outline-none\:focus-visible:focus-visible {
+    outline: 2px solid transparent;
+  }
+
+  .sm\:outline-none\:hover:hover {
+    outline: 2px solid transparent;
+  }
+
+  .sm\:outline-none\:required:required {
+    outline: 2px solid transparent;
+  }
+
+  .sm\:outline-none\:visited:visited {
+    outline: 2px solid transparent;
+  }
+
+  .sm\:outline-white {
+    outline: outline: 2px dotted white;
+  }
+
+  .sm\:outline-white\:active:active {
+    outline: outline: 2px dotted white;
+  }
+
+  .sm\:outline-white\:checked:checked {
+    outline: outline: 2px dotted white;
+  }
+
+  .sm\:outline-white\:disabled:disabled {
+    outline: outline: 2px dotted white;
+  }
+
+  .sm\:outline-white\:focus:focus {
+    outline: outline: 2px dotted white;
+  }
+
+  .sm\:outline-white\:focus-visible:focus-visible {
+    outline: outline: 2px dotted white;
+  }
+
+  .sm\:outline-white\:hover:hover {
+    outline: outline: 2px dotted white;
+  }
+
+  .sm\:outline-white\:required:required {
+    outline: outline: 2px dotted white;
+  }
+
+  .sm\:outline-white\:visited:visited {
+    outline: outline: 2px dotted white;
+  }
+
+  .sm\:outline-black {
+    outline: outline: 2px dotted black;
+  }
+
+  .sm\:outline-black\:active:active {
+    outline: outline: 2px dotted black;
+  }
+
+  .sm\:outline-black\:checked:checked {
+    outline: outline: 2px dotted black;
+  }
+
+  .sm\:outline-black\:disabled:disabled {
+    outline: outline: 2px dotted black;
+  }
+
+  .sm\:outline-black\:focus:focus {
+    outline: outline: 2px dotted black;
+  }
+
+  .sm\:outline-black\:focus-visible:focus-visible {
+    outline: outline: 2px dotted black;
+  }
+
+  .sm\:outline-black\:hover:hover {
+    outline: outline: 2px dotted black;
+  }
+
+  .sm\:outline-black\:required:required {
+    outline: outline: 2px dotted black;
+  }
+
+  .sm\:outline-black\:visited:visited {
+    outline: outline: 2px dotted black;
+  }
+}
+@media (min-width: 768px) and (max-width: 1023px) {
+  .md\:outline-none {
+    outline: 2px solid transparent;
+  }
+
+  .md\:outline-none\:active:active {
+    outline: 2px solid transparent;
+  }
+
+  .md\:outline-none\:checked:checked {
+    outline: 2px solid transparent;
+  }
+
+  .md\:outline-none\:disabled:disabled {
+    outline: 2px solid transparent;
+  }
+
+  .md\:outline-none\:focus:focus {
+    outline: 2px solid transparent;
+  }
+
+  .md\:outline-none\:focus-visible:focus-visible {
+    outline: 2px solid transparent;
+  }
+
+  .md\:outline-none\:hover:hover {
+    outline: 2px solid transparent;
+  }
+
+  .md\:outline-none\:required:required {
+    outline: 2px solid transparent;
+  }
+
+  .md\:outline-none\:visited:visited {
+    outline: 2px solid transparent;
+  }
+
+  .md\:outline-white {
+    outline: outline: 2px dotted white;
+  }
+
+  .md\:outline-white\:active:active {
+    outline: outline: 2px dotted white;
+  }
+
+  .md\:outline-white\:checked:checked {
+    outline: outline: 2px dotted white;
+  }
+
+  .md\:outline-white\:disabled:disabled {
+    outline: outline: 2px dotted white;
+  }
+
+  .md\:outline-white\:focus:focus {
+    outline: outline: 2px dotted white;
+  }
+
+  .md\:outline-white\:focus-visible:focus-visible {
+    outline: outline: 2px dotted white;
+  }
+
+  .md\:outline-white\:hover:hover {
+    outline: outline: 2px dotted white;
+  }
+
+  .md\:outline-white\:required:required {
+    outline: outline: 2px dotted white;
+  }
+
+  .md\:outline-white\:visited:visited {
+    outline: outline: 2px dotted white;
+  }
+
+  .md\:outline-black {
+    outline: outline: 2px dotted black;
+  }
+
+  .md\:outline-black\:active:active {
+    outline: outline: 2px dotted black;
+  }
+
+  .md\:outline-black\:checked:checked {
+    outline: outline: 2px dotted black;
+  }
+
+  .md\:outline-black\:disabled:disabled {
+    outline: outline: 2px dotted black;
+  }
+
+  .md\:outline-black\:focus:focus {
+    outline: outline: 2px dotted black;
+  }
+
+  .md\:outline-black\:focus-visible:focus-visible {
+    outline: outline: 2px dotted black;
+  }
+
+  .md\:outline-black\:hover:hover {
+    outline: outline: 2px dotted black;
+  }
+
+  .md\:outline-black\:required:required {
+    outline: outline: 2px dotted black;
+  }
+
+  .md\:outline-black\:visited:visited {
+    outline: outline: 2px dotted black;
+  }
+}
+@media (min-width: 1024px) and (max-width: 2000px) {
+  .lg\:outline-none {
+    outline: 2px solid transparent;
+  }
+
+  .lg\:outline-none\:active:active {
+    outline: 2px solid transparent;
+  }
+
+  .lg\:outline-none\:checked:checked {
+    outline: 2px solid transparent;
+  }
+
+  .lg\:outline-none\:disabled:disabled {
+    outline: 2px solid transparent;
+  }
+
+  .lg\:outline-none\:focus:focus {
+    outline: 2px solid transparent;
+  }
+
+  .lg\:outline-none\:focus-visible:focus-visible {
+    outline: 2px solid transparent;
+  }
+
+  .lg\:outline-none\:hover:hover {
+    outline: 2px solid transparent;
+  }
+
+  .lg\:outline-none\:required:required {
+    outline: 2px solid transparent;
+  }
+
+  .lg\:outline-none\:visited:visited {
+    outline: 2px solid transparent;
+  }
+
+  .lg\:outline-white {
+    outline: outline: 2px dotted white;
+  }
+
+  .lg\:outline-white\:active:active {
+    outline: outline: 2px dotted white;
+  }
+
+  .lg\:outline-white\:checked:checked {
+    outline: outline: 2px dotted white;
+  }
+
+  .lg\:outline-white\:disabled:disabled {
+    outline: outline: 2px dotted white;
+  }
+
+  .lg\:outline-white\:focus:focus {
+    outline: outline: 2px dotted white;
+  }
+
+  .lg\:outline-white\:focus-visible:focus-visible {
+    outline: outline: 2px dotted white;
+  }
+
+  .lg\:outline-white\:hover:hover {
+    outline: outline: 2px dotted white;
+  }
+
+  .lg\:outline-white\:required:required {
+    outline: outline: 2px dotted white;
+  }
+
+  .lg\:outline-white\:visited:visited {
+    outline: outline: 2px dotted white;
+  }
+
+  .lg\:outline-black {
+    outline: outline: 2px dotted black;
+  }
+
+  .lg\:outline-black\:active:active {
+    outline: outline: 2px dotted black;
+  }
+
+  .lg\:outline-black\:checked:checked {
+    outline: outline: 2px dotted black;
+  }
+
+  .lg\:outline-black\:disabled:disabled {
+    outline: outline: 2px dotted black;
+  }
+
+  .lg\:outline-black\:focus:focus {
+    outline: outline: 2px dotted black;
+  }
+
+  .lg\:outline-black\:focus-visible:focus-visible {
+    outline: outline: 2px dotted black;
+  }
+
+  .lg\:outline-black\:hover:hover {
+    outline: outline: 2px dotted black;
+  }
+
+  .lg\:outline-black\:required:required {
+    outline: outline: 2px dotted black;
+  }
+
+  .lg\:outline-black\:visited:visited {
+    outline: outline: 2px dotted black;
+  }
+}

@@ -18,6 +18,10 @@
   float: left;
 }
 
+.float-left\:focus-visible:focus-visible {
+  float: left;
+}
+
 .float-left\:hover:hover {
   float: left;
 }
@@ -50,6 +54,10 @@
   float: right;
 }
 
+.float-right\:focus-visible:focus-visible {
+  float: right;
+}
+
 .float-right\:hover:hover {
   float: right;
 }
@@ -79,6 +87,10 @@
 }
 
 .float-none\:focus:focus {
+  float: none;
+}
+
+.float-none\:focus-visible:focus-visible {
   float: none;
 }
 
@@ -115,6 +127,10 @@
     float: left;
   }
 
+  .xs\:float-left\:focus-visible:focus-visible {
+    float: left;
+  }
+
   .xs\:float-left\:hover:hover {
     float: left;
   }
@@ -147,6 +163,10 @@
     float: right;
   }
 
+  .xs\:float-right\:focus-visible:focus-visible {
+    float: right;
+  }
+
   .xs\:float-right\:hover:hover {
     float: right;
   }
@@ -176,6 +196,10 @@
   }
 
   .xs\:float-none\:focus:focus {
+    float: none;
+  }
+
+  .xs\:float-none\:focus-visible:focus-visible {
     float: none;
   }
 
@@ -212,6 +236,10 @@
     float: left;
   }
 
+  .sm\:float-left\:focus-visible:focus-visible {
+    float: left;
+  }
+
   .sm\:float-left\:hover:hover {
     float: left;
   }
@@ -244,6 +272,10 @@
     float: right;
   }
 
+  .sm\:float-right\:focus-visible:focus-visible {
+    float: right;
+  }
+
   .sm\:float-right\:hover:hover {
     float: right;
   }
@@ -273,6 +305,10 @@
   }
 
   .sm\:float-none\:focus:focus {
+    float: none;
+  }
+
+  .sm\:float-none\:focus-visible:focus-visible {
     float: none;
   }
 
@@ -309,6 +345,10 @@
     float: left;
   }
 
+  .md\:float-left\:focus-visible:focus-visible {
+    float: left;
+  }
+
   .md\:float-left\:hover:hover {
     float: left;
   }
@@ -341,6 +381,10 @@
     float: right;
   }
 
+  .md\:float-right\:focus-visible:focus-visible {
+    float: right;
+  }
+
   .md\:float-right\:hover:hover {
     float: right;
   }
@@ -370,6 +414,10 @@
   }
 
   .md\:float-none\:focus:focus {
+    float: none;
+  }
+
+  .md\:float-none\:focus-visible:focus-visible {
     float: none;
   }
 
@@ -406,6 +454,10 @@
     float: left;
   }
 
+  .lg\:float-left\:focus-visible:focus-visible {
+    float: left;
+  }
+
   .lg\:float-left\:hover:hover {
     float: left;
   }
@@ -438,6 +490,10 @@
     float: right;
   }
 
+  .lg\:float-right\:focus-visible:focus-visible {
+    float: right;
+  }
+
   .lg\:float-right\:hover:hover {
     float: right;
   }
@@ -467,6 +523,10 @@
   }
 
   .lg\:float-none\:focus:focus {
+    float: none;
+  }
+
+  .lg\:float-none\:focus-visible:focus-visible {
     float: none;
   }
 

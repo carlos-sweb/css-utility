@@ -18,6 +18,10 @@
   grid-column: auto;
 }
 
+.col-auto\:focus-visible:focus-visible {
+  grid-column: auto;
+}
+
 .col-auto\:hover:hover {
   grid-column: auto;
 }
@@ -47,6 +51,10 @@
 }
 
 .col-span-1\:focus:focus {
+  grid-column: span 1 / span 1;
+}
+
+.col-span-1\:focus-visible:focus-visible {
   grid-column: span 1 / span 1;
 }
 
@@ -82,6 +90,10 @@
   grid-column: span 2 / span 2;
 }
 
+.col-span-2\:focus-visible:focus-visible {
+  grid-column: span 2 / span 2;
+}
+
 .col-span-2\:hover:hover {
   grid-column: span 2 / span 2;
 }
@@ -111,6 +123,10 @@
 }
 
 .col-span-3\:focus:focus {
+  grid-column: span 3 / span 3;
+}
+
+.col-span-3\:focus-visible:focus-visible {
   grid-column: span 3 / span 3;
 }
 
@@ -146,6 +162,10 @@
   grid-column: span 4 / span 4;
 }
 
+.col-span-4\:focus-visible:focus-visible {
+  grid-column: span 4 / span 4;
+}
+
 .col-span-4\:hover:hover {
   grid-column: span 4 / span 4;
 }
@@ -175,6 +195,10 @@
 }
 
 .col-span-5\:focus:focus {
+  grid-column: span 5 / span 5;
+}
+
+.col-span-5\:focus-visible:focus-visible {
   grid-column: span 5 / span 5;
 }
 
@@ -210,6 +234,10 @@
   grid-column: span 6 / span 6;
 }
 
+.col-span-6\:focus-visible:focus-visible {
+  grid-column: span 6 / span 6;
+}
+
 .col-span-6\:hover:hover {
   grid-column: span 6 / span 6;
 }
@@ -239,6 +267,10 @@
 }
 
 .col-span-7\:focus:focus {
+  grid-column: span 7 / span 7;
+}
+
+.col-span-7\:focus-visible:focus-visible {
   grid-column: span 7 / span 7;
 }
 
@@ -274,6 +306,10 @@
   grid-column: span 8 / span 8;
 }
 
+.col-span-8\:focus-visible:focus-visible {
+  grid-column: span 8 / span 8;
+}
+
 .col-span-8\:hover:hover {
   grid-column: span 8 / span 8;
 }
@@ -303,6 +339,10 @@
 }
 
 .col-span-9\:focus:focus {
+  grid-column: span 9 / span 9;
+}
+
+.col-span-9\:focus-visible:focus-visible {
   grid-column: span 9 / span 9;
 }
 
@@ -338,6 +378,10 @@
   grid-column: span 10 / span 10;
 }
 
+.col-span-10\:focus-visible:focus-visible {
+  grid-column: span 10 / span 10;
+}
+
 .col-span-10\:hover:hover {
   grid-column: span 10 / span 10;
 }
@@ -367,6 +411,10 @@
 }
 
 .col-span-11\:focus:focus {
+  grid-column: span 11 / span 11;
+}
+
+.col-span-11\:focus-visible:focus-visible {
   grid-column: span 11 / span 11;
 }
 
@@ -402,6 +450,10 @@
   grid-column: span 12 / span 12;
 }
 
+.col-span-12\:focus-visible:focus-visible {
+  grid-column: span 12 / span 12;
+}
+
 .col-span-12\:hover:hover {
   grid-column: span 12 / span 12;
 }
@@ -431,6 +483,10 @@
 }
 
 .col-span-full\:focus:focus {
+  grid-column: 1 / -1;
+}
+
+.col-span-full\:focus-visible:focus-visible {
   grid-column: 1 / -1;
 }
 
@@ -467,6 +523,10 @@
     grid-column: auto;
   }
 
+  .xs\:col-auto\:focus-visible:focus-visible {
+    grid-column: auto;
+  }
+
   .xs\:col-auto\:hover:hover {
     grid-column: auto;
   }
@@ -496,6 +556,10 @@
   }
 
   .xs\:col-span-1\:focus:focus {
+    grid-column: span 1 / span 1;
+  }
+
+  .xs\:col-span-1\:focus-visible:focus-visible {
     grid-column: span 1 / span 1;
   }
 
@@ -531,6 +595,10 @@
     grid-column: span 2 / span 2;
   }
 
+  .xs\:col-span-2\:focus-visible:focus-visible {
+    grid-column: span 2 / span 2;
+  }
+
   .xs\:col-span-2\:hover:hover {
     grid-column: span 2 / span 2;
   }
@@ -560,6 +628,10 @@
   }
 
   .xs\:col-span-3\:focus:focus {
+    grid-column: span 3 / span 3;
+  }
+
+  .xs\:col-span-3\:focus-visible:focus-visible {
     grid-column: span 3 / span 3;
   }
 
@@ -595,6 +667,10 @@
     grid-column: span 4 / span 4;
   }
 
+  .xs\:col-span-4\:focus-visible:focus-visible {
+    grid-column: span 4 / span 4;
+  }
+
   .xs\:col-span-4\:hover:hover {
     grid-column: span 4 / span 4;
   }
@@ -624,6 +700,10 @@
   }
 
   .xs\:col-span-5\:focus:focus {
+    grid-column: span 5 / span 5;
+  }
+
+  .xs\:col-span-5\:focus-visible:focus-visible {
     grid-column: span 5 / span 5;
   }
 
@@ -659,6 +739,10 @@
     grid-column: span 6 / span 6;
   }
 
+  .xs\:col-span-6\:focus-visible:focus-visible {
+    grid-column: span 6 / span 6;
+  }
+
   .xs\:col-span-6\:hover:hover {
     grid-column: span 6 / span 6;
   }
@@ -688,6 +772,10 @@
   }
 
   .xs\:col-span-7\:focus:focus {
+    grid-column: span 7 / span 7;
+  }
+
+  .xs\:col-span-7\:focus-visible:focus-visible {
     grid-column: span 7 / span 7;
   }
 
@@ -723,6 +811,10 @@
     grid-column: span 8 / span 8;
   }
 
+  .xs\:col-span-8\:focus-visible:focus-visible {
+    grid-column: span 8 / span 8;
+  }
+
   .xs\:col-span-8\:hover:hover {
     grid-column: span 8 / span 8;
   }
@@ -752,6 +844,10 @@
   }
 
   .xs\:col-span-9\:focus:focus {
+    grid-column: span 9 / span 9;
+  }
+
+  .xs\:col-span-9\:focus-visible:focus-visible {
     grid-column: span 9 / span 9;
   }
 
@@ -787,6 +883,10 @@
     grid-column: span 10 / span 10;
   }
 
+  .xs\:col-span-10\:focus-visible:focus-visible {
+    grid-column: span 10 / span 10;
+  }
+
   .xs\:col-span-10\:hover:hover {
     grid-column: span 10 / span 10;
   }
@@ -816,6 +916,10 @@
   }
 
   .xs\:col-span-11\:focus:focus {
+    grid-column: span 11 / span 11;
+  }
+
+  .xs\:col-span-11\:focus-visible:focus-visible {
     grid-column: span 11 / span 11;
   }
 
@@ -851,6 +955,10 @@
     grid-column: span 12 / span 12;
   }
 
+  .xs\:col-span-12\:focus-visible:focus-visible {
+    grid-column: span 12 / span 12;
+  }
+
   .xs\:col-span-12\:hover:hover {
     grid-column: span 12 / span 12;
   }
@@ -880,6 +988,10 @@
   }
 
   .xs\:col-span-full\:focus:focus {
+    grid-column: 1 / -1;
+  }
+
+  .xs\:col-span-full\:focus-visible:focus-visible {
     grid-column: 1 / -1;
   }
 
@@ -916,6 +1028,10 @@
     grid-column: auto;
   }
 
+  .sm\:col-auto\:focus-visible:focus-visible {
+    grid-column: auto;
+  }
+
   .sm\:col-auto\:hover:hover {
     grid-column: auto;
   }
@@ -945,6 +1061,10 @@
   }
 
   .sm\:col-span-1\:focus:focus {
+    grid-column: span 1 / span 1;
+  }
+
+  .sm\:col-span-1\:focus-visible:focus-visible {
     grid-column: span 1 / span 1;
   }
 
@@ -980,6 +1100,10 @@
     grid-column: span 2 / span 2;
   }
 
+  .sm\:col-span-2\:focus-visible:focus-visible {
+    grid-column: span 2 / span 2;
+  }
+
   .sm\:col-span-2\:hover:hover {
     grid-column: span 2 / span 2;
   }
@@ -1009,6 +1133,10 @@
   }
 
   .sm\:col-span-3\:focus:focus {
+    grid-column: span 3 / span 3;
+  }
+
+  .sm\:col-span-3\:focus-visible:focus-visible {
     grid-column: span 3 / span 3;
   }
 
@@ -1044,6 +1172,10 @@
     grid-column: span 4 / span 4;
   }
 
+  .sm\:col-span-4\:focus-visible:focus-visible {
+    grid-column: span 4 / span 4;
+  }
+
   .sm\:col-span-4\:hover:hover {
     grid-column: span 4 / span 4;
   }
@@ -1073,6 +1205,10 @@
   }
 
   .sm\:col-span-5\:focus:focus {
+    grid-column: span 5 / span 5;
+  }
+
+  .sm\:col-span-5\:focus-visible:focus-visible {
     grid-column: span 5 / span 5;
   }
 
@@ -1108,6 +1244,10 @@
     grid-column: span 6 / span 6;
   }
 
+  .sm\:col-span-6\:focus-visible:focus-visible {
+    grid-column: span 6 / span 6;
+  }
+
   .sm\:col-span-6\:hover:hover {
     grid-column: span 6 / span 6;
   }
@@ -1137,6 +1277,10 @@
   }
 
   .sm\:col-span-7\:focus:focus {
+    grid-column: span 7 / span 7;
+  }
+
+  .sm\:col-span-7\:focus-visible:focus-visible {
     grid-column: span 7 / span 7;
   }
 
@@ -1172,6 +1316,10 @@
     grid-column: span 8 / span 8;
   }
 
+  .sm\:col-span-8\:focus-visible:focus-visible {
+    grid-column: span 8 / span 8;
+  }
+
   .sm\:col-span-8\:hover:hover {
     grid-column: span 8 / span 8;
   }
@@ -1201,6 +1349,10 @@
   }
 
   .sm\:col-span-9\:focus:focus {
+    grid-column: span 9 / span 9;
+  }
+
+  .sm\:col-span-9\:focus-visible:focus-visible {
     grid-column: span 9 / span 9;
   }
 
@@ -1236,6 +1388,10 @@
     grid-column: span 10 / span 10;
   }
 
+  .sm\:col-span-10\:focus-visible:focus-visible {
+    grid-column: span 10 / span 10;
+  }
+
   .sm\:col-span-10\:hover:hover {
     grid-column: span 10 / span 10;
   }
@@ -1265,6 +1421,10 @@
   }
 
   .sm\:col-span-11\:focus:focus {
+    grid-column: span 11 / span 11;
+  }
+
+  .sm\:col-span-11\:focus-visible:focus-visible {
     grid-column: span 11 / span 11;
   }
 
@@ -1300,6 +1460,10 @@
     grid-column: span 12 / span 12;
   }
 
+  .sm\:col-span-12\:focus-visible:focus-visible {
+    grid-column: span 12 / span 12;
+  }
+
   .sm\:col-span-12\:hover:hover {
     grid-column: span 12 / span 12;
   }
@@ -1329,6 +1493,10 @@
   }
 
   .sm\:col-span-full\:focus:focus {
+    grid-column: 1 / -1;
+  }
+
+  .sm\:col-span-full\:focus-visible:focus-visible {
     grid-column: 1 / -1;
   }
 
@@ -1365,6 +1533,10 @@
     grid-column: auto;
   }
 
+  .md\:col-auto\:focus-visible:focus-visible {
+    grid-column: auto;
+  }
+
   .md\:col-auto\:hover:hover {
     grid-column: auto;
   }
@@ -1394,6 +1566,10 @@
   }
 
   .md\:col-span-1\:focus:focus {
+    grid-column: span 1 / span 1;
+  }
+
+  .md\:col-span-1\:focus-visible:focus-visible {
     grid-column: span 1 / span 1;
   }
 
@@ -1429,6 +1605,10 @@
     grid-column: span 2 / span 2;
   }
 
+  .md\:col-span-2\:focus-visible:focus-visible {
+    grid-column: span 2 / span 2;
+  }
+
   .md\:col-span-2\:hover:hover {
     grid-column: span 2 / span 2;
   }
@@ -1458,6 +1638,10 @@
   }
 
   .md\:col-span-3\:focus:focus {
+    grid-column: span 3 / span 3;
+  }
+
+  .md\:col-span-3\:focus-visible:focus-visible {
     grid-column: span 3 / span 3;
   }
 
@@ -1493,6 +1677,10 @@
     grid-column: span 4 / span 4;
   }
 
+  .md\:col-span-4\:focus-visible:focus-visible {
+    grid-column: span 4 / span 4;
+  }
+
   .md\:col-span-4\:hover:hover {
     grid-column: span 4 / span 4;
   }
@@ -1522,6 +1710,10 @@
   }
 
   .md\:col-span-5\:focus:focus {
+    grid-column: span 5 / span 5;
+  }
+
+  .md\:col-span-5\:focus-visible:focus-visible {
     grid-column: span 5 / span 5;
   }
 
@@ -1557,6 +1749,10 @@
     grid-column: span 6 / span 6;
   }
 
+  .md\:col-span-6\:focus-visible:focus-visible {
+    grid-column: span 6 / span 6;
+  }
+
   .md\:col-span-6\:hover:hover {
     grid-column: span 6 / span 6;
   }
@@ -1586,6 +1782,10 @@
   }
 
   .md\:col-span-7\:focus:focus {
+    grid-column: span 7 / span 7;
+  }
+
+  .md\:col-span-7\:focus-visible:focus-visible {
     grid-column: span 7 / span 7;
   }
 
@@ -1621,6 +1821,10 @@
     grid-column: span 8 / span 8;
   }
 
+  .md\:col-span-8\:focus-visible:focus-visible {
+    grid-column: span 8 / span 8;
+  }
+
   .md\:col-span-8\:hover:hover {
     grid-column: span 8 / span 8;
   }
@@ -1650,6 +1854,10 @@
   }
 
   .md\:col-span-9\:focus:focus {
+    grid-column: span 9 / span 9;
+  }
+
+  .md\:col-span-9\:focus-visible:focus-visible {
     grid-column: span 9 / span 9;
   }
 
@@ -1685,6 +1893,10 @@
     grid-column: span 10 / span 10;
   }
 
+  .md\:col-span-10\:focus-visible:focus-visible {
+    grid-column: span 10 / span 10;
+  }
+
   .md\:col-span-10\:hover:hover {
     grid-column: span 10 / span 10;
   }
@@ -1714,6 +1926,10 @@
   }
 
   .md\:col-span-11\:focus:focus {
+    grid-column: span 11 / span 11;
+  }
+
+  .md\:col-span-11\:focus-visible:focus-visible {
     grid-column: span 11 / span 11;
   }
 
@@ -1749,6 +1965,10 @@
     grid-column: span 12 / span 12;
   }
 
+  .md\:col-span-12\:focus-visible:focus-visible {
+    grid-column: span 12 / span 12;
+  }
+
   .md\:col-span-12\:hover:hover {
     grid-column: span 12 / span 12;
   }
@@ -1778,6 +1998,10 @@
   }
 
   .md\:col-span-full\:focus:focus {
+    grid-column: 1 / -1;
+  }
+
+  .md\:col-span-full\:focus-visible:focus-visible {
     grid-column: 1 / -1;
   }
 
@@ -1814,6 +2038,10 @@
     grid-column: auto;
   }
 
+  .lg\:col-auto\:focus-visible:focus-visible {
+    grid-column: auto;
+  }
+
   .lg\:col-auto\:hover:hover {
     grid-column: auto;
   }
@@ -1843,6 +2071,10 @@
   }
 
   .lg\:col-span-1\:focus:focus {
+    grid-column: span 1 / span 1;
+  }
+
+  .lg\:col-span-1\:focus-visible:focus-visible {
     grid-column: span 1 / span 1;
   }
 
@@ -1878,6 +2110,10 @@
     grid-column: span 2 / span 2;
   }
 
+  .lg\:col-span-2\:focus-visible:focus-visible {
+    grid-column: span 2 / span 2;
+  }
+
   .lg\:col-span-2\:hover:hover {
     grid-column: span 2 / span 2;
   }
@@ -1907,6 +2143,10 @@
   }
 
   .lg\:col-span-3\:focus:focus {
+    grid-column: span 3 / span 3;
+  }
+
+  .lg\:col-span-3\:focus-visible:focus-visible {
     grid-column: span 3 / span 3;
   }
 
@@ -1942,6 +2182,10 @@
     grid-column: span 4 / span 4;
   }
 
+  .lg\:col-span-4\:focus-visible:focus-visible {
+    grid-column: span 4 / span 4;
+  }
+
   .lg\:col-span-4\:hover:hover {
     grid-column: span 4 / span 4;
   }
@@ -1971,6 +2215,10 @@
   }
 
   .lg\:col-span-5\:focus:focus {
+    grid-column: span 5 / span 5;
+  }
+
+  .lg\:col-span-5\:focus-visible:focus-visible {
     grid-column: span 5 / span 5;
   }
 
@@ -2006,6 +2254,10 @@
     grid-column: span 6 / span 6;
   }
 
+  .lg\:col-span-6\:focus-visible:focus-visible {
+    grid-column: span 6 / span 6;
+  }
+
   .lg\:col-span-6\:hover:hover {
     grid-column: span 6 / span 6;
   }
@@ -2035,6 +2287,10 @@
   }
 
   .lg\:col-span-7\:focus:focus {
+    grid-column: span 7 / span 7;
+  }
+
+  .lg\:col-span-7\:focus-visible:focus-visible {
     grid-column: span 7 / span 7;
   }
 
@@ -2070,6 +2326,10 @@
     grid-column: span 8 / span 8;
   }
 
+  .lg\:col-span-8\:focus-visible:focus-visible {
+    grid-column: span 8 / span 8;
+  }
+
   .lg\:col-span-8\:hover:hover {
     grid-column: span 8 / span 8;
   }
@@ -2099,6 +2359,10 @@
   }
 
   .lg\:col-span-9\:focus:focus {
+    grid-column: span 9 / span 9;
+  }
+
+  .lg\:col-span-9\:focus-visible:focus-visible {
     grid-column: span 9 / span 9;
   }
 
@@ -2134,6 +2398,10 @@
     grid-column: span 10 / span 10;
   }
 
+  .lg\:col-span-10\:focus-visible:focus-visible {
+    grid-column: span 10 / span 10;
+  }
+
   .lg\:col-span-10\:hover:hover {
     grid-column: span 10 / span 10;
   }
@@ -2163,6 +2431,10 @@
   }
 
   .lg\:col-span-11\:focus:focus {
+    grid-column: span 11 / span 11;
+  }
+
+  .lg\:col-span-11\:focus-visible:focus-visible {
     grid-column: span 11 / span 11;
   }
 
@@ -2198,6 +2470,10 @@
     grid-column: span 12 / span 12;
   }
 
+  .lg\:col-span-12\:focus-visible:focus-visible {
+    grid-column: span 12 / span 12;
+  }
+
   .lg\:col-span-12\:hover:hover {
     grid-column: span 12 / span 12;
   }
@@ -2227,6 +2503,10 @@
   }
 
   .lg\:col-span-full\:focus:focus {
+    grid-column: 1 / -1;
+  }
+
+  .lg\:col-span-full\:focus-visible:focus-visible {
     grid-column: 1 / -1;
   }
 

@@ -18,6 +18,10 @@
   line-height: 0.75rem;
 }
 
+.leading-3\:focus-visible:focus-visible {
+  line-height: 0.75rem;
+}
+
 .leading-3\:hover:hover {
   line-height: 0.75rem;
 }
@@ -47,6 +51,10 @@
 }
 
 .leading-4\:focus:focus {
+  line-height: 1rem;
+}
+
+.leading-4\:focus-visible:focus-visible {
   line-height: 1rem;
 }
 
@@ -82,6 +90,10 @@
   line-height: 1.25rem;
 }
 
+.leading-5\:focus-visible:focus-visible {
+  line-height: 1.25rem;
+}
+
 .leading-5\:hover:hover {
   line-height: 1.25rem;
 }
@@ -111,6 +123,10 @@
 }
 
 .leading-6\:focus:focus {
+  line-height: 1.5rem;
+}
+
+.leading-6\:focus-visible:focus-visible {
   line-height: 1.5rem;
 }
 
@@ -146,6 +162,10 @@
   line-height: 1.75rem;
 }
 
+.leading-7\:focus-visible:focus-visible {
+  line-height: 1.75rem;
+}
+
 .leading-7\:hover:hover {
   line-height: 1.75rem;
 }
@@ -175,6 +195,10 @@
 }
 
 .leading-8\:focus:focus {
+  line-height: 2rem;
+}
+
+.leading-8\:focus-visible:focus-visible {
   line-height: 2rem;
 }
 
@@ -210,6 +234,10 @@
   line-height: 2.25rem;
 }
 
+.leading-9\:focus-visible:focus-visible {
+  line-height: 2.25rem;
+}
+
 .leading-9\:hover:hover {
   line-height: 2.25rem;
 }
@@ -239,6 +267,10 @@
 }
 
 .leading-10\:focus:focus {
+  line-height: 2.5rem;
+}
+
+.leading-10\:focus-visible:focus-visible {
   line-height: 2.5rem;
 }
 
@@ -274,6 +306,10 @@
   line-height: 1;
 }
 
+.leading-none\:focus-visible:focus-visible {
+  line-height: 1;
+}
+
 .leading-none\:hover:hover {
   line-height: 1;
 }
@@ -303,6 +339,10 @@
 }
 
 .leading-tight\:focus:focus {
+  line-height:  1.25;
+}
+
+.leading-tight\:focus-visible:focus-visible {
   line-height:  1.25;
 }
 
@@ -338,6 +378,10 @@
   line-height: 1.375;
 }
 
+.leading-snug\:focus-visible:focus-visible {
+  line-height: 1.375;
+}
+
 .leading-snug\:hover:hover {
   line-height: 1.375;
 }
@@ -367,6 +411,10 @@
 }
 
 .leading-normal\:focus:focus {
+  line-height: 1.5;
+}
+
+.leading-normal\:focus-visible:focus-visible {
   line-height: 1.5;
 }
 
@@ -402,6 +450,10 @@
   line-height: 1.625;
 }
 
+.leading-relaxed\:focus-visible:focus-visible {
+  line-height: 1.625;
+}
+
 .leading-relaxed\:hover:hover {
   line-height: 1.625;
 }
@@ -431,6 +483,10 @@
 }
 
 .leading-loose\:focus:focus {
+  line-height: 2;
+}
+
+.leading-loose\:focus-visible:focus-visible {
   line-height: 2;
 }
 
@@ -467,6 +523,10 @@
     line-height: 0.75rem;
   }
 
+  .xs\:leading-3\:focus-visible:focus-visible {
+    line-height: 0.75rem;
+  }
+
   .xs\:leading-3\:hover:hover {
     line-height: 0.75rem;
   }
@@ -496,6 +556,10 @@
   }
 
   .xs\:leading-4\:focus:focus {
+    line-height: 1rem;
+  }
+
+  .xs\:leading-4\:focus-visible:focus-visible {
     line-height: 1rem;
   }
 
@@ -531,6 +595,10 @@
     line-height: 1.25rem;
   }
 
+  .xs\:leading-5\:focus-visible:focus-visible {
+    line-height: 1.25rem;
+  }
+
   .xs\:leading-5\:hover:hover {
     line-height: 1.25rem;
   }
@@ -560,6 +628,10 @@
   }
 
   .xs\:leading-6\:focus:focus {
+    line-height: 1.5rem;
+  }
+
+  .xs\:leading-6\:focus-visible:focus-visible {
     line-height: 1.5rem;
   }
 
@@ -595,6 +667,10 @@
     line-height: 1.75rem;
   }
 
+  .xs\:leading-7\:focus-visible:focus-visible {
+    line-height: 1.75rem;
+  }
+
   .xs\:leading-7\:hover:hover {
     line-height: 1.75rem;
   }
@@ -624,6 +700,10 @@
   }
 
   .xs\:leading-8\:focus:focus {
+    line-height: 2rem;
+  }
+
+  .xs\:leading-8\:focus-visible:focus-visible {
     line-height: 2rem;
   }
 
@@ -659,6 +739,10 @@
     line-height: 2.25rem;
   }
 
+  .xs\:leading-9\:focus-visible:focus-visible {
+    line-height: 2.25rem;
+  }
+
   .xs\:leading-9\:hover:hover {
     line-height: 2.25rem;
   }
@@ -688,6 +772,10 @@
   }
 
   .xs\:leading-10\:focus:focus {
+    line-height: 2.5rem;
+  }
+
+  .xs\:leading-10\:focus-visible:focus-visible {
     line-height: 2.5rem;
   }
 
@@ -723,6 +811,10 @@
     line-height: 1;
   }
 
+  .xs\:leading-none\:focus-visible:focus-visible {
+    line-height: 1;
+  }
+
   .xs\:leading-none\:hover:hover {
     line-height: 1;
   }
@@ -752,6 +844,10 @@
   }
 
   .xs\:leading-tight\:focus:focus {
+    line-height:  1.25;
+  }
+
+  .xs\:leading-tight\:focus-visible:focus-visible {
     line-height:  1.25;
   }
 
@@ -787,6 +883,10 @@
     line-height: 1.375;
   }
 
+  .xs\:leading-snug\:focus-visible:focus-visible {
+    line-height: 1.375;
+  }
+
   .xs\:leading-snug\:hover:hover {
     line-height: 1.375;
   }
@@ -816,6 +916,10 @@
   }
 
   .xs\:leading-normal\:focus:focus {
+    line-height: 1.5;
+  }
+
+  .xs\:leading-normal\:focus-visible:focus-visible {
     line-height: 1.5;
   }
 
@@ -851,6 +955,10 @@
     line-height: 1.625;
   }
 
+  .xs\:leading-relaxed\:focus-visible:focus-visible {
+    line-height: 1.625;
+  }
+
   .xs\:leading-relaxed\:hover:hover {
     line-height: 1.625;
   }
@@ -880,6 +988,10 @@
   }
 
   .xs\:leading-loose\:focus:focus {
+    line-height: 2;
+  }
+
+  .xs\:leading-loose\:focus-visible:focus-visible {
     line-height: 2;
   }
 
@@ -916,6 +1028,10 @@
     line-height: 0.75rem;
   }
 
+  .sm\:leading-3\:focus-visible:focus-visible {
+    line-height: 0.75rem;
+  }
+
   .sm\:leading-3\:hover:hover {
     line-height: 0.75rem;
   }
@@ -945,6 +1061,10 @@
   }
 
   .sm\:leading-4\:focus:focus {
+    line-height: 1rem;
+  }
+
+  .sm\:leading-4\:focus-visible:focus-visible {
     line-height: 1rem;
   }
 
@@ -980,6 +1100,10 @@
     line-height: 1.25rem;
   }
 
+  .sm\:leading-5\:focus-visible:focus-visible {
+    line-height: 1.25rem;
+  }
+
   .sm\:leading-5\:hover:hover {
     line-height: 1.25rem;
   }
@@ -1009,6 +1133,10 @@
   }
 
   .sm\:leading-6\:focus:focus {
+    line-height: 1.5rem;
+  }
+
+  .sm\:leading-6\:focus-visible:focus-visible {
     line-height: 1.5rem;
   }
 
@@ -1044,6 +1172,10 @@
     line-height: 1.75rem;
   }
 
+  .sm\:leading-7\:focus-visible:focus-visible {
+    line-height: 1.75rem;
+  }
+
   .sm\:leading-7\:hover:hover {
     line-height: 1.75rem;
   }
@@ -1073,6 +1205,10 @@
   }
 
   .sm\:leading-8\:focus:focus {
+    line-height: 2rem;
+  }
+
+  .sm\:leading-8\:focus-visible:focus-visible {
     line-height: 2rem;
   }
 
@@ -1108,6 +1244,10 @@
     line-height: 2.25rem;
   }
 
+  .sm\:leading-9\:focus-visible:focus-visible {
+    line-height: 2.25rem;
+  }
+
   .sm\:leading-9\:hover:hover {
     line-height: 2.25rem;
   }
@@ -1137,6 +1277,10 @@
   }
 
   .sm\:leading-10\:focus:focus {
+    line-height: 2.5rem;
+  }
+
+  .sm\:leading-10\:focus-visible:focus-visible {
     line-height: 2.5rem;
   }
 
@@ -1172,6 +1316,10 @@
     line-height: 1;
   }
 
+  .sm\:leading-none\:focus-visible:focus-visible {
+    line-height: 1;
+  }
+
   .sm\:leading-none\:hover:hover {
     line-height: 1;
   }
@@ -1201,6 +1349,10 @@
   }
 
   .sm\:leading-tight\:focus:focus {
+    line-height:  1.25;
+  }
+
+  .sm\:leading-tight\:focus-visible:focus-visible {
     line-height:  1.25;
   }
 
@@ -1236,6 +1388,10 @@
     line-height: 1.375;
   }
 
+  .sm\:leading-snug\:focus-visible:focus-visible {
+    line-height: 1.375;
+  }
+
   .sm\:leading-snug\:hover:hover {
     line-height: 1.375;
   }
@@ -1265,6 +1421,10 @@
   }
 
   .sm\:leading-normal\:focus:focus {
+    line-height: 1.5;
+  }
+
+  .sm\:leading-normal\:focus-visible:focus-visible {
     line-height: 1.5;
   }
 
@@ -1300,6 +1460,10 @@
     line-height: 1.625;
   }
 
+  .sm\:leading-relaxed\:focus-visible:focus-visible {
+    line-height: 1.625;
+  }
+
   .sm\:leading-relaxed\:hover:hover {
     line-height: 1.625;
   }
@@ -1329,6 +1493,10 @@
   }
 
   .sm\:leading-loose\:focus:focus {
+    line-height: 2;
+  }
+
+  .sm\:leading-loose\:focus-visible:focus-visible {
     line-height: 2;
   }
 
@@ -1365,6 +1533,10 @@
     line-height: 0.75rem;
   }
 
+  .md\:leading-3\:focus-visible:focus-visible {
+    line-height: 0.75rem;
+  }
+
   .md\:leading-3\:hover:hover {
     line-height: 0.75rem;
   }
@@ -1394,6 +1566,10 @@
   }
 
   .md\:leading-4\:focus:focus {
+    line-height: 1rem;
+  }
+
+  .md\:leading-4\:focus-visible:focus-visible {
     line-height: 1rem;
   }
 
@@ -1429,6 +1605,10 @@
     line-height: 1.25rem;
   }
 
+  .md\:leading-5\:focus-visible:focus-visible {
+    line-height: 1.25rem;
+  }
+
   .md\:leading-5\:hover:hover {
     line-height: 1.25rem;
   }
@@ -1458,6 +1638,10 @@
   }
 
   .md\:leading-6\:focus:focus {
+    line-height: 1.5rem;
+  }
+
+  .md\:leading-6\:focus-visible:focus-visible {
     line-height: 1.5rem;
   }
 
@@ -1493,6 +1677,10 @@
     line-height: 1.75rem;
   }
 
+  .md\:leading-7\:focus-visible:focus-visible {
+    line-height: 1.75rem;
+  }
+
   .md\:leading-7\:hover:hover {
     line-height: 1.75rem;
   }
@@ -1522,6 +1710,10 @@
   }
 
   .md\:leading-8\:focus:focus {
+    line-height: 2rem;
+  }
+
+  .md\:leading-8\:focus-visible:focus-visible {
     line-height: 2rem;
   }
 
@@ -1557,6 +1749,10 @@
     line-height: 2.25rem;
   }
 
+  .md\:leading-9\:focus-visible:focus-visible {
+    line-height: 2.25rem;
+  }
+
   .md\:leading-9\:hover:hover {
     line-height: 2.25rem;
   }
@@ -1586,6 +1782,10 @@
   }
 
   .md\:leading-10\:focus:focus {
+    line-height: 2.5rem;
+  }
+
+  .md\:leading-10\:focus-visible:focus-visible {
     line-height: 2.5rem;
   }
 
@@ -1621,6 +1821,10 @@
     line-height: 1;
   }
 
+  .md\:leading-none\:focus-visible:focus-visible {
+    line-height: 1;
+  }
+
   .md\:leading-none\:hover:hover {
     line-height: 1;
   }
@@ -1650,6 +1854,10 @@
   }
 
   .md\:leading-tight\:focus:focus {
+    line-height:  1.25;
+  }
+
+  .md\:leading-tight\:focus-visible:focus-visible {
     line-height:  1.25;
   }
 
@@ -1685,6 +1893,10 @@
     line-height: 1.375;
   }
 
+  .md\:leading-snug\:focus-visible:focus-visible {
+    line-height: 1.375;
+  }
+
   .md\:leading-snug\:hover:hover {
     line-height: 1.375;
   }
@@ -1714,6 +1926,10 @@
   }
 
   .md\:leading-normal\:focus:focus {
+    line-height: 1.5;
+  }
+
+  .md\:leading-normal\:focus-visible:focus-visible {
     line-height: 1.5;
   }
 
@@ -1749,6 +1965,10 @@
     line-height: 1.625;
   }
 
+  .md\:leading-relaxed\:focus-visible:focus-visible {
+    line-height: 1.625;
+  }
+
   .md\:leading-relaxed\:hover:hover {
     line-height: 1.625;
   }
@@ -1778,6 +1998,10 @@
   }
 
   .md\:leading-loose\:focus:focus {
+    line-height: 2;
+  }
+
+  .md\:leading-loose\:focus-visible:focus-visible {
     line-height: 2;
   }
 
@@ -1814,6 +2038,10 @@
     line-height: 0.75rem;
   }
 
+  .lg\:leading-3\:focus-visible:focus-visible {
+    line-height: 0.75rem;
+  }
+
   .lg\:leading-3\:hover:hover {
     line-height: 0.75rem;
   }
@@ -1843,6 +2071,10 @@
   }
 
   .lg\:leading-4\:focus:focus {
+    line-height: 1rem;
+  }
+
+  .lg\:leading-4\:focus-visible:focus-visible {
     line-height: 1rem;
   }
 
@@ -1878,6 +2110,10 @@
     line-height: 1.25rem;
   }
 
+  .lg\:leading-5\:focus-visible:focus-visible {
+    line-height: 1.25rem;
+  }
+
   .lg\:leading-5\:hover:hover {
     line-height: 1.25rem;
   }
@@ -1907,6 +2143,10 @@
   }
 
   .lg\:leading-6\:focus:focus {
+    line-height: 1.5rem;
+  }
+
+  .lg\:leading-6\:focus-visible:focus-visible {
     line-height: 1.5rem;
   }
 
@@ -1942,6 +2182,10 @@
     line-height: 1.75rem;
   }
 
+  .lg\:leading-7\:focus-visible:focus-visible {
+    line-height: 1.75rem;
+  }
+
   .lg\:leading-7\:hover:hover {
     line-height: 1.75rem;
   }
@@ -1971,6 +2215,10 @@
   }
 
   .lg\:leading-8\:focus:focus {
+    line-height: 2rem;
+  }
+
+  .lg\:leading-8\:focus-visible:focus-visible {
     line-height: 2rem;
   }
 
@@ -2006,6 +2254,10 @@
     line-height: 2.25rem;
   }
 
+  .lg\:leading-9\:focus-visible:focus-visible {
+    line-height: 2.25rem;
+  }
+
   .lg\:leading-9\:hover:hover {
     line-height: 2.25rem;
   }
@@ -2035,6 +2287,10 @@
   }
 
   .lg\:leading-10\:focus:focus {
+    line-height: 2.5rem;
+  }
+
+  .lg\:leading-10\:focus-visible:focus-visible {
     line-height: 2.5rem;
   }
 
@@ -2070,6 +2326,10 @@
     line-height: 1;
   }
 
+  .lg\:leading-none\:focus-visible:focus-visible {
+    line-height: 1;
+  }
+
   .lg\:leading-none\:hover:hover {
     line-height: 1;
   }
@@ -2099,6 +2359,10 @@
   }
 
   .lg\:leading-tight\:focus:focus {
+    line-height:  1.25;
+  }
+
+  .lg\:leading-tight\:focus-visible:focus-visible {
     line-height:  1.25;
   }
 
@@ -2134,6 +2398,10 @@
     line-height: 1.375;
   }
 
+  .lg\:leading-snug\:focus-visible:focus-visible {
+    line-height: 1.375;
+  }
+
   .lg\:leading-snug\:hover:hover {
     line-height: 1.375;
   }
@@ -2163,6 +2431,10 @@
   }
 
   .lg\:leading-normal\:focus:focus {
+    line-height: 1.5;
+  }
+
+  .lg\:leading-normal\:focus-visible:focus-visible {
     line-height: 1.5;
   }
 
@@ -2198,6 +2470,10 @@
     line-height: 1.625;
   }
 
+  .lg\:leading-relaxed\:focus-visible:focus-visible {
+    line-height: 1.625;
+  }
+
   .lg\:leading-relaxed\:hover:hover {
     line-height: 1.625;
   }
@@ -2227,6 +2503,10 @@
   }
 
   .lg\:leading-loose\:focus:focus {
+    line-height: 2;
+  }
+
+  .lg\:leading-loose\:focus-visible:focus-visible {
     line-height: 2;
   }
 

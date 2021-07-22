@@ -18,6 +18,10 @@
   place-content: center;
 }
 
+.place-content-center\:focus-visible:focus-visible {
+  place-content: center;
+}
+
 .place-content-center\:hover:hover {
   place-content: center;
 }
@@ -47,6 +51,10 @@
 }
 
 .place-content-start\:focus:focus {
+  place-content: start;
+}
+
+.place-content-start\:focus-visible:focus-visible {
   place-content: start;
 }
 
@@ -82,6 +90,10 @@
   place-content: end;
 }
 
+.place-content-end\:focus-visible:focus-visible {
+  place-content: end;
+}
+
 .place-content-end\:hover:hover {
   place-content: end;
 }
@@ -111,6 +123,10 @@
 }
 
 .place-content-between\:focus:focus {
+  place-content: space-between;
+}
+
+.place-content-between\:focus-visible:focus-visible {
   place-content: space-between;
 }
 
@@ -146,6 +162,10 @@
   place-content: space-around;
 }
 
+.place-content-around\:focus-visible:focus-visible {
+  place-content: space-around;
+}
+
 .place-content-around\:hover:hover {
   place-content: space-around;
 }
@@ -178,6 +198,10 @@
   place-content: space-evenly;
 }
 
+.place-content-evenly\:focus-visible:focus-visible {
+  place-content: space-evenly;
+}
+
 .place-content-evenly\:hover:hover {
   place-content: space-evenly;
 }
@@ -207,6 +231,10 @@
 }
 
 .place-content-stretch\:focus:focus {
+  place-content: stretch;
+}
+
+.place-content-stretch\:focus-visible:focus-visible {
   place-content: stretch;
 }
 
@@ -243,6 +271,10 @@
     place-content: center;
   }
 
+  .xs\:place-content-center\:focus-visible:focus-visible {
+    place-content: center;
+  }
+
   .xs\:place-content-center\:hover:hover {
     place-content: center;
   }
@@ -272,6 +304,10 @@
   }
 
   .xs\:place-content-start\:focus:focus {
+    place-content: start;
+  }
+
+  .xs\:place-content-start\:focus-visible:focus-visible {
     place-content: start;
   }
 
@@ -307,6 +343,10 @@
     place-content: end;
   }
 
+  .xs\:place-content-end\:focus-visible:focus-visible {
+    place-content: end;
+  }
+
   .xs\:place-content-end\:hover:hover {
     place-content: end;
   }
@@ -336,6 +376,10 @@
   }
 
   .xs\:place-content-between\:focus:focus {
+    place-content: space-between;
+  }
+
+  .xs\:place-content-between\:focus-visible:focus-visible {
     place-content: space-between;
   }
 
@@ -371,6 +415,10 @@
     place-content: space-around;
   }
 
+  .xs\:place-content-around\:focus-visible:focus-visible {
+    place-content: space-around;
+  }
+
   .xs\:place-content-around\:hover:hover {
     place-content: space-around;
   }
@@ -403,6 +451,10 @@
     place-content: space-evenly;
   }
 
+  .xs\:place-content-evenly\:focus-visible:focus-visible {
+    place-content: space-evenly;
+  }
+
   .xs\:place-content-evenly\:hover:hover {
     place-content: space-evenly;
   }
@@ -432,6 +484,10 @@
   }
 
   .xs\:place-content-stretch\:focus:focus {
+    place-content: stretch;
+  }
+
+  .xs\:place-content-stretch\:focus-visible:focus-visible {
     place-content: stretch;
   }
 
@@ -468,6 +524,10 @@
     place-content: center;
   }
 
+  .sm\:place-content-center\:focus-visible:focus-visible {
+    place-content: center;
+  }
+
   .sm\:place-content-center\:hover:hover {
     place-content: center;
   }
@@ -497,6 +557,10 @@
   }
 
   .sm\:place-content-start\:focus:focus {
+    place-content: start;
+  }
+
+  .sm\:place-content-start\:focus-visible:focus-visible {
     place-content: start;
   }
 
@@ -532,6 +596,10 @@
     place-content: end;
   }
 
+  .sm\:place-content-end\:focus-visible:focus-visible {
+    place-content: end;
+  }
+
   .sm\:place-content-end\:hover:hover {
     place-content: end;
   }
@@ -561,6 +629,10 @@
   }
 
   .sm\:place-content-between\:focus:focus {
+    place-content: space-between;
+  }
+
+  .sm\:place-content-between\:focus-visible:focus-visible {
     place-content: space-between;
   }
 
@@ -596,6 +668,10 @@
     place-content: space-around;
   }
 
+  .sm\:place-content-around\:focus-visible:focus-visible {
+    place-content: space-around;
+  }
+
   .sm\:place-content-around\:hover:hover {
     place-content: space-around;
   }
@@ -628,6 +704,10 @@
     place-content: space-evenly;
   }
 
+  .sm\:place-content-evenly\:focus-visible:focus-visible {
+    place-content: space-evenly;
+  }
+
   .sm\:place-content-evenly\:hover:hover {
     place-content: space-evenly;
   }
@@ -657,6 +737,10 @@
   }
 
   .sm\:place-content-stretch\:focus:focus {
+    place-content: stretch;
+  }
+
+  .sm\:place-content-stretch\:focus-visible:focus-visible {
     place-content: stretch;
   }
 
@@ -693,6 +777,10 @@
     place-content: center;
   }
 
+  .md\:place-content-center\:focus-visible:focus-visible {
+    place-content: center;
+  }
+
   .md\:place-content-center\:hover:hover {
     place-content: center;
   }
@@ -722,6 +810,10 @@
   }
 
   .md\:place-content-start\:focus:focus {
+    place-content: start;
+  }
+
+  .md\:place-content-start\:focus-visible:focus-visible {
     place-content: start;
   }
 
@@ -757,6 +849,10 @@
     place-content: end;
   }
 
+  .md\:place-content-end\:focus-visible:focus-visible {
+    place-content: end;
+  }
+
   .md\:place-content-end\:hover:hover {
     place-content: end;
   }
@@ -786,6 +882,10 @@
   }
 
   .md\:place-content-between\:focus:focus {
+    place-content: space-between;
+  }
+
+  .md\:place-content-between\:focus-visible:focus-visible {
     place-content: space-between;
   }
 
@@ -821,6 +921,10 @@
     place-content: space-around;
   }
 
+  .md\:place-content-around\:focus-visible:focus-visible {
+    place-content: space-around;
+  }
+
   .md\:place-content-around\:hover:hover {
     place-content: space-around;
   }
@@ -853,6 +957,10 @@
     place-content: space-evenly;
   }
 
+  .md\:place-content-evenly\:focus-visible:focus-visible {
+    place-content: space-evenly;
+  }
+
   .md\:place-content-evenly\:hover:hover {
     place-content: space-evenly;
   }
@@ -882,6 +990,10 @@
   }
 
   .md\:place-content-stretch\:focus:focus {
+    place-content: stretch;
+  }
+
+  .md\:place-content-stretch\:focus-visible:focus-visible {
     place-content: stretch;
   }
 
@@ -918,6 +1030,10 @@
     place-content: center;
   }
 
+  .lg\:place-content-center\:focus-visible:focus-visible {
+    place-content: center;
+  }
+
   .lg\:place-content-center\:hover:hover {
     place-content: center;
   }
@@ -947,6 +1063,10 @@
   }
 
   .lg\:place-content-start\:focus:focus {
+    place-content: start;
+  }
+
+  .lg\:place-content-start\:focus-visible:focus-visible {
     place-content: start;
   }
 
@@ -982,6 +1102,10 @@
     place-content: end;
   }
 
+  .lg\:place-content-end\:focus-visible:focus-visible {
+    place-content: end;
+  }
+
   .lg\:place-content-end\:hover:hover {
     place-content: end;
   }
@@ -1011,6 +1135,10 @@
   }
 
   .lg\:place-content-between\:focus:focus {
+    place-content: space-between;
+  }
+
+  .lg\:place-content-between\:focus-visible:focus-visible {
     place-content: space-between;
   }
 
@@ -1046,6 +1174,10 @@
     place-content: space-around;
   }
 
+  .lg\:place-content-around\:focus-visible:focus-visible {
+    place-content: space-around;
+  }
+
   .lg\:place-content-around\:hover:hover {
     place-content: space-around;
   }
@@ -1078,6 +1210,10 @@
     place-content: space-evenly;
   }
 
+  .lg\:place-content-evenly\:focus-visible:focus-visible {
+    place-content: space-evenly;
+  }
+
   .lg\:place-content-evenly\:hover:hover {
     place-content: space-evenly;
   }
@@ -1107,6 +1243,10 @@
   }
 
   .lg\:place-content-stretch\:focus:focus {
+    place-content: stretch;
+  }
+
+  .lg\:place-content-stretch\:focus-visible:focus-visible {
     place-content: stretch;
   }
 

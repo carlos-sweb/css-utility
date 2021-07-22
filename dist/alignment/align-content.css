@@ -18,6 +18,10 @@
   align-content: center;
 }
 
+.content-center\:focus-visible:focus-visible {
+  align-content: center;
+}
+
 .content-center\:hover:hover {
   align-content: center;
 }
@@ -47,6 +51,10 @@
 }
 
 .content-start\:focus:focus {
+  align-content: flex-start;
+}
+
+.content-start\:focus-visible:focus-visible {
   align-content: flex-start;
 }
 
@@ -82,6 +90,10 @@
   align-content: flex-end;
 }
 
+.content-end\:focus-visible:focus-visible {
+  align-content: flex-end;
+}
+
 .content-end\:hover:hover {
   align-content: flex-end;
 }
@@ -111,6 +123,10 @@
 }
 
 .content-between\:focus:focus {
+  align-content: flex-between;
+}
+
+.content-between\:focus-visible:focus-visible {
   align-content: flex-between;
 }
 
@@ -146,6 +162,10 @@
   align-content: flex-around;
 }
 
+.content-around\:focus-visible:focus-visible {
+  align-content: flex-around;
+}
+
 .content-around\:hover:hover {
   align-content: flex-around;
 }
@@ -175,6 +195,10 @@
 }
 
 .content-evenly\:focus:focus {
+  align-content: flex-evenly;
+}
+
+.content-evenly\:focus-visible:focus-visible {
   align-content: flex-evenly;
 }
 
@@ -211,6 +235,10 @@
     align-content: center;
   }
 
+  .xs\:content-center\:focus-visible:focus-visible {
+    align-content: center;
+  }
+
   .xs\:content-center\:hover:hover {
     align-content: center;
   }
@@ -240,6 +268,10 @@
   }
 
   .xs\:content-start\:focus:focus {
+    align-content: flex-start;
+  }
+
+  .xs\:content-start\:focus-visible:focus-visible {
     align-content: flex-start;
   }
 
@@ -275,6 +307,10 @@
     align-content: flex-end;
   }
 
+  .xs\:content-end\:focus-visible:focus-visible {
+    align-content: flex-end;
+  }
+
   .xs\:content-end\:hover:hover {
     align-content: flex-end;
   }
@@ -304,6 +340,10 @@
   }
 
   .xs\:content-between\:focus:focus {
+    align-content: flex-between;
+  }
+
+  .xs\:content-between\:focus-visible:focus-visible {
     align-content: flex-between;
   }
 
@@ -339,6 +379,10 @@
     align-content: flex-around;
   }
 
+  .xs\:content-around\:focus-visible:focus-visible {
+    align-content: flex-around;
+  }
+
   .xs\:content-around\:hover:hover {
     align-content: flex-around;
   }
@@ -368,6 +412,10 @@
   }
 
   .xs\:content-evenly\:focus:focus {
+    align-content: flex-evenly;
+  }
+
+  .xs\:content-evenly\:focus-visible:focus-visible {
     align-content: flex-evenly;
   }
 
@@ -404,6 +452,10 @@
     align-content: center;
   }
 
+  .sm\:content-center\:focus-visible:focus-visible {
+    align-content: center;
+  }
+
   .sm\:content-center\:hover:hover {
     align-content: center;
   }
@@ -433,6 +485,10 @@
   }
 
   .sm\:content-start\:focus:focus {
+    align-content: flex-start;
+  }
+
+  .sm\:content-start\:focus-visible:focus-visible {
     align-content: flex-start;
   }
 
@@ -468,6 +524,10 @@
     align-content: flex-end;
   }
 
+  .sm\:content-end\:focus-visible:focus-visible {
+    align-content: flex-end;
+  }
+
   .sm\:content-end\:hover:hover {
     align-content: flex-end;
   }
@@ -497,6 +557,10 @@
   }
 
   .sm\:content-between\:focus:focus {
+    align-content: flex-between;
+  }
+
+  .sm\:content-between\:focus-visible:focus-visible {
     align-content: flex-between;
   }
 
@@ -532,6 +596,10 @@
     align-content: flex-around;
   }
 
+  .sm\:content-around\:focus-visible:focus-visible {
+    align-content: flex-around;
+  }
+
   .sm\:content-around\:hover:hover {
     align-content: flex-around;
   }
@@ -561,6 +629,10 @@
   }
 
   .sm\:content-evenly\:focus:focus {
+    align-content: flex-evenly;
+  }
+
+  .sm\:content-evenly\:focus-visible:focus-visible {
     align-content: flex-evenly;
   }
 
@@ -597,6 +669,10 @@
     align-content: center;
   }
 
+  .md\:content-center\:focus-visible:focus-visible {
+    align-content: center;
+  }
+
   .md\:content-center\:hover:hover {
     align-content: center;
   }
@@ -626,6 +702,10 @@
   }
 
   .md\:content-start\:focus:focus {
+    align-content: flex-start;
+  }
+
+  .md\:content-start\:focus-visible:focus-visible {
     align-content: flex-start;
   }
 
@@ -661,6 +741,10 @@
     align-content: flex-end;
   }
 
+  .md\:content-end\:focus-visible:focus-visible {
+    align-content: flex-end;
+  }
+
   .md\:content-end\:hover:hover {
     align-content: flex-end;
   }
@@ -690,6 +774,10 @@
   }
 
   .md\:content-between\:focus:focus {
+    align-content: flex-between;
+  }
+
+  .md\:content-between\:focus-visible:focus-visible {
     align-content: flex-between;
   }
 
@@ -725,6 +813,10 @@
     align-content: flex-around;
   }
 
+  .md\:content-around\:focus-visible:focus-visible {
+    align-content: flex-around;
+  }
+
   .md\:content-around\:hover:hover {
     align-content: flex-around;
   }
@@ -754,6 +846,10 @@
   }
 
   .md\:content-evenly\:focus:focus {
+    align-content: flex-evenly;
+  }
+
+  .md\:content-evenly\:focus-visible:focus-visible {
     align-content: flex-evenly;
   }
 
@@ -790,6 +886,10 @@
     align-content: center;
   }
 
+  .lg\:content-center\:focus-visible:focus-visible {
+    align-content: center;
+  }
+
   .lg\:content-center\:hover:hover {
     align-content: center;
   }
@@ -819,6 +919,10 @@
   }
 
   .lg\:content-start\:focus:focus {
+    align-content: flex-start;
+  }
+
+  .lg\:content-start\:focus-visible:focus-visible {
     align-content: flex-start;
   }
 
@@ -854,6 +958,10 @@
     align-content: flex-end;
   }
 
+  .lg\:content-end\:focus-visible:focus-visible {
+    align-content: flex-end;
+  }
+
   .lg\:content-end\:hover:hover {
     align-content: flex-end;
   }
@@ -883,6 +991,10 @@
   }
 
   .lg\:content-between\:focus:focus {
+    align-content: flex-between;
+  }
+
+  .lg\:content-between\:focus-visible:focus-visible {
     align-content: flex-between;
   }
 
@@ -918,6 +1030,10 @@
     align-content: flex-around;
   }
 
+  .lg\:content-around\:focus-visible:focus-visible {
+    align-content: flex-around;
+  }
+
   .lg\:content-around\:hover:hover {
     align-content: flex-around;
   }
@@ -947,6 +1063,10 @@
   }
 
   .lg\:content-evenly\:focus:focus {
+    align-content: flex-evenly;
+  }
+
+  .lg\:content-evenly\:focus-visible:focus-visible {
     align-content: flex-evenly;
   }
 

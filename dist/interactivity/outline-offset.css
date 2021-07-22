@@ -1,0 +1,184 @@
+.outline-offset-2 {
+  outline-offset: 2px;
+}
+
+.outline-offset-2\:active:active {
+  outline-offset: 2px;
+}
+
+.outline-offset-2\:checked:checked {
+  outline-offset: 2px;
+}
+
+.outline-offset-2\:disabled:disabled {
+  outline-offset: 2px;
+}
+
+.outline-offset-2\:focus:focus {
+  outline-offset: 2px;
+}
+
+.outline-offset-2\:focus-visible:focus-visible {
+  outline-offset: 2px;
+}
+
+.outline-offset-2\:hover:hover {
+  outline-offset: 2px;
+}
+
+.outline-offset-2\:required:required {
+  outline-offset: 2px;
+}
+
+.outline-offset-2\:visited:visited {
+  outline-offset: 2px;
+}
+
+@media (min-width: 0px) and (max-width: 639px) {
+  .xs\:outline-offset-2 {
+    outline-offset: 2px;
+  }
+
+  .xs\:outline-offset-2\:active:active {
+    outline-offset: 2px;
+  }
+
+  .xs\:outline-offset-2\:checked:checked {
+    outline-offset: 2px;
+  }
+
+  .xs\:outline-offset-2\:disabled:disabled {
+    outline-offset: 2px;
+  }
+
+  .xs\:outline-offset-2\:focus:focus {
+    outline-offset: 2px;
+  }
+
+  .xs\:outline-offset-2\:focus-visible:focus-visible {
+    outline-offset: 2px;
+  }
+
+  .xs\:outline-offset-2\:hover:hover {
+    outline-offset: 2px;
+  }
+
+  .xs\:outline-offset-2\:required:required {
+    outline-offset: 2px;
+  }
+
+  .xs\:outline-offset-2\:visited:visited {
+    outline-offset: 2px;
+  }
+}
+@media (min-width: 640px) and (max-width: 767px) {
+  .sm\:outline-offset-2 {
+    outline-offset: 2px;
+  }
+
+  .sm\:outline-offset-2\:active:active {
+    outline-offset: 2px;
+  }
+
+  .sm\:outline-offset-2\:checked:checked {
+    outline-offset: 2px;
+  }
+
+  .sm\:outline-offset-2\:disabled:disabled {
+    outline-offset: 2px;
+  }
+
+  .sm\:outline-offset-2\:focus:focus {
+    outline-offset: 2px;
+  }
+
+  .sm\:outline-offset-2\:focus-visible:focus-visible {
+    outline-offset: 2px;
+  }
+
+  .sm\:outline-offset-2\:hover:hover {
+    outline-offset: 2px;
+  }
+
+  .sm\:outline-offset-2\:required:required {
+    outline-offset: 2px;
+  }
+
+  .sm\:outline-offset-2\:visited:visited {
+    outline-offset: 2px;
+  }
+}
+@media (min-width: 768px) and (max-width: 1023px) {
+  .md\:outline-offset-2 {
+    outline-offset: 2px;
+  }
+
+  .md\:outline-offset-2\:active:active {
+    outline-offset: 2px;
+  }
+
+  .md\:outline-offset-2\:checked:checked {
+    outline-offset: 2px;
+  }
+
+  .md\:outline-offset-2\:disabled:disabled {
+    outline-offset: 2px;
+  }
+
+  .md\:outline-offset-2\:focus:focus {
+    outline-offset: 2px;
+  }
+
+  .md\:outline-offset-2\:focus-visible:focus-visible {
+    outline-offset: 2px;
+  }
+
+  .md\:outline-offset-2\:hover:hover {
+    outline-offset: 2px;
+  }
+
+  .md\:outline-offset-2\:required:required {
+    outline-offset: 2px;
+  }
+
+  .md\:outline-offset-2\:visited:visited {
+    outline-offset: 2px;
+  }
+}
+@media (min-width: 1024px) and (max-width: 2000px) {
+  .lg\:outline-offset-2 {
+    outline-offset: 2px;
+  }
+
+  .lg\:outline-offset-2\:active:active {
+    outline-offset: 2px;
+  }
+
+  .lg\:outline-offset-2\:checked:checked {
+    outline-offset: 2px;
+  }
+
+  .lg\:outline-offset-2\:disabled:disabled {
+    outline-offset: 2px;
+  }
+
+  .lg\:outline-offset-2\:focus:focus {
+    outline-offset: 2px;
+  }
+
+  .lg\:outline-offset-2\:focus-visible:focus-visible {
+    outline-offset: 2px;
+  }
+
+  .lg\:outline-offset-2\:hover:hover {
+    outline-offset: 2px;
+  }
+
+  .lg\:outline-offset-2\:required:required {
+    outline-offset: 2px;
+  }
+
+  .lg\:outline-offset-2\:visited:visited {
+    outline-offset: 2px;
+  }
+}

@@ -18,6 +18,10 @@
   flex-grow: 0;
 }
 
+.flex-grow-0\:focus-visible:focus-visible {
+  flex-grow: 0;
+}
+
 .flex-grow-0\:hover:hover {
   flex-grow: 0;
 }
@@ -47,6 +51,10 @@
 }
 
 .flex-grow\:focus:focus {
+  flex-grow: 1;
+}
+
+.flex-grow\:focus-visible:focus-visible {
   flex-grow: 1;
 }
 
@@ -83,6 +91,10 @@
     flex-grow: 0;
   }
 
+  .xs\:flex-grow-0\:focus-visible:focus-visible {
+    flex-grow: 0;
+  }
+
   .xs\:flex-grow-0\:hover:hover {
     flex-grow: 0;
   }
@@ -112,6 +124,10 @@
   }
 
   .xs\:flex-grow\:focus:focus {
+    flex-grow: 1;
+  }
+
+  .xs\:flex-grow\:focus-visible:focus-visible {
     flex-grow: 1;
   }
 
@@ -148,6 +164,10 @@
     flex-grow: 0;
   }
 
+  .sm\:flex-grow-0\:focus-visible:focus-visible {
+    flex-grow: 0;
+  }
+
   .sm\:flex-grow-0\:hover:hover {
     flex-grow: 0;
   }
@@ -177,6 +197,10 @@
   }
 
   .sm\:flex-grow\:focus:focus {
+    flex-grow: 1;
+  }
+
+  .sm\:flex-grow\:focus-visible:focus-visible {
     flex-grow: 1;
   }
 
@@ -213,6 +237,10 @@
     flex-grow: 0;
   }
 
+  .md\:flex-grow-0\:focus-visible:focus-visible {
+    flex-grow: 0;
+  }
+
   .md\:flex-grow-0\:hover:hover {
     flex-grow: 0;
   }
@@ -242,6 +270,10 @@
   }
 
   .md\:flex-grow\:focus:focus {
+    flex-grow: 1;
+  }
+
+  .md\:flex-grow\:focus-visible:focus-visible {
     flex-grow: 1;
   }
 
@@ -278,6 +310,10 @@
     flex-grow: 0;
   }
 
+  .lg\:flex-grow-0\:focus-visible:focus-visible {
+    flex-grow: 0;
+  }
+
   .lg\:flex-grow-0\:hover:hover {
     flex-grow: 0;
   }
@@ -307,6 +343,10 @@
   }
 
   .lg\:flex-grow\:focus:focus {
+    flex-grow: 1;
+  }
+
+  .lg\:flex-grow\:focus-visible:focus-visible {
     flex-grow: 1;
   }
 

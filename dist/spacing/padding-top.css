@@ -18,6 +18,10 @@
   padding-top: 0px;
 }
 
+.pt-0\:focus-visible:focus-visible {
+  padding-top: 0px;
+}
+
 .pt-0\:hover:hover {
   padding-top: 0px;
 }
@@ -47,6 +51,10 @@
 }
 
 .pt-0\.5\:focus:focus {
+  padding-top: 0.125rem;
+}
+
+.pt-0\.5\:focus-visible:focus-visible {
   padding-top: 0.125rem;
 }
 
@@ -82,6 +90,10 @@
   padding-top: 0.25rem;
 }
 
+.pt-1\:focus-visible:focus-visible {
+  padding-top: 0.25rem;
+}
+
 .pt-1\:hover:hover {
   padding-top: 0.25rem;
 }
@@ -111,6 +123,10 @@
 }
 
 .pt-1\.5\:focus:focus {
+  padding-top: 0.375rem;
+}
+
+.pt-1\.5\:focus-visible:focus-visible {
   padding-top: 0.375rem;
 }
 
@@ -146,6 +162,10 @@
   padding-top: 0.5rem;
 }
 
+.pt-2\:focus-visible:focus-visible {
+  padding-top: 0.5rem;
+}
+
 .pt-2\:hover:hover {
   padding-top: 0.5rem;
 }
@@ -175,6 +195,10 @@
 }
 
 .pt-2\.5\:focus:focus {
+  padding-top: 0.625rem;
+}
+
+.pt-2\.5\:focus-visible:focus-visible {
   padding-top: 0.625rem;
 }
 
@@ -210,6 +234,10 @@
   padding-top: 0.75rem;
 }
 
+.pt-3\:focus-visible:focus-visible {
+  padding-top: 0.75rem;
+}
+
 .pt-3\:hover:hover {
   padding-top: 0.75rem;
 }
@@ -239,6 +267,10 @@
 }
 
 .pt-3\.5\:focus:focus {
+  padding-top: 0.875rem;
+}
+
+.pt-3\.5\:focus-visible:focus-visible {
   padding-top: 0.875rem;
 }
 
@@ -274,6 +306,10 @@
   padding-top: 1rem;
 }
 
+.pt-4\:focus-visible:focus-visible {
+  padding-top: 1rem;
+}
+
 .pt-4\:hover:hover {
   padding-top: 1rem;
 }
@@ -303,6 +339,10 @@
 }
 
 .pt-5\:focus:focus {
+  padding-top: 1.25rem;
+}
+
+.pt-5\:focus-visible:focus-visible {
   padding-top: 1.25rem;
 }
 
@@ -338,6 +378,10 @@
   padding-top: 1.5rem;
 }
 
+.pt-6\:focus-visible:focus-visible {
+  padding-top: 1.5rem;
+}
+
 .pt-6\:hover:hover {
   padding-top: 1.5rem;
 }
@@ -367,6 +411,10 @@
 }
 
 .pt-7\:focus:focus {
+  padding-top: 1.75rem;
+}
+
+.pt-7\:focus-visible:focus-visible {
   padding-top: 1.75rem;
 }
 
@@ -402,6 +450,10 @@
   padding-top: 2rem;
 }
 
+.pt-8\:focus-visible:focus-visible {
+  padding-top: 2rem;
+}
+
 .pt-8\:hover:hover {
   padding-top: 2rem;
 }
@@ -431,6 +483,10 @@
 }
 
 .pt-9\:focus:focus {
+  padding-top: 2.25rem;
+}
+
+.pt-9\:focus-visible:focus-visible {
   padding-top: 2.25rem;
 }
 
@@ -466,6 +522,10 @@
   padding-top: 2.5rem;
 }
 
+.pt-10\:focus-visible:focus-visible {
+  padding-top: 2.5rem;
+}
+
 .pt-10\:hover:hover {
   padding-top: 2.5rem;
 }
@@ -495,6 +555,10 @@
 }
 
 .pt-11\:focus:focus {
+  padding-top: 2.75rem;
+}
+
+.pt-11\:focus-visible:focus-visible {
   padding-top: 2.75rem;
 }
 
@@ -530,6 +594,10 @@
   padding-top: 3rem;
 }
 
+.pt-12\:focus-visible:focus-visible {
+  padding-top: 3rem;
+}
+
 .pt-12\:hover:hover {
   padding-top: 3rem;
 }
@@ -559,6 +627,10 @@
 }
 
 .pt-14\:focus:focus {
+  padding-top: 3.5rem;
+}
+
+.pt-14\:focus-visible:focus-visible {
   padding-top: 3.5rem;
 }
 
@@ -594,6 +666,10 @@
   padding-top: 4rem;
 }
 
+.pt-16\:focus-visible:focus-visible {
+  padding-top: 4rem;
+}
+
 .pt-16\:hover:hover {
   padding-top: 4rem;
 }
@@ -623,6 +699,10 @@
 }
 
 .pt-20\:focus:focus {
+  padding-top: 5rem;
+}
+
+.pt-20\:focus-visible:focus-visible {
   padding-top: 5rem;
 }
 
@@ -658,6 +738,10 @@
   padding-top: 6rem;
 }
 
+.pt-24\:focus-visible:focus-visible {
+  padding-top: 6rem;
+}
+
 .pt-24\:hover:hover {
   padding-top: 6rem;
 }
@@ -687,6 +771,10 @@
 }
 
 .pt-28\:focus:focus {
+  padding-top: 7rem;
+}
+
+.pt-28\:focus-visible:focus-visible {
   padding-top: 7rem;
 }
 
@@ -722,6 +810,10 @@
   padding-top: 8rem;
 }
 
+.pt-32\:focus-visible:focus-visible {
+  padding-top: 8rem;
+}
+
 .pt-32\:hover:hover {
   padding-top: 8rem;
 }
@@ -751,6 +843,10 @@
 }
 
 .pt-36\:focus:focus {
+  padding-top: 9rem;
+}
+
+.pt-36\:focus-visible:focus-visible {
   padding-top: 9rem;
 }
 
@@ -786,6 +882,10 @@
   padding-top: 10rem;
 }
 
+.pt-40\:focus-visible:focus-visible {
+  padding-top: 10rem;
+}
+
 .pt-40\:hover:hover {
   padding-top: 10rem;
 }
@@ -815,6 +915,10 @@
 }
 
 .pt-44\:focus:focus {
+  padding-top: 11rem;
+}
+
+.pt-44\:focus-visible:focus-visible {
   padding-top: 11rem;
 }
 
@@ -850,6 +954,10 @@
   padding-top: 12rem;
 }
 
+.pt-48\:focus-visible:focus-visible {
+  padding-top: 12rem;
+}
+
 .pt-48\:hover:hover {
   padding-top: 12rem;
 }
@@ -879,6 +987,10 @@
 }
 
 .pt-52\:focus:focus {
+  padding-top: 13rem;
+}
+
+.pt-52\:focus-visible:focus-visible {
   padding-top: 13rem;
 }
 
@@ -914,6 +1026,10 @@
   padding-top: 14rem;
 }
 
+.pt-56\:focus-visible:focus-visible {
+  padding-top: 14rem;
+}
+
 .pt-56\:hover:hover {
   padding-top: 14rem;
 }
@@ -943,6 +1059,10 @@
 }
 
 .pt-60\:focus:focus {
+  padding-top: 15rem;
+}
+
+.pt-60\:focus-visible:focus-visible {
   padding-top: 15rem;
 }
 
@@ -978,6 +1098,10 @@
   padding-top: 16rem;
 }
 
+.pt-64\:focus-visible:focus-visible {
+  padding-top: 16rem;
+}
+
 .pt-64\:hover:hover {
   padding-top: 16rem;
 }
@@ -1007,6 +1131,10 @@
 }
 
 .pt-72\:focus:focus {
+  padding-top: 18rem;
+}
+
+.pt-72\:focus-visible:focus-visible {
   padding-top: 18rem;
 }
 
@@ -1042,6 +1170,10 @@
   padding-top: 20rem;
 }
 
+.pt-80\:focus-visible:focus-visible {
+  padding-top: 20rem;
+}
+
 .pt-80\:hover:hover {
   padding-top: 20rem;
 }
@@ -1074,6 +1206,10 @@
   padding-top: 24rem;
 }
 
+.pt-96\:focus-visible:focus-visible {
+  padding-top: 24rem;
+}
+
 .pt-96\:hover:hover {
   padding-top: 24rem;
 }
@@ -1103,6 +1239,10 @@
 }
 
 .pt-px\:focus:focus {
+  padding-top: 1px;
+}
+
+.pt-px\:focus-visible:focus-visible {
   padding-top: 1px;
 }
 
@@ -1139,6 +1279,10 @@
     padding-top: 0px;
   }
 
+  .xs\:pt-0\:focus-visible:focus-visible {
+    padding-top: 0px;
+  }
+
   .xs\:pt-0\:hover:hover {
     padding-top: 0px;
   }
@@ -1168,6 +1312,10 @@
   }
 
   .xs\:pt-0\.5\:focus:focus {
+    padding-top: 0.125rem;
+  }
+
+  .xs\:pt-0\.5\:focus-visible:focus-visible {
     padding-top: 0.125rem;
   }
 
@@ -1203,6 +1351,10 @@
     padding-top: 0.25rem;
   }
 
+  .xs\:pt-1\:focus-visible:focus-visible {
+    padding-top: 0.25rem;
+  }
+
   .xs\:pt-1\:hover:hover {
     padding-top: 0.25rem;
   }
@@ -1232,6 +1384,10 @@
   }
 
   .xs\:pt-1\.5\:focus:focus {
+    padding-top: 0.375rem;
+  }
+
+  .xs\:pt-1\.5\:focus-visible:focus-visible {
     padding-top: 0.375rem;
   }
 
@@ -1267,6 +1423,10 @@
     padding-top: 0.5rem;
   }
 
+  .xs\:pt-2\:focus-visible:focus-visible {
+    padding-top: 0.5rem;
+  }
+
   .xs\:pt-2\:hover:hover {
     padding-top: 0.5rem;
   }
@@ -1296,6 +1456,10 @@
   }
 
   .xs\:pt-2\.5\:focus:focus {
+    padding-top: 0.625rem;
+  }
+
+  .xs\:pt-2\.5\:focus-visible:focus-visible {
     padding-top: 0.625rem;
   }
 
@@ -1331,6 +1495,10 @@
     padding-top: 0.75rem;
   }
 
+  .xs\:pt-3\:focus-visible:focus-visible {
+    padding-top: 0.75rem;
+  }
+
   .xs\:pt-3\:hover:hover {
     padding-top: 0.75rem;
   }
@@ -1360,6 +1528,10 @@
   }
 
   .xs\:pt-3\.5\:focus:focus {
+    padding-top: 0.875rem;
+  }
+
+  .xs\:pt-3\.5\:focus-visible:focus-visible {
     padding-top: 0.875rem;
   }
 
@@ -1395,6 +1567,10 @@
     padding-top: 1rem;
   }
 
+  .xs\:pt-4\:focus-visible:focus-visible {
+    padding-top: 1rem;
+  }
+
   .xs\:pt-4\:hover:hover {
     padding-top: 1rem;
   }
@@ -1424,6 +1600,10 @@
   }
 
   .xs\:pt-5\:focus:focus {
+    padding-top: 1.25rem;
+  }
+
+  .xs\:pt-5\:focus-visible:focus-visible {
     padding-top: 1.25rem;
   }
 
@@ -1459,6 +1639,10 @@
     padding-top: 1.5rem;
   }
 
+  .xs\:pt-6\:focus-visible:focus-visible {
+    padding-top: 1.5rem;
+  }
+
   .xs\:pt-6\:hover:hover {
     padding-top: 1.5rem;
   }
@@ -1488,6 +1672,10 @@
   }
 
   .xs\:pt-7\:focus:focus {
+    padding-top: 1.75rem;
+  }
+
+  .xs\:pt-7\:focus-visible:focus-visible {
     padding-top: 1.75rem;
   }
 
@@ -1523,6 +1711,10 @@
     padding-top: 2rem;
   }
 
+  .xs\:pt-8\:focus-visible:focus-visible {
+    padding-top: 2rem;
+  }
+
   .xs\:pt-8\:hover:hover {
     padding-top: 2rem;
   }
@@ -1552,6 +1744,10 @@
   }
 
   .xs\:pt-9\:focus:focus {
+    padding-top: 2.25rem;
+  }
+
+  .xs\:pt-9\:focus-visible:focus-visible {
     padding-top: 2.25rem;
   }
 
@@ -1587,6 +1783,10 @@
     padding-top: 2.5rem;
   }
 
+  .xs\:pt-10\:focus-visible:focus-visible {
+    padding-top: 2.5rem;
+  }
+
   .xs\:pt-10\:hover:hover {
     padding-top: 2.5rem;
   }
@@ -1616,6 +1816,10 @@
   }
 
   .xs\:pt-11\:focus:focus {
+    padding-top: 2.75rem;
+  }
+
+  .xs\:pt-11\:focus-visible:focus-visible {
     padding-top: 2.75rem;
   }
 
@@ -1651,6 +1855,10 @@
     padding-top: 3rem;
   }
 
+  .xs\:pt-12\:focus-visible:focus-visible {
+    padding-top: 3rem;
+  }
+
   .xs\:pt-12\:hover:hover {
     padding-top: 3rem;
   }
@@ -1680,6 +1888,10 @@
   }
 
   .xs\:pt-14\:focus:focus {
+    padding-top: 3.5rem;
+  }
+
+  .xs\:pt-14\:focus-visible:focus-visible {
     padding-top: 3.5rem;
   }
 
@@ -1715,6 +1927,10 @@
     padding-top: 4rem;
   }
 
+  .xs\:pt-16\:focus-visible:focus-visible {
+    padding-top: 4rem;
+  }
+
   .xs\:pt-16\:hover:hover {
     padding-top: 4rem;
   }
@@ -1744,6 +1960,10 @@
   }
 
   .xs\:pt-20\:focus:focus {
+    padding-top: 5rem;
+  }
+
+  .xs\:pt-20\:focus-visible:focus-visible {
     padding-top: 5rem;
   }
 
@@ -1779,6 +1999,10 @@
     padding-top: 6rem;
   }
 
+  .xs\:pt-24\:focus-visible:focus-visible {
+    padding-top: 6rem;
+  }
+
   .xs\:pt-24\:hover:hover {
     padding-top: 6rem;
   }
@@ -1808,6 +2032,10 @@
   }
 
   .xs\:pt-28\:focus:focus {
+    padding-top: 7rem;
+  }
+
+  .xs\:pt-28\:focus-visible:focus-visible {
     padding-top: 7rem;
   }
 
@@ -1843,6 +2071,10 @@
     padding-top: 8rem;
   }
 
+  .xs\:pt-32\:focus-visible:focus-visible {
+    padding-top: 8rem;
+  }
+
   .xs\:pt-32\:hover:hover {
     padding-top: 8rem;
   }
@@ -1872,6 +2104,10 @@
   }
 
   .xs\:pt-36\:focus:focus {
+    padding-top: 9rem;
+  }
+
+  .xs\:pt-36\:focus-visible:focus-visible {
     padding-top: 9rem;
   }
 
@@ -1907,6 +2143,10 @@
     padding-top: 10rem;
   }
 
+  .xs\:pt-40\:focus-visible:focus-visible {
+    padding-top: 10rem;
+  }
+
   .xs\:pt-40\:hover:hover {
     padding-top: 10rem;
   }
@@ -1936,6 +2176,10 @@
   }
 
   .xs\:pt-44\:focus:focus {
+    padding-top: 11rem;
+  }
+
+  .xs\:pt-44\:focus-visible:focus-visible {
     padding-top: 11rem;
   }
 
@@ -1971,6 +2215,10 @@
     padding-top: 12rem;
   }
 
+  .xs\:pt-48\:focus-visible:focus-visible {
+    padding-top: 12rem;
+  }
+
   .xs\:pt-48\:hover:hover {
     padding-top: 12rem;
   }
@@ -2000,6 +2248,10 @@
   }
 
   .xs\:pt-52\:focus:focus {
+    padding-top: 13rem;
+  }
+
+  .xs\:pt-52\:focus-visible:focus-visible {
     padding-top: 13rem;
   }
 
@@ -2035,6 +2287,10 @@
     padding-top: 14rem;
   }
 
+  .xs\:pt-56\:focus-visible:focus-visible {
+    padding-top: 14rem;
+  }
+
   .xs\:pt-56\:hover:hover {
     padding-top: 14rem;
   }
@@ -2064,6 +2320,10 @@
   }
 
   .xs\:pt-60\:focus:focus {
+    padding-top: 15rem;
+  }
+
+  .xs\:pt-60\:focus-visible:focus-visible {
     padding-top: 15rem;
   }
 
@@ -2099,6 +2359,10 @@
     padding-top: 16rem;
   }
 
+  .xs\:pt-64\:focus-visible:focus-visible {
+    padding-top: 16rem;
+  }
+
   .xs\:pt-64\:hover:hover {
     padding-top: 16rem;
   }
@@ -2128,6 +2392,10 @@
   }
 
   .xs\:pt-72\:focus:focus {
+    padding-top: 18rem;
+  }
+
+  .xs\:pt-72\:focus-visible:focus-visible {
     padding-top: 18rem;
   }
 
@@ -2163,6 +2431,10 @@
     padding-top: 20rem;
   }
 
+  .xs\:pt-80\:focus-visible:focus-visible {
+    padding-top: 20rem;
+  }
+
   .xs\:pt-80\:hover:hover {
     padding-top: 20rem;
   }
@@ -2195,6 +2467,10 @@
     padding-top: 24rem;
   }
 
+  .xs\:pt-96\:focus-visible:focus-visible {
+    padding-top: 24rem;
+  }
+
   .xs\:pt-96\:hover:hover {
     padding-top: 24rem;
   }
@@ -2224,6 +2500,10 @@
   }
 
   .xs\:pt-px\:focus:focus {
+    padding-top: 1px;
+  }
+
+  .xs\:pt-px\:focus-visible:focus-visible {
     padding-top: 1px;
   }
 
@@ -2260,6 +2540,10 @@
     padding-top: 0px;
   }
 
+  .sm\:pt-0\:focus-visible:focus-visible {
+    padding-top: 0px;
+  }
+
   .sm\:pt-0\:hover:hover {
     padding-top: 0px;
   }
@@ -2289,6 +2573,10 @@
   }
 
   .sm\:pt-0\.5\:focus:focus {
+    padding-top: 0.125rem;
+  }
+
+  .sm\:pt-0\.5\:focus-visible:focus-visible {
     padding-top: 0.125rem;
   }
 
@@ -2324,6 +2612,10 @@
     padding-top: 0.25rem;
   }
 
+  .sm\:pt-1\:focus-visible:focus-visible {
+    padding-top: 0.25rem;
+  }
+
   .sm\:pt-1\:hover:hover {
     padding-top: 0.25rem;
   }
@@ -2353,6 +2645,10 @@
   }
 
   .sm\:pt-1\.5\:focus:focus {
+    padding-top: 0.375rem;
+  }
+
+  .sm\:pt-1\.5\:focus-visible:focus-visible {
     padding-top: 0.375rem;
   }
 
@@ -2388,6 +2684,10 @@
     padding-top: 0.5rem;
   }
 
+  .sm\:pt-2\:focus-visible:focus-visible {
+    padding-top: 0.5rem;
+  }
+
   .sm\:pt-2\:hover:hover {
     padding-top: 0.5rem;
   }
@@ -2417,6 +2717,10 @@
   }
 
   .sm\:pt-2\.5\:focus:focus {
+    padding-top: 0.625rem;
+  }
+
+  .sm\:pt-2\.5\:focus-visible:focus-visible {
     padding-top: 0.625rem;
   }
 
@@ -2452,6 +2756,10 @@
     padding-top: 0.75rem;
   }
 
+  .sm\:pt-3\:focus-visible:focus-visible {
+    padding-top: 0.75rem;
+  }
+
   .sm\:pt-3\:hover:hover {
     padding-top: 0.75rem;
   }
@@ -2481,6 +2789,10 @@
   }
 
   .sm\:pt-3\.5\:focus:focus {
+    padding-top: 0.875rem;
+  }
+
+  .sm\:pt-3\.5\:focus-visible:focus-visible {
     padding-top: 0.875rem;
   }
 
@@ -2516,6 +2828,10 @@
     padding-top: 1rem;
   }
 
+  .sm\:pt-4\:focus-visible:focus-visible {
+    padding-top: 1rem;
+  }
+
   .sm\:pt-4\:hover:hover {
     padding-top: 1rem;
   }
@@ -2545,6 +2861,10 @@
   }
 
   .sm\:pt-5\:focus:focus {
+    padding-top: 1.25rem;
+  }
+
+  .sm\:pt-5\:focus-visible:focus-visible {
     padding-top: 1.25rem;
   }
 
@@ -2580,6 +2900,10 @@
     padding-top: 1.5rem;
   }
 
+  .sm\:pt-6\:focus-visible:focus-visible {
+    padding-top: 1.5rem;
+  }
+
   .sm\:pt-6\:hover:hover {
     padding-top: 1.5rem;
   }
@@ -2609,6 +2933,10 @@
   }
 
   .sm\:pt-7\:focus:focus {
+    padding-top: 1.75rem;
+  }
+
+  .sm\:pt-7\:focus-visible:focus-visible {
     padding-top: 1.75rem;
   }
 
@@ -2644,6 +2972,10 @@
     padding-top: 2rem;
   }
 
+  .sm\:pt-8\:focus-visible:focus-visible {
+    padding-top: 2rem;
+  }
+
   .sm\:pt-8\:hover:hover {
     padding-top: 2rem;
   }
@@ -2673,6 +3005,10 @@
   }
 
   .sm\:pt-9\:focus:focus {
+    padding-top: 2.25rem;
+  }
+
+  .sm\:pt-9\:focus-visible:focus-visible {
     padding-top: 2.25rem;
   }
 
@@ -2708,6 +3044,10 @@
     padding-top: 2.5rem;
   }
 
+  .sm\:pt-10\:focus-visible:focus-visible {
+    padding-top: 2.5rem;
+  }
+
   .sm\:pt-10\:hover:hover {
     padding-top: 2.5rem;
   }
@@ -2737,6 +3077,10 @@
   }
 
   .sm\:pt-11\:focus:focus {
+    padding-top: 2.75rem;
+  }
+
+  .sm\:pt-11\:focus-visible:focus-visible {
     padding-top: 2.75rem;
   }
 
@@ -2772,6 +3116,10 @@
     padding-top: 3rem;
   }
 
+  .sm\:pt-12\:focus-visible:focus-visible {
+    padding-top: 3rem;
+  }
+
   .sm\:pt-12\:hover:hover {
     padding-top: 3rem;
   }
@@ -2801,6 +3149,10 @@
   }
 
   .sm\:pt-14\:focus:focus {
+    padding-top: 3.5rem;
+  }
+
+  .sm\:pt-14\:focus-visible:focus-visible {
     padding-top: 3.5rem;
   }
 
@@ -2836,6 +3188,10 @@
     padding-top: 4rem;
   }
 
+  .sm\:pt-16\:focus-visible:focus-visible {
+    padding-top: 4rem;
+  }
+
   .sm\:pt-16\:hover:hover {
     padding-top: 4rem;
   }
@@ -2865,6 +3221,10 @@
   }
 
   .sm\:pt-20\:focus:focus {
+    padding-top: 5rem;
+  }
+
+  .sm\:pt-20\:focus-visible:focus-visible {
     padding-top: 5rem;
   }
 
@@ -2900,6 +3260,10 @@
     padding-top: 6rem;
   }
 
+  .sm\:pt-24\:focus-visible:focus-visible {
+    padding-top: 6rem;
+  }
+
   .sm\:pt-24\:hover:hover {
     padding-top: 6rem;
   }
@@ -2929,6 +3293,10 @@
   }
 
   .sm\:pt-28\:focus:focus {
+    padding-top: 7rem;
+  }
+
+  .sm\:pt-28\:focus-visible:focus-visible {
     padding-top: 7rem;
   }
 
@@ -2964,6 +3332,10 @@
     padding-top: 8rem;
   }
 
+  .sm\:pt-32\:focus-visible:focus-visible {
+    padding-top: 8rem;
+  }
+
   .sm\:pt-32\:hover:hover {
     padding-top: 8rem;
   }
@@ -2993,6 +3365,10 @@
   }
 
   .sm\:pt-36\:focus:focus {
+    padding-top: 9rem;
+  }
+
+  .sm\:pt-36\:focus-visible:focus-visible {
     padding-top: 9rem;
   }
 
@@ -3028,6 +3404,10 @@
     padding-top: 10rem;
   }
 
+  .sm\:pt-40\:focus-visible:focus-visible {
+    padding-top: 10rem;
+  }
+
   .sm\:pt-40\:hover:hover {
     padding-top: 10rem;
   }
@@ -3057,6 +3437,10 @@
   }
 
   .sm\:pt-44\:focus:focus {
+    padding-top: 11rem;
+  }
+
+  .sm\:pt-44\:focus-visible:focus-visible {
     padding-top: 11rem;
   }
 
@@ -3092,6 +3476,10 @@
     padding-top: 12rem;
   }
 
+  .sm\:pt-48\:focus-visible:focus-visible {
+    padding-top: 12rem;
+  }
+
   .sm\:pt-48\:hover:hover {
     padding-top: 12rem;
   }
@@ -3121,6 +3509,10 @@
   }
 
   .sm\:pt-52\:focus:focus {
+    padding-top: 13rem;
+  }
+
+  .sm\:pt-52\:focus-visible:focus-visible {
     padding-top: 13rem;
   }
 
@@ -3156,6 +3548,10 @@
     padding-top: 14rem;
   }
 
+  .sm\:pt-56\:focus-visible:focus-visible {
+    padding-top: 14rem;
+  }
+
   .sm\:pt-56\:hover:hover {
     padding-top: 14rem;
   }
@@ -3185,6 +3581,10 @@
   }
 
   .sm\:pt-60\:focus:focus {
+    padding-top: 15rem;
+  }
+
+  .sm\:pt-60\:focus-visible:focus-visible {
     padding-top: 15rem;
   }
 
@@ -3220,6 +3620,10 @@
     padding-top: 16rem;
   }
 
+  .sm\:pt-64\:focus-visible:focus-visible {
+    padding-top: 16rem;
+  }
+
   .sm\:pt-64\:hover:hover {
     padding-top: 16rem;
   }
@@ -3249,6 +3653,10 @@
   }
 
   .sm\:pt-72\:focus:focus {
+    padding-top: 18rem;
+  }
+
+  .sm\:pt-72\:focus-visible:focus-visible {
     padding-top: 18rem;
   }
 
@@ -3284,6 +3692,10 @@
     padding-top: 20rem;
   }
 
+  .sm\:pt-80\:focus-visible:focus-visible {
+    padding-top: 20rem;
+  }
+
   .sm\:pt-80\:hover:hover {
     padding-top: 20rem;
   }
@@ -3316,6 +3728,10 @@
     padding-top: 24rem;
   }
 
+  .sm\:pt-96\:focus-visible:focus-visible {
+    padding-top: 24rem;
+  }
+
   .sm\:pt-96\:hover:hover {
     padding-top: 24rem;
   }
@@ -3345,6 +3761,10 @@
   }
 
   .sm\:pt-px\:focus:focus {
+    padding-top: 1px;
+  }
+
+  .sm\:pt-px\:focus-visible:focus-visible {
     padding-top: 1px;
   }
 
@@ -3381,6 +3801,10 @@
     padding-top: 0px;
   }
 
+  .md\:pt-0\:focus-visible:focus-visible {
+    padding-top: 0px;
+  }
+
   .md\:pt-0\:hover:hover {
     padding-top: 0px;
   }
@@ -3410,6 +3834,10 @@
   }
 
   .md\:pt-0\.5\:focus:focus {
+    padding-top: 0.125rem;
+  }
+
+  .md\:pt-0\.5\:focus-visible:focus-visible {
     padding-top: 0.125rem;
   }
 
@@ -3445,6 +3873,10 @@
     padding-top: 0.25rem;
   }
 
+  .md\:pt-1\:focus-visible:focus-visible {
+    padding-top: 0.25rem;
+  }
+
   .md\:pt-1\:hover:hover {
     padding-top: 0.25rem;
   }
@@ -3474,6 +3906,10 @@
   }
 
   .md\:pt-1\.5\:focus:focus {
+    padding-top: 0.375rem;
+  }
+
+  .md\:pt-1\.5\:focus-visible:focus-visible {
     padding-top: 0.375rem;
   }
 
@@ -3509,6 +3945,10 @@
     padding-top: 0.5rem;
   }
 
+  .md\:pt-2\:focus-visible:focus-visible {
+    padding-top: 0.5rem;
+  }
+
   .md\:pt-2\:hover:hover {
     padding-top: 0.5rem;
   }
@@ -3538,6 +3978,10 @@
   }
 
   .md\:pt-2\.5\:focus:focus {
+    padding-top: 0.625rem;
+  }
+
+  .md\:pt-2\.5\:focus-visible:focus-visible {
     padding-top: 0.625rem;
   }
 
@@ -3573,6 +4017,10 @@
     padding-top: 0.75rem;
   }
 
+  .md\:pt-3\:focus-visible:focus-visible {
+    padding-top: 0.75rem;
+  }
+
   .md\:pt-3\:hover:hover {
     padding-top: 0.75rem;
   }
@@ -3602,6 +4050,10 @@
   }
 
   .md\:pt-3\.5\:focus:focus {
+    padding-top: 0.875rem;
+  }
+
+  .md\:pt-3\.5\:focus-visible:focus-visible {
     padding-top: 0.875rem;
   }
 
@@ -3637,6 +4089,10 @@
     padding-top: 1rem;
   }
 
+  .md\:pt-4\:focus-visible:focus-visible {
+    padding-top: 1rem;
+  }
+
   .md\:pt-4\:hover:hover {
     padding-top: 1rem;
   }
@@ -3666,6 +4122,10 @@
   }
 
   .md\:pt-5\:focus:focus {
+    padding-top: 1.25rem;
+  }
+
+  .md\:pt-5\:focus-visible:focus-visible {
     padding-top: 1.25rem;
   }
 
@@ -3701,6 +4161,10 @@
     padding-top: 1.5rem;
   }
 
+  .md\:pt-6\:focus-visible:focus-visible {
+    padding-top: 1.5rem;
+  }
+
   .md\:pt-6\:hover:hover {
     padding-top: 1.5rem;
   }
@@ -3730,6 +4194,10 @@
   }
 
   .md\:pt-7\:focus:focus {
+    padding-top: 1.75rem;
+  }
+
+  .md\:pt-7\:focus-visible:focus-visible {
     padding-top: 1.75rem;
   }
 
@@ -3765,6 +4233,10 @@
     padding-top: 2rem;
   }
 
+  .md\:pt-8\:focus-visible:focus-visible {
+    padding-top: 2rem;
+  }
+
   .md\:pt-8\:hover:hover {
     padding-top: 2rem;
   }
@@ -3794,6 +4266,10 @@
   }
 
   .md\:pt-9\:focus:focus {
+    padding-top: 2.25rem;
+  }
+
+  .md\:pt-9\:focus-visible:focus-visible {
     padding-top: 2.25rem;
   }
 
@@ -3829,6 +4305,10 @@
     padding-top: 2.5rem;
   }
 
+  .md\:pt-10\:focus-visible:focus-visible {
+    padding-top: 2.5rem;
+  }
+
   .md\:pt-10\:hover:hover {
     padding-top: 2.5rem;
   }
@@ -3858,6 +4338,10 @@
   }
 
   .md\:pt-11\:focus:focus {
+    padding-top: 2.75rem;
+  }
+
+  .md\:pt-11\:focus-visible:focus-visible {
     padding-top: 2.75rem;
   }
 
@@ -3893,6 +4377,10 @@
     padding-top: 3rem;
   }
 
+  .md\:pt-12\:focus-visible:focus-visible {
+    padding-top: 3rem;
+  }
+
   .md\:pt-12\:hover:hover {
     padding-top: 3rem;
   }
@@ -3922,6 +4410,10 @@
   }
 
   .md\:pt-14\:focus:focus {
+    padding-top: 3.5rem;
+  }
+
+  .md\:pt-14\:focus-visible:focus-visible {
     padding-top: 3.5rem;
   }
 
@@ -3957,6 +4449,10 @@
     padding-top: 4rem;
   }
 
+  .md\:pt-16\:focus-visible:focus-visible {
+    padding-top: 4rem;
+  }
+
   .md\:pt-16\:hover:hover {
     padding-top: 4rem;
   }
@@ -3986,6 +4482,10 @@
   }
 
   .md\:pt-20\:focus:focus {
+    padding-top: 5rem;
+  }
+
+  .md\:pt-20\:focus-visible:focus-visible {
     padding-top: 5rem;
   }
 
@@ -4021,6 +4521,10 @@
     padding-top: 6rem;
   }
 
+  .md\:pt-24\:focus-visible:focus-visible {
+    padding-top: 6rem;
+  }
+
   .md\:pt-24\:hover:hover {
     padding-top: 6rem;
   }
@@ -4050,6 +4554,10 @@
   }
 
   .md\:pt-28\:focus:focus {
+    padding-top: 7rem;
+  }
+
+  .md\:pt-28\:focus-visible:focus-visible {
     padding-top: 7rem;
   }
 
@@ -4085,6 +4593,10 @@
     padding-top: 8rem;
   }
 
+  .md\:pt-32\:focus-visible:focus-visible {
+    padding-top: 8rem;
+  }
+
   .md\:pt-32\:hover:hover {
     padding-top: 8rem;
   }
@@ -4114,6 +4626,10 @@
   }
 
   .md\:pt-36\:focus:focus {
+    padding-top: 9rem;
+  }
+
+  .md\:pt-36\:focus-visible:focus-visible {
     padding-top: 9rem;
   }
 
@@ -4149,6 +4665,10 @@
     padding-top: 10rem;
   }
 
+  .md\:pt-40\:focus-visible:focus-visible {
+    padding-top: 10rem;
+  }
+
   .md\:pt-40\:hover:hover {
     padding-top: 10rem;
   }
@@ -4178,6 +4698,10 @@
   }
 
   .md\:pt-44\:focus:focus {
+    padding-top: 11rem;
+  }
+
+  .md\:pt-44\:focus-visible:focus-visible {
     padding-top: 11rem;
   }
 
@@ -4213,6 +4737,10 @@
     padding-top: 12rem;
   }
 
+  .md\:pt-48\:focus-visible:focus-visible {
+    padding-top: 12rem;
+  }
+
   .md\:pt-48\:hover:hover {
     padding-top: 12rem;
   }
@@ -4242,6 +4770,10 @@
   }
 
   .md\:pt-52\:focus:focus {
+    padding-top: 13rem;
+  }
+
+  .md\:pt-52\:focus-visible:focus-visible {
     padding-top: 13rem;
   }
 
@@ -4277,6 +4809,10 @@
     padding-top: 14rem;
   }
 
+  .md\:pt-56\:focus-visible:focus-visible {
+    padding-top: 14rem;
+  }
+
   .md\:pt-56\:hover:hover {
     padding-top: 14rem;
   }
@@ -4306,6 +4842,10 @@
   }
 
   .md\:pt-60\:focus:focus {
+    padding-top: 15rem;
+  }
+
+  .md\:pt-60\:focus-visible:focus-visible {
     padding-top: 15rem;
   }
 
@@ -4341,6 +4881,10 @@
     padding-top: 16rem;
   }
 
+  .md\:pt-64\:focus-visible:focus-visible {
+    padding-top: 16rem;
+  }
+
   .md\:pt-64\:hover:hover {
     padding-top: 16rem;
   }
@@ -4370,6 +4914,10 @@
   }
 
   .md\:pt-72\:focus:focus {
+    padding-top: 18rem;
+  }
+
+  .md\:pt-72\:focus-visible:focus-visible {
     padding-top: 18rem;
   }
 
@@ -4405,6 +4953,10 @@
     padding-top: 20rem;
   }
 
+  .md\:pt-80\:focus-visible:focus-visible {
+    padding-top: 20rem;
+  }
+
   .md\:pt-80\:hover:hover {
     padding-top: 20rem;
   }
@@ -4437,6 +4989,10 @@
     padding-top: 24rem;
   }
 
+  .md\:pt-96\:focus-visible:focus-visible {
+    padding-top: 24rem;
+  }
+
   .md\:pt-96\:hover:hover {
     padding-top: 24rem;
   }
@@ -4466,6 +5022,10 @@
   }
 
   .md\:pt-px\:focus:focus {
+    padding-top: 1px;
+  }
+
+  .md\:pt-px\:focus-visible:focus-visible {
     padding-top: 1px;
   }
 
@@ -4502,6 +5062,10 @@
     padding-top: 0px;
   }
 
+  .lg\:pt-0\:focus-visible:focus-visible {
+    padding-top: 0px;
+  }
+
   .lg\:pt-0\:hover:hover {
     padding-top: 0px;
   }
@@ -4531,6 +5095,10 @@
   }
 
   .lg\:pt-0\.5\:focus:focus {
+    padding-top: 0.125rem;
+  }
+
+  .lg\:pt-0\.5\:focus-visible:focus-visible {
     padding-top: 0.125rem;
   }
 
@@ -4566,6 +5134,10 @@
     padding-top: 0.25rem;
   }
 
+  .lg\:pt-1\:focus-visible:focus-visible {
+    padding-top: 0.25rem;
+  }
+
   .lg\:pt-1\:hover:hover {
     padding-top: 0.25rem;
   }
@@ -4595,6 +5167,10 @@
   }
 
   .lg\:pt-1\.5\:focus:focus {
+    padding-top: 0.375rem;
+  }
+
+  .lg\:pt-1\.5\:focus-visible:focus-visible {
     padding-top: 0.375rem;
   }
 
@@ -4630,6 +5206,10 @@
     padding-top: 0.5rem;
   }
 
+  .lg\:pt-2\:focus-visible:focus-visible {
+    padding-top: 0.5rem;
+  }
+
   .lg\:pt-2\:hover:hover {
     padding-top: 0.5rem;
   }
@@ -4659,6 +5239,10 @@
   }
 
   .lg\:pt-2\.5\:focus:focus {
+    padding-top: 0.625rem;
+  }
+
+  .lg\:pt-2\.5\:focus-visible:focus-visible {
     padding-top: 0.625rem;
   }
 
@@ -4694,6 +5278,10 @@
     padding-top: 0.75rem;
   }
 
+  .lg\:pt-3\:focus-visible:focus-visible {
+    padding-top: 0.75rem;
+  }
+
   .lg\:pt-3\:hover:hover {
     padding-top: 0.75rem;
   }
@@ -4723,6 +5311,10 @@
   }
 
   .lg\:pt-3\.5\:focus:focus {
+    padding-top: 0.875rem;
+  }
+
+  .lg\:pt-3\.5\:focus-visible:focus-visible {
     padding-top: 0.875rem;
   }
 
@@ -4758,6 +5350,10 @@
     padding-top: 1rem;
   }
 
+  .lg\:pt-4\:focus-visible:focus-visible {
+    padding-top: 1rem;
+  }
+
   .lg\:pt-4\:hover:hover {
     padding-top: 1rem;
   }
@@ -4787,6 +5383,10 @@
   }
 
   .lg\:pt-5\:focus:focus {
+    padding-top: 1.25rem;
+  }
+
+  .lg\:pt-5\:focus-visible:focus-visible {
     padding-top: 1.25rem;
   }
 
@@ -4822,6 +5422,10 @@
     padding-top: 1.5rem;
   }
 
+  .lg\:pt-6\:focus-visible:focus-visible {
+    padding-top: 1.5rem;
+  }
+
   .lg\:pt-6\:hover:hover {
     padding-top: 1.5rem;
   }
@@ -4851,6 +5455,10 @@
   }
 
   .lg\:pt-7\:focus:focus {
+    padding-top: 1.75rem;
+  }
+
+  .lg\:pt-7\:focus-visible:focus-visible {
     padding-top: 1.75rem;
   }
 
@@ -4886,6 +5494,10 @@
     padding-top: 2rem;
   }
 
+  .lg\:pt-8\:focus-visible:focus-visible {
+    padding-top: 2rem;
+  }
+
   .lg\:pt-8\:hover:hover {
     padding-top: 2rem;
   }
@@ -4915,6 +5527,10 @@
   }
 
   .lg\:pt-9\:focus:focus {
+    padding-top: 2.25rem;
+  }
+
+  .lg\:pt-9\:focus-visible:focus-visible {
     padding-top: 2.25rem;
   }
 
@@ -4950,6 +5566,10 @@
     padding-top: 2.5rem;
   }
 
+  .lg\:pt-10\:focus-visible:focus-visible {
+    padding-top: 2.5rem;
+  }
+
   .lg\:pt-10\:hover:hover {
     padding-top: 2.5rem;
   }
@@ -4979,6 +5599,10 @@
   }
 
   .lg\:pt-11\:focus:focus {
+    padding-top: 2.75rem;
+  }
+
+  .lg\:pt-11\:focus-visible:focus-visible {
     padding-top: 2.75rem;
   }
 
@@ -5014,6 +5638,10 @@
     padding-top: 3rem;
   }
 
+  .lg\:pt-12\:focus-visible:focus-visible {
+    padding-top: 3rem;
+  }
+
   .lg\:pt-12\:hover:hover {
     padding-top: 3rem;
   }
@@ -5043,6 +5671,10 @@
   }
 
   .lg\:pt-14\:focus:focus {
+    padding-top: 3.5rem;
+  }
+
+  .lg\:pt-14\:focus-visible:focus-visible {
     padding-top: 3.5rem;
   }
 
@@ -5078,6 +5710,10 @@
     padding-top: 4rem;
   }
 
+  .lg\:pt-16\:focus-visible:focus-visible {
+    padding-top: 4rem;
+  }
+
   .lg\:pt-16\:hover:hover {
     padding-top: 4rem;
   }
@@ -5107,6 +5743,10 @@
   }
 
   .lg\:pt-20\:focus:focus {
+    padding-top: 5rem;
+  }
+
+  .lg\:pt-20\:focus-visible:focus-visible {
     padding-top: 5rem;
   }
 
@@ -5142,6 +5782,10 @@
     padding-top: 6rem;
   }
 
+  .lg\:pt-24\:focus-visible:focus-visible {
+    padding-top: 6rem;
+  }
+
   .lg\:pt-24\:hover:hover {
     padding-top: 6rem;
   }
@@ -5171,6 +5815,10 @@
   }
 
   .lg\:pt-28\:focus:focus {
+    padding-top: 7rem;
+  }
+
+  .lg\:pt-28\:focus-visible:focus-visible {
     padding-top: 7rem;
   }
 
@@ -5206,6 +5854,10 @@
     padding-top: 8rem;
   }
 
+  .lg\:pt-32\:focus-visible:focus-visible {
+    padding-top: 8rem;
+  }
+
   .lg\:pt-32\:hover:hover {
     padding-top: 8rem;
   }
@@ -5235,6 +5887,10 @@
   }
 
   .lg\:pt-36\:focus:focus {
+    padding-top: 9rem;
+  }
+
+  .lg\:pt-36\:focus-visible:focus-visible {
     padding-top: 9rem;
   }
 
@@ -5270,6 +5926,10 @@
     padding-top: 10rem;
   }
 
+  .lg\:pt-40\:focus-visible:focus-visible {
+    padding-top: 10rem;
+  }
+
   .lg\:pt-40\:hover:hover {
     padding-top: 10rem;
   }
@@ -5299,6 +5959,10 @@
   }
 
   .lg\:pt-44\:focus:focus {
+    padding-top: 11rem;
+  }
+
+  .lg\:pt-44\:focus-visible:focus-visible {
     padding-top: 11rem;
   }
 
@@ -5334,6 +5998,10 @@
     padding-top: 12rem;
   }
 
+  .lg\:pt-48\:focus-visible:focus-visible {
+    padding-top: 12rem;
+  }
+
   .lg\:pt-48\:hover:hover {
     padding-top: 12rem;
   }
@@ -5363,6 +6031,10 @@
   }
 
   .lg\:pt-52\:focus:focus {
+    padding-top: 13rem;
+  }
+
+  .lg\:pt-52\:focus-visible:focus-visible {
     padding-top: 13rem;
   }
 
@@ -5398,6 +6070,10 @@
     padding-top: 14rem;
   }
 
+  .lg\:pt-56\:focus-visible:focus-visible {
+    padding-top: 14rem;
+  }
+
   .lg\:pt-56\:hover:hover {
     padding-top: 14rem;
   }
@@ -5427,6 +6103,10 @@
   }
 
   .lg\:pt-60\:focus:focus {
+    padding-top: 15rem;
+  }
+
+  .lg\:pt-60\:focus-visible:focus-visible {
     padding-top: 15rem;
   }
 
@@ -5462,6 +6142,10 @@
     padding-top: 16rem;
   }
 
+  .lg\:pt-64\:focus-visible:focus-visible {
+    padding-top: 16rem;
+  }
+
   .lg\:pt-64\:hover:hover {
     padding-top: 16rem;
   }
@@ -5491,6 +6175,10 @@
   }
 
   .lg\:pt-72\:focus:focus {
+    padding-top: 18rem;
+  }
+
+  .lg\:pt-72\:focus-visible:focus-visible {
     padding-top: 18rem;
   }
 
@@ -5526,6 +6214,10 @@
     padding-top: 20rem;
   }
 
+  .lg\:pt-80\:focus-visible:focus-visible {
+    padding-top: 20rem;
+  }
+
   .lg\:pt-80\:hover:hover {
     padding-top: 20rem;
   }
@@ -5558,6 +6250,10 @@
     padding-top: 24rem;
   }
 
+  .lg\:pt-96\:focus-visible:focus-visible {
+    padding-top: 24rem;
+  }
+
   .lg\:pt-96\:hover:hover {
     padding-top: 24rem;
   }
@@ -5587,6 +6283,10 @@
   }
 
   .lg\:pt-px\:focus:focus {
+    padding-top: 1px;
+  }
+
+  .lg\:pt-px\:focus-visible:focus-visible {
     padding-top: 1px;
   }
 

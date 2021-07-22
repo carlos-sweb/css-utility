@@ -18,6 +18,10 @@
   vertical-align: baseline;
 }
 
+.align-baseline\:focus-visible:focus-visible {
+  vertical-align: baseline;
+}
+
 .align-baseline\:hover:hover {
   vertical-align: baseline;
 }
@@ -47,6 +51,10 @@
 }
 
 .align-top\:focus:focus {
+  vertical-align: top;
+}
+
+.align-top\:focus-visible:focus-visible {
   vertical-align: top;
 }
 
@@ -82,6 +90,10 @@
   vertical-align: middle;
 }
 
+.align-middle\:focus-visible:focus-visible {
+  vertical-align: middle;
+}
+
 .align-middle\:hover:hover {
   vertical-align: middle;
 }
@@ -111,6 +123,10 @@
 }
 
 .align-bottom\:focus:focus {
+  vertical-align: bottom;
+}
+
+.align-bottom\:focus-visible:focus-visible {
   vertical-align: bottom;
 }
 
@@ -146,6 +162,10 @@
   vertical-align: text-top;
 }
 
+.align-text-top\:focus-visible:focus-visible {
+  vertical-align: text-top;
+}
+
 .align-text-top\:hover:hover {
   vertical-align: text-top;
 }
@@ -175,6 +195,10 @@
 }
 
 .align-text-bottom\:focus:focus {
+  vertical-align: text-bottom;
+}
+
+.align-text-bottom\:focus-visible:focus-visible {
   vertical-align: text-bottom;
 }
 
@@ -211,6 +235,10 @@
     vertical-align: baseline;
   }
 
+  .xs\:align-baseline\:focus-visible:focus-visible {
+    vertical-align: baseline;
+  }
+
   .xs\:align-baseline\:hover:hover {
     vertical-align: baseline;
   }
@@ -240,6 +268,10 @@
   }
 
   .xs\:align-top\:focus:focus {
+    vertical-align: top;
+  }
+
+  .xs\:align-top\:focus-visible:focus-visible {
     vertical-align: top;
   }
 
@@ -275,6 +307,10 @@
     vertical-align: middle;
   }
 
+  .xs\:align-middle\:focus-visible:focus-visible {
+    vertical-align: middle;
+  }
+
   .xs\:align-middle\:hover:hover {
     vertical-align: middle;
   }
@@ -304,6 +340,10 @@
   }
 
   .xs\:align-bottom\:focus:focus {
+    vertical-align: bottom;
+  }
+
+  .xs\:align-bottom\:focus-visible:focus-visible {
     vertical-align: bottom;
   }
 
@@ -339,6 +379,10 @@
     vertical-align: text-top;
   }
 
+  .xs\:align-text-top\:focus-visible:focus-visible {
+    vertical-align: text-top;
+  }
+
   .xs\:align-text-top\:hover:hover {
     vertical-align: text-top;
   }
@@ -368,6 +412,10 @@
   }
 
   .xs\:align-text-bottom\:focus:focus {
+    vertical-align: text-bottom;
+  }
+
+  .xs\:align-text-bottom\:focus-visible:focus-visible {
     vertical-align: text-bottom;
   }
 
@@ -404,6 +452,10 @@
     vertical-align: baseline;
   }
 
+  .sm\:align-baseline\:focus-visible:focus-visible {
+    vertical-align: baseline;
+  }
+
   .sm\:align-baseline\:hover:hover {
     vertical-align: baseline;
   }
@@ -433,6 +485,10 @@
   }
 
   .sm\:align-top\:focus:focus {
+    vertical-align: top;
+  }
+
+  .sm\:align-top\:focus-visible:focus-visible {
     vertical-align: top;
   }
 
@@ -468,6 +524,10 @@
     vertical-align: middle;
   }
 
+  .sm\:align-middle\:focus-visible:focus-visible {
+    vertical-align: middle;
+  }
+
   .sm\:align-middle\:hover:hover {
     vertical-align: middle;
   }
@@ -497,6 +557,10 @@
   }
 
   .sm\:align-bottom\:focus:focus {
+    vertical-align: bottom;
+  }
+
+  .sm\:align-bottom\:focus-visible:focus-visible {
     vertical-align: bottom;
   }
 
@@ -532,6 +596,10 @@
     vertical-align: text-top;
   }
 
+  .sm\:align-text-top\:focus-visible:focus-visible {
+    vertical-align: text-top;
+  }
+
   .sm\:align-text-top\:hover:hover {
     vertical-align: text-top;
   }
@@ -561,6 +629,10 @@
   }
 
   .sm\:align-text-bottom\:focus:focus {
+    vertical-align: text-bottom;
+  }
+
+  .sm\:align-text-bottom\:focus-visible:focus-visible {
     vertical-align: text-bottom;
   }
 
@@ -597,6 +669,10 @@
     vertical-align: baseline;
   }
 
+  .md\:align-baseline\:focus-visible:focus-visible {
+    vertical-align: baseline;
+  }
+
   .md\:align-baseline\:hover:hover {
     vertical-align: baseline;
   }
@@ -626,6 +702,10 @@
   }
 
   .md\:align-top\:focus:focus {
+    vertical-align: top;
+  }
+
+  .md\:align-top\:focus-visible:focus-visible {
     vertical-align: top;
   }
 
@@ -661,6 +741,10 @@
     vertical-align: middle;
   }
 
+  .md\:align-middle\:focus-visible:focus-visible {
+    vertical-align: middle;
+  }
+
   .md\:align-middle\:hover:hover {
     vertical-align: middle;
   }
@@ -690,6 +774,10 @@
   }
 
   .md\:align-bottom\:focus:focus {
+    vertical-align: bottom;
+  }
+
+  .md\:align-bottom\:focus-visible:focus-visible {
     vertical-align: bottom;
   }
 
@@ -725,6 +813,10 @@
     vertical-align: text-top;
   }
 
+  .md\:align-text-top\:focus-visible:focus-visible {
+    vertical-align: text-top;
+  }
+
   .md\:align-text-top\:hover:hover {
     vertical-align: text-top;
   }
@@ -754,6 +846,10 @@
   }
 
   .md\:align-text-bottom\:focus:focus {
+    vertical-align: text-bottom;
+  }
+
+  .md\:align-text-bottom\:focus-visible:focus-visible {
     vertical-align: text-bottom;
   }
 
@@ -790,6 +886,10 @@
     vertical-align: baseline;
   }
 
+  .lg\:align-baseline\:focus-visible:focus-visible {
+    vertical-align: baseline;
+  }
+
   .lg\:align-baseline\:hover:hover {
     vertical-align: baseline;
   }
@@ -819,6 +919,10 @@
   }
 
   .lg\:align-top\:focus:focus {
+    vertical-align: top;
+  }
+
+  .lg\:align-top\:focus-visible:focus-visible {
     vertical-align: top;
   }
 
@@ -854,6 +958,10 @@
     vertical-align: middle;
   }
 
+  .lg\:align-middle\:focus-visible:focus-visible {
+    vertical-align: middle;
+  }
+
   .lg\:align-middle\:hover:hover {
     vertical-align: middle;
   }
@@ -883,6 +991,10 @@
   }
 
   .lg\:align-bottom\:focus:focus {
+    vertical-align: bottom;
+  }
+
+  .lg\:align-bottom\:focus-visible:focus-visible {
     vertical-align: bottom;
   }
 
@@ -918,6 +1030,10 @@
     vertical-align: text-top;
   }
 
+  .lg\:align-text-top\:focus-visible:focus-visible {
+    vertical-align: text-top;
+  }
+
   .lg\:align-text-top\:hover:hover {
     vertical-align: text-top;
   }
@@ -947,6 +1063,10 @@
   }
 
   .lg\:align-text-bottom\:focus:focus {
+    vertical-align: text-bottom;
+  }
+
+  .lg\:align-text-bottom\:focus-visible:focus-visible {
     vertical-align: text-bottom;
   }
 

@@ -18,6 +18,10 @@
   object-position: bottom;
 }
 
+.object-bottom\:focus-visible:focus-visible {
+  object-position: bottom;
+}
+
 .object-bottom\:hover:hover {
   object-position: bottom;
 }
@@ -47,6 +51,10 @@
 }
 
 .object-center\:focus:focus {
+  object-position: center;
+}
+
+.object-center\:focus-visible:focus-visible {
   object-position: center;
 }
 
@@ -82,6 +90,10 @@
   object-position: left;
 }
 
+.object-left\:focus-visible:focus-visible {
+  object-position: left;
+}
+
 .object-left\:hover:hover {
   object-position: left;
 }
@@ -111,6 +123,10 @@
 }
 
 .object-left-bottom\:focus:focus {
+  object-position: left-bottom;
+}
+
+.object-left-bottom\:focus-visible:focus-visible {
   object-position: left-bottom;
 }
 
@@ -146,6 +162,10 @@
   object-position: left-top;
 }
 
+.object-left-top\:focus-visible:focus-visible {
+  object-position: left-top;
+}
+
 .object-left-top\:hover:hover {
   object-position: left-top;
 }
@@ -175,6 +195,10 @@
 }
 
 .object-right\:focus:focus {
+  object-position: right;
+}
+
+.object-right\:focus-visible:focus-visible {
   object-position: right;
 }
 
@@ -210,6 +234,10 @@
   object-position: right-bottom;
 }
 
+.object-right-bottom\:focus-visible:focus-visible {
+  object-position: right-bottom;
+}
+
 .object-right-bottom\:hover:hover {
   object-position: right-bottom;
 }
@@ -242,6 +270,10 @@
   object-position: right-top;
 }
 
+.object-right-top\:focus-visible:focus-visible {
+  object-position: right-top;
+}
+
 .object-right-top\:hover:hover {
   object-position: right-top;
 }
@@ -271,6 +303,10 @@
 }
 
 .object-top\:focus:focus {
+  object-position: top;
+}
+
+.object-top\:focus-visible:focus-visible {
   object-position: top;
 }
 
@@ -307,6 +343,10 @@
     object-position: bottom;
   }
 
+  .xs\:object-bottom\:focus-visible:focus-visible {
+    object-position: bottom;
+  }
+
   .xs\:object-bottom\:hover:hover {
     object-position: bottom;
   }
@@ -336,6 +376,10 @@
   }
 
   .xs\:object-center\:focus:focus {
+    object-position: center;
+  }
+
+  .xs\:object-center\:focus-visible:focus-visible {
     object-position: center;
   }
 
@@ -371,6 +415,10 @@
     object-position: left;
   }
 
+  .xs\:object-left\:focus-visible:focus-visible {
+    object-position: left;
+  }
+
   .xs\:object-left\:hover:hover {
     object-position: left;
   }
@@ -400,6 +448,10 @@
   }
 
   .xs\:object-left-bottom\:focus:focus {
+    object-position: left-bottom;
+  }
+
+  .xs\:object-left-bottom\:focus-visible:focus-visible {
     object-position: left-bottom;
   }
 
@@ -435,6 +487,10 @@
     object-position: left-top;
   }
 
+  .xs\:object-left-top\:focus-visible:focus-visible {
+    object-position: left-top;
+  }
+
   .xs\:object-left-top\:hover:hover {
     object-position: left-top;
   }
@@ -464,6 +520,10 @@
   }
 
   .xs\:object-right\:focus:focus {
+    object-position: right;
+  }
+
+  .xs\:object-right\:focus-visible:focus-visible {
     object-position: right;
   }
 
@@ -499,6 +559,10 @@
     object-position: right-bottom;
   }
 
+  .xs\:object-right-bottom\:focus-visible:focus-visible {
+    object-position: right-bottom;
+  }
+
   .xs\:object-right-bottom\:hover:hover {
     object-position: right-bottom;
   }
@@ -531,6 +595,10 @@
     object-position: right-top;
   }
 
+  .xs\:object-right-top\:focus-visible:focus-visible {
+    object-position: right-top;
+  }
+
   .xs\:object-right-top\:hover:hover {
     object-position: right-top;
   }
@@ -560,6 +628,10 @@
   }
 
   .xs\:object-top\:focus:focus {
+    object-position: top;
+  }
+
+  .xs\:object-top\:focus-visible:focus-visible {
     object-position: top;
   }
 
@@ -596,6 +668,10 @@
     object-position: bottom;
   }
 
+  .sm\:object-bottom\:focus-visible:focus-visible {
+    object-position: bottom;
+  }
+
   .sm\:object-bottom\:hover:hover {
     object-position: bottom;
   }
@@ -625,6 +701,10 @@
   }
 
   .sm\:object-center\:focus:focus {
+    object-position: center;
+  }
+
+  .sm\:object-center\:focus-visible:focus-visible {
     object-position: center;
   }
 
@@ -660,6 +740,10 @@
     object-position: left;
   }
 
+  .sm\:object-left\:focus-visible:focus-visible {
+    object-position: left;
+  }
+
   .sm\:object-left\:hover:hover {
     object-position: left;
   }
@@ -689,6 +773,10 @@
   }
 
   .sm\:object-left-bottom\:focus:focus {
+    object-position: left-bottom;
+  }
+
+  .sm\:object-left-bottom\:focus-visible:focus-visible {
     object-position: left-bottom;
   }
 
@@ -724,6 +812,10 @@
     object-position: left-top;
   }
 
+  .sm\:object-left-top\:focus-visible:focus-visible {
+    object-position: left-top;
+  }
+
   .sm\:object-left-top\:hover:hover {
     object-position: left-top;
   }
@@ -753,6 +845,10 @@
   }
 
   .sm\:object-right\:focus:focus {
+    object-position: right;
+  }
+
+  .sm\:object-right\:focus-visible:focus-visible {
     object-position: right;
   }
 
@@ -788,6 +884,10 @@
     object-position: right-bottom;
   }
 
+  .sm\:object-right-bottom\:focus-visible:focus-visible {
+    object-position: right-bottom;
+  }
+
   .sm\:object-right-bottom\:hover:hover {
     object-position: right-bottom;
   }
@@ -820,6 +920,10 @@
     object-position: right-top;
   }
 
+  .sm\:object-right-top\:focus-visible:focus-visible {
+    object-position: right-top;
+  }
+
   .sm\:object-right-top\:hover:hover {
     object-position: right-top;
   }
@@ -849,6 +953,10 @@
   }
 
   .sm\:object-top\:focus:focus {
+    object-position: top;
+  }
+
+  .sm\:object-top\:focus-visible:focus-visible {
     object-position: top;
   }
 
@@ -885,6 +993,10 @@
     object-position: bottom;
   }
 
+  .md\:object-bottom\:focus-visible:focus-visible {
+    object-position: bottom;
+  }
+
   .md\:object-bottom\:hover:hover {
     object-position: bottom;
   }
@@ -914,6 +1026,10 @@
   }
 
   .md\:object-center\:focus:focus {
+    object-position: center;
+  }
+
+  .md\:object-center\:focus-visible:focus-visible {
     object-position: center;
   }
 
@@ -949,6 +1065,10 @@
     object-position: left;
   }
 
+  .md\:object-left\:focus-visible:focus-visible {
+    object-position: left;
+  }
+
   .md\:object-left\:hover:hover {
     object-position: left;
   }
@@ -978,6 +1098,10 @@
   }
 
   .md\:object-left-bottom\:focus:focus {
+    object-position: left-bottom;
+  }
+
+  .md\:object-left-bottom\:focus-visible:focus-visible {
     object-position: left-bottom;
   }
 
@@ -1013,6 +1137,10 @@
     object-position: left-top;
   }
 
+  .md\:object-left-top\:focus-visible:focus-visible {
+    object-position: left-top;
+  }
+
   .md\:object-left-top\:hover:hover {
     object-position: left-top;
   }
@@ -1042,6 +1170,10 @@
   }
 
   .md\:object-right\:focus:focus {
+    object-position: right;
+  }
+
+  .md\:object-right\:focus-visible:focus-visible {
     object-position: right;
   }
 
@@ -1077,6 +1209,10 @@
     object-position: right-bottom;
   }
 
+  .md\:object-right-bottom\:focus-visible:focus-visible {
+    object-position: right-bottom;
+  }
+
   .md\:object-right-bottom\:hover:hover {
     object-position: right-bottom;
   }
@@ -1109,6 +1245,10 @@
     object-position: right-top;
   }
 
+  .md\:object-right-top\:focus-visible:focus-visible {
+    object-position: right-top;
+  }
+
   .md\:object-right-top\:hover:hover {
     object-position: right-top;
   }
@@ -1138,6 +1278,10 @@
   }
 
   .md\:object-top\:focus:focus {
+    object-position: top;
+  }
+
+  .md\:object-top\:focus-visible:focus-visible {
     object-position: top;
   }
 
@@ -1174,6 +1318,10 @@
     object-position: bottom;
   }
 
+  .lg\:object-bottom\:focus-visible:focus-visible {
+    object-position: bottom;
+  }
+
   .lg\:object-bottom\:hover:hover {
     object-position: bottom;
   }
@@ -1203,6 +1351,10 @@
   }
 
   .lg\:object-center\:focus:focus {
+    object-position: center;
+  }
+
+  .lg\:object-center\:focus-visible:focus-visible {
     object-position: center;
   }
 
@@ -1238,6 +1390,10 @@
     object-position: left;
   }
 
+  .lg\:object-left\:focus-visible:focus-visible {
+    object-position: left;
+  }
+
   .lg\:object-left\:hover:hover {
     object-position: left;
   }
@@ -1267,6 +1423,10 @@
   }
 
   .lg\:object-left-bottom\:focus:focus {
+    object-position: left-bottom;
+  }
+
+  .lg\:object-left-bottom\:focus-visible:focus-visible {
     object-position: left-bottom;
   }
 
@@ -1302,6 +1462,10 @@
     object-position: left-top;
   }
 
+  .lg\:object-left-top\:focus-visible:focus-visible {
+    object-position: left-top;
+  }
+
   .lg\:object-left-top\:hover:hover {
     object-position: left-top;
   }
@@ -1331,6 +1495,10 @@
   }
 
   .lg\:object-right\:focus:focus {
+    object-position: right;
+  }
+
+  .lg\:object-right\:focus-visible:focus-visible {
     object-position: right;
   }
 
@@ -1366,6 +1534,10 @@
     object-position: right-bottom;
   }
 
+  .lg\:object-right-bottom\:focus-visible:focus-visible {
+    object-position: right-bottom;
+  }
+
   .lg\:object-right-bottom\:hover:hover {
     object-position: right-bottom;
   }
@@ -1398,6 +1570,10 @@
     object-position: right-top;
   }
 
+  .lg\:object-right-top\:focus-visible:focus-visible {
+    object-position: right-top;
+  }
+
   .lg\:object-right-top\:hover:hover {
     object-position: right-top;
   }
@@ -1427,6 +1603,10 @@
   }
 
   .lg\:object-top\:focus:focus {
+    object-position: top;
+  }
+
+  .lg\:object-top\:focus-visible:focus-visible {
     object-position: top;
   }
 

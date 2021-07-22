@@ -18,6 +18,10 @@
   grid-auto-rows: auto;
 }
 
+.auto-rows-auto\:focus-visible:focus-visible {
+  grid-auto-rows: auto;
+}
+
 .auto-rows-auto\:hover:hover {
   grid-auto-rows: auto;
 }
@@ -47,6 +51,10 @@
 }
 
 .auto-rows-min\:focus:focus {
+  grid-auto-rows: min-content;
+}
+
+.auto-rows-min\:focus-visible:focus-visible {
   grid-auto-rows: min-content;
 }
 
@@ -82,6 +90,10 @@
   grid-auto-rows: max-content;
 }
 
+.auto-rows-max\:focus-visible:focus-visible {
+  grid-auto-rows: max-content;
+}
+
 .auto-rows-max\:hover:hover {
   grid-auto-rows: max-content;
 }
@@ -111,6 +123,10 @@
 }
 
 .auto-rows-fr\:focus:focus {
+  grid-auto-rows:  minmax(0, 1fr);
+}
+
+.auto-rows-fr\:focus-visible:focus-visible {
   grid-auto-rows:  minmax(0, 1fr);
 }
 
@@ -147,6 +163,10 @@
     grid-auto-rows: auto;
   }
 
+  .xs\:auto-rows-auto\:focus-visible:focus-visible {
+    grid-auto-rows: auto;
+  }
+
   .xs\:auto-rows-auto\:hover:hover {
     grid-auto-rows: auto;
   }
@@ -176,6 +196,10 @@
   }
 
   .xs\:auto-rows-min\:focus:focus {
+    grid-auto-rows: min-content;
+  }
+
+  .xs\:auto-rows-min\:focus-visible:focus-visible {
     grid-auto-rows: min-content;
   }
 
@@ -211,6 +235,10 @@
     grid-auto-rows: max-content;
   }
 
+  .xs\:auto-rows-max\:focus-visible:focus-visible {
+    grid-auto-rows: max-content;
+  }
+
   .xs\:auto-rows-max\:hover:hover {
     grid-auto-rows: max-content;
   }
@@ -240,6 +268,10 @@
   }
 
   .xs\:auto-rows-fr\:focus:focus {
+    grid-auto-rows:  minmax(0, 1fr);
+  }
+
+  .xs\:auto-rows-fr\:focus-visible:focus-visible {
     grid-auto-rows:  minmax(0, 1fr);
   }
 
@@ -276,6 +308,10 @@
     grid-auto-rows: auto;
   }
 
+  .sm\:auto-rows-auto\:focus-visible:focus-visible {
+    grid-auto-rows: auto;
+  }
+
   .sm\:auto-rows-auto\:hover:hover {
     grid-auto-rows: auto;
   }
@@ -305,6 +341,10 @@
   }
 
   .sm\:auto-rows-min\:focus:focus {
+    grid-auto-rows: min-content;
+  }
+
+  .sm\:auto-rows-min\:focus-visible:focus-visible {
     grid-auto-rows: min-content;
   }
 
@@ -340,6 +380,10 @@
     grid-auto-rows: max-content;
   }
 
+  .sm\:auto-rows-max\:focus-visible:focus-visible {
+    grid-auto-rows: max-content;
+  }
+
   .sm\:auto-rows-max\:hover:hover {
     grid-auto-rows: max-content;
   }
@@ -369,6 +413,10 @@
   }
 
   .sm\:auto-rows-fr\:focus:focus {
+    grid-auto-rows:  minmax(0, 1fr);
+  }
+
+  .sm\:auto-rows-fr\:focus-visible:focus-visible {
     grid-auto-rows:  minmax(0, 1fr);
   }
 
@@ -405,6 +453,10 @@
     grid-auto-rows: auto;
   }
 
+  .md\:auto-rows-auto\:focus-visible:focus-visible {
+    grid-auto-rows: auto;
+  }
+
   .md\:auto-rows-auto\:hover:hover {
     grid-auto-rows: auto;
   }
@@ -434,6 +486,10 @@
   }
 
   .md\:auto-rows-min\:focus:focus {
+    grid-auto-rows: min-content;
+  }
+
+  .md\:auto-rows-min\:focus-visible:focus-visible {
     grid-auto-rows: min-content;
   }
 
@@ -469,6 +525,10 @@
     grid-auto-rows: max-content;
   }
 
+  .md\:auto-rows-max\:focus-visible:focus-visible {
+    grid-auto-rows: max-content;
+  }
+
   .md\:auto-rows-max\:hover:hover {
     grid-auto-rows: max-content;
   }
@@ -498,6 +558,10 @@
   }
 
   .md\:auto-rows-fr\:focus:focus {
+    grid-auto-rows:  minmax(0, 1fr);
+  }
+
+  .md\:auto-rows-fr\:focus-visible:focus-visible {
     grid-auto-rows:  minmax(0, 1fr);
   }
 
@@ -534,6 +598,10 @@
     grid-auto-rows: auto;
   }
 
+  .lg\:auto-rows-auto\:focus-visible:focus-visible {
+    grid-auto-rows: auto;
+  }
+
   .lg\:auto-rows-auto\:hover:hover {
     grid-auto-rows: auto;
   }
@@ -563,6 +631,10 @@
   }
 
   .lg\:auto-rows-min\:focus:focus {
+    grid-auto-rows: min-content;
+  }
+
+  .lg\:auto-rows-min\:focus-visible:focus-visible {
     grid-auto-rows: min-content;
   }
 
@@ -598,6 +670,10 @@
     grid-auto-rows: max-content;
   }
 
+  .lg\:auto-rows-max\:focus-visible:focus-visible {
+    grid-auto-rows: max-content;
+  }
+
   .lg\:auto-rows-max\:hover:hover {
     grid-auto-rows: max-content;
   }
@@ -627,6 +703,10 @@
   }
 
   .lg\:auto-rows-fr\:focus:focus {
+    grid-auto-rows:  minmax(0, 1fr);
+  }
+
+  .lg\:auto-rows-fr\:focus-visible:focus-visible {
     grid-auto-rows:  minmax(0, 1fr);
   }
 

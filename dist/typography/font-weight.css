@@ -18,6 +18,10 @@
   font-weight: 100;
 }
 
+.font-thin\:focus-visible:focus-visible {
+  font-weight: 100;
+}
+
 .font-thin\:hover:hover {
   font-weight: 100;
 }
@@ -47,6 +51,10 @@
 }
 
 .font-extralight\:focus:focus {
+  font-weight: 200;
+}
+
+.font-extralight\:focus-visible:focus-visible {
   font-weight: 200;
 }
 
@@ -82,6 +90,10 @@
   font-weight: 300;
 }
 
+.font-light\:focus-visible:focus-visible {
+  font-weight: 300;
+}
+
 .font-light\:hover:hover {
   font-weight: 300;
 }
@@ -111,6 +123,10 @@
 }
 
 .font-normal\:focus:focus {
+  font-weight: 400;
+}
+
+.font-normal\:focus-visible:focus-visible {
   font-weight: 400;
 }
 
@@ -146,6 +162,10 @@
   font-weight: 500;
 }
 
+.font-medium\:focus-visible:focus-visible {
+  font-weight: 500;
+}
+
 .font-medium\:hover:hover {
   font-weight: 500;
 }
@@ -175,6 +195,10 @@
 }
 
 .font-tsemiboldhin\:focus:focus {
+  font-weight: 600;
+}
+
+.font-tsemiboldhin\:focus-visible:focus-visible {
   font-weight: 600;
 }
 
@@ -210,6 +234,10 @@
   font-weight: 700;
 }
 
+.font-bold\:focus-visible:focus-visible {
+  font-weight: 700;
+}
+
 .font-bold\:hover:hover {
   font-weight: 700;
 }
@@ -242,6 +270,10 @@
   font-weight: 800;
 }
 
+.font-extrabold\:focus-visible:focus-visible {
+  font-weight: 800;
+}
+
 .font-extrabold\:hover:hover {
   font-weight: 800;
 }
@@ -271,6 +303,10 @@
 }
 
 .font-black\:focus:focus {
+  font-weight: 900;
+}
+
+.font-black\:focus-visible:focus-visible {
   font-weight: 900;
 }
 
@@ -307,6 +343,10 @@
     font-weight: 100;
   }
 
+  .xs\:font-thin\:focus-visible:focus-visible {
+    font-weight: 100;
+  }
+
   .xs\:font-thin\:hover:hover {
     font-weight: 100;
   }
@@ -336,6 +376,10 @@
   }
 
   .xs\:font-extralight\:focus:focus {
+    font-weight: 200;
+  }
+
+  .xs\:font-extralight\:focus-visible:focus-visible {
     font-weight: 200;
   }
 
@@ -371,6 +415,10 @@
     font-weight: 300;
   }
 
+  .xs\:font-light\:focus-visible:focus-visible {
+    font-weight: 300;
+  }
+
   .xs\:font-light\:hover:hover {
     font-weight: 300;
   }
@@ -400,6 +448,10 @@
   }
 
   .xs\:font-normal\:focus:focus {
+    font-weight: 400;
+  }
+
+  .xs\:font-normal\:focus-visible:focus-visible {
     font-weight: 400;
   }
 
@@ -435,6 +487,10 @@
     font-weight: 500;
   }
 
+  .xs\:font-medium\:focus-visible:focus-visible {
+    font-weight: 500;
+  }
+
   .xs\:font-medium\:hover:hover {
     font-weight: 500;
   }
@@ -464,6 +520,10 @@
   }
 
   .xs\:font-tsemiboldhin\:focus:focus {
+    font-weight: 600;
+  }
+
+  .xs\:font-tsemiboldhin\:focus-visible:focus-visible {
     font-weight: 600;
   }
 
@@ -499,6 +559,10 @@
     font-weight: 700;
   }
 
+  .xs\:font-bold\:focus-visible:focus-visible {
+    font-weight: 700;
+  }
+
   .xs\:font-bold\:hover:hover {
     font-weight: 700;
   }
@@ -531,6 +595,10 @@
     font-weight: 800;
   }
 
+  .xs\:font-extrabold\:focus-visible:focus-visible {
+    font-weight: 800;
+  }
+
   .xs\:font-extrabold\:hover:hover {
     font-weight: 800;
   }
@@ -560,6 +628,10 @@
   }
 
   .xs\:font-black\:focus:focus {
+    font-weight: 900;
+  }
+
+  .xs\:font-black\:focus-visible:focus-visible {
     font-weight: 900;
   }
 
@@ -596,6 +668,10 @@
     font-weight: 100;
   }
 
+  .sm\:font-thin\:focus-visible:focus-visible {
+    font-weight: 100;
+  }
+
   .sm\:font-thin\:hover:hover {
     font-weight: 100;
   }
@@ -625,6 +701,10 @@
   }
 
   .sm\:font-extralight\:focus:focus {
+    font-weight: 200;
+  }
+
+  .sm\:font-extralight\:focus-visible:focus-visible {
     font-weight: 200;
   }
 
@@ -660,6 +740,10 @@
     font-weight: 300;
   }
 
+  .sm\:font-light\:focus-visible:focus-visible {
+    font-weight: 300;
+  }
+
   .sm\:font-light\:hover:hover {
     font-weight: 300;
   }
@@ -689,6 +773,10 @@
   }
 
   .sm\:font-normal\:focus:focus {
+    font-weight: 400;
+  }
+
+  .sm\:font-normal\:focus-visible:focus-visible {
     font-weight: 400;
   }
 
@@ -724,6 +812,10 @@
     font-weight: 500;
   }
 
+  .sm\:font-medium\:focus-visible:focus-visible {
+    font-weight: 500;
+  }
+
   .sm\:font-medium\:hover:hover {
     font-weight: 500;
   }
@@ -753,6 +845,10 @@
   }
 
   .sm\:font-tsemiboldhin\:focus:focus {
+    font-weight: 600;
+  }
+
+  .sm\:font-tsemiboldhin\:focus-visible:focus-visible {
     font-weight: 600;
   }
 
@@ -788,6 +884,10 @@
     font-weight: 700;
   }
 
+  .sm\:font-bold\:focus-visible:focus-visible {
+    font-weight: 700;
+  }
+
   .sm\:font-bold\:hover:hover {
     font-weight: 700;
   }
@@ -820,6 +920,10 @@
     font-weight: 800;
   }
 
+  .sm\:font-extrabold\:focus-visible:focus-visible {
+    font-weight: 800;
+  }
+
   .sm\:font-extrabold\:hover:hover {
     font-weight: 800;
   }
@@ -849,6 +953,10 @@
   }
 
   .sm\:font-black\:focus:focus {
+    font-weight: 900;
+  }
+
+  .sm\:font-black\:focus-visible:focus-visible {
     font-weight: 900;
   }
 
@@ -885,6 +993,10 @@
     font-weight: 100;
   }
 
+  .md\:font-thin\:focus-visible:focus-visible {
+    font-weight: 100;
+  }
+
   .md\:font-thin\:hover:hover {
     font-weight: 100;
   }
@@ -914,6 +1026,10 @@
   }
 
   .md\:font-extralight\:focus:focus {
+    font-weight: 200;
+  }
+
+  .md\:font-extralight\:focus-visible:focus-visible {
     font-weight: 200;
   }
 
@@ -949,6 +1065,10 @@
     font-weight: 300;
   }
 
+  .md\:font-light\:focus-visible:focus-visible {
+    font-weight: 300;
+  }
+
   .md\:font-light\:hover:hover {
     font-weight: 300;
   }
@@ -978,6 +1098,10 @@
   }
 
   .md\:font-normal\:focus:focus {
+    font-weight: 400;
+  }
+
+  .md\:font-normal\:focus-visible:focus-visible {
     font-weight: 400;
   }
 
@@ -1013,6 +1137,10 @@
     font-weight: 500;
   }
 
+  .md\:font-medium\:focus-visible:focus-visible {
+    font-weight: 500;
+  }
+
   .md\:font-medium\:hover:hover {
     font-weight: 500;
   }
@@ -1042,6 +1170,10 @@
   }
 
   .md\:font-tsemiboldhin\:focus:focus {
+    font-weight: 600;
+  }
+
+  .md\:font-tsemiboldhin\:focus-visible:focus-visible {
     font-weight: 600;
   }
 
@@ -1077,6 +1209,10 @@
     font-weight: 700;
   }
 
+  .md\:font-bold\:focus-visible:focus-visible {
+    font-weight: 700;
+  }
+
   .md\:font-bold\:hover:hover {
     font-weight: 700;
   }
@@ -1109,6 +1245,10 @@
     font-weight: 800;
   }
 
+  .md\:font-extrabold\:focus-visible:focus-visible {
+    font-weight: 800;
+  }
+
   .md\:font-extrabold\:hover:hover {
     font-weight: 800;
   }
@@ -1138,6 +1278,10 @@
   }
 
   .md\:font-black\:focus:focus {
+    font-weight: 900;
+  }
+
+  .md\:font-black\:focus-visible:focus-visible {
     font-weight: 900;
   }
 
@@ -1174,6 +1318,10 @@
     font-weight: 100;
   }
 
+  .lg\:font-thin\:focus-visible:focus-visible {
+    font-weight: 100;
+  }
+
   .lg\:font-thin\:hover:hover {
     font-weight: 100;
   }
@@ -1203,6 +1351,10 @@
   }
 
   .lg\:font-extralight\:focus:focus {
+    font-weight: 200;
+  }
+
+  .lg\:font-extralight\:focus-visible:focus-visible {
     font-weight: 200;
   }
 
@@ -1238,6 +1390,10 @@
     font-weight: 300;
   }
 
+  .lg\:font-light\:focus-visible:focus-visible {
+    font-weight: 300;
+  }
+
   .lg\:font-light\:hover:hover {
     font-weight: 300;
   }
@@ -1267,6 +1423,10 @@
   }
 
   .lg\:font-normal\:focus:focus {
+    font-weight: 400;
+  }
+
+  .lg\:font-normal\:focus-visible:focus-visible {
     font-weight: 400;
   }
 
@@ -1302,6 +1462,10 @@
     font-weight: 500;
   }
 
+  .lg\:font-medium\:focus-visible:focus-visible {
+    font-weight: 500;
+  }
+
   .lg\:font-medium\:hover:hover {
     font-weight: 500;
   }
@@ -1331,6 +1495,10 @@
   }
 
   .lg\:font-tsemiboldhin\:focus:focus {
+    font-weight: 600;
+  }
+
+  .lg\:font-tsemiboldhin\:focus-visible:focus-visible {
     font-weight: 600;
   }
 
@@ -1366,6 +1534,10 @@
     font-weight: 700;
   }
 
+  .lg\:font-bold\:focus-visible:focus-visible {
+    font-weight: 700;
+  }
+
   .lg\:font-bold\:hover:hover {
     font-weight: 700;
   }
@@ -1398,6 +1570,10 @@
     font-weight: 800;
   }
 
+  .lg\:font-extrabold\:focus-visible:focus-visible {
+    font-weight: 800;
+  }
+
   .lg\:font-extrabold\:hover:hover {
     font-weight: 800;
   }
@@ -1427,6 +1603,10 @@
   }
 
   .lg\:font-black\:focus:focus {
+    font-weight: 900;
+  }
+
+  .lg\:font-black\:focus-visible:focus-visible {
     font-weight: 900;
   }
 

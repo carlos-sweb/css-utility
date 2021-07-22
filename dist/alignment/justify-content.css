@@ -18,6 +18,10 @@
   justify-content: flex-start;
 }
 
+.justify-start\:focus-visible:focus-visible {
+  justify-content: flex-start;
+}
+
 .justify-start\:hover:hover {
   justify-content: flex-start;
 }
@@ -47,6 +51,10 @@
 }
 
 .justify-end\:focus:focus {
+  justify-content: flex-end;
+}
+
+.justify-end\:focus-visible:focus-visible {
   justify-content: flex-end;
 }
 
@@ -82,6 +90,10 @@
   justify-content: center;
 }
 
+.justify-center\:focus-visible:focus-visible {
+  justify-content: center;
+}
+
 .justify-center\:hover:hover {
   justify-content: center;
 }
@@ -111,6 +123,10 @@
 }
 
 .justify-between\:focus:focus {
+  justify-content: flex-between;
+}
+
+.justify-between\:focus-visible:focus-visible {
   justify-content: flex-between;
 }
 
@@ -146,6 +162,10 @@
   justify-content: flex-around;
 }
 
+.justify-around\:focus-visible:focus-visible {
+  justify-content: flex-around;
+}
+
 .justify-around\:hover:hover {
   justify-content: flex-around;
 }
@@ -175,6 +195,10 @@
 }
 
 .justify-evenly\:focus:focus {
+  justify-content: flex-evenly;
+}
+
+.justify-evenly\:focus-visible:focus-visible {
   justify-content: flex-evenly;
 }
 
@@ -211,6 +235,10 @@
     justify-content: flex-start;
   }
 
+  .xs\:justify-start\:focus-visible:focus-visible {
+    justify-content: flex-start;
+  }
+
   .xs\:justify-start\:hover:hover {
     justify-content: flex-start;
   }
@@ -240,6 +268,10 @@
   }
 
   .xs\:justify-end\:focus:focus {
+    justify-content: flex-end;
+  }
+
+  .xs\:justify-end\:focus-visible:focus-visible {
     justify-content: flex-end;
   }
 
@@ -275,6 +307,10 @@
     justify-content: center;
   }
 
+  .xs\:justify-center\:focus-visible:focus-visible {
+    justify-content: center;
+  }
+
   .xs\:justify-center\:hover:hover {
     justify-content: center;
   }
@@ -304,6 +340,10 @@
   }
 
   .xs\:justify-between\:focus:focus {
+    justify-content: flex-between;
+  }
+
+  .xs\:justify-between\:focus-visible:focus-visible {
     justify-content: flex-between;
   }
 
@@ -339,6 +379,10 @@
     justify-content: flex-around;
   }
 
+  .xs\:justify-around\:focus-visible:focus-visible {
+    justify-content: flex-around;
+  }
+
   .xs\:justify-around\:hover:hover {
     justify-content: flex-around;
   }
@@ -368,6 +412,10 @@
   }
 
   .xs\:justify-evenly\:focus:focus {
+    justify-content: flex-evenly;
+  }
+
+  .xs\:justify-evenly\:focus-visible:focus-visible {
     justify-content: flex-evenly;
   }
 
@@ -404,6 +452,10 @@
     justify-content: flex-start;
   }
 
+  .sm\:justify-start\:focus-visible:focus-visible {
+    justify-content: flex-start;
+  }
+
   .sm\:justify-start\:hover:hover {
     justify-content: flex-start;
   }
@@ -433,6 +485,10 @@
   }
 
   .sm\:justify-end\:focus:focus {
+    justify-content: flex-end;
+  }
+
+  .sm\:justify-end\:focus-visible:focus-visible {
     justify-content: flex-end;
   }
 
@@ -468,6 +524,10 @@
     justify-content: center;
   }
 
+  .sm\:justify-center\:focus-visible:focus-visible {
+    justify-content: center;
+  }
+
   .sm\:justify-center\:hover:hover {
     justify-content: center;
   }
@@ -497,6 +557,10 @@
   }
 
   .sm\:justify-between\:focus:focus {
+    justify-content: flex-between;
+  }
+
+  .sm\:justify-between\:focus-visible:focus-visible {
     justify-content: flex-between;
   }
 
@@ -532,6 +596,10 @@
     justify-content: flex-around;
   }
 
+  .sm\:justify-around\:focus-visible:focus-visible {
+    justify-content: flex-around;
+  }
+
   .sm\:justify-around\:hover:hover {
     justify-content: flex-around;
   }
@@ -561,6 +629,10 @@
   }
 
   .sm\:justify-evenly\:focus:focus {
+    justify-content: flex-evenly;
+  }
+
+  .sm\:justify-evenly\:focus-visible:focus-visible {
     justify-content: flex-evenly;
   }
 
@@ -597,6 +669,10 @@
     justify-content: flex-start;
   }
 
+  .md\:justify-start\:focus-visible:focus-visible {
+    justify-content: flex-start;
+  }
+
   .md\:justify-start\:hover:hover {
     justify-content: flex-start;
   }
@@ -626,6 +702,10 @@
   }
 
   .md\:justify-end\:focus:focus {
+    justify-content: flex-end;
+  }
+
+  .md\:justify-end\:focus-visible:focus-visible {
     justify-content: flex-end;
   }
 
@@ -661,6 +741,10 @@
     justify-content: center;
   }
 
+  .md\:justify-center\:focus-visible:focus-visible {
+    justify-content: center;
+  }
+
   .md\:justify-center\:hover:hover {
     justify-content: center;
   }
@@ -690,6 +774,10 @@
   }
 
   .md\:justify-between\:focus:focus {
+    justify-content: flex-between;
+  }
+
+  .md\:justify-between\:focus-visible:focus-visible {
     justify-content: flex-between;
   }
 
@@ -725,6 +813,10 @@
     justify-content: flex-around;
   }
 
+  .md\:justify-around\:focus-visible:focus-visible {
+    justify-content: flex-around;
+  }
+
   .md\:justify-around\:hover:hover {
     justify-content: flex-around;
   }
@@ -754,6 +846,10 @@
   }
 
   .md\:justify-evenly\:focus:focus {
+    justify-content: flex-evenly;
+  }
+
+  .md\:justify-evenly\:focus-visible:focus-visible {
     justify-content: flex-evenly;
   }
 
@@ -790,6 +886,10 @@
     justify-content: flex-start;
   }
 
+  .lg\:justify-start\:focus-visible:focus-visible {
+    justify-content: flex-start;
+  }
+
   .lg\:justify-start\:hover:hover {
     justify-content: flex-start;
   }
@@ -819,6 +919,10 @@
   }
 
   .lg\:justify-end\:focus:focus {
+    justify-content: flex-end;
+  }
+
+  .lg\:justify-end\:focus-visible:focus-visible {
     justify-content: flex-end;
   }
 
@@ -854,6 +958,10 @@
     justify-content: center;
   }
 
+  .lg\:justify-center\:focus-visible:focus-visible {
+    justify-content: center;
+  }
+
   .lg\:justify-center\:hover:hover {
     justify-content: center;
   }
@@ -883,6 +991,10 @@
   }
 
   .lg\:justify-between\:focus:focus {
+    justify-content: flex-between;
+  }
+
+  .lg\:justify-between\:focus-visible:focus-visible {
     justify-content: flex-between;
   }
 
@@ -918,6 +1030,10 @@
     justify-content: flex-around;
   }
 
+  .lg\:justify-around\:focus-visible:focus-visible {
+    justify-content: flex-around;
+  }
+
   .lg\:justify-around\:hover:hover {
     justify-content: flex-around;
   }
@@ -947,6 +1063,10 @@
   }
 
   .lg\:justify-evenly\:focus:focus {
+    justify-content: flex-evenly;
+  }
+
+  .lg\:justify-evenly\:focus-visible:focus-visible {
     justify-content: flex-evenly;
   }
 

@@ -18,6 +18,10 @@
   appearance: none;
 }
 
+.appearance-none\:focus-visible:focus-visible {
+  appearance: none;
+}
+
 .appearance-none\:hover:hover {
   appearance: none;
 }
@@ -48,6 +52,10 @@
   }
 
   .xs\:appearance-none\:focus:focus {
+    appearance: none;
+  }
+
+  .xs\:appearance-none\:focus-visible:focus-visible {
     appearance: none;
   }
 
@@ -84,6 +92,10 @@
     appearance: none;
   }
 
+  .sm\:appearance-none\:focus-visible:focus-visible {
+    appearance: none;
+  }
+
   .sm\:appearance-none\:hover:hover {
     appearance: none;
   }
@@ -117,6 +129,10 @@
     appearance: none;
   }
 
+  .md\:appearance-none\:focus-visible:focus-visible {
+    appearance: none;
+  }
+
   .md\:appearance-none\:hover:hover {
     appearance: none;
   }
@@ -147,6 +163,10 @@
   }
 
   .lg\:appearance-none\:focus:focus {
+    appearance: none;
+  }
+
+  .lg\:appearance-none\:focus-visible:focus-visible {
     appearance: none;
   }
 

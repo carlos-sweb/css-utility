@@ -18,6 +18,10 @@
   background-size: auto;
 }
 
+.bg-auto\:focus-visible:focus-visible {
+  background-size: auto;
+}
+
 .bg-auto\:hover:hover {
   background-size: auto;
 }
@@ -50,6 +54,10 @@
   background-size: cover;
 }
 
+.bg-cover\:focus-visible:focus-visible {
+  background-size: cover;
+}
+
 .bg-cover\:hover:hover {
   background-size: cover;
 }
@@ -79,6 +87,10 @@
 }
 
 .bg-contain\:focus:focus {
+  background-size: contain;
+}
+
+.bg-contain\:focus-visible:focus-visible {
   background-size: contain;
 }
 
@@ -115,6 +127,10 @@
     background-size: auto;
   }
 
+  .xs\:bg-auto\:focus-visible:focus-visible {
+    background-size: auto;
+  }
+
   .xs\:bg-auto\:hover:hover {
     background-size: auto;
   }
@@ -147,6 +163,10 @@
     background-size: cover;
   }
 
+  .xs\:bg-cover\:focus-visible:focus-visible {
+    background-size: cover;
+  }
+
   .xs\:bg-cover\:hover:hover {
     background-size: cover;
   }
@@ -176,6 +196,10 @@
   }
 
   .xs\:bg-contain\:focus:focus {
+    background-size: contain;
+  }
+
+  .xs\:bg-contain\:focus-visible:focus-visible {
     background-size: contain;
   }
 
@@ -212,6 +236,10 @@
     background-size: auto;
   }
 
+  .sm\:bg-auto\:focus-visible:focus-visible {
+    background-size: auto;
+  }
+
   .sm\:bg-auto\:hover:hover {
     background-size: auto;
   }
@@ -244,6 +272,10 @@
     background-size: cover;
   }
 
+  .sm\:bg-cover\:focus-visible:focus-visible {
+    background-size: cover;
+  }
+
   .sm\:bg-cover\:hover:hover {
     background-size: cover;
   }
@@ -273,6 +305,10 @@
   }
 
   .sm\:bg-contain\:focus:focus {
+    background-size: contain;
+  }
+
+  .sm\:bg-contain\:focus-visible:focus-visible {
     background-size: contain;
   }
 
@@ -309,6 +345,10 @@
     background-size: auto;
   }
 
+  .md\:bg-auto\:focus-visible:focus-visible {
+    background-size: auto;
+  }
+
   .md\:bg-auto\:hover:hover {
     background-size: auto;
   }
@@ -341,6 +381,10 @@
     background-size: cover;
   }
 
+  .md\:bg-cover\:focus-visible:focus-visible {
+    background-size: cover;
+  }
+
   .md\:bg-cover\:hover:hover {
     background-size: cover;
   }
@@ -370,6 +414,10 @@
   }
 
   .md\:bg-contain\:focus:focus {
+    background-size: contain;
+  }
+
+  .md\:bg-contain\:focus-visible:focus-visible {
     background-size: contain;
   }
 
@@ -406,6 +454,10 @@
     background-size: auto;
   }
 
+  .lg\:bg-auto\:focus-visible:focus-visible {
+    background-size: auto;
+  }
+
   .lg\:bg-auto\:hover:hover {
     background-size: auto;
   }
@@ -438,6 +490,10 @@
     background-size: cover;
   }
 
+  .lg\:bg-cover\:focus-visible:focus-visible {
+    background-size: cover;
+  }
+
   .lg\:bg-cover\:hover:hover {
     background-size: cover;
   }
@@ -467,6 +523,10 @@
   }
 
   .lg\:bg-contain\:focus:focus {
+    background-size: contain;
+  }
+
+  .lg\:bg-contain\:focus-visible:focus-visible {
     background-size: contain;
   }
 

@@ -18,6 +18,10 @@
   border-width: 0px;
 }
 
+.border-0\:focus-visible:focus-visible {
+  border-width: 0px;
+}
+
 .border-0\:hover:hover {
   border-width: 0px;
 }
@@ -47,6 +51,10 @@
 }
 
 .border-2\:focus:focus {
+  border-width: 2px;
+}
+
+.border-2\:focus-visible:focus-visible {
   border-width: 2px;
 }
 
@@ -82,6 +90,10 @@
   border-width: 4px;
 }
 
+.border-4\:focus-visible:focus-visible {
+  border-width: 4px;
+}
+
 .border-4\:hover:hover {
   border-width: 4px;
 }
@@ -114,6 +126,10 @@
   border-width: 8px;
 }
 
+.border-8\:focus-visible:focus-visible {
+  border-width: 8px;
+}
+
 .border-8\:hover:hover {
   border-width: 8px;
 }
@@ -143,6 +159,10 @@
 }
 
 .border\:focus:focus {
+  border-width: 1px;
+}
+
+.border\:focus-visible:focus-visible {
   border-width: 1px;
 }
 
@@ -179,6 +199,10 @@
     border-width: 0px;
   }
 
+  .xs\:border-0\:focus-visible:focus-visible {
+    border-width: 0px;
+  }
+
   .xs\:border-0\:hover:hover {
     border-width: 0px;
   }
@@ -208,6 +232,10 @@
   }
 
   .xs\:border-2\:focus:focus {
+    border-width: 2px;
+  }
+
+  .xs\:border-2\:focus-visible:focus-visible {
     border-width: 2px;
   }
 
@@ -243,6 +271,10 @@
     border-width: 4px;
   }
 
+  .xs\:border-4\:focus-visible:focus-visible {
+    border-width: 4px;
+  }
+
   .xs\:border-4\:hover:hover {
     border-width: 4px;
   }
@@ -275,6 +307,10 @@
     border-width: 8px;
   }
 
+  .xs\:border-8\:focus-visible:focus-visible {
+    border-width: 8px;
+  }
+
   .xs\:border-8\:hover:hover {
     border-width: 8px;
   }
@@ -304,6 +340,10 @@
   }
 
   .xs\:border\:focus:focus {
+    border-width: 1px;
+  }
+
+  .xs\:border\:focus-visible:focus-visible {
     border-width: 1px;
   }
 
@@ -340,6 +380,10 @@
     border-width: 0px;
   }
 
+  .sm\:border-0\:focus-visible:focus-visible {
+    border-width: 0px;
+  }
+
   .sm\:border-0\:hover:hover {
     border-width: 0px;
   }
@@ -369,6 +413,10 @@
   }
 
   .sm\:border-2\:focus:focus {
+    border-width: 2px;
+  }
+
+  .sm\:border-2\:focus-visible:focus-visible {
     border-width: 2px;
   }
 
@@ -404,6 +452,10 @@
     border-width: 4px;
   }
 
+  .sm\:border-4\:focus-visible:focus-visible {
+    border-width: 4px;
+  }
+
   .sm\:border-4\:hover:hover {
     border-width: 4px;
   }
@@ -436,6 +488,10 @@
     border-width: 8px;
   }
 
+  .sm\:border-8\:focus-visible:focus-visible {
+    border-width: 8px;
+  }
+
   .sm\:border-8\:hover:hover {
     border-width: 8px;
   }
@@ -465,6 +521,10 @@
   }
 
   .sm\:border\:focus:focus {
+    border-width: 1px;
+  }
+
+  .sm\:border\:focus-visible:focus-visible {
     border-width: 1px;
   }
 
@@ -501,6 +561,10 @@
     border-width: 0px;
   }
 
+  .md\:border-0\:focus-visible:focus-visible {
+    border-width: 0px;
+  }
+
   .md\:border-0\:hover:hover {
     border-width: 0px;
   }
@@ -530,6 +594,10 @@
   }
 
   .md\:border-2\:focus:focus {
+    border-width: 2px;
+  }
+
+  .md\:border-2\:focus-visible:focus-visible {
     border-width: 2px;
   }
 
@@ -565,6 +633,10 @@
     border-width: 4px;
   }
 
+  .md\:border-4\:focus-visible:focus-visible {
+    border-width: 4px;
+  }
+
   .md\:border-4\:hover:hover {
     border-width: 4px;
   }
@@ -597,6 +669,10 @@
     border-width: 8px;
   }
 
+  .md\:border-8\:focus-visible:focus-visible {
+    border-width: 8px;
+  }
+
   .md\:border-8\:hover:hover {
     border-width: 8px;
   }
@@ -626,6 +702,10 @@
   }
 
   .md\:border\:focus:focus {
+    border-width: 1px;
+  }
+
+  .md\:border\:focus-visible:focus-visible {
     border-width: 1px;
   }
 
@@ -662,6 +742,10 @@
     border-width: 0px;
   }
 
+  .lg\:border-0\:focus-visible:focus-visible {
+    border-width: 0px;
+  }
+
   .lg\:border-0\:hover:hover {
     border-width: 0px;
   }
@@ -691,6 +775,10 @@
   }
 
   .lg\:border-2\:focus:focus {
+    border-width: 2px;
+  }
+
+  .lg\:border-2\:focus-visible:focus-visible {
     border-width: 2px;
   }
 
@@ -726,6 +814,10 @@
     border-width: 4px;
   }
 
+  .lg\:border-4\:focus-visible:focus-visible {
+    border-width: 4px;
+  }
+
   .lg\:border-4\:hover:hover {
     border-width: 4px;
   }
@@ -758,6 +850,10 @@
     border-width: 8px;
   }
 
+  .lg\:border-8\:focus-visible:focus-visible {
+    border-width: 8px;
+  }
+
   .lg\:border-8\:hover:hover {
     border-width: 8px;
   }
@@ -787,6 +883,10 @@
   }
 
   .lg\:border\:focus:focus {
+    border-width: 1px;
+  }
+
+  .lg\:border\:focus-visible:focus-visible {
     border-width: 1px;
   }
 

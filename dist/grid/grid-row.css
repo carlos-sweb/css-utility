@@ -18,6 +18,10 @@
   grid-row: auto;
 }
 
+.row-auto\:focus-visible:focus-visible {
+  grid-row: auto;
+}
+
 .row-auto\:hover:hover {
   grid-row: auto;
 }
@@ -47,6 +51,10 @@
 }
 
 .row-span-1\:focus:focus {
+  grid-row: span 1 / span 1;
+}
+
+.row-span-1\:focus-visible:focus-visible {
   grid-row: span 1 / span 1;
 }
 
@@ -82,6 +90,10 @@
   grid-row: span 2 / span 2;
 }
 
+.row-span-2\:focus-visible:focus-visible {
+  grid-row: span 2 / span 2;
+}
+
 .row-span-2\:hover:hover {
   grid-row: span 2 / span 2;
 }
@@ -111,6 +123,10 @@
 }
 
 .row-span-3\:focus:focus {
+  grid-row: span 3 / span 3;
+}
+
+.row-span-3\:focus-visible:focus-visible {
   grid-row: span 3 / span 3;
 }
 
@@ -146,6 +162,10 @@
   grid-row: span 4 / span 4;
 }
 
+.row-span-4\:focus-visible:focus-visible {
+  grid-row: span 4 / span 4;
+}
+
 .row-span-4\:hover:hover {
   grid-row: span 4 / span 4;
 }
@@ -175,6 +195,10 @@
 }
 
 .row-span-5\:focus:focus {
+  grid-row: span 5 / span 5;
+}
+
+.row-span-5\:focus-visible:focus-visible {
   grid-row: span 5 / span 5;
 }
 
@@ -210,6 +234,10 @@
   grid-row: span 6 / span 6;
 }
 
+.row-span-6\:focus-visible:focus-visible {
+  grid-row: span 6 / span 6;
+}
+
 .row-span-6\:hover:hover {
   grid-row: span 6 / span 6;
 }
@@ -239,6 +267,10 @@
 }
 
 .row-span-full\:focus:focus {
+  grid-row: 1 / -1;
+}
+
+.row-span-full\:focus-visible:focus-visible {
   grid-row: 1 / -1;
 }
 
@@ -275,6 +307,10 @@
     grid-row: auto;
   }
 
+  .xs\:row-auto\:focus-visible:focus-visible {
+    grid-row: auto;
+  }
+
   .xs\:row-auto\:hover:hover {
     grid-row: auto;
   }
@@ -304,6 +340,10 @@
   }
 
   .xs\:row-span-1\:focus:focus {
+    grid-row: span 1 / span 1;
+  }
+
+  .xs\:row-span-1\:focus-visible:focus-visible {
     grid-row: span 1 / span 1;
   }
 
@@ -339,6 +379,10 @@
     grid-row: span 2 / span 2;
   }
 
+  .xs\:row-span-2\:focus-visible:focus-visible {
+    grid-row: span 2 / span 2;
+  }
+
   .xs\:row-span-2\:hover:hover {
     grid-row: span 2 / span 2;
   }
@@ -368,6 +412,10 @@
   }
 
   .xs\:row-span-3\:focus:focus {
+    grid-row: span 3 / span 3;
+  }
+
+  .xs\:row-span-3\:focus-visible:focus-visible {
     grid-row: span 3 / span 3;
   }
 
@@ -403,6 +451,10 @@
     grid-row: span 4 / span 4;
   }
 
+  .xs\:row-span-4\:focus-visible:focus-visible {
+    grid-row: span 4 / span 4;
+  }
+
   .xs\:row-span-4\:hover:hover {
     grid-row: span 4 / span 4;
   }
@@ -432,6 +484,10 @@
   }
 
   .xs\:row-span-5\:focus:focus {
+    grid-row: span 5 / span 5;
+  }
+
+  .xs\:row-span-5\:focus-visible:focus-visible {
     grid-row: span 5 / span 5;
   }
 
@@ -467,6 +523,10 @@
     grid-row: span 6 / span 6;
   }
 
+  .xs\:row-span-6\:focus-visible:focus-visible {
+    grid-row: span 6 / span 6;
+  }
+
   .xs\:row-span-6\:hover:hover {
     grid-row: span 6 / span 6;
   }
@@ -496,6 +556,10 @@
   }
 
   .xs\:row-span-full\:focus:focus {
+    grid-row: 1 / -1;
+  }
+
+  .xs\:row-span-full\:focus-visible:focus-visible {
     grid-row: 1 / -1;
   }
 
@@ -532,6 +596,10 @@
     grid-row: auto;
   }
 
+  .sm\:row-auto\:focus-visible:focus-visible {
+    grid-row: auto;
+  }
+
   .sm\:row-auto\:hover:hover {
     grid-row: auto;
   }
@@ -561,6 +629,10 @@
   }
 
   .sm\:row-span-1\:focus:focus {
+    grid-row: span 1 / span 1;
+  }
+
+  .sm\:row-span-1\:focus-visible:focus-visible {
     grid-row: span 1 / span 1;
   }
 
@@ -596,6 +668,10 @@
     grid-row: span 2 / span 2;
   }
 
+  .sm\:row-span-2\:focus-visible:focus-visible {
+    grid-row: span 2 / span 2;
+  }
+
   .sm\:row-span-2\:hover:hover {
     grid-row: span 2 / span 2;
   }
@@ -625,6 +701,10 @@
   }
 
   .sm\:row-span-3\:focus:focus {
+    grid-row: span 3 / span 3;
+  }
+
+  .sm\:row-span-3\:focus-visible:focus-visible {
     grid-row: span 3 / span 3;
   }
 
@@ -660,6 +740,10 @@
     grid-row: span 4 / span 4;
   }
 
+  .sm\:row-span-4\:focus-visible:focus-visible {
+    grid-row: span 4 / span 4;
+  }
+
   .sm\:row-span-4\:hover:hover {
     grid-row: span 4 / span 4;
   }
@@ -689,6 +773,10 @@
   }
 
   .sm\:row-span-5\:focus:focus {
+    grid-row: span 5 / span 5;
+  }
+
+  .sm\:row-span-5\:focus-visible:focus-visible {
     grid-row: span 5 / span 5;
   }
 
@@ -724,6 +812,10 @@
     grid-row: span 6 / span 6;
   }
 
+  .sm\:row-span-6\:focus-visible:focus-visible {
+    grid-row: span 6 / span 6;
+  }
+
   .sm\:row-span-6\:hover:hover {
     grid-row: span 6 / span 6;
   }
@@ -753,6 +845,10 @@
   }
 
   .sm\:row-span-full\:focus:focus {
+    grid-row: 1 / -1;
+  }
+
+  .sm\:row-span-full\:focus-visible:focus-visible {
     grid-row: 1 / -1;
   }
 
@@ -789,6 +885,10 @@
     grid-row: auto;
   }
 
+  .md\:row-auto\:focus-visible:focus-visible {
+    grid-row: auto;
+  }
+
   .md\:row-auto\:hover:hover {
     grid-row: auto;
   }
@@ -818,6 +918,10 @@
   }
 
   .md\:row-span-1\:focus:focus {
+    grid-row: span 1 / span 1;
+  }
+
+  .md\:row-span-1\:focus-visible:focus-visible {
     grid-row: span 1 / span 1;
   }
 
@@ -853,6 +957,10 @@
     grid-row: span 2 / span 2;
   }
 
+  .md\:row-span-2\:focus-visible:focus-visible {
+    grid-row: span 2 / span 2;
+  }
+
   .md\:row-span-2\:hover:hover {
     grid-row: span 2 / span 2;
   }
@@ -882,6 +990,10 @@
   }
 
   .md\:row-span-3\:focus:focus {
+    grid-row: span 3 / span 3;
+  }
+
+  .md\:row-span-3\:focus-visible:focus-visible {
     grid-row: span 3 / span 3;
   }
 
@@ -917,6 +1029,10 @@
     grid-row: span 4 / span 4;
   }
 
+  .md\:row-span-4\:focus-visible:focus-visible {
+    grid-row: span 4 / span 4;
+  }
+
   .md\:row-span-4\:hover:hover {
     grid-row: span 4 / span 4;
   }
@@ -946,6 +1062,10 @@
   }
 
   .md\:row-span-5\:focus:focus {
+    grid-row: span 5 / span 5;
+  }
+
+  .md\:row-span-5\:focus-visible:focus-visible {
     grid-row: span 5 / span 5;
   }
 
@@ -981,6 +1101,10 @@
     grid-row: span 6 / span 6;
   }
 
+  .md\:row-span-6\:focus-visible:focus-visible {
+    grid-row: span 6 / span 6;
+  }
+
   .md\:row-span-6\:hover:hover {
     grid-row: span 6 / span 6;
   }
@@ -1010,6 +1134,10 @@
   }
 
   .md\:row-span-full\:focus:focus {
+    grid-row: 1 / -1;
+  }
+
+  .md\:row-span-full\:focus-visible:focus-visible {
     grid-row: 1 / -1;
   }
 
@@ -1046,6 +1174,10 @@
     grid-row: auto;
   }
 
+  .lg\:row-auto\:focus-visible:focus-visible {
+    grid-row: auto;
+  }
+
   .lg\:row-auto\:hover:hover {
     grid-row: auto;
   }
@@ -1075,6 +1207,10 @@
   }
 
   .lg\:row-span-1\:focus:focus {
+    grid-row: span 1 / span 1;
+  }
+
+  .lg\:row-span-1\:focus-visible:focus-visible {
     grid-row: span 1 / span 1;
   }
 
@@ -1110,6 +1246,10 @@
     grid-row: span 2 / span 2;
   }
 
+  .lg\:row-span-2\:focus-visible:focus-visible {
+    grid-row: span 2 / span 2;
+  }
+
   .lg\:row-span-2\:hover:hover {
     grid-row: span 2 / span 2;
   }
@@ -1139,6 +1279,10 @@
   }
 
   .lg\:row-span-3\:focus:focus {
+    grid-row: span 3 / span 3;
+  }
+
+  .lg\:row-span-3\:focus-visible:focus-visible {
     grid-row: span 3 / span 3;
   }
 
@@ -1174,6 +1318,10 @@
     grid-row: span 4 / span 4;
   }
 
+  .lg\:row-span-4\:focus-visible:focus-visible {
+    grid-row: span 4 / span 4;
+  }
+
   .lg\:row-span-4\:hover:hover {
     grid-row: span 4 / span 4;
   }
@@ -1203,6 +1351,10 @@
   }
 
   .lg\:row-span-5\:focus:focus {
+    grid-row: span 5 / span 5;
+  }
+
+  .lg\:row-span-5\:focus-visible:focus-visible {
     grid-row: span 5 / span 5;
   }
 
@@ -1238,6 +1390,10 @@
     grid-row: span 6 / span 6;
   }
 
+  .lg\:row-span-6\:focus-visible:focus-visible {
+    grid-row: span 6 / span 6;
+  }
+
   .lg\:row-span-6\:hover:hover {
     grid-row: span 6 / span 6;
   }
@@ -1267,6 +1423,10 @@
   }
 
   .lg\:row-span-full\:focus:focus {
+    grid-row: 1 / -1;
+  }
+
+  .lg\:row-span-full\:focus-visible:focus-visible {
     grid-row: 1 / -1;
   }
 

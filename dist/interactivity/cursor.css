@@ -18,6 +18,10 @@
   cursor: auto;
 }
 
+.cursor-auto\:focus-visible:focus-visible {
+  cursor: auto;
+}
+
 .cursor-auto\:hover:hover {
   cursor: auto;
 }
@@ -47,6 +51,10 @@
 }
 
 .cursor-default\:focus:focus {
+  cursor: default;
+}
+
+.cursor-default\:focus-visible:focus-visible {
   cursor: default;
 }
 
@@ -82,6 +90,10 @@
   cursor: pointer;
 }
 
+.cursor-pointer\:focus-visible:focus-visible {
+  cursor: pointer;
+}
+
 .cursor-pointer\:hover:hover {
   cursor: pointer;
 }
@@ -111,6 +123,10 @@
 }
 
 .cursor-wait\:focus:focus {
+  cursor: wait;
+}
+
+.cursor-wait\:focus-visible:focus-visible {
   cursor: wait;
 }
 
@@ -146,6 +162,10 @@
   cursor: text;
 }
 
+.cursor-text\:focus-visible:focus-visible {
+  cursor: text;
+}
+
 .cursor-text\:hover:hover {
   cursor: text;
 }
@@ -175,6 +195,10 @@
 }
 
 .cursor-move\:focus:focus {
+  cursor: move;
+}
+
+.cursor-move\:focus-visible:focus-visible {
   cursor: move;
 }
 
@@ -210,6 +234,10 @@
   cursor: help;
 }
 
+.cursor-help\:focus-visible:focus-visible {
+  cursor: help;
+}
+
 .cursor-help\:hover:hover {
   cursor: help;
 }
@@ -239,6 +267,10 @@
 }
 
 .cursor-not-allowed\:focus:focus {
+  cursor: not-allowed;
+}
+
+.cursor-not-allowed\:focus-visible:focus-visible {
   cursor: not-allowed;
 }
 
@@ -275,6 +307,10 @@
     cursor: auto;
   }
 
+  .xs\:cursor-auto\:focus-visible:focus-visible {
+    cursor: auto;
+  }
+
   .xs\:cursor-auto\:hover:hover {
     cursor: auto;
   }
@@ -304,6 +340,10 @@
   }
 
   .xs\:cursor-default\:focus:focus {
+    cursor: default;
+  }
+
+  .xs\:cursor-default\:focus-visible:focus-visible {
     cursor: default;
   }
 
@@ -339,6 +379,10 @@
     cursor: pointer;
   }
 
+  .xs\:cursor-pointer\:focus-visible:focus-visible {
+    cursor: pointer;
+  }
+
   .xs\:cursor-pointer\:hover:hover {
     cursor: pointer;
   }
@@ -368,6 +412,10 @@
   }
 
   .xs\:cursor-wait\:focus:focus {
+    cursor: wait;
+  }
+
+  .xs\:cursor-wait\:focus-visible:focus-visible {
     cursor: wait;
   }
 
@@ -403,6 +451,10 @@
     cursor: text;
   }
 
+  .xs\:cursor-text\:focus-visible:focus-visible {
+    cursor: text;
+  }
+
   .xs\:cursor-text\:hover:hover {
     cursor: text;
   }
@@ -432,6 +484,10 @@
   }
 
   .xs\:cursor-move\:focus:focus {
+    cursor: move;
+  }
+
+  .xs\:cursor-move\:focus-visible:focus-visible {
     cursor: move;
   }
 
@@ -467,6 +523,10 @@
     cursor: help;
   }
 
+  .xs\:cursor-help\:focus-visible:focus-visible {
+    cursor: help;
+  }
+
   .xs\:cursor-help\:hover:hover {
     cursor: help;
   }
@@ -496,6 +556,10 @@
   }
 
   .xs\:cursor-not-allowed\:focus:focus {
+    cursor: not-allowed;
+  }
+
+  .xs\:cursor-not-allowed\:focus-visible:focus-visible {
     cursor: not-allowed;
   }
 
@@ -532,6 +596,10 @@
     cursor: auto;
   }
 
+  .sm\:cursor-auto\:focus-visible:focus-visible {
+    cursor: auto;
+  }
+
   .sm\:cursor-auto\:hover:hover {
     cursor: auto;
   }
@@ -561,6 +629,10 @@
   }
 
   .sm\:cursor-default\:focus:focus {
+    cursor: default;
+  }
+
+  .sm\:cursor-default\:focus-visible:focus-visible {
     cursor: default;
   }
 
@@ -596,6 +668,10 @@
     cursor: pointer;
   }
 
+  .sm\:cursor-pointer\:focus-visible:focus-visible {
+    cursor: pointer;
+  }
+
   .sm\:cursor-pointer\:hover:hover {
     cursor: pointer;
   }
@@ -625,6 +701,10 @@
   }
 
   .sm\:cursor-wait\:focus:focus {
+    cursor: wait;
+  }
+
+  .sm\:cursor-wait\:focus-visible:focus-visible {
     cursor: wait;
   }
 
@@ -660,6 +740,10 @@
     cursor: text;
   }
 
+  .sm\:cursor-text\:focus-visible:focus-visible {
+    cursor: text;
+  }
+
   .sm\:cursor-text\:hover:hover {
     cursor: text;
   }
@@ -689,6 +773,10 @@
   }
 
   .sm\:cursor-move\:focus:focus {
+    cursor: move;
+  }
+
+  .sm\:cursor-move\:focus-visible:focus-visible {
     cursor: move;
   }
 
@@ -724,6 +812,10 @@
     cursor: help;
   }
 
+  .sm\:cursor-help\:focus-visible:focus-visible {
+    cursor: help;
+  }
+
   .sm\:cursor-help\:hover:hover {
     cursor: help;
   }
@@ -753,6 +845,10 @@
   }
 
   .sm\:cursor-not-allowed\:focus:focus {
+    cursor: not-allowed;
+  }
+
+  .sm\:cursor-not-allowed\:focus-visible:focus-visible {
     cursor: not-allowed;
   }
 
@@ -789,6 +885,10 @@
     cursor: auto;
   }
 
+  .md\:cursor-auto\:focus-visible:focus-visible {
+    cursor: auto;
+  }
+
   .md\:cursor-auto\:hover:hover {
     cursor: auto;
   }
@@ -818,6 +918,10 @@
   }
 
   .md\:cursor-default\:focus:focus {
+    cursor: default;
+  }
+
+  .md\:cursor-default\:focus-visible:focus-visible {
     cursor: default;
   }
 
@@ -853,6 +957,10 @@
     cursor: pointer;
   }
 
+  .md\:cursor-pointer\:focus-visible:focus-visible {
+    cursor: pointer;
+  }
+
   .md\:cursor-pointer\:hover:hover {
     cursor: pointer;
   }
@@ -882,6 +990,10 @@
   }
 
   .md\:cursor-wait\:focus:focus {
+    cursor: wait;
+  }
+
+  .md\:cursor-wait\:focus-visible:focus-visible {
     cursor: wait;
   }
 
@@ -917,6 +1029,10 @@
     cursor: text;
   }
 
+  .md\:cursor-text\:focus-visible:focus-visible {
+    cursor: text;
+  }
+
   .md\:cursor-text\:hover:hover {
     cursor: text;
   }
@@ -946,6 +1062,10 @@
   }
 
   .md\:cursor-move\:focus:focus {
+    cursor: move;
+  }
+
+  .md\:cursor-move\:focus-visible:focus-visible {
     cursor: move;
   }
 
@@ -981,6 +1101,10 @@
     cursor: help;
   }
 
+  .md\:cursor-help\:focus-visible:focus-visible {
+    cursor: help;
+  }
+
   .md\:cursor-help\:hover:hover {
     cursor: help;
   }
@@ -1010,6 +1134,10 @@
   }
 
   .md\:cursor-not-allowed\:focus:focus {
+    cursor: not-allowed;
+  }
+
+  .md\:cursor-not-allowed\:focus-visible:focus-visible {
     cursor: not-allowed;
   }
 
@@ -1046,6 +1174,10 @@
     cursor: auto;
   }
 
+  .lg\:cursor-auto\:focus-visible:focus-visible {
+    cursor: auto;
+  }
+
   .lg\:cursor-auto\:hover:hover {
     cursor: auto;
   }
@@ -1075,6 +1207,10 @@
   }
 
   .lg\:cursor-default\:focus:focus {
+    cursor: default;
+  }
+
+  .lg\:cursor-default\:focus-visible:focus-visible {
     cursor: default;
   }
 
@@ -1110,6 +1246,10 @@
     cursor: pointer;
   }
 
+  .lg\:cursor-pointer\:focus-visible:focus-visible {
+    cursor: pointer;
+  }
+
   .lg\:cursor-pointer\:hover:hover {
     cursor: pointer;
   }
@@ -1139,6 +1279,10 @@
   }
 
   .lg\:cursor-wait\:focus:focus {
+    cursor: wait;
+  }
+
+  .lg\:cursor-wait\:focus-visible:focus-visible {
     cursor: wait;
   }
 
@@ -1174,6 +1318,10 @@
     cursor: text;
   }
 
+  .lg\:cursor-text\:focus-visible:focus-visible {
+    cursor: text;
+  }
+
   .lg\:cursor-text\:hover:hover {
     cursor: text;
   }
@@ -1203,6 +1351,10 @@
   }
 
   .lg\:cursor-move\:focus:focus {
+    cursor: move;
+  }
+
+  .lg\:cursor-move\:focus-visible:focus-visible {
     cursor: move;
   }
 
@@ -1238,6 +1390,10 @@
     cursor: help;
   }
 
+  .lg\:cursor-help\:focus-visible:focus-visible {
+    cursor: help;
+  }
+
   .lg\:cursor-help\:hover:hover {
     cursor: help;
   }
@@ -1267,6 +1423,10 @@
   }
 
   .lg\:cursor-not-allowed\:focus:focus {
+    cursor: not-allowed;
+  }
+
+  .lg\:cursor-not-allowed\:focus-visible:focus-visible {
     cursor: not-allowed;
   }
 

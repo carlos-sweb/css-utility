@@ -18,6 +18,10 @@
   place-items: center;
 }
 
+.place-items-center\:focus-visible:focus-visible {
+  place-items: center;
+}
+
 .place-items-center\:hover:hover {
   place-items: center;
 }
@@ -47,6 +51,10 @@
 }
 
 .place-items-start\:focus:focus {
+  place-items: start;
+}
+
+.place-items-start\:focus-visible:focus-visible {
   place-items: start;
 }
 
@@ -82,6 +90,10 @@
   place-items: end;
 }
 
+.place-items-end\:focus-visible:focus-visible {
+  place-items: end;
+}
+
 .place-items-end\:hover:hover {
   place-items: end;
 }
@@ -111,6 +123,10 @@
 }
 
 .place-items-stretch\:focus:focus {
+  place-items: stretch;
+}
+
+.place-items-stretch\:focus-visible:focus-visible {
   place-items: stretch;
 }
 
@@ -147,6 +163,10 @@
     place-items: center;
   }
 
+  .xs\:place-items-center\:focus-visible:focus-visible {
+    place-items: center;
+  }
+
   .xs\:place-items-center\:hover:hover {
     place-items: center;
   }
@@ -176,6 +196,10 @@
   }
 
   .xs\:place-items-start\:focus:focus {
+    place-items: start;
+  }
+
+  .xs\:place-items-start\:focus-visible:focus-visible {
     place-items: start;
   }
 
@@ -211,6 +235,10 @@
     place-items: end;
   }
 
+  .xs\:place-items-end\:focus-visible:focus-visible {
+    place-items: end;
+  }
+
   .xs\:place-items-end\:hover:hover {
     place-items: end;
   }
@@ -240,6 +268,10 @@
   }
 
   .xs\:place-items-stretch\:focus:focus {
+    place-items: stretch;
+  }
+
+  .xs\:place-items-stretch\:focus-visible:focus-visible {
     place-items: stretch;
   }
 
@@ -276,6 +308,10 @@
     place-items: center;
   }
 
+  .sm\:place-items-center\:focus-visible:focus-visible {
+    place-items: center;
+  }
+
   .sm\:place-items-center\:hover:hover {
     place-items: center;
   }
@@ -305,6 +341,10 @@
   }
 
   .sm\:place-items-start\:focus:focus {
+    place-items: start;
+  }
+
+  .sm\:place-items-start\:focus-visible:focus-visible {
     place-items: start;
   }
 
@@ -340,6 +380,10 @@
     place-items: end;
   }
 
+  .sm\:place-items-end\:focus-visible:focus-visible {
+    place-items: end;
+  }
+
   .sm\:place-items-end\:hover:hover {
     place-items: end;
   }
@@ -369,6 +413,10 @@
   }
 
   .sm\:place-items-stretch\:focus:focus {
+    place-items: stretch;
+  }
+
+  .sm\:place-items-stretch\:focus-visible:focus-visible {
     place-items: stretch;
   }
 
@@ -405,6 +453,10 @@
     place-items: center;
   }
 
+  .md\:place-items-center\:focus-visible:focus-visible {
+    place-items: center;
+  }
+
   .md\:place-items-center\:hover:hover {
     place-items: center;
   }
@@ -434,6 +486,10 @@
   }
 
   .md\:place-items-start\:focus:focus {
+    place-items: start;
+  }
+
+  .md\:place-items-start\:focus-visible:focus-visible {
     place-items: start;
   }
 
@@ -469,6 +525,10 @@
     place-items: end;
   }
 
+  .md\:place-items-end\:focus-visible:focus-visible {
+    place-items: end;
+  }
+
   .md\:place-items-end\:hover:hover {
     place-items: end;
   }
@@ -498,6 +558,10 @@
   }
 
   .md\:place-items-stretch\:focus:focus {
+    place-items: stretch;
+  }
+
+  .md\:place-items-stretch\:focus-visible:focus-visible {
     place-items: stretch;
   }
 
@@ -534,6 +598,10 @@
     place-items: center;
   }
 
+  .lg\:place-items-center\:focus-visible:focus-visible {
+    place-items: center;
+  }
+
   .lg\:place-items-center\:hover:hover {
     place-items: center;
   }
@@ -563,6 +631,10 @@
   }
 
   .lg\:place-items-start\:focus:focus {
+    place-items: start;
+  }
+
+  .lg\:place-items-start\:focus-visible:focus-visible {
     place-items: start;
   }
 
@@ -598,6 +670,10 @@
     place-items: end;
   }
 
+  .lg\:place-items-end\:focus-visible:focus-visible {
+    place-items: end;
+  }
+
   .lg\:place-items-end\:hover:hover {
     place-items: end;
   }
@@ -627,6 +703,10 @@
   }
 
   .lg\:place-items-stretch\:focus:focus {
+    place-items: stretch;
+  }
+
+  .lg\:place-items-stretch\:focus-visible:focus-visible {
     place-items: stretch;
   }
 

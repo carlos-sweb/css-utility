@@ -18,6 +18,10 @@
   background-position: bottom;
 }
 
+.bg-bottom\:focus-visible:focus-visible {
+  background-position: bottom;
+}
+
 .bg-bottom\:hover:hover {
   background-position: bottom;
 }
@@ -47,6 +51,10 @@
 }
 
 .bg-center\:focus:focus {
+  background-position: center;
+}
+
+.bg-center\:focus-visible:focus-visible {
   background-position: center;
 }
 
@@ -82,6 +90,10 @@
   background-position: left;
 }
 
+.bg-left\:focus-visible:focus-visible {
+  background-position: left;
+}
+
 .bg-left\:hover:hover {
   background-position: left;
 }
@@ -111,6 +123,10 @@
 }
 
 .bg-left-bottom\:focus:focus {
+  background-position: left-bottom;
+}
+
+.bg-left-bottom\:focus-visible:focus-visible {
   background-position: left-bottom;
 }
 
@@ -146,6 +162,10 @@
   background-position: left-top;
 }
 
+.bg-left-top\:focus-visible:focus-visible {
+  background-position: left-top;
+}
+
 .bg-left-top\:hover:hover {
   background-position: left-top;
 }
@@ -175,6 +195,10 @@
 }
 
 .bg-right\:focus:focus {
+  background-position: right;
+}
+
+.bg-right\:focus-visible:focus-visible {
   background-position: right;
 }
 
@@ -210,6 +234,10 @@
   background-position: right-bottom;
 }
 
+.bg-right-bottom\:focus-visible:focus-visible {
+  background-position: right-bottom;
+}
+
 .bg-right-bottom\:hover:hover {
   background-position: right-bottom;
 }
@@ -242,6 +270,10 @@
   background-position: right-top;
 }
 
+.bg-right-top\:focus-visible:focus-visible {
+  background-position: right-top;
+}
+
 .bg-right-top\:hover:hover {
   background-position: right-top;
 }
@@ -271,6 +303,10 @@
 }
 
 .bg-top\:focus:focus {
+  background-position: top;
+}
+
+.bg-top\:focus-visible:focus-visible {
   background-position: top;
 }
 
@@ -307,6 +343,10 @@
     background-position: bottom;
   }
 
+  .xs\:bg-bottom\:focus-visible:focus-visible {
+    background-position: bottom;
+  }
+
   .xs\:bg-bottom\:hover:hover {
     background-position: bottom;
   }
@@ -336,6 +376,10 @@
   }
 
   .xs\:bg-center\:focus:focus {
+    background-position: center;
+  }
+
+  .xs\:bg-center\:focus-visible:focus-visible {
     background-position: center;
   }
 
@@ -371,6 +415,10 @@
     background-position: left;
   }
 
+  .xs\:bg-left\:focus-visible:focus-visible {
+    background-position: left;
+  }
+
   .xs\:bg-left\:hover:hover {
     background-position: left;
   }
@@ -400,6 +448,10 @@
   }
 
   .xs\:bg-left-bottom\:focus:focus {
+    background-position: left-bottom;
+  }
+
+  .xs\:bg-left-bottom\:focus-visible:focus-visible {
     background-position: left-bottom;
   }
 
@@ -435,6 +487,10 @@
     background-position: left-top;
   }
 
+  .xs\:bg-left-top\:focus-visible:focus-visible {
+    background-position: left-top;
+  }
+
   .xs\:bg-left-top\:hover:hover {
     background-position: left-top;
   }
@@ -464,6 +520,10 @@
   }
 
   .xs\:bg-right\:focus:focus {
+    background-position: right;
+  }
+
+  .xs\:bg-right\:focus-visible:focus-visible {
     background-position: right;
   }
 
@@ -499,6 +559,10 @@
     background-position: right-bottom;
   }
 
+  .xs\:bg-right-bottom\:focus-visible:focus-visible {
+    background-position: right-bottom;
+  }
+
   .xs\:bg-right-bottom\:hover:hover {
     background-position: right-bottom;
   }
@@ -531,6 +595,10 @@
     background-position: right-top;
   }
 
+  .xs\:bg-right-top\:focus-visible:focus-visible {
+    background-position: right-top;
+  }
+
   .xs\:bg-right-top\:hover:hover {
     background-position: right-top;
   }
@@ -560,6 +628,10 @@
   }
 
   .xs\:bg-top\:focus:focus {
+    background-position: top;
+  }
+
+  .xs\:bg-top\:focus-visible:focus-visible {
     background-position: top;
   }
 
@@ -596,6 +668,10 @@
     background-position: bottom;
   }
 
+  .sm\:bg-bottom\:focus-visible:focus-visible {
+    background-position: bottom;
+  }
+
   .sm\:bg-bottom\:hover:hover {
     background-position: bottom;
   }
@@ -625,6 +701,10 @@
   }
 
   .sm\:bg-center\:focus:focus {
+    background-position: center;
+  }
+
+  .sm\:bg-center\:focus-visible:focus-visible {
     background-position: center;
   }
 
@@ -660,6 +740,10 @@
     background-position: left;
   }
 
+  .sm\:bg-left\:focus-visible:focus-visible {
+    background-position: left;
+  }
+
   .sm\:bg-left\:hover:hover {
     background-position: left;
   }
@@ -689,6 +773,10 @@
   }
 
   .sm\:bg-left-bottom\:focus:focus {
+    background-position: left-bottom;
+  }
+
+  .sm\:bg-left-bottom\:focus-visible:focus-visible {
     background-position: left-bottom;
   }
 
@@ -724,6 +812,10 @@
     background-position: left-top;
   }
 
+  .sm\:bg-left-top\:focus-visible:focus-visible {
+    background-position: left-top;
+  }
+
   .sm\:bg-left-top\:hover:hover {
     background-position: left-top;
   }
@@ -753,6 +845,10 @@
   }
 
   .sm\:bg-right\:focus:focus {
+    background-position: right;
+  }
+
+  .sm\:bg-right\:focus-visible:focus-visible {
     background-position: right;
   }
 
@@ -788,6 +884,10 @@
     background-position: right-bottom;
   }
 
+  .sm\:bg-right-bottom\:focus-visible:focus-visible {
+    background-position: right-bottom;
+  }
+
   .sm\:bg-right-bottom\:hover:hover {
     background-position: right-bottom;
   }
@@ -820,6 +920,10 @@
     background-position: right-top;
   }
 
+  .sm\:bg-right-top\:focus-visible:focus-visible {
+    background-position: right-top;
+  }
+
   .sm\:bg-right-top\:hover:hover {
     background-position: right-top;
   }
@@ -849,6 +953,10 @@
   }
 
   .sm\:bg-top\:focus:focus {
+    background-position: top;
+  }
+
+  .sm\:bg-top\:focus-visible:focus-visible {
     background-position: top;
   }
 
@@ -885,6 +993,10 @@
     background-position: bottom;
   }
 
+  .md\:bg-bottom\:focus-visible:focus-visible {
+    background-position: bottom;
+  }
+
   .md\:bg-bottom\:hover:hover {
     background-position: bottom;
   }
@@ -914,6 +1026,10 @@
   }
 
   .md\:bg-center\:focus:focus {
+    background-position: center;
+  }
+
+  .md\:bg-center\:focus-visible:focus-visible {
     background-position: center;
   }
 
@@ -949,6 +1065,10 @@
     background-position: left;
   }
 
+  .md\:bg-left\:focus-visible:focus-visible {
+    background-position: left;
+  }
+
   .md\:bg-left\:hover:hover {
     background-position: left;
   }
@@ -978,6 +1098,10 @@
   }
 
   .md\:bg-left-bottom\:focus:focus {
+    background-position: left-bottom;
+  }
+
+  .md\:bg-left-bottom\:focus-visible:focus-visible {
     background-position: left-bottom;
   }
 
@@ -1013,6 +1137,10 @@
     background-position: left-top;
   }
 
+  .md\:bg-left-top\:focus-visible:focus-visible {
+    background-position: left-top;
+  }
+
   .md\:bg-left-top\:hover:hover {
     background-position: left-top;
   }
@@ -1042,6 +1170,10 @@
   }
 
   .md\:bg-right\:focus:focus {
+    background-position: right;
+  }
+
+  .md\:bg-right\:focus-visible:focus-visible {
     background-position: right;
   }
 
@@ -1077,6 +1209,10 @@
     background-position: right-bottom;
   }
 
+  .md\:bg-right-bottom\:focus-visible:focus-visible {
+    background-position: right-bottom;
+  }
+
   .md\:bg-right-bottom\:hover:hover {
     background-position: right-bottom;
   }
@@ -1109,6 +1245,10 @@
     background-position: right-top;
   }
 
+  .md\:bg-right-top\:focus-visible:focus-visible {
+    background-position: right-top;
+  }
+
   .md\:bg-right-top\:hover:hover {
     background-position: right-top;
   }
@@ -1138,6 +1278,10 @@
   }
 
   .md\:bg-top\:focus:focus {
+    background-position: top;
+  }
+
+  .md\:bg-top\:focus-visible:focus-visible {
     background-position: top;
   }
 
@@ -1174,6 +1318,10 @@
     background-position: bottom;
   }
 
+  .lg\:bg-bottom\:focus-visible:focus-visible {
+    background-position: bottom;
+  }
+
   .lg\:bg-bottom\:hover:hover {
     background-position: bottom;
   }
@@ -1203,6 +1351,10 @@
   }
 
   .lg\:bg-center\:focus:focus {
+    background-position: center;
+  }
+
+  .lg\:bg-center\:focus-visible:focus-visible {
     background-position: center;
   }
 
@@ -1238,6 +1390,10 @@
     background-position: left;
   }
 
+  .lg\:bg-left\:focus-visible:focus-visible {
+    background-position: left;
+  }
+
   .lg\:bg-left\:hover:hover {
     background-position: left;
   }
@@ -1267,6 +1423,10 @@
   }
 
   .lg\:bg-left-bottom\:focus:focus {
+    background-position: left-bottom;
+  }
+
+  .lg\:bg-left-bottom\:focus-visible:focus-visible {
     background-position: left-bottom;
   }
 
@@ -1302,6 +1462,10 @@
     background-position: left-top;
   }
 
+  .lg\:bg-left-top\:focus-visible:focus-visible {
+    background-position: left-top;
+  }
+
   .lg\:bg-left-top\:hover:hover {
     background-position: left-top;
   }
@@ -1331,6 +1495,10 @@
   }
 
   .lg\:bg-right\:focus:focus {
+    background-position: right;
+  }
+
+  .lg\:bg-right\:focus-visible:focus-visible {
     background-position: right;
   }
 
@@ -1366,6 +1534,10 @@
     background-position: right-bottom;
   }
 
+  .lg\:bg-right-bottom\:focus-visible:focus-visible {
+    background-position: right-bottom;
+  }
+
   .lg\:bg-right-bottom\:hover:hover {
     background-position: right-bottom;
   }
@@ -1398,6 +1570,10 @@
     background-position: right-top;
   }
 
+  .lg\:bg-right-top\:focus-visible:focus-visible {
+    background-position: right-top;
+  }
+
   .lg\:bg-right-top\:hover:hover {
     background-position: right-top;
   }
@@ -1427,6 +1603,10 @@
   }
 
   .lg\:bg-top\:focus:focus {
+    background-position: top;
+  }
+
+  .lg\:bg-top\:focus-visible:focus-visible {
     background-position: top;
   }
 

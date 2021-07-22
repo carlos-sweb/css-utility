@@ -18,6 +18,10 @@
   max-width: 0rem;
 }
 
+.max-w-0\:focus-visible:focus-visible {
+  max-width: 0rem;
+}
+
 .max-w-0\:hover:hover {
   max-width: 0rem;
 }
@@ -47,6 +51,10 @@
 }
 
 .max-w-none\:focus:focus {
+  max-width: none;
+}
+
+.max-w-none\:focus-visible:focus-visible {
   max-width: none;
 }
 
@@ -82,6 +90,10 @@
   max-width: 20rem;
 }
 
+.max-w-xs\:focus-visible:focus-visible {
+  max-width: 20rem;
+}
+
 .max-w-xs\:hover:hover {
   max-width: 20rem;
 }
@@ -111,6 +123,10 @@
 }
 
 .max-w-sm\:focus:focus {
+  max-width: 24rem;
+}
+
+.max-w-sm\:focus-visible:focus-visible {
   max-width: 24rem;
 }
 
@@ -146,6 +162,10 @@
   max-width: 28rem;
 }
 
+.max-w-md\:focus-visible:focus-visible {
+  max-width: 28rem;
+}
+
 .max-w-md\:hover:hover {
   max-width: 28rem;
 }
@@ -175,6 +195,10 @@
 }
 
 .max-w-lg\:focus:focus {
+  max-width: 32rem;
+}
+
+.max-w-lg\:focus-visible:focus-visible {
   max-width: 32rem;
 }
 
@@ -210,6 +234,10 @@
   max-width: 36rem;
 }
 
+.max-w-xl\:focus-visible:focus-visible {
+  max-width: 36rem;
+}
+
 .max-w-xl\:hover:hover {
   max-width: 36rem;
 }
@@ -239,6 +267,10 @@
 }
 
 .max-w-2xl\:focus:focus {
+  max-width: 42rem;
+}
+
+.max-w-2xl\:focus-visible:focus-visible {
   max-width: 42rem;
 }
 
@@ -274,6 +306,10 @@
   max-width: 48rem;
 }
 
+.max-w-3xl\:focus-visible:focus-visible {
+  max-width: 48rem;
+}
+
 .max-w-3xl\:hover:hover {
   max-width: 48rem;
 }
@@ -303,6 +339,10 @@
 }
 
 .max-w-4xl\:focus:focus {
+  max-width: 56rem;
+}
+
+.max-w-4xl\:focus-visible:focus-visible {
   max-width: 56rem;
 }
 
@@ -338,6 +378,10 @@
   max-width: 64rem;
 }
 
+.max-w-5xl\:focus-visible:focus-visible {
+  max-width: 64rem;
+}
+
 .max-w-5xl\:hover:hover {
   max-width: 64rem;
 }
@@ -367,6 +411,10 @@
 }
 
 .max-w-6xl\:focus:focus {
+  max-width: 72rem;
+}
+
+.max-w-6xl\:focus-visible:focus-visible {
   max-width: 72rem;
 }
 
@@ -402,6 +450,10 @@
   max-width: 80rem;
 }
 
+.max-w-7xl\:focus-visible:focus-visible {
+  max-width: 80rem;
+}
+
 .max-w-7xl\:hover:hover {
   max-width: 80rem;
 }
@@ -431,6 +483,10 @@
 }
 
 .max-w-full\:focus:focus {
+  max-width: 100%;
+}
+
+.max-w-full\:focus-visible:focus-visible {
   max-width: 100%;
 }
 
@@ -466,6 +522,10 @@
   max-width: min-content;
 }
 
+.max-w-min\:focus-visible:focus-visible {
+  max-width: min-content;
+}
+
 .max-w-min\:hover:hover {
   max-width: min-content;
 }
@@ -495,6 +555,10 @@
 }
 
 .max-w-max\:focus:focus {
+  max-width: max-content;
+}
+
+.max-w-max\:focus-visible:focus-visible {
   max-width: max-content;
 }
 
@@ -531,6 +595,10 @@
     max-width: 0rem;
   }
 
+  .xs\:max-w-0\:focus-visible:focus-visible {
+    max-width: 0rem;
+  }
+
   .xs\:max-w-0\:hover:hover {
     max-width: 0rem;
   }
@@ -560,6 +628,10 @@
   }
 
   .xs\:max-w-none\:focus:focus {
+    max-width: none;
+  }
+
+  .xs\:max-w-none\:focus-visible:focus-visible {
     max-width: none;
   }
 
@@ -595,6 +667,10 @@
     max-width: 20rem;
   }
 
+  .xs\:max-w-xs\:focus-visible:focus-visible {
+    max-width: 20rem;
+  }
+
   .xs\:max-w-xs\:hover:hover {
     max-width: 20rem;
   }
@@ -624,6 +700,10 @@
   }
 
   .xs\:max-w-sm\:focus:focus {
+    max-width: 24rem;
+  }
+
+  .xs\:max-w-sm\:focus-visible:focus-visible {
     max-width: 24rem;
   }
 
@@ -659,6 +739,10 @@
     max-width: 28rem;
   }
 
+  .xs\:max-w-md\:focus-visible:focus-visible {
+    max-width: 28rem;
+  }
+
   .xs\:max-w-md\:hover:hover {
     max-width: 28rem;
   }
@@ -688,6 +772,10 @@
   }
 
   .xs\:max-w-lg\:focus:focus {
+    max-width: 32rem;
+  }
+
+  .xs\:max-w-lg\:focus-visible:focus-visible {
     max-width: 32rem;
   }
 
@@ -723,6 +811,10 @@
     max-width: 36rem;
   }
 
+  .xs\:max-w-xl\:focus-visible:focus-visible {
+    max-width: 36rem;
+  }
+
   .xs\:max-w-xl\:hover:hover {
     max-width: 36rem;
   }
@@ -752,6 +844,10 @@
   }
 
   .xs\:max-w-2xl\:focus:focus {
+    max-width: 42rem;
+  }
+
+  .xs\:max-w-2xl\:focus-visible:focus-visible {
     max-width: 42rem;
   }
 
@@ -787,6 +883,10 @@
     max-width: 48rem;
   }
 
+  .xs\:max-w-3xl\:focus-visible:focus-visible {
+    max-width: 48rem;
+  }
+
   .xs\:max-w-3xl\:hover:hover {
     max-width: 48rem;
   }
@@ -816,6 +916,10 @@
   }
 
   .xs\:max-w-4xl\:focus:focus {
+    max-width: 56rem;
+  }
+
+  .xs\:max-w-4xl\:focus-visible:focus-visible {
     max-width: 56rem;
   }
 
@@ -851,6 +955,10 @@
     max-width: 64rem;
   }
 
+  .xs\:max-w-5xl\:focus-visible:focus-visible {
+    max-width: 64rem;
+  }
+
   .xs\:max-w-5xl\:hover:hover {
     max-width: 64rem;
   }
@@ -880,6 +988,10 @@
   }
 
   .xs\:max-w-6xl\:focus:focus {
+    max-width: 72rem;
+  }
+
+  .xs\:max-w-6xl\:focus-visible:focus-visible {
     max-width: 72rem;
   }
 
@@ -915,6 +1027,10 @@
     max-width: 80rem;
   }
 
+  .xs\:max-w-7xl\:focus-visible:focus-visible {
+    max-width: 80rem;
+  }
+
   .xs\:max-w-7xl\:hover:hover {
     max-width: 80rem;
   }
@@ -944,6 +1060,10 @@
   }
 
   .xs\:max-w-full\:focus:focus {
+    max-width: 100%;
+  }
+
+  .xs\:max-w-full\:focus-visible:focus-visible {
     max-width: 100%;
   }
 
@@ -979,6 +1099,10 @@
     max-width: min-content;
   }
 
+  .xs\:max-w-min\:focus-visible:focus-visible {
+    max-width: min-content;
+  }
+
   .xs\:max-w-min\:hover:hover {
     max-width: min-content;
   }
@@ -1008,6 +1132,10 @@
   }
 
   .xs\:max-w-max\:focus:focus {
+    max-width: max-content;
+  }
+
+  .xs\:max-w-max\:focus-visible:focus-visible {
     max-width: max-content;
   }
 
@@ -1044,6 +1172,10 @@
     max-width: 0rem;
   }
 
+  .sm\:max-w-0\:focus-visible:focus-visible {
+    max-width: 0rem;
+  }
+
   .sm\:max-w-0\:hover:hover {
     max-width: 0rem;
   }
@@ -1073,6 +1205,10 @@
   }
 
   .sm\:max-w-none\:focus:focus {
+    max-width: none;
+  }
+
+  .sm\:max-w-none\:focus-visible:focus-visible {
     max-width: none;
   }
 
@@ -1108,6 +1244,10 @@
     max-width: 20rem;
   }
 
+  .sm\:max-w-xs\:focus-visible:focus-visible {
+    max-width: 20rem;
+  }
+
   .sm\:max-w-xs\:hover:hover {
     max-width: 20rem;
   }
@@ -1137,6 +1277,10 @@
   }
 
   .sm\:max-w-sm\:focus:focus {
+    max-width: 24rem;
+  }
+
+  .sm\:max-w-sm\:focus-visible:focus-visible {
     max-width: 24rem;
   }
 
@@ -1172,6 +1316,10 @@
     max-width: 28rem;
   }
 
+  .sm\:max-w-md\:focus-visible:focus-visible {
+    max-width: 28rem;
+  }
+
   .sm\:max-w-md\:hover:hover {
     max-width: 28rem;
   }
@@ -1201,6 +1349,10 @@
   }
 
   .sm\:max-w-lg\:focus:focus {
+    max-width: 32rem;
+  }
+
+  .sm\:max-w-lg\:focus-visible:focus-visible {
     max-width: 32rem;
   }
 
@@ -1236,6 +1388,10 @@
     max-width: 36rem;
   }
 
+  .sm\:max-w-xl\:focus-visible:focus-visible {
+    max-width: 36rem;
+  }
+
   .sm\:max-w-xl\:hover:hover {
     max-width: 36rem;
   }
@@ -1265,6 +1421,10 @@
   }
 
   .sm\:max-w-2xl\:focus:focus {
+    max-width: 42rem;
+  }
+
+  .sm\:max-w-2xl\:focus-visible:focus-visible {
     max-width: 42rem;
   }
 
@@ -1300,6 +1460,10 @@
     max-width: 48rem;
   }
 
+  .sm\:max-w-3xl\:focus-visible:focus-visible {
+    max-width: 48rem;
+  }
+
   .sm\:max-w-3xl\:hover:hover {
     max-width: 48rem;
   }
@@ -1329,6 +1493,10 @@
   }
 
   .sm\:max-w-4xl\:focus:focus {
+    max-width: 56rem;
+  }
+
+  .sm\:max-w-4xl\:focus-visible:focus-visible {
     max-width: 56rem;
   }
 
@@ -1364,6 +1532,10 @@
     max-width: 64rem;
   }
 
+  .sm\:max-w-5xl\:focus-visible:focus-visible {
+    max-width: 64rem;
+  }
+
   .sm\:max-w-5xl\:hover:hover {
     max-width: 64rem;
   }
@@ -1393,6 +1565,10 @@
   }
 
   .sm\:max-w-6xl\:focus:focus {
+    max-width: 72rem;
+  }
+
+  .sm\:max-w-6xl\:focus-visible:focus-visible {
     max-width: 72rem;
   }
 
@@ -1428,6 +1604,10 @@
     max-width: 80rem;
   }
 
+  .sm\:max-w-7xl\:focus-visible:focus-visible {
+    max-width: 80rem;
+  }
+
   .sm\:max-w-7xl\:hover:hover {
     max-width: 80rem;
   }
@@ -1457,6 +1637,10 @@
   }
 
   .sm\:max-w-full\:focus:focus {
+    max-width: 100%;
+  }
+
+  .sm\:max-w-full\:focus-visible:focus-visible {
     max-width: 100%;
   }
 
@@ -1492,6 +1676,10 @@
     max-width: min-content;
   }
 
+  .sm\:max-w-min\:focus-visible:focus-visible {
+    max-width: min-content;
+  }
+
   .sm\:max-w-min\:hover:hover {
     max-width: min-content;
   }
@@ -1521,6 +1709,10 @@
   }
 
   .sm\:max-w-max\:focus:focus {
+    max-width: max-content;
+  }
+
+  .sm\:max-w-max\:focus-visible:focus-visible {
     max-width: max-content;
   }
 
@@ -1557,6 +1749,10 @@
     max-width: 0rem;
   }
 
+  .md\:max-w-0\:focus-visible:focus-visible {
+    max-width: 0rem;
+  }
+
   .md\:max-w-0\:hover:hover {
     max-width: 0rem;
   }
@@ -1586,6 +1782,10 @@
   }
 
   .md\:max-w-none\:focus:focus {
+    max-width: none;
+  }
+
+  .md\:max-w-none\:focus-visible:focus-visible {
     max-width: none;
   }
 
@@ -1621,6 +1821,10 @@
     max-width: 20rem;
   }
 
+  .md\:max-w-xs\:focus-visible:focus-visible {
+    max-width: 20rem;
+  }
+
   .md\:max-w-xs\:hover:hover {
     max-width: 20rem;
   }
@@ -1650,6 +1854,10 @@
   }
 
   .md\:max-w-sm\:focus:focus {
+    max-width: 24rem;
+  }
+
+  .md\:max-w-sm\:focus-visible:focus-visible {
     max-width: 24rem;
   }
 
@@ -1685,6 +1893,10 @@
     max-width: 28rem;
   }
 
+  .md\:max-w-md\:focus-visible:focus-visible {
+    max-width: 28rem;
+  }
+
   .md\:max-w-md\:hover:hover {
     max-width: 28rem;
   }
@@ -1714,6 +1926,10 @@
   }
 
   .md\:max-w-lg\:focus:focus {
+    max-width: 32rem;
+  }
+
+  .md\:max-w-lg\:focus-visible:focus-visible {
     max-width: 32rem;
   }
 
@@ -1749,6 +1965,10 @@
     max-width: 36rem;
   }
 
+  .md\:max-w-xl\:focus-visible:focus-visible {
+    max-width: 36rem;
+  }
+
   .md\:max-w-xl\:hover:hover {
     max-width: 36rem;
   }
@@ -1778,6 +1998,10 @@
   }
 
   .md\:max-w-2xl\:focus:focus {
+    max-width: 42rem;
+  }
+
+  .md\:max-w-2xl\:focus-visible:focus-visible {
     max-width: 42rem;
   }
 
@@ -1813,6 +2037,10 @@
     max-width: 48rem;
   }
 
+  .md\:max-w-3xl\:focus-visible:focus-visible {
+    max-width: 48rem;
+  }
+
   .md\:max-w-3xl\:hover:hover {
     max-width: 48rem;
   }
@@ -1842,6 +2070,10 @@
   }
 
   .md\:max-w-4xl\:focus:focus {
+    max-width: 56rem;
+  }
+
+  .md\:max-w-4xl\:focus-visible:focus-visible {
     max-width: 56rem;
   }
 
@@ -1877,6 +2109,10 @@
     max-width: 64rem;
   }
 
+  .md\:max-w-5xl\:focus-visible:focus-visible {
+    max-width: 64rem;
+  }
+
   .md\:max-w-5xl\:hover:hover {
     max-width: 64rem;
   }
@@ -1906,6 +2142,10 @@
   }
 
   .md\:max-w-6xl\:focus:focus {
+    max-width: 72rem;
+  }
+
+  .md\:max-w-6xl\:focus-visible:focus-visible {
     max-width: 72rem;
   }
 
@@ -1941,6 +2181,10 @@
     max-width: 80rem;
   }
 
+  .md\:max-w-7xl\:focus-visible:focus-visible {
+    max-width: 80rem;
+  }
+
   .md\:max-w-7xl\:hover:hover {
     max-width: 80rem;
   }
@@ -1970,6 +2214,10 @@
   }
 
   .md\:max-w-full\:focus:focus {
+    max-width: 100%;
+  }
+
+  .md\:max-w-full\:focus-visible:focus-visible {
     max-width: 100%;
   }
 
@@ -2005,6 +2253,10 @@
     max-width: min-content;
   }
 
+  .md\:max-w-min\:focus-visible:focus-visible {
+    max-width: min-content;
+  }
+
   .md\:max-w-min\:hover:hover {
     max-width: min-content;
   }
@@ -2034,6 +2286,10 @@
   }
 
   .md\:max-w-max\:focus:focus {
+    max-width: max-content;
+  }
+
+  .md\:max-w-max\:focus-visible:focus-visible {
     max-width: max-content;
   }
 
@@ -2070,6 +2326,10 @@
     max-width: 0rem;
   }
 
+  .lg\:max-w-0\:focus-visible:focus-visible {
+    max-width: 0rem;
+  }
+
   .lg\:max-w-0\:hover:hover {
     max-width: 0rem;
   }
@@ -2099,6 +2359,10 @@
   }
 
   .lg\:max-w-none\:focus:focus {
+    max-width: none;
+  }
+
+  .lg\:max-w-none\:focus-visible:focus-visible {
     max-width: none;
   }
 
@@ -2134,6 +2398,10 @@
     max-width: 20rem;
   }
 
+  .lg\:max-w-xs\:focus-visible:focus-visible {
+    max-width: 20rem;
+  }
+
   .lg\:max-w-xs\:hover:hover {
     max-width: 20rem;
   }
@@ -2163,6 +2431,10 @@
   }
 
   .lg\:max-w-sm\:focus:focus {
+    max-width: 24rem;
+  }
+
+  .lg\:max-w-sm\:focus-visible:focus-visible {
     max-width: 24rem;
   }
 
@@ -2198,6 +2470,10 @@
     max-width: 28rem;
   }
 
+  .lg\:max-w-md\:focus-visible:focus-visible {
+    max-width: 28rem;
+  }
+
   .lg\:max-w-md\:hover:hover {
     max-width: 28rem;
   }
@@ -2227,6 +2503,10 @@
   }
 
   .lg\:max-w-lg\:focus:focus {
+    max-width: 32rem;
+  }
+
+  .lg\:max-w-lg\:focus-visible:focus-visible {
     max-width: 32rem;
   }
 
@@ -2262,6 +2542,10 @@
     max-width: 36rem;
   }
 
+  .lg\:max-w-xl\:focus-visible:focus-visible {
+    max-width: 36rem;
+  }
+
   .lg\:max-w-xl\:hover:hover {
     max-width: 36rem;
   }
@@ -2291,6 +2575,10 @@
   }
 
   .lg\:max-w-2xl\:focus:focus {
+    max-width: 42rem;
+  }
+
+  .lg\:max-w-2xl\:focus-visible:focus-visible {
     max-width: 42rem;
   }
 
@@ -2326,6 +2614,10 @@
     max-width: 48rem;
   }
 
+  .lg\:max-w-3xl\:focus-visible:focus-visible {
+    max-width: 48rem;
+  }
+
   .lg\:max-w-3xl\:hover:hover {
     max-width: 48rem;
   }
@@ -2355,6 +2647,10 @@
   }
 
   .lg\:max-w-4xl\:focus:focus {
+    max-width: 56rem;
+  }
+
+  .lg\:max-w-4xl\:focus-visible:focus-visible {
     max-width: 56rem;
   }
 
@@ -2390,6 +2686,10 @@
     max-width: 64rem;
   }
 
+  .lg\:max-w-5xl\:focus-visible:focus-visible {
+    max-width: 64rem;
+  }
+
   .lg\:max-w-5xl\:hover:hover {
     max-width: 64rem;
   }
@@ -2419,6 +2719,10 @@
   }
 
   .lg\:max-w-6xl\:focus:focus {
+    max-width: 72rem;
+  }
+
+  .lg\:max-w-6xl\:focus-visible:focus-visible {
     max-width: 72rem;
   }
 
@@ -2454,6 +2758,10 @@
     max-width: 80rem;
   }
 
+  .lg\:max-w-7xl\:focus-visible:focus-visible {
+    max-width: 80rem;
+  }
+
   .lg\:max-w-7xl\:hover:hover {
     max-width: 80rem;
   }
@@ -2483,6 +2791,10 @@
   }
 
   .lg\:max-w-full\:focus:focus {
+    max-width: 100%;
+  }
+
+  .lg\:max-w-full\:focus-visible:focus-visible {
     max-width: 100%;
   }
 
@@ -2518,6 +2830,10 @@
     max-width: min-content;
   }
 
+  .lg\:max-w-min\:focus-visible:focus-visible {
+    max-width: min-content;
+  }
+
   .lg\:max-w-min\:hover:hover {
     max-width: min-content;
   }
@@ -2547,6 +2863,10 @@
   }
 
   .lg\:max-w-max\:focus:focus {
+    max-width: max-content;
+  }
+
+  .lg\:max-w-max\:focus-visible:focus-visible {
     max-width: max-content;
   }
 

@@ -18,6 +18,10 @@
   border-collapse: collapse;
 }
 
+.border-collapse\:focus-visible:focus-visible {
+  border-collapse: collapse;
+}
+
 .border-collapse\:hover:hover {
   border-collapse: collapse;
 }
@@ -47,6 +51,10 @@
 }
 
 .border-separate\:focus:focus {
+  border-collapse: separate;
+}
+
+.border-separate\:focus-visible:focus-visible {
   border-collapse: separate;
 }
 
@@ -83,6 +91,10 @@
     border-collapse: collapse;
   }
 
+  .xs\:border-collapse\:focus-visible:focus-visible {
+    border-collapse: collapse;
+  }
+
   .xs\:border-collapse\:hover:hover {
     border-collapse: collapse;
   }
@@ -112,6 +124,10 @@
   }
 
   .xs\:border-separate\:focus:focus {
+    border-collapse: separate;
+  }
+
+  .xs\:border-separate\:focus-visible:focus-visible {
     border-collapse: separate;
   }
 
@@ -148,6 +164,10 @@
     border-collapse: collapse;
   }
 
+  .sm\:border-collapse\:focus-visible:focus-visible {
+    border-collapse: collapse;
+  }
+
   .sm\:border-collapse\:hover:hover {
     border-collapse: collapse;
   }
@@ -177,6 +197,10 @@
   }
 
   .sm\:border-separate\:focus:focus {
+    border-collapse: separate;
+  }
+
+  .sm\:border-separate\:focus-visible:focus-visible {
     border-collapse: separate;
   }
 
@@ -213,6 +237,10 @@
     border-collapse: collapse;
   }
 
+  .md\:border-collapse\:focus-visible:focus-visible {
+    border-collapse: collapse;
+  }
+
   .md\:border-collapse\:hover:hover {
     border-collapse: collapse;
   }
@@ -242,6 +270,10 @@
   }
 
   .md\:border-separate\:focus:focus {
+    border-collapse: separate;
+  }
+
+  .md\:border-separate\:focus-visible:focus-visible {
     border-collapse: separate;
   }
 
@@ -278,6 +310,10 @@
     border-collapse: collapse;
   }
 
+  .lg\:border-collapse\:focus-visible:focus-visible {
+    border-collapse: collapse;
+  }
+
   .lg\:border-collapse\:hover:hover {
     border-collapse: collapse;
   }
@@ -307,6 +343,10 @@
   }
 
   .lg\:border-separate\:focus:focus {
+    border-collapse: separate;
+  }
+
+  .lg\:border-separate\:focus-visible:focus-visible {
     border-collapse: separate;
   }
 

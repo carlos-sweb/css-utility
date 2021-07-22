@@ -18,6 +18,10 @@
   box-sizing: border-box;
 }
 
+.box-border\:focus-visible:focus-visible {
+  box-sizing: border-box;
+}
+
 .box-border\:hover:hover {
   box-sizing: border-box;
 }
@@ -47,6 +51,10 @@
 }
 
 .box-content\:focus:focus {
+  box-sizing: content-box;
+}
+
+.box-content\:focus-visible:focus-visible {
   box-sizing: content-box;
 }
 
@@ -83,6 +91,10 @@
     box-sizing: border-box;
   }
 
+  .xs\:box-border\:focus-visible:focus-visible {
+    box-sizing: border-box;
+  }
+
   .xs\:box-border\:hover:hover {
     box-sizing: border-box;
   }
@@ -112,6 +124,10 @@
   }
 
   .xs\:box-content\:focus:focus {
+    box-sizing: content-box;
+  }
+
+  .xs\:box-content\:focus-visible:focus-visible {
     box-sizing: content-box;
   }
 
@@ -148,6 +164,10 @@
     box-sizing: border-box;
   }
 
+  .sm\:box-border\:focus-visible:focus-visible {
+    box-sizing: border-box;
+  }
+
   .sm\:box-border\:hover:hover {
     box-sizing: border-box;
   }
@@ -177,6 +197,10 @@
   }
 
   .sm\:box-content\:focus:focus {
+    box-sizing: content-box;
+  }
+
+  .sm\:box-content\:focus-visible:focus-visible {
     box-sizing: content-box;
   }
 
@@ -213,6 +237,10 @@
     box-sizing: border-box;
   }
 
+  .md\:box-border\:focus-visible:focus-visible {
+    box-sizing: border-box;
+  }
+
   .md\:box-border\:hover:hover {
     box-sizing: border-box;
   }
@@ -242,6 +270,10 @@
   }
 
   .md\:box-content\:focus:focus {
+    box-sizing: content-box;
+  }
+
+  .md\:box-content\:focus-visible:focus-visible {
     box-sizing: content-box;
   }
 
@@ -278,6 +310,10 @@
     box-sizing: border-box;
   }
 
+  .lg\:box-border\:focus-visible:focus-visible {
+    box-sizing: border-box;
+  }
+
   .lg\:box-border\:hover:hover {
     box-sizing: border-box;
   }
@@ -307,6 +343,10 @@
   }
 
   .lg\:box-content\:focus:focus {
+    box-sizing: content-box;
+  }
+
+  .lg\:box-content\:focus-visible:focus-visible {
     box-sizing: content-box;
   }
 

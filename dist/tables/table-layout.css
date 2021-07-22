@@ -18,6 +18,10 @@
   table-layout: auto;
 }
 
+.table-auto\:focus-visible:focus-visible {
+  table-layout: auto;
+}
+
 .table-auto\:hover:hover {
   table-layout: auto;
 }
@@ -47,6 +51,10 @@
 }
 
 .table-fixed\:focus:focus {
+  table-layout: fixed;
+}
+
+.table-fixed\:focus-visible:focus-visible {
   table-layout: fixed;
 }
 
@@ -83,6 +91,10 @@
     table-layout: auto;
   }
 
+  .xs\:table-auto\:focus-visible:focus-visible {
+    table-layout: auto;
+  }
+
   .xs\:table-auto\:hover:hover {
     table-layout: auto;
   }
@@ -112,6 +124,10 @@
   }
 
   .xs\:table-fixed\:focus:focus {
+    table-layout: fixed;
+  }
+
+  .xs\:table-fixed\:focus-visible:focus-visible {
     table-layout: fixed;
   }
 
@@ -148,6 +164,10 @@
     table-layout: auto;
   }
 
+  .sm\:table-auto\:focus-visible:focus-visible {
+    table-layout: auto;
+  }
+
   .sm\:table-auto\:hover:hover {
     table-layout: auto;
   }
@@ -177,6 +197,10 @@
   }
 
   .sm\:table-fixed\:focus:focus {
+    table-layout: fixed;
+  }
+
+  .sm\:table-fixed\:focus-visible:focus-visible {
     table-layout: fixed;
   }
 
@@ -213,6 +237,10 @@
     table-layout: auto;
   }
 
+  .md\:table-auto\:focus-visible:focus-visible {
+    table-layout: auto;
+  }
+
   .md\:table-auto\:hover:hover {
     table-layout: auto;
   }
@@ -242,6 +270,10 @@
   }
 
   .md\:table-fixed\:focus:focus {
+    table-layout: fixed;
+  }
+
+  .md\:table-fixed\:focus-visible:focus-visible {
     table-layout: fixed;
   }
 
@@ -278,6 +310,10 @@
     table-layout: auto;
   }
 
+  .lg\:table-auto\:focus-visible:focus-visible {
+    table-layout: auto;
+  }
+
   .lg\:table-auto\:hover:hover {
     table-layout: auto;
   }
@@ -307,6 +343,10 @@
   }
 
   .lg\:table-fixed\:focus:focus {
+    table-layout: fixed;
+  }
+
+  .lg\:table-fixed\:focus-visible:focus-visible {
     table-layout: fixed;
   }
 
