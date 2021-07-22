@@ -20,9 +20,8 @@
 
 <!---->
 <div drawer-id="main" class="pp-drawer hidden_drawer drawer-shadow">
-  <div class="flex w-full">
-    <input type="text" class="w-full max-w-full bg-white rounded-md rounded-md:focus m-2  p-2.5 border-2 border-blue100 border-blue300:focus border-solid outline-none:focus outline-offset-2:focus" placeholder="Search ..."  />
-
+  <div class="flex flex-row w-full">
+    <input pp-model="drawersearch" type="text" class="w-full max-w-full bg-white rounded-md rounded-md:focus m-2  p-2.5 border-2 border-blue100 border-blue300:focus border-solid outline-none:focus outline-offset-2:focus" placeholder="Search ..."  />
   </div>
   <ul class="m-0 ml-1 p-0" list="lista" ></ul>
 </div>
@@ -38,7 +37,7 @@
             <h3>Power Panel Css</h3>
         </div>
         <div class="justify-center align-center flex flex-col justify-center pl-4 leading-3" >
-            <button onclick="location.hash = '/projects' " class="bc-white cursor-pointer no-underline inline-block font-normal align-middle align-middle pt-1.5 pb-1.5 pl-3 pr-3" style="border-radius:.25rem;"  ><img class="w-4" src="img/list.svg"/> Projects</button>
+            <button onclick="location.hash = '/projects' " class="text-white bluegray600 cursor-pointer no-underline inline-block font-normal align-middle align-middle pt-1.5 pb-1.5 pl-3 pr-3 rounded outline-none border-2 border-bluegray500 border-solid" style="box-shadow:none;"   ><img class="w-4" src="img/list.svg"/> Projects</button>
         </div>
         <div class="align-center flex flex-col justify-center pl-4 leading-3" >
             <button class="bc-white cursor-pointer no-underline inline-block font-normal align-middle align-middle pt-1.5 pb-1.5 pl-3 pr-3" style="border-radius:.25rem;"  ><img class="w-4" src="img/build.svg"/>  Build</button>
@@ -51,6 +50,11 @@
     <div class="h-full" ></div>
     <div class="w-full p-8" id="view" ></div>
 </div>
+
+<script src="node_modules/pp-events/pp-events.min.js" ></script>
+<script src="node_modules/pp-model.js/pp-model.min.js" ></script>
+<script src="node_modules/pp-collection/pp-collection.min.js" ></script>
+
 <script src="js/css-description.js" ></script>
 <script src="node_modules/pp-router.js/pp-router.min.js" ></script>
 <script src="js/index.js" ></script>

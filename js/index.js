@@ -1,4 +1,26 @@
 
+var model = new ppModel();
+var modelDrawerSearch = new model({
+  search:''
+});
+modelDrawerSearch.on('change:search',function( old , value , c){
+    console.log(value);
+});
+
+
+
+
+var ElemDrawerSearch = document.querySelector("[pp-model=drawersearch]");
+
+ElemDrawerSearch.addEventListener('keyup',function( event ){
+  modelDrawerSearch.set('search',event.target.value)
+});
+
+
+
+
+
+
 console.log( cssdescription );
 
 
