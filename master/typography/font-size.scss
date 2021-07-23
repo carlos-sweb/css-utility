@@ -1,0 +1,26 @@
+@import "../screen.scss";
+@import "../state.scss";
+@each $key, $value in (text-xs:'0.75rem',text-sm:'0.875rem',text-base:'1rem',text-lg:'1.125rem',text-xl:'1.25rem',text-2xl:'1.5rem',text-3xl:'1.875rem',text-4xl:'2.25rem',text-5xl:'3rem'){
+	.#{$key}{
+		font-size:#{$value};
+	}
+ @each $valueState in $state{
+	.#{$key}\:#{$valueState}:#{$valueState}{
+		font-size:#{$value};
+	}
+ }
+};
+@each $sizeScreen, $pixel in $screen{
+	@media (min-width: #{map-get($pixel,min)}#{px}) and (max-width: #{map-get($pixel,max)}#{px}){
+		@each $key, $value in (text-xs:'0.75rem',text-sm:'0.875rem',text-base:'1rem',text-lg:'1.125rem',text-xl:'1.25rem',text-2xl:'1.5rem',text-3xl:'1.875rem',text-4xl:'2.25rem',text-5xl:'3rem'){
+			.#{$sizeScreen}\:#{$key}{
+				font-size:#{$value};
+			}
+      @each $valueState in $state{
+	     .#{$sizeScreen}\:#{$key}\:#{$valueState}:#{$valueState}{
+		     font-size:#{$value};
+	     }
+      }
+		}
+	}
+}

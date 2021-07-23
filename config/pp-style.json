@@ -2392,6 +2392,17 @@
 					"no-underline":"none"
 				},
 				"line-height":{
+
+					"text-xs":"1rem",
+					"text-sm":"1.25rem",
+					"text-base":"1.5rem",
+					"text-lg":"1.75rem",
+					"text-xl":"1.75rem",
+					"text-2xl":"2rem",
+					"text-3xl":"2.25rem",
+					"text-4xl":"2.5rem",
+					"text-5xl":"1",
+
 					"leading-3":"0.75rem",
 					"leading-4":"1rem",
 					"leading-5":"1.25rem",
@@ -2414,6 +2425,17 @@
 					"tracking-wide" :"0.025em",
 					"tracking-wider" :"0.05em",
 					"tracking-widest" :"0.1em"
+				},
+				"font-size":{
+					"text-xs":"0.75rem",
+					"text-sm":"0.875rem",
+					"text-base":"1rem",
+					"text-lg":"1.125rem",
+					"text-xl":"1.25rem",
+					"text-2xl":"1.5rem",
+					"text-3xl":"1.875rem",
+					"text-4xl":"2.25rem",
+					"text-5xl":"3rem"
 				},
 				"font-style":{
 					"italic":"italic",

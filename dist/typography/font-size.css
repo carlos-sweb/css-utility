@@ -1,0 +1,1624 @@
+.text-xs {
+  font-size: 0.75rem;
+}
+
+.text-xs\:active:active {
+  font-size: 0.75rem;
+}
+
+.text-xs\:checked:checked {
+  font-size: 0.75rem;
+}
+
+.text-xs\:disabled:disabled {
+  font-size: 0.75rem;
+}
+
+.text-xs\:focus:focus {
+  font-size: 0.75rem;
+}
+
+.text-xs\:focus-visible:focus-visible {
+  font-size: 0.75rem;
+}
+
+.text-xs\:hover:hover {
+  font-size: 0.75rem;
+}
+
+.text-xs\:required:required {
+  font-size: 0.75rem;
+}
+
+.text-xs\:visited:visited {
+  font-size: 0.75rem;
+}
+
+.text-sm {
+  font-size: 0.875rem;
+}
+
+.text-sm\:active:active {
+  font-size: 0.875rem;
+}
+
+.text-sm\:checked:checked {
+  font-size: 0.875rem;
+}
+
+.text-sm\:disabled:disabled {
+  font-size: 0.875rem;
+}
+
+.text-sm\:focus:focus {
+  font-size: 0.875rem;
+}
+
+.text-sm\:focus-visible:focus-visible {
+  font-size: 0.875rem;
+}
+
+.text-sm\:hover:hover {
+  font-size: 0.875rem;
+}
+
+.text-sm\:required:required {
+  font-size: 0.875rem;
+}
+
+.text-sm\:visited:visited {
+  font-size: 0.875rem;
+}
+
+.text-base {
+  font-size: 1rem;
+}
+
+.text-base\:active:active {
+  font-size: 1rem;
+}
+
+.text-base\:checked:checked {
+  font-size: 1rem;
+}
+
+.text-base\:disabled:disabled {
+  font-size: 1rem;
+}
+
+.text-base\:focus:focus {
+  font-size: 1rem;
+}
+
+.text-base\:focus-visible:focus-visible {
+  font-size: 1rem;
+}
+
+.text-base\:hover:hover {
+  font-size: 1rem;
+}
+
+.text-base\:required:required {
+  font-size: 1rem;
+}
+
+.text-base\:visited:visited {
+  font-size: 1rem;
+}
+
+.text-lg {
+  font-size: 1.125rem;
+}
+
+.text-lg\:active:active {
+  font-size: 1.125rem;
+}
+
+.text-lg\:checked:checked {
+  font-size: 1.125rem;
+}
+
+.text-lg\:disabled:disabled {
+  font-size: 1.125rem;
+}
+
+.text-lg\:focus:focus {
+  font-size: 1.125rem;
+}
+
+.text-lg\:focus-visible:focus-visible {
+  font-size: 1.125rem;
+}
+
+.text-lg\:hover:hover {
+  font-size: 1.125rem;
+}
+
+.text-lg\:required:required {
+  font-size: 1.125rem;
+}
+
+.text-lg\:visited:visited {
+  font-size: 1.125rem;
+}
+
+.text-xl {
+  font-size: 1.25rem;
+}
+
+.text-xl\:active:active {
+  font-size: 1.25rem;
+}
+
+.text-xl\:checked:checked {
+  font-size: 1.25rem;
+}
+
+.text-xl\:disabled:disabled {
+  font-size: 1.25rem;
+}
+
+.text-xl\:focus:focus {
+  font-size: 1.25rem;
+}
+
+.text-xl\:focus-visible:focus-visible {
+  font-size: 1.25rem;
+}
+
+.text-xl\:hover:hover {
+  font-size: 1.25rem;
+}
+
+.text-xl\:required:required {
+  font-size: 1.25rem;
+}
+
+.text-xl\:visited:visited {
+  font-size: 1.25rem;
+}
+
+.text-2xl {
+  font-size: 1.5rem;
+}
+
+.text-2xl\:active:active {
+  font-size: 1.5rem;
+}
+
+.text-2xl\:checked:checked {
+  font-size: 1.5rem;
+}
+
+.text-2xl\:disabled:disabled {
+  font-size: 1.5rem;
+}
+
+.text-2xl\:focus:focus {
+  font-size: 1.5rem;
+}
+
+.text-2xl\:focus-visible:focus-visible {
+  font-size: 1.5rem;
+}
+
+.text-2xl\:hover:hover {
+  font-size: 1.5rem;
+}
+
+.text-2xl\:required:required {
+  font-size: 1.5rem;
+}
+
+.text-2xl\:visited:visited {
+  font-size: 1.5rem;
+}
+
+.text-3xl {
+  font-size: 1.875rem;
+}
+
+.text-3xl\:active:active {
+  font-size: 1.875rem;
+}
+
+.text-3xl\:checked:checked {
+  font-size: 1.875rem;
+}
+
+.text-3xl\:disabled:disabled {
+  font-size: 1.875rem;
+}
+
+.text-3xl\:focus:focus {
+  font-size: 1.875rem;
+}
+
+.text-3xl\:focus-visible:focus-visible {
+  font-size: 1.875rem;
+}
+
+.text-3xl\:hover:hover {
+  font-size: 1.875rem;
+}
+
+.text-3xl\:required:required {
+  font-size: 1.875rem;
+}
+
+.text-3xl\:visited:visited {
+  font-size: 1.875rem;
+}
+
+.text-4xl {
+  font-size: 2.25rem;
+}
+
+.text-4xl\:active:active {
+  font-size: 2.25rem;
+}
+
+.text-4xl\:checked:checked {
+  font-size: 2.25rem;
+}
+
+.text-4xl\:disabled:disabled {
+  font-size: 2.25rem;
+}
+
+.text-4xl\:focus:focus {
+  font-size: 2.25rem;
+}
+
+.text-4xl\:focus-visible:focus-visible {
+  font-size: 2.25rem;
+}
+
+.text-4xl\:hover:hover {
+  font-size: 2.25rem;
+}
+
+.text-4xl\:required:required {
+  font-size: 2.25rem;
+}
+
+.text-4xl\:visited:visited {
+  font-size: 2.25rem;
+}
+
+.text-5xl {
+  font-size: 3rem;
+}
+
+.text-5xl\:active:active {
+  font-size: 3rem;
+}
+
+.text-5xl\:checked:checked {
+  font-size: 3rem;
+}
+
+.text-5xl\:disabled:disabled {
+  font-size: 3rem;
+}
+
+.text-5xl\:focus:focus {
+  font-size: 3rem;
+}
+
+.text-5xl\:focus-visible:focus-visible {
+  font-size: 3rem;
+}
+
+.text-5xl\:hover:hover {
+  font-size: 3rem;
+}
+
+.text-5xl\:required:required {
+  font-size: 3rem;
+}
+
+.text-5xl\:visited:visited {
+  font-size: 3rem;
+}
+
+@media (min-width: 0px) and (max-width: 639px) {
+  .xs\:text-xs {
+    font-size: 0.75rem;
+  }
+
+  .xs\:text-xs\:active:active {
+    font-size: 0.75rem;
+  }
+
+  .xs\:text-xs\:checked:checked {
+    font-size: 0.75rem;
+  }
+
+  .xs\:text-xs\:disabled:disabled {
+    font-size: 0.75rem;
+  }
+
+  .xs\:text-xs\:focus:focus {
+    font-size: 0.75rem;
+  }
+
+  .xs\:text-xs\:focus-visible:focus-visible {
+    font-size: 0.75rem;
+  }
+
+  .xs\:text-xs\:hover:hover {
+    font-size: 0.75rem;
+  }
+
+  .xs\:text-xs\:required:required {
+    font-size: 0.75rem;
+  }
+
+  .xs\:text-xs\:visited:visited {
+    font-size: 0.75rem;
+  }
+
+  .xs\:text-sm {
+    font-size: 0.875rem;
+  }
+
+  .xs\:text-sm\:active:active {
+    font-size: 0.875rem;
+  }
+
+  .xs\:text-sm\:checked:checked {
+    font-size: 0.875rem;
+  }
+
+  .xs\:text-sm\:disabled:disabled {
+    font-size: 0.875rem;
+  }
+
+  .xs\:text-sm\:focus:focus {
+    font-size: 0.875rem;
+  }
+
+  .xs\:text-sm\:focus-visible:focus-visible {
+    font-size: 0.875rem;
+  }
+
+  .xs\:text-sm\:hover:hover {
+    font-size: 0.875rem;
+  }
+
+  .xs\:text-sm\:required:required {
+    font-size: 0.875rem;
+  }
+
+  .xs\:text-sm\:visited:visited {
+    font-size: 0.875rem;
+  }
+
+  .xs\:text-base {
+    font-size: 1rem;
+  }
+
+  .xs\:text-base\:active:active {
+    font-size: 1rem;
+  }
+
+  .xs\:text-base\:checked:checked {
+    font-size: 1rem;
+  }
+
+  .xs\:text-base\:disabled:disabled {
+    font-size: 1rem;
+  }
+
+  .xs\:text-base\:focus:focus {
+    font-size: 1rem;
+  }
+
+  .xs\:text-base\:focus-visible:focus-visible {
+    font-size: 1rem;
+  }
+
+  .xs\:text-base\:hover:hover {
+    font-size: 1rem;
+  }
+
+  .xs\:text-base\:required:required {
+    font-size: 1rem;
+  }
+
+  .xs\:text-base\:visited:visited {
+    font-size: 1rem;
+  }
+
+  .xs\:text-lg {
+    font-size: 1.125rem;
+  }
+
+  .xs\:text-lg\:active:active {
+    font-size: 1.125rem;
+  }
+
+  .xs\:text-lg\:checked:checked {
+    font-size: 1.125rem;
+  }
+
+  .xs\:text-lg\:disabled:disabled {
+    font-size: 1.125rem;
+  }
+
+  .xs\:text-lg\:focus:focus {
+    font-size: 1.125rem;
+  }
+
+  .xs\:text-lg\:focus-visible:focus-visible {
+    font-size: 1.125rem;
+  }
+
+  .xs\:text-lg\:hover:hover {
+    font-size: 1.125rem;
+  }
+
+  .xs\:text-lg\:required:required {
+    font-size: 1.125rem;
+  }
+
+  .xs\:text-lg\:visited:visited {
+    font-size: 1.125rem;
+  }
+
+  .xs\:text-xl {
+    font-size: 1.25rem;
+  }
+
+  .xs\:text-xl\:active:active {
+    font-size: 1.25rem;
+  }
+
+  .xs\:text-xl\:checked:checked {
+    font-size: 1.25rem;
+  }
+
+  .xs\:text-xl\:disabled:disabled {
+    font-size: 1.25rem;
+  }
+
+  .xs\:text-xl\:focus:focus {
+    font-size: 1.25rem;
+  }
+
+  .xs\:text-xl\:focus-visible:focus-visible {
+    font-size: 1.25rem;
+  }
+
+  .xs\:text-xl\:hover:hover {
+    font-size: 1.25rem;
+  }
+
+  .xs\:text-xl\:required:required {
+    font-size: 1.25rem;
+  }
+
+  .xs\:text-xl\:visited:visited {
+    font-size: 1.25rem;
+  }
+
+  .xs\:text-2xl {
+    font-size: 1.5rem;
+  }
+
+  .xs\:text-2xl\:active:active {
+    font-size: 1.5rem;
+  }
+
+  .xs\:text-2xl\:checked:checked {
+    font-size: 1.5rem;
+  }
+
+  .xs\:text-2xl\:disabled:disabled {
+    font-size: 1.5rem;
+  }
+
+  .xs\:text-2xl\:focus:focus {
+    font-size: 1.5rem;
+  }
+
+  .xs\:text-2xl\:focus-visible:focus-visible {
+    font-size: 1.5rem;
+  }
+
+  .xs\:text-2xl\:hover:hover {
+    font-size: 1.5rem;
+  }
+
+  .xs\:text-2xl\:required:required {
+    font-size: 1.5rem;
+  }
+
+  .xs\:text-2xl\:visited:visited {
+    font-size: 1.5rem;
+  }
+
+  .xs\:text-3xl {
+    font-size: 1.875rem;
+  }
+
+  .xs\:text-3xl\:active:active {
+    font-size: 1.875rem;
+  }
+
+  .xs\:text-3xl\:checked:checked {
+    font-size: 1.875rem;
+  }
+
+  .xs\:text-3xl\:disabled:disabled {
+    font-size: 1.875rem;
+  }
+
+  .xs\:text-3xl\:focus:focus {
+    font-size: 1.875rem;
+  }
+
+  .xs\:text-3xl\:focus-visible:focus-visible {
+    font-size: 1.875rem;
+  }
+
+  .xs\:text-3xl\:hover:hover {
+    font-size: 1.875rem;
+  }
+
+  .xs\:text-3xl\:required:required {
+    font-size: 1.875rem;
+  }
+
+  .xs\:text-3xl\:visited:visited {
+    font-size: 1.875rem;
+  }
+
+  .xs\:text-4xl {
+    font-size: 2.25rem;
+  }
+
+  .xs\:text-4xl\:active:active {
+    font-size: 2.25rem;
+  }
+
+  .xs\:text-4xl\:checked:checked {
+    font-size: 2.25rem;
+  }
+
+  .xs\:text-4xl\:disabled:disabled {
+    font-size: 2.25rem;
+  }
+
+  .xs\:text-4xl\:focus:focus {
+    font-size: 2.25rem;
+  }
+
+  .xs\:text-4xl\:focus-visible:focus-visible {
+    font-size: 2.25rem;
+  }
+
+  .xs\:text-4xl\:hover:hover {
+    font-size: 2.25rem;
+  }
+
+  .xs\:text-4xl\:required:required {
+    font-size: 2.25rem;
+  }
+
+  .xs\:text-4xl\:visited:visited {
+    font-size: 2.25rem;
+  }
+
+  .xs\:text-5xl {
+    font-size: 3rem;
+  }
+
+  .xs\:text-5xl\:active:active {
+    font-size: 3rem;
+  }
+
+  .xs\:text-5xl\:checked:checked {
+    font-size: 3rem;
+  }
+
+  .xs\:text-5xl\:disabled:disabled {
+    font-size: 3rem;
+  }
+
+  .xs\:text-5xl\:focus:focus {
+    font-size: 3rem;
+  }
+
+  .xs\:text-5xl\:focus-visible:focus-visible {
+    font-size: 3rem;
+  }
+
+  .xs\:text-5xl\:hover:hover {
+    font-size: 3rem;
+  }
+
+  .xs\:text-5xl\:required:required {
+    font-size: 3rem;
+  }
+
+  .xs\:text-5xl\:visited:visited {
+    font-size: 3rem;
+  }
+}
+@media (min-width: 640px) and (max-width: 767px) {
+  .sm\:text-xs {
+    font-size: 0.75rem;
+  }
+
+  .sm\:text-xs\:active:active {
+    font-size: 0.75rem;
+  }
+
+  .sm\:text-xs\:checked:checked {
+    font-size: 0.75rem;
+  }
+
+  .sm\:text-xs\:disabled:disabled {
+    font-size: 0.75rem;
+  }
+
+  .sm\:text-xs\:focus:focus {
+    font-size: 0.75rem;
+  }
+
+  .sm\:text-xs\:focus-visible:focus-visible {
+    font-size: 0.75rem;
+  }
+
+  .sm\:text-xs\:hover:hover {
+    font-size: 0.75rem;
+  }
+
+  .sm\:text-xs\:required:required {
+    font-size: 0.75rem;
+  }
+
+  .sm\:text-xs\:visited:visited {
+    font-size: 0.75rem;
+  }
+
+  .sm\:text-sm {
+    font-size: 0.875rem;
+  }
+
+  .sm\:text-sm\:active:active {
+    font-size: 0.875rem;
+  }
+
+  .sm\:text-sm\:checked:checked {
+    font-size: 0.875rem;
+  }
+
+  .sm\:text-sm\:disabled:disabled {
+    font-size: 0.875rem;
+  }
+
+  .sm\:text-sm\:focus:focus {
+    font-size: 0.875rem;
+  }
+
+  .sm\:text-sm\:focus-visible:focus-visible {
+    font-size: 0.875rem;
+  }
+
+  .sm\:text-sm\:hover:hover {
+    font-size: 0.875rem;
+  }
+
+  .sm\:text-sm\:required:required {
+    font-size: 0.875rem;
+  }
+
+  .sm\:text-sm\:visited:visited {
+    font-size: 0.875rem;
+  }
+
+  .sm\:text-base {
+    font-size: 1rem;
+  }
+
+  .sm\:text-base\:active:active {
+    font-size: 1rem;
+  }
+
+  .sm\:text-base\:checked:checked {
+    font-size: 1rem;
+  }
+
+  .sm\:text-base\:disabled:disabled {
+    font-size: 1rem;
+  }
+
+  .sm\:text-base\:focus:focus {
+    font-size: 1rem;
+  }
+
+  .sm\:text-base\:focus-visible:focus-visible {
+    font-size: 1rem;
+  }
+
+  .sm\:text-base\:hover:hover {
+    font-size: 1rem;
+  }
+
+  .sm\:text-base\:required:required {
+    font-size: 1rem;
+  }
+
+  .sm\:text-base\:visited:visited {
+    font-size: 1rem;
+  }
+
+  .sm\:text-lg {
+    font-size: 1.125rem;
+  }
+
+  .sm\:text-lg\:active:active {
+    font-size: 1.125rem;
+  }
+
+  .sm\:text-lg\:checked:checked {
+    font-size: 1.125rem;
+  }
+
+  .sm\:text-lg\:disabled:disabled {
+    font-size: 1.125rem;
+  }
+
+  .sm\:text-lg\:focus:focus {
+    font-size: 1.125rem;
+  }
+
+  .sm\:text-lg\:focus-visible:focus-visible {
+    font-size: 1.125rem;
+  }
+
+  .sm\:text-lg\:hover:hover {
+    font-size: 1.125rem;
+  }
+
+  .sm\:text-lg\:required:required {
+    font-size: 1.125rem;
+  }
+
+  .sm\:text-lg\:visited:visited {
+    font-size: 1.125rem;
+  }
+
+  .sm\:text-xl {
+    font-size: 1.25rem;
+  }
+
+  .sm\:text-xl\:active:active {
+    font-size: 1.25rem;
+  }
+
+  .sm\:text-xl\:checked:checked {
+    font-size: 1.25rem;
+  }
+
+  .sm\:text-xl\:disabled:disabled {
+    font-size: 1.25rem;
+  }
+
+  .sm\:text-xl\:focus:focus {
+    font-size: 1.25rem;
+  }
+
+  .sm\:text-xl\:focus-visible:focus-visible {
+    font-size: 1.25rem;
+  }
+
+  .sm\:text-xl\:hover:hover {
+    font-size: 1.25rem;
+  }
+
+  .sm\:text-xl\:required:required {
+    font-size: 1.25rem;
+  }
+
+  .sm\:text-xl\:visited:visited {
+    font-size: 1.25rem;
+  }
+
+  .sm\:text-2xl {
+    font-size: 1.5rem;
+  }
+
+  .sm\:text-2xl\:active:active {
+    font-size: 1.5rem;
+  }
+
+  .sm\:text-2xl\:checked:checked {
+    font-size: 1.5rem;
+  }
+
+  .sm\:text-2xl\:disabled:disabled {
+    font-size: 1.5rem;
+  }
+
+  .sm\:text-2xl\:focus:focus {
+    font-size: 1.5rem;
+  }
+
+  .sm\:text-2xl\:focus-visible:focus-visible {
+    font-size: 1.5rem;
+  }
+
+  .sm\:text-2xl\:hover:hover {
+    font-size: 1.5rem;
+  }
+
+  .sm\:text-2xl\:required:required {
+    font-size: 1.5rem;
+  }
+
+  .sm\:text-2xl\:visited:visited {
+    font-size: 1.5rem;
+  }
+
+  .sm\:text-3xl {
+    font-size: 1.875rem;
+  }
+
+  .sm\:text-3xl\:active:active {
+    font-size: 1.875rem;
+  }
+
+  .sm\:text-3xl\:checked:checked {
+    font-size: 1.875rem;
+  }
+
+  .sm\:text-3xl\:disabled:disabled {
+    font-size: 1.875rem;
+  }
+
+  .sm\:text-3xl\:focus:focus {
+    font-size: 1.875rem;
+  }
+
+  .sm\:text-3xl\:focus-visible:focus-visible {
+    font-size: 1.875rem;
+  }
+
+  .sm\:text-3xl\:hover:hover {
+    font-size: 1.875rem;
+  }
+
+  .sm\:text-3xl\:required:required {
+    font-size: 1.875rem;
+  }
+
+  .sm\:text-3xl\:visited:visited {
+    font-size: 1.875rem;
+  }
+
+  .sm\:text-4xl {
+    font-size: 2.25rem;
+  }
+
+  .sm\:text-4xl\:active:active {
+    font-size: 2.25rem;
+  }
+
+  .sm\:text-4xl\:checked:checked {
+    font-size: 2.25rem;
+  }
+
+  .sm\:text-4xl\:disabled:disabled {
+    font-size: 2.25rem;
+  }
+
+  .sm\:text-4xl\:focus:focus {
+    font-size: 2.25rem;
+  }
+
+  .sm\:text-4xl\:focus-visible:focus-visible {
+    font-size: 2.25rem;
+  }
+
+  .sm\:text-4xl\:hover:hover {
+    font-size: 2.25rem;
+  }
+
+  .sm\:text-4xl\:required:required {
+    font-size: 2.25rem;
+  }
+
+  .sm\:text-4xl\:visited:visited {
+    font-size: 2.25rem;
+  }
+
+  .sm\:text-5xl {
+    font-size: 3rem;
+  }
+
+  .sm\:text-5xl\:active:active {
+    font-size: 3rem;
+  }
+
+  .sm\:text-5xl\:checked:checked {
+    font-size: 3rem;
+  }
+
+  .sm\:text-5xl\:disabled:disabled {
+    font-size: 3rem;
+  }
+
+  .sm\:text-5xl\:focus:focus {
+    font-size: 3rem;
+  }
+
+  .sm\:text-5xl\:focus-visible:focus-visible {
+    font-size: 3rem;
+  }
+
+  .sm\:text-5xl\:hover:hover {
+    font-size: 3rem;
+  }
+
+  .sm\:text-5xl\:required:required {
+    font-size: 3rem;
+  }
+
+  .sm\:text-5xl\:visited:visited {
+    font-size: 3rem;
+  }
+}
+@media (min-width: 768px) and (max-width: 1023px) {
+  .md\:text-xs {
+    font-size: 0.75rem;
+  }
+
+  .md\:text-xs\:active:active {
+    font-size: 0.75rem;
+  }
+
+  .md\:text-xs\:checked:checked {
+    font-size: 0.75rem;
+  }
+
+  .md\:text-xs\:disabled:disabled {
+    font-size: 0.75rem;
+  }
+
+  .md\:text-xs\:focus:focus {
+    font-size: 0.75rem;
+  }
+
+  .md\:text-xs\:focus-visible:focus-visible {
+    font-size: 0.75rem;
+  }
+
+  .md\:text-xs\:hover:hover {
+    font-size: 0.75rem;
+  }
+
+  .md\:text-xs\:required:required {
+    font-size: 0.75rem;
+  }
+
+  .md\:text-xs\:visited:visited {
+    font-size: 0.75rem;
+  }
+
+  .md\:text-sm {
+    font-size: 0.875rem;
+  }
+
+  .md\:text-sm\:active:active {
+    font-size: 0.875rem;
+  }
+
+  .md\:text-sm\:checked:checked {
+    font-size: 0.875rem;
+  }
+
+  .md\:text-sm\:disabled:disabled {
+    font-size: 0.875rem;
+  }
+
+  .md\:text-sm\:focus:focus {
+    font-size: 0.875rem;
+  }
+
+  .md\:text-sm\:focus-visible:focus-visible {
+    font-size: 0.875rem;
+  }
+
+  .md\:text-sm\:hover:hover {
+    font-size: 0.875rem;
+  }
+
+  .md\:text-sm\:required:required {
+    font-size: 0.875rem;
+  }
+
+  .md\:text-sm\:visited:visited {
+    font-size: 0.875rem;
+  }
+
+  .md\:text-base {
+    font-size: 1rem;
+  }
+
+  .md\:text-base\:active:active {
+    font-size: 1rem;
+  }
+
+  .md\:text-base\:checked:checked {
+    font-size: 1rem;
+  }
+
+  .md\:text-base\:disabled:disabled {
+    font-size: 1rem;
+  }
+
+  .md\:text-base\:focus:focus {
+    font-size: 1rem;
+  }
+
+  .md\:text-base\:focus-visible:focus-visible {
+    font-size: 1rem;
+  }
+
+  .md\:text-base\:hover:hover {
+    font-size: 1rem;
+  }
+
+  .md\:text-base\:required:required {
+    font-size: 1rem;
+  }
+
+  .md\:text-base\:visited:visited {
+    font-size: 1rem;
+  }
+
+  .md\:text-lg {
+    font-size: 1.125rem;
+  }
+
+  .md\:text-lg\:active:active {
+    font-size: 1.125rem;
+  }
+
+  .md\:text-lg\:checked:checked {
+    font-size: 1.125rem;
+  }
+
+  .md\:text-lg\:disabled:disabled {
+    font-size: 1.125rem;
+  }
+
+  .md\:text-lg\:focus:focus {
+    font-size: 1.125rem;
+  }
+
+  .md\:text-lg\:focus-visible:focus-visible {
+    font-size: 1.125rem;
+  }
+
+  .md\:text-lg\:hover:hover {
+    font-size: 1.125rem;
+  }
+
+  .md\:text-lg\:required:required {
+    font-size: 1.125rem;
+  }
+
+  .md\:text-lg\:visited:visited {
+    font-size: 1.125rem;
+  }
+
+  .md\:text-xl {
+    font-size: 1.25rem;
+  }
+
+  .md\:text-xl\:active:active {
+    font-size: 1.25rem;
+  }
+
+  .md\:text-xl\:checked:checked {
+    font-size: 1.25rem;
+  }
+
+  .md\:text-xl\:disabled:disabled {
+    font-size: 1.25rem;
+  }
+
+  .md\:text-xl\:focus:focus {
+    font-size: 1.25rem;
+  }
+
+  .md\:text-xl\:focus-visible:focus-visible {
+    font-size: 1.25rem;
+  }
+
+  .md\:text-xl\:hover:hover {
+    font-size: 1.25rem;
+  }
+
+  .md\:text-xl\:required:required {
+    font-size: 1.25rem;
+  }
+
+  .md\:text-xl\:visited:visited {
+    font-size: 1.25rem;
+  }
+
+  .md\:text-2xl {
+    font-size: 1.5rem;
+  }
+
+  .md\:text-2xl\:active:active {
+    font-size: 1.5rem;
+  }
+
+  .md\:text-2xl\:checked:checked {
+    font-size: 1.5rem;
+  }
+
+  .md\:text-2xl\:disabled:disabled {
+    font-size: 1.5rem;
+  }
+
+  .md\:text-2xl\:focus:focus {
+    font-size: 1.5rem;
+  }
+
+  .md\:text-2xl\:focus-visible:focus-visible {
+    font-size: 1.5rem;
+  }
+
+  .md\:text-2xl\:hover:hover {
+    font-size: 1.5rem;
+  }
+
+  .md\:text-2xl\:required:required {
+    font-size: 1.5rem;
+  }
+
+  .md\:text-2xl\:visited:visited {
+    font-size: 1.5rem;
+  }
+
+  .md\:text-3xl {
+    font-size: 1.875rem;
+  }
+
+  .md\:text-3xl\:active:active {
+    font-size: 1.875rem;
+  }
+
+  .md\:text-3xl\:checked:checked {
+    font-size: 1.875rem;
+  }
+
+  .md\:text-3xl\:disabled:disabled {
+    font-size: 1.875rem;
+  }
+
+  .md\:text-3xl\:focus:focus {
+    font-size: 1.875rem;
+  }
+
+  .md\:text-3xl\:focus-visible:focus-visible {
+    font-size: 1.875rem;
+  }
+
+  .md\:text-3xl\:hover:hover {
+    font-size: 1.875rem;
+  }
+
+  .md\:text-3xl\:required:required {
+    font-size: 1.875rem;
+  }
+
+  .md\:text-3xl\:visited:visited {
+    font-size: 1.875rem;
+  }
+
+  .md\:text-4xl {
+    font-size: 2.25rem;
+  }
+
+  .md\:text-4xl\:active:active {
+    font-size: 2.25rem;
+  }
+
+  .md\:text-4xl\:checked:checked {
+    font-size: 2.25rem;
+  }
+
+  .md\:text-4xl\:disabled:disabled {
+    font-size: 2.25rem;
+  }
+
+  .md\:text-4xl\:focus:focus {
+    font-size: 2.25rem;
+  }
+
+  .md\:text-4xl\:focus-visible:focus-visible {
+    font-size: 2.25rem;
+  }
+
+  .md\:text-4xl\:hover:hover {
+    font-size: 2.25rem;
+  }
+
+  .md\:text-4xl\:required:required {
+    font-size: 2.25rem;
+  }
+
+  .md\:text-4xl\:visited:visited {
+    font-size: 2.25rem;
+  }
+
+  .md\:text-5xl {
+    font-size: 3rem;
+  }
+
+  .md\:text-5xl\:active:active {
+    font-size: 3rem;
+  }
+
+  .md\:text-5xl\:checked:checked {
+    font-size: 3rem;
+  }
+
+  .md\:text-5xl\:disabled:disabled {
+    font-size: 3rem;
+  }
+
+  .md\:text-5xl\:focus:focus {
+    font-size: 3rem;
+  }
+
+  .md\:text-5xl\:focus-visible:focus-visible {
+    font-size: 3rem;
+  }
+
+  .md\:text-5xl\:hover:hover {
+    font-size: 3rem;
+  }
+
+  .md\:text-5xl\:required:required {
+    font-size: 3rem;
+  }
+
+  .md\:text-5xl\:visited:visited {
+    font-size: 3rem;
+  }
+}
+@media (min-width: 1024px) and (max-width: 2000px) {
+  .lg\:text-xs {
+    font-size: 0.75rem;
+  }
+
+  .lg\:text-xs\:active:active {
+    font-size: 0.75rem;
+  }
+
+  .lg\:text-xs\:checked:checked {
+    font-size: 0.75rem;
+  }
+
+  .lg\:text-xs\:disabled:disabled {
+    font-size: 0.75rem;
+  }
+
+  .lg\:text-xs\:focus:focus {
+    font-size: 0.75rem;
+  }
+
+  .lg\:text-xs\:focus-visible:focus-visible {
+    font-size: 0.75rem;
+  }
+
+  .lg\:text-xs\:hover:hover {
+    font-size: 0.75rem;
+  }
+
+  .lg\:text-xs\:required:required {
+    font-size: 0.75rem;
+  }
+
+  .lg\:text-xs\:visited:visited {
+    font-size: 0.75rem;
+  }
+
+  .lg\:text-sm {
+    font-size: 0.875rem;
+  }
+
+  .lg\:text-sm\:active:active {
+    font-size: 0.875rem;
+  }
+
+  .lg\:text-sm\:checked:checked {
+    font-size: 0.875rem;
+  }
+
+  .lg\:text-sm\:disabled:disabled {
+    font-size: 0.875rem;
+  }
+
+  .lg\:text-sm\:focus:focus {
+    font-size: 0.875rem;
+  }
+
+  .lg\:text-sm\:focus-visible:focus-visible {
+    font-size: 0.875rem;
+  }
+
+  .lg\:text-sm\:hover:hover {
+    font-size: 0.875rem;
+  }
+
+  .lg\:text-sm\:required:required {
+    font-size: 0.875rem;
+  }
+
+  .lg\:text-sm\:visited:visited {
+    font-size: 0.875rem;
+  }
+
+  .lg\:text-base {
+    font-size: 1rem;
+  }
+
+  .lg\:text-base\:active:active {
+    font-size: 1rem;
+  }
+
+  .lg\:text-base\:checked:checked {
+    font-size: 1rem;
+  }
+
+  .lg\:text-base\:disabled:disabled {
+    font-size: 1rem;
+  }
+
+  .lg\:text-base\:focus:focus {
+    font-size: 1rem;
+  }
+
+  .lg\:text-base\:focus-visible:focus-visible {
+    font-size: 1rem;
+  }
+
+  .lg\:text-base\:hover:hover {
+    font-size: 1rem;
+  }
+
+  .lg\:text-base\:required:required {
+    font-size: 1rem;
+  }
+
+  .lg\:text-base\:visited:visited {
+    font-size: 1rem;
+  }
+
+  .lg\:text-lg {
+    font-size: 1.125rem;
+  }
+
+  .lg\:text-lg\:active:active {
+    font-size: 1.125rem;
+  }
+
+  .lg\:text-lg\:checked:checked {
+    font-size: 1.125rem;
+  }
+
+  .lg\:text-lg\:disabled:disabled {
+    font-size: 1.125rem;
+  }
+
+  .lg\:text-lg\:focus:focus {
+    font-size: 1.125rem;
+  }
+
+  .lg\:text-lg\:focus-visible:focus-visible {
+    font-size: 1.125rem;
+  }
+
+  .lg\:text-lg\:hover:hover {
+    font-size: 1.125rem;
+  }
+
+  .lg\:text-lg\:required:required {
+    font-size: 1.125rem;
+  }
+
+  .lg\:text-lg\:visited:visited {
+    font-size: 1.125rem;
+  }
+
+  .lg\:text-xl {
+    font-size: 1.25rem;
+  }
+
+  .lg\:text-xl\:active:active {
+    font-size: 1.25rem;
+  }
+
+  .lg\:text-xl\:checked:checked {
+    font-size: 1.25rem;
+  }
+
+  .lg\:text-xl\:disabled:disabled {
+    font-size: 1.25rem;
+  }
+
+  .lg\:text-xl\:focus:focus {
+    font-size: 1.25rem;
+  }
+
+  .lg\:text-xl\:focus-visible:focus-visible {
+    font-size: 1.25rem;
+  }
+
+  .lg\:text-xl\:hover:hover {
+    font-size: 1.25rem;
+  }
+
+  .lg\:text-xl\:required:required {
+    font-size: 1.25rem;
+  }
+
+  .lg\:text-xl\:visited:visited {
+    font-size: 1.25rem;
+  }
+
+  .lg\:text-2xl {
+    font-size: 1.5rem;
+  }
+
+  .lg\:text-2xl\:active:active {
+    font-size: 1.5rem;
+  }
+
+  .lg\:text-2xl\:checked:checked {
+    font-size: 1.5rem;
+  }
+
+  .lg\:text-2xl\:disabled:disabled {
+    font-size: 1.5rem;
+  }
+
+  .lg\:text-2xl\:focus:focus {
+    font-size: 1.5rem;
+  }
+
+  .lg\:text-2xl\:focus-visible:focus-visible {
+    font-size: 1.5rem;
+  }
+
+  .lg\:text-2xl\:hover:hover {
+    font-size: 1.5rem;
+  }
+
+  .lg\:text-2xl\:required:required {
+    font-size: 1.5rem;
+  }
+
+  .lg\:text-2xl\:visited:visited {
+    font-size: 1.5rem;
+  }
+
+  .lg\:text-3xl {
+    font-size: 1.875rem;
+  }
+
+  .lg\:text-3xl\:active:active {
+    font-size: 1.875rem;
+  }
+
+  .lg\:text-3xl\:checked:checked {
+    font-size: 1.875rem;
+  }
+
+  .lg\:text-3xl\:disabled:disabled {
+    font-size: 1.875rem;
+  }
+
+  .lg\:text-3xl\:focus:focus {
+    font-size: 1.875rem;
+  }
+
+  .lg\:text-3xl\:focus-visible:focus-visible {
+    font-size: 1.875rem;
+  }
+
+  .lg\:text-3xl\:hover:hover {
+    font-size: 1.875rem;
+  }
+
+  .lg\:text-3xl\:required:required {
+    font-size: 1.875rem;
+  }
+
+  .lg\:text-3xl\:visited:visited {
+    font-size: 1.875rem;
+  }
+
+  .lg\:text-4xl {
+    font-size: 2.25rem;
+  }
+
+  .lg\:text-4xl\:active:active {
+    font-size: 2.25rem;
+  }
+
+  .lg\:text-4xl\:checked:checked {
+    font-size: 2.25rem;
+  }
+
+  .lg\:text-4xl\:disabled:disabled {
+    font-size: 2.25rem;
+  }
+
+  .lg\:text-4xl\:focus:focus {
+    font-size: 2.25rem;
+  }
+
+  .lg\:text-4xl\:focus-visible:focus-visible {
+    font-size: 2.25rem;
+  }
+
+  .lg\:text-4xl\:hover:hover {
+    font-size: 2.25rem;
+  }
+
+  .lg\:text-4xl\:required:required {
+    font-size: 2.25rem;
+  }
+
+  .lg\:text-4xl\:visited:visited {
+    font-size: 2.25rem;
+  }
+
+  .lg\:text-5xl {
+    font-size: 3rem;
+  }
+
+  .lg\:text-5xl\:active:active {
+    font-size: 3rem;
+  }
+
+  .lg\:text-5xl\:checked:checked {
+    font-size: 3rem;
+  }
+
+  .lg\:text-5xl\:disabled:disabled {
+    font-size: 3rem;
+  }
+
+  .lg\:text-5xl\:focus:focus {
+    font-size: 3rem;
+  }
+
+  .lg\:text-5xl\:focus-visible:focus-visible {
+    font-size: 3rem;
+  }
+
+  .lg\:text-5xl\:hover:hover {
+    font-size: 3rem;
+  }
+
+  .lg\:text-5xl\:required:required {
+    font-size: 3rem;
+  }
+
+  .lg\:text-5xl\:visited:visited {
+    font-size: 3rem;
+  }
+}

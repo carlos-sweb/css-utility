@@ -123,8 +123,8 @@ var router = new ppRouter({
             <h1 class="uppercase" >${params.attribute.replace("-","&nbsp;")}</h1>
             <p>${ cssdescription[ params.attribute ] ? cssdescription[ params.attribute ]["es"] : "" }</p>
 
-            <div class="flex flex-row justify-content-center" >
-            <input type="text" class="w-full bg-white rounded-md rounded-md:focus m-2  p-2.5 border-2 border-blue100 border-blue300:focus border-solid outline-none:focus outline-offset-2:focus text-bluegray800" placeholder="Search ..." />
+            <div class="flex flex-row" >
+            <input type="text" class="w-full bg-white rounded-md rounded-md:focus  p-2.5 border-2 border-blue100 border-blue300:focus border-solid outline-none:focus outline-offset-2:focus text-bluegray800" placeholder="Search ..." />
             </div>
 
             <br><br>
@@ -156,23 +156,25 @@ function reqListener () {
 
   window.cssUtility =   response.property;
 
-    propertys.forEach(function(group){
+    text += `<div class="flex wrap flex-col w-full box-border pl-3 pr-3" >`;
 
-        text += `<h4 class='select-none' >${group} <img class='cursor-pointer' src='img/down.svg' /> </h4>`;
-        text += `<ul class="list-none list-outside p-0 " >`;
+    propertys.forEach(function(group){
+        //<!--<img class='cursor-pointer' src='img/down.svg' />-->
+        text += `<div class='select-none rounded w-full box-border pt-1 pb-1 pl-1 mb-2 mt-2 deeppurple200 block mt-1' ><span class="text-sm uppercase">${group}</span></div>`;        
         // ---------------------------------------------------------------
         // Agregamos link por link
         Object.keys(response.property[group].attr).forEach(function( attributes ){
-            text +=  `<li class="p-1"><a class='no-underline' href="#/${group}/${attributes}">${attributes.replace("-"," ").replace("-"," ")}</a></li>`;
+            text +=  `<div class='p-0 m-0 box-border'><a class='deeppurple50:hover rounded:hover  no-underline text-sm text-bluegray800 text-black:hover w-full block pt-2 pb-2 pl-1' href="#/${group}/${attributes}">${attributes.replace("-"," ").replace("-"," ")}</a></div>`;
         });
         // ---------------------------------------------------------------
-        text += `</ul>`;
+        //text += `</ul>`;
 
         setTimeout(function(){
           document.body.classList.remove('hidden');
         },400);
 
     });
+    text += `</div>`;
 
   lista.forEach(function(eLista){
     eLista.innerHTML = text;
