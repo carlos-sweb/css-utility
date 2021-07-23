@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" class="bc-white" >
+<html lang="en" class="bc-white h-full" >
 <head>
     <!-- ELECTRON  -->
     <meta http-equiv="Content-Security-Policy" content="script-src 'self' 'unsafe-inline';" />
@@ -16,7 +16,7 @@
     <link rel="stylesheet" href="dist/master.css">
     <script src="node_modules/pp-drawer.js/pp-drawer.min.js" ></script>
 </head>
-<body class="hidden select-none" >
+<body class="hidden select-none h-full" >
 
 <!---->
 <div drawer-id="main" class="pp-drawer hidden_drawer drawer-shadow">
@@ -33,22 +33,16 @@
         <div class="align-center flex flex-grow-0 flex-shrink-0 pl-4 leading-3" >
             <img onclick="openMenu(event)" class="cursor-pointer" src="img/menu.svg" alt="">
         </div>
+
         <div class="align-center flex flex-grow-0 flex-shrink-0 pl-4 leading-3" >
             <h3>Power Panel Css</h3>
         </div>
-        <div class="justify-center align-center flex flex-col justify-center pl-4 leading-3" >
-            <button onclick="location.hash = '/projects' " class="text-white bluegray600 cursor-pointer no-underline inline-block font-normal align-middle align-middle pt-1.5 pb-1.5 pl-3 pr-3 rounded outline-none border-2 border-bluegray500 border-solid" style="box-shadow:none;"   ><img class="w-4" src="img/list.svg"/> Projects</button>
-        </div>
-        <div class="align-center flex flex-col justify-center pl-4 leading-3" >
-            <button class="bc-white cursor-pointer no-underline inline-block font-normal align-middle align-middle pt-1.5 pb-1.5 pl-3 pr-3" style="border-radius:.25rem;"  ><img class="w-4" src="img/build.svg"/>  Build</button>
-        </div>
-
     </div>
 </div>
 <!-- navbar -->
-<div class="w-full flex flex-row pt-14 elevation-3" >
-    <div class="h-full" ></div>
-    <div class="w-full p-8" id="view" ></div>
+<div class="w-full h-minfull flex flex-col elevation-3" >
+    <div class="w-full block pt-14" ></div>
+    <div class="w-full pl-8 pr-8 box-border pb-16" id="view" ></div>
 </div>
 
 <script src="node_modules/pp-events/pp-events.min.js" ></script>

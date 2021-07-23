@@ -1,0 +1,26 @@
+@import "../screen.scss";
+@import "../state.scss";
+@each $key, $value in (h-min0:'0px',h-min0\.5:'0.125rem',h-min1:'0.25rem',h-min1\.5:'0.375rem',h-min2:'0.5rem',h-min2\.5:'0.625rem',h-min3:'0.75rem',h-min3\.5:'0.875rem',h-min4:'1rem',h-min5:'1.25rem',h-min6:'1.5rem',h-min7:'1.75rem',h-min8:'2rem',h-min9:'2.25rem',h-min10:'2.5rem',h-min11:'2.75rem',h-min12:'3rem',h-min13:'3.25rem',h-min14:'3.5rem',h-min16:'4rem',h-min20:'5rem',h-min24:'6rem',h-min28:'7rem',h-min32:'8rem',h-min36:'9rem',h-min40:'10rem',h-min44:'11rem',h-min48:'12rem',h-min52:'13rem',h-min56:'14rem',h-min60:'15rem',h-min64:'16rem',h-min72:'18rem',h-min80:'20rem',h-min96:'24rem',h-minauto:'auto',h-minpx:'1px',h-min1\/2:'50%',h-min1\/3:'33.333333%',h-min2\/3:'66.666667%',h-min1\/4:'25%',h-min2\/4:'50%',h-min3\/4:'75%',h-min1\/5:'20%',h-min2\/5:'40%',h-min3\/5:'60%',h-min4\/5:'80%',h-min1\/6:'16.666667%',h-min2\/6:'33.333333%',h-min3\/6:'50%',h-min4\/6:'66.666667%',h-min5\/6:'83.333333%',h-minfull:'100%',h-minscreen:'100vh'){
+	.#{$key}{
+		min-height:#{$value};
+	}
+ @each $valueState in $state{
+	.#{$key}\:#{$valueState}:#{$valueState}{
+		min-height:#{$value};
+	}
+ }
+};
+@each $sizeScreen, $pixel in $screen{
+	@media (min-width: #{map-get($pixel,min)}#{px}) and (max-width: #{map-get($pixel,max)}#{px}){
+		@each $key, $value in (h-min0:'0px',h-min0\.5:'0.125rem',h-min1:'0.25rem',h-min1\.5:'0.375rem',h-min2:'0.5rem',h-min2\.5:'0.625rem',h-min3:'0.75rem',h-min3\.5:'0.875rem',h-min4:'1rem',h-min5:'1.25rem',h-min6:'1.5rem',h-min7:'1.75rem',h-min8:'2rem',h-min9:'2.25rem',h-min10:'2.5rem',h-min11:'2.75rem',h-min12:'3rem',h-min13:'3.25rem',h-min14:'3.5rem',h-min16:'4rem',h-min20:'5rem',h-min24:'6rem',h-min28:'7rem',h-min32:'8rem',h-min36:'9rem',h-min40:'10rem',h-min44:'11rem',h-min48:'12rem',h-min52:'13rem',h-min56:'14rem',h-min60:'15rem',h-min64:'16rem',h-min72:'18rem',h-min80:'20rem',h-min96:'24rem',h-minauto:'auto',h-minpx:'1px',h-min1\/2:'50%',h-min1\/3:'33.333333%',h-min2\/3:'66.666667%',h-min1\/4:'25%',h-min2\/4:'50%',h-min3\/4:'75%',h-min1\/5:'20%',h-min2\/5:'40%',h-min3\/5:'60%',h-min4\/5:'80%',h-min1\/6:'16.666667%',h-min2\/6:'33.333333%',h-min3\/6:'50%',h-min4\/6:'66.666667%',h-min5\/6:'83.333333%',h-minfull:'100%',h-minscreen:'100vh'){
+			.#{$sizeScreen}\:#{$key}{
+				min-height:#{$value};
+			}
+      @each $valueState in $state{
+	     .#{$sizeScreen}\:#{$key}\:#{$valueState}:#{$valueState}{
+		     min-height:#{$value};
+	     }
+      }
+		}
+	}
+}

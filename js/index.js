@@ -128,14 +128,14 @@ var router = new ppRouter({
             </div>
 
             <br><br>
-            <div class="grid w-full elevation-4 overflow-hidden" style="border-radius:0.25rem;">
+            <div class="grid w-full elevation-4 overflow-hidden box-border" style="border-radius:0.25rem;">
                 <div style="grid-template-columns: 30px 1fr 1fr" class="grid deeppurple400 font-bold p-3 text-white">
                     <div>&nbsp;</div>
                     <div>Class Name</div>
                     <div>Property</div>
                 </div>
                 ${class_text}
-            </div>
+            </div>          
          `;
         }
     }
@@ -160,7 +160,7 @@ function reqListener () {
 
     propertys.forEach(function(group){
         //<!--<img class='cursor-pointer' src='img/down.svg' />-->
-        text += `<div class='select-none rounded w-full box-border pt-1 pb-1 pl-1 mb-2 mt-2 deeppurple200 block mt-1' ><span class="text-sm uppercase">${group}</span></div>`;        
+        text += `<div class='select-none rounded w-full box-border pt-1 pb-1 pl-1 mb-2 mt-2 deeppurple200 block mt-1' ><span class="text-sm uppercase">${group}</span></div>`;
         // ---------------------------------------------------------------
         // Agregamos link por link
         Object.keys(response.property[group].attr).forEach(function( attributes ){
