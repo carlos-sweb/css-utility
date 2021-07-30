@@ -1,37 +1,23 @@
-
 var model = new ppModel();
+
 var modelDrawerSearch = new model({
   search:''
 });
+
 modelDrawerSearch.on('change:search',function( old , value , c){
     console.log(value);
 });
 
-
-
-
 var ElemDrawerSearch = document.querySelector("[pp-model=drawersearch]");
-
 ElemDrawerSearch.addEventListener('keyup',function( event ){
   modelDrawerSearch.set('search',event.target.value)
 });
 
-
-
-
-
-
 console.log( cssdescription );
-
-
 
 var drawer = new ppDrawer("main")
 var openMenu = function(){ drawer.open(); }
 
-
-function copy( event ){
-    console.log(event);
-};
 
 var router = new ppRouter({
     "/":{
@@ -102,9 +88,16 @@ var router = new ppRouter({
 
             class_text += `
                 <div style="grid-template-columns: 30px 1fr 1fr" class="grid p-3 ${colorlight ? 'deeppurple100':'deeppurple50' }">
-                    <div><input ${isUnselect ? '':'checked'} type='checkbox' class='h-5 w-5' /></div>
+                    <div><input  ${isUnselect ? '':'checked'} type='checkbox' class='h-5 w-5' /></div>
                     <div><span class="text-bluegray900 font-bold" >${_keys[i].replace("\\","")}</span></div>
-                    <div><span class="text-indigo900" >${params.attribute}</span>:<span class="text-orange800">${ _propoerty[_keys[i]].replace("'","").replace("'","") }</span><img onclick="copy(event)" alt="copy" class="float-right cursor-pointer" src="img/copy.svg"/></div>
+                    <div>
+                    <span class="text-indigo900" >${params.attribute}</span>:<span class="text-orange800">${ _propoerty[_keys[i]].replace("'","").replace("'","") }</span>
+
+                    <div class="float-right w-12" >
+                      <div class="bc-black text-xs text-gray300 text-center p-2 rounded-lg absolute hidden" style="margin-top:-40px;"   >Copiado !</div>
+                      <img data-clipboard-text='${_keys[i].replace("\\","")}' alt="copy" class="copy-text-action float-right cursor-pointer" src="img/copy.svg"/>
+                    </div>
+                    </div>
                 </div>`;
 
              colorlight = !colorlight;
@@ -135,7 +128,7 @@ var router = new ppRouter({
                     <div>Property</div>
                 </div>
                 ${class_text}
-            </div>          
+            </div>
          `;
         }
     }

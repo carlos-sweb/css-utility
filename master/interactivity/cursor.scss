@@ -1,6 +1,6 @@
 @import "../screen.scss";
 @import "../state.scss";
-@each $key, $value in (cursor-auto:'auto',cursor-default:'default',cursor-pointer:'pointer',cursor-wait:'wait',cursor-text:'text',cursor-move:'move',cursor-help:'help',cursor-not-allowed:'not-allowed'){
+@each $key, $value in (cursor-auto:'auto',cursor-default:'default',cursor-pointer:'pointer',cursor-wait:'wait',cursor-text:'text',cursor-move:'move',cursor-help:'help',cursor-not-allowed:'not-allowed',cursor-none:'none'){
 	.#{$key}{
 		cursor:#{$value};
 	}
@@ -12,7 +12,7 @@
 };
 @each $sizeScreen, $pixel in $screen{
 	@media (min-width: #{map-get($pixel,min)}#{px}) and (max-width: #{map-get($pixel,max)}#{px}){
-		@each $key, $value in (cursor-auto:'auto',cursor-default:'default',cursor-pointer:'pointer',cursor-wait:'wait',cursor-text:'text',cursor-move:'move',cursor-help:'help',cursor-not-allowed:'not-allowed'){
+		@each $key, $value in (cursor-auto:'auto',cursor-default:'default',cursor-pointer:'pointer',cursor-wait:'wait',cursor-text:'text',cursor-move:'move',cursor-help:'help',cursor-not-allowed:'not-allowed',cursor-none:'none'){
 			.#{$sizeScreen}\:#{$key}{
 				cursor:#{$value};
 			}

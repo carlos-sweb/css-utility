@@ -13,7 +13,7 @@ function createWindow () {
   win.setMenu(null)
   win.maximize()
   win.show()
-  win.webContents.openDevTools()
+//  win.webContents.openDevTools()
 
 }
 

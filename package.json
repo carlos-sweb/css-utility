@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/carlos-sweb/css-utility#readme",
   "dependencies": {
+    "clipboard": "^2.0.8",
     "normalize.css": "^8.0.1",
     "pp-collection": "^1.0.0",
     "pp-drawer.js": "^1.0.6",

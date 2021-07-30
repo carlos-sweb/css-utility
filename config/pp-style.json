@@ -533,7 +533,8 @@
 					"cursor-text":"text",
 					"cursor-move":"move",
 					"cursor-help":"help",
-					"cursor-not-allowed":"not-allowed"
+					"cursor-not-allowed":"not-allowed",
+					"cursor-none":"none"
 				},
 				"resize":{
 					"resize-none":"none",

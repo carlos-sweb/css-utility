@@ -286,6 +286,42 @@
   cursor: not-allowed;
 }
 
+.cursor-none {
+  cursor: none;
+}
+
+.cursor-none\:active:active {
+  cursor: none;
+}
+
+.cursor-none\:checked:checked {
+  cursor: none;
+}
+
+.cursor-none\:disabled:disabled {
+  cursor: none;
+}
+
+.cursor-none\:focus:focus {
+  cursor: none;
+}
+
+.cursor-none\:focus-visible:focus-visible {
+  cursor: none;
+}
+
+.cursor-none\:hover:hover {
+  cursor: none;
+}
+
+.cursor-none\:required:required {
+  cursor: none;
+}
+
+.cursor-none\:visited:visited {
+  cursor: none;
+}
+
 @media (min-width: 0px) and (max-width: 639px) {
   .xs\:cursor-auto {
     cursor: auto;
@@ -573,6 +609,42 @@
 
   .xs\:cursor-not-allowed\:visited:visited {
     cursor: not-allowed;
+  }
+
+  .xs\:cursor-none {
+    cursor: none;
+  }
+
+  .xs\:cursor-none\:active:active {
+    cursor: none;
+  }
+
+  .xs\:cursor-none\:checked:checked {
+    cursor: none;
+  }
+
+  .xs\:cursor-none\:disabled:disabled {
+    cursor: none;
+  }
+
+  .xs\:cursor-none\:focus:focus {
+    cursor: none;
+  }
+
+  .xs\:cursor-none\:focus-visible:focus-visible {
+    cursor: none;
+  }
+
+  .xs\:cursor-none\:hover:hover {
+    cursor: none;
+  }
+
+  .xs\:cursor-none\:required:required {
+    cursor: none;
+  }
+
+  .xs\:cursor-none\:visited:visited {
+    cursor: none;
   }
 }
 @media (min-width: 640px) and (max-width: 767px) {
@@ -863,6 +935,42 @@
   .sm\:cursor-not-allowed\:visited:visited {
     cursor: not-allowed;
   }
+
+  .sm\:cursor-none {
+    cursor: none;
+  }
+
+  .sm\:cursor-none\:active:active {
+    cursor: none;
+  }
+
+  .sm\:cursor-none\:checked:checked {
+    cursor: none;
+  }
+
+  .sm\:cursor-none\:disabled:disabled {
+    cursor: none;
+  }
+
+  .sm\:cursor-none\:focus:focus {
+    cursor: none;
+  }
+
+  .sm\:cursor-none\:focus-visible:focus-visible {
+    cursor: none;
+  }
+
+  .sm\:cursor-none\:hover:hover {
+    cursor: none;
+  }
+
+  .sm\:cursor-none\:required:required {
+    cursor: none;
+  }
+
+  .sm\:cursor-none\:visited:visited {
+    cursor: none;
+  }
 }
 @media (min-width: 768px) and (max-width: 1023px) {
   .md\:cursor-auto {
@@ -1152,6 +1260,42 @@
   .md\:cursor-not-allowed\:visited:visited {
     cursor: not-allowed;
   }
+
+  .md\:cursor-none {
+    cursor: none;
+  }
+
+  .md\:cursor-none\:active:active {
+    cursor: none;
+  }
+
+  .md\:cursor-none\:checked:checked {
+    cursor: none;
+  }
+
+  .md\:cursor-none\:disabled:disabled {
+    cursor: none;
+  }
+
+  .md\:cursor-none\:focus:focus {
+    cursor: none;
+  }
+
+  .md\:cursor-none\:focus-visible:focus-visible {
+    cursor: none;
+  }
+
+  .md\:cursor-none\:hover:hover {
+    cursor: none;
+  }
+
+  .md\:cursor-none\:required:required {
+    cursor: none;
+  }
+
+  .md\:cursor-none\:visited:visited {
+    cursor: none;
+  }
 }
 @media (min-width: 1024px) and (max-width: 2000px) {
   .lg\:cursor-auto {
@@ -1440,5 +1584,41 @@
 
   .lg\:cursor-not-allowed\:visited:visited {
     cursor: not-allowed;
+  }
+
+  .lg\:cursor-none {
+    cursor: none;
+  }
+
+  .lg\:cursor-none\:active:active {
+    cursor: none;
+  }
+
+  .lg\:cursor-none\:checked:checked {
+    cursor: none;
+  }
+
+  .lg\:cursor-none\:disabled:disabled {
+    cursor: none;
+  }
+
+  .lg\:cursor-none\:focus:focus {
+    cursor: none;
+  }
+
+  .lg\:cursor-none\:focus-visible:focus-visible {
+    cursor: none;
+  }
+
+  .lg\:cursor-none\:hover:hover {
+    cursor: none;
+  }
+
+  .lg\:cursor-none\:required:required {
+    cursor: none;
+  }
+
+  .lg\:cursor-none\:visited:visited {
+    cursor: none;
   }
 }
