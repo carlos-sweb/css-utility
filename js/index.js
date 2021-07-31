@@ -94,8 +94,8 @@ var router = new ppRouter({
                     <span class="text-indigo900" >${params.attribute}</span>:<span class="text-orange800">${ _propoerty[_keys[i]].replace("'","").replace("'","") }</span>
 
                     <div class="float-right w-12" >
-                      <div class="bc-black text-xs text-gray300 text-center p-2 rounded-lg absolute hidden" style="margin-top:-40px;"   >Copiado !</div>
-                      <img data-clipboard-text='${_keys[i].replace("\\","")}' alt="copy" class="copy-text-action float-right cursor-pointer" src="img/copy.svg"/>
+                      <div tools-tips class="bc-black text-xs text-gray300 text-center p-2 rounded-lg absolute hidden" style="margin-top:-35px;margin-left:-25px;"   >Copiado !</div>
+                      <img onclick='showToolsTips(event)' data-clipboard-text='${_keys[i].replace("\\","")}' alt="copy" class="copy-text-action float-right cursor-pointer" src="img/copy.svg"/>
                     </div>
                     </div>
                 </div>`;
@@ -185,3 +185,12 @@ oReq.open("GET", "config/pp-style.json");
 oReq.setRequestHeader('Cache-Control', 'no-cache');
 oReq.send();
 // ------------------------------------------------------------------------------------------
+
+
+var showToolsTips = function( event ){
+
+    var target = event.target.parentElement.querySelector('[tools-tips]');
+    target.classList.remove('hidden');
+    setTimeout(function(){ target.classList.add('hidden');},500);
+
+}
