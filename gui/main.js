@@ -9,17 +9,18 @@ function createWindow () {
       preload: path.join(__dirname, 'preload.js')
     }
   })
+
   win.loadFile('../index.html')
   win.setMenu(null)
-  win.maximize()
-  win.show()
   //win.webContents.openDevTools()
-
+  win.once('ready-to-show', () => {
+    win.maximize()
+    win.show()
+  })
 }
 
 app.whenReady().then(() => {
   createWindow()
-
   app.on('activate', () => {
     if (BrowserWindow.getAllWindows().length === 0) {
       createWindow()
