@@ -23,6 +23,16 @@ var router = new ppRouter({
     "/":{
         controller:function(){
 
+            var view = document.getElementById("view");
+
+            view.innerHTML = `
+                <div class="flex w-full flex-row justify-center pt-20 box-border" >
+                  <div class="flex flex-col justify-center items-center">
+                    <h1>Everything you need to know about CSS.</h1>
+                    <img src='img/css-3.png' class="w-24" />
+                  </div>
+                </div>
+                `;
 
 
         }
