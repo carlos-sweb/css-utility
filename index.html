@@ -37,8 +37,16 @@
             <h3>Power Panel Css</h3>
         </div>
 
-        <div class="align-center flex flex-grow-0 flex-shrink-0 pl-4 pr-4 cursor-pointer leading-5 deeppurple500:hover" >
+        <div onclick="window.location.hash='/components';event.currentTarget.classList.add('deeppurple500')" class="align-center flex flex-grow-0 flex-shrink-0 pl-4 pr-4 cursor-pointer leading-5 deeppurple500:hover" >
             <p>Components</p>
+        </div>
+
+        <div onclick="window.location.hash='/elements';event.currentTarget.classList.add('deeppurple500')" class="align-center flex flex-grow-0 flex-shrink-0 pl-4 pr-4 cursor-pointer leading-5 deeppurple500:hover" >
+            <p>Elements</p>
+        </div>
+
+        <div onclick="window.location.hash='/form';event.currentTarget.classList.add('deeppurple500')" class="align-center flex flex-grow-0 flex-shrink-0 pl-4 pr-4 cursor-pointer leading-5 deeppurple500:hover" >
+            <p>Form</p>
         </div>
 
         <div class="flex flex-grow-0 flex-shrink-0 leading-3 justify-center pl-4 pr-4" >
@@ -54,6 +62,8 @@
 </div>
 
 <script src="node_modules/clipboard/dist/clipboard.min.js"></script>
+
+<script src="node_modules/pp-elementjson.js/pp-elementjson.min.js" ></script>
 <script src="node_modules/pp-events/pp-events.min.js" ></script>
 <script src="node_modules/pp-model.js/pp-model.min.js" ></script>
 <script src="node_modules/pp-collection/pp-collection.min.js" ></script>

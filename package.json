@@ -27,7 +27,8 @@
     "normalize.css": "^8.0.1",
     "pp-collection": "^1.0.0",
     "pp-drawer.js": "^1.0.6",
+    "pp-elementjson.js": "^1.0.3",
     "pp-model.js": "^1.0.9",
-    "pp-router.js": "^1.1.1"
+    "pp-router.js": "^2.1.2"
   }
 }

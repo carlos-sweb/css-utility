@@ -25,19 +25,101 @@ var router = new ppRouter({
 
             var view = document.getElementById("view");
 
-            view.innerHTML = `
-                <div class="flex w-full flex-row justify-center pt-20 box-border" >
-                  <div class="flex flex-col justify-center items-center">
-                    <h2>Everything you need to know about CSS.</h2>
-                    <img src='img/css-3.png' class="w-24" />
-                  </div>
-                </div>
-                `;
+            view.innerHTML = '';
+
+            var ppElem = new ppElementjson();
+
+            ppElem.load([{
+              attr:{
+                class: "flex w-full flex-row justify-center pt-20 box-border"
+              },
+              children:[{
+                attr:{
+                  class:"flex flex-col justify-center items-center"
+                },
+                children:[{
+                  tag:"h2",
+                  afterContent:"Everything you need to know about CSS."
+                },{
+                  tag:"img",
+                  attr:{src:"img/css-3.png",class:"w-24"}
+                }]
+              }]
+            }]);
+            view.innerHTML = ppElem.render();
 
 
         }
     },
 
+    "/components":{
+      controller:function( params ){
+
+        var view = document.getElementById("view");
+        view.innerHTML = `
+
+        <h1>Components</h1>
+
+        <h2>breadcrumb /bulma io</h2>
+        <h2>Card</h2>
+        <h2>Dropdown</h2>
+        <h2>Menu</h2>
+        <h2>Message</h2>
+        <h2>Modal</h2>
+        <h2>Navbar</h2>
+        <h2>Pagination</h2>
+        <h2>Panel</h2>
+        <h2>Tabs</h2>
+
+
+        `;
+
+
+
+      }
+    },
+    "/elements":{
+      controller:function( params ){
+
+        var ElementsList = [ 'Button' ,'' ];
+
+        var view = document.getElementById("view");
+        view.innerHTML = `
+
+        <h1>Elements</h1>
+
+        <h2>Button </h2>
+
+
+        `;
+
+
+
+      }
+    },
+    "/form":{
+      controller:function( params ){
+
+        var ElementsList = [ 'Button' ,'' ];
+
+        var view = document.getElementById("view");
+        view.innerHTML = `
+
+        <h1>Form</h1>
+
+        <h2>General</h2>
+        <h2>Input</h2>
+        <h2>Textarea</h2>
+        <h2>Select</h2>
+        <h2>Checkbox</h2>
+        <h2>Radio</h2>
+        <h2>File</h2>
+        `;
+
+
+
+      }
+    },
     "/projects/:project(string)":{
       controller:function(){
           console.log("Runnnn");
@@ -123,7 +205,7 @@ var router = new ppRouter({
 
 
          view .innerHTML = `
-            <h1 class="uppercase" >${params.attribute.replace("-","&nbsp;")}</h1>
+            <p class="uppercase text-2xl p-3" >${params.attribute}</p>
             <p>${ cssdescription[ params.attribute ] ? cssdescription[ params.attribute ]["es"] : "" }</p>
 
             <div class="flex flex-row" >
