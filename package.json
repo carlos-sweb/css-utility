@@ -28,6 +28,7 @@
     "pp-collection": "^1.0.0",
     "pp-drawer.js": "^1.0.6",
     "pp-elementjson.js": "^1.0.3",
+    "pp-is": "^1.0.0",
     "pp-model.js": "^1.0.9",
     "pp-router.js": "^2.1.2"
   }
