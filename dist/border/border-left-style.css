@@ -1,0 +1,904 @@
+.border-left-solid {
+  border-left-style: solid;
+}
+
+.border-left-solid\:active:active {
+  border-left-style: solid;
+}
+
+.border-left-solid\:checked:checked {
+  border-left-style: solid;
+}
+
+.border-left-solid\:disabled:disabled {
+  border-left-style: solid;
+}
+
+.border-left-solid\:focus:focus {
+  border-left-style: solid;
+}
+
+.border-left-solid\:focus-visible:focus-visible {
+  border-left-style: solid;
+}
+
+.border-left-solid\:hover:hover {
+  border-left-style: solid;
+}
+
+.border-left-solid\:required:required {
+  border-left-style: solid;
+}
+
+.border-left-solid\:visited:visited {
+  border-left-style: solid;
+}
+
+.border-left-dashed {
+  border-left-style: dashed;
+}
+
+.border-left-dashed\:active:active {
+  border-left-style: dashed;
+}
+
+.border-left-dashed\:checked:checked {
+  border-left-style: dashed;
+}
+
+.border-left-dashed\:disabled:disabled {
+  border-left-style: dashed;
+}
+
+.border-left-dashed\:focus:focus {
+  border-left-style: dashed;
+}
+
+.border-left-dashed\:focus-visible:focus-visible {
+  border-left-style: dashed;
+}
+
+.border-left-dashed\:hover:hover {
+  border-left-style: dashed;
+}
+
+.border-left-dashed\:required:required {
+  border-left-style: dashed;
+}
+
+.border-left-dashed\:visited:visited {
+  border-left-style: dashed;
+}
+
+.border-left-dotted {
+  border-left-style: dotted;
+}
+
+.border-left-dotted\:active:active {
+  border-left-style: dotted;
+}
+
+.border-left-dotted\:checked:checked {
+  border-left-style: dotted;
+}
+
+.border-left-dotted\:disabled:disabled {
+  border-left-style: dotted;
+}
+
+.border-left-dotted\:focus:focus {
+  border-left-style: dotted;
+}
+
+.border-left-dotted\:focus-visible:focus-visible {
+  border-left-style: dotted;
+}
+
+.border-left-dotted\:hover:hover {
+  border-left-style: dotted;
+}
+
+.border-left-dotted\:required:required {
+  border-left-style: dotted;
+}
+
+.border-left-dotted\:visited:visited {
+  border-left-style: dotted;
+}
+
+.border-left-double {
+  border-left-style: double;
+}
+
+.border-left-double\:active:active {
+  border-left-style: double;
+}
+
+.border-left-double\:checked:checked {
+  border-left-style: double;
+}
+
+.border-left-double\:disabled:disabled {
+  border-left-style: double;
+}
+
+.border-left-double\:focus:focus {
+  border-left-style: double;
+}
+
+.border-left-double\:focus-visible:focus-visible {
+  border-left-style: double;
+}
+
+.border-left-double\:hover:hover {
+  border-left-style: double;
+}
+
+.border-left-double\:required:required {
+  border-left-style: double;
+}
+
+.border-left-double\:visited:visited {
+  border-left-style: double;
+}
+
+.border-left-none {
+  border-left-style: none;
+}
+
+.border-left-none\:active:active {
+  border-left-style: none;
+}
+
+.border-left-none\:checked:checked {
+  border-left-style: none;
+}
+
+.border-left-none\:disabled:disabled {
+  border-left-style: none;
+}
+
+.border-left-none\:focus:focus {
+  border-left-style: none;
+}
+
+.border-left-none\:focus-visible:focus-visible {
+  border-left-style: none;
+}
+
+.border-left-none\:hover:hover {
+  border-left-style: none;
+}
+
+.border-left-none\:required:required {
+  border-left-style: none;
+}
+
+.border-left-none\:visited:visited {
+  border-left-style: none;
+}
+
+@media (min-width: 0px) and (max-width: 639px) {
+  .xs\:border-left-solid {
+    border-left-style: solid;
+  }
+
+  .xs\:border-left-solid\:active:active {
+    border-left-style: solid;
+  }
+
+  .xs\:border-left-solid\:checked:checked {
+    border-left-style: solid;
+  }
+
+  .xs\:border-left-solid\:disabled:disabled {
+    border-left-style: solid;
+  }
+
+  .xs\:border-left-solid\:focus:focus {
+    border-left-style: solid;
+  }
+
+  .xs\:border-left-solid\:focus-visible:focus-visible {
+    border-left-style: solid;
+  }
+
+  .xs\:border-left-solid\:hover:hover {
+    border-left-style: solid;
+  }
+
+  .xs\:border-left-solid\:required:required {
+    border-left-style: solid;
+  }
+
+  .xs\:border-left-solid\:visited:visited {
+    border-left-style: solid;
+  }
+
+  .xs\:border-left-dashed {
+    border-left-style: dashed;
+  }
+
+  .xs\:border-left-dashed\:active:active {
+    border-left-style: dashed;
+  }
+
+  .xs\:border-left-dashed\:checked:checked {
+    border-left-style: dashed;
+  }
+
+  .xs\:border-left-dashed\:disabled:disabled {
+    border-left-style: dashed;
+  }
+
+  .xs\:border-left-dashed\:focus:focus {
+    border-left-style: dashed;
+  }
+
+  .xs\:border-left-dashed\:focus-visible:focus-visible {
+    border-left-style: dashed;
+  }
+
+  .xs\:border-left-dashed\:hover:hover {
+    border-left-style: dashed;
+  }
+
+  .xs\:border-left-dashed\:required:required {
+    border-left-style: dashed;
+  }
+
+  .xs\:border-left-dashed\:visited:visited {
+    border-left-style: dashed;
+  }
+
+  .xs\:border-left-dotted {
+    border-left-style: dotted;
+  }
+
+  .xs\:border-left-dotted\:active:active {
+    border-left-style: dotted;
+  }
+
+  .xs\:border-left-dotted\:checked:checked {
+    border-left-style: dotted;
+  }
+
+  .xs\:border-left-dotted\:disabled:disabled {
+    border-left-style: dotted;
+  }
+
+  .xs\:border-left-dotted\:focus:focus {
+    border-left-style: dotted;
+  }
+
+  .xs\:border-left-dotted\:focus-visible:focus-visible {
+    border-left-style: dotted;
+  }
+
+  .xs\:border-left-dotted\:hover:hover {
+    border-left-style: dotted;
+  }
+
+  .xs\:border-left-dotted\:required:required {
+    border-left-style: dotted;
+  }
+
+  .xs\:border-left-dotted\:visited:visited {
+    border-left-style: dotted;
+  }
+
+  .xs\:border-left-double {
+    border-left-style: double;
+  }
+
+  .xs\:border-left-double\:active:active {
+    border-left-style: double;
+  }
+
+  .xs\:border-left-double\:checked:checked {
+    border-left-style: double;
+  }
+
+  .xs\:border-left-double\:disabled:disabled {
+    border-left-style: double;
+  }
+
+  .xs\:border-left-double\:focus:focus {
+    border-left-style: double;
+  }
+
+  .xs\:border-left-double\:focus-visible:focus-visible {
+    border-left-style: double;
+  }
+
+  .xs\:border-left-double\:hover:hover {
+    border-left-style: double;
+  }
+
+  .xs\:border-left-double\:required:required {
+    border-left-style: double;
+  }
+
+  .xs\:border-left-double\:visited:visited {
+    border-left-style: double;
+  }
+
+  .xs\:border-left-none {
+    border-left-style: none;
+  }
+
+  .xs\:border-left-none\:active:active {
+    border-left-style: none;
+  }
+
+  .xs\:border-left-none\:checked:checked {
+    border-left-style: none;
+  }
+
+  .xs\:border-left-none\:disabled:disabled {
+    border-left-style: none;
+  }
+
+  .xs\:border-left-none\:focus:focus {
+    border-left-style: none;
+  }
+
+  .xs\:border-left-none\:focus-visible:focus-visible {
+    border-left-style: none;
+  }
+
+  .xs\:border-left-none\:hover:hover {
+    border-left-style: none;
+  }
+
+  .xs\:border-left-none\:required:required {
+    border-left-style: none;
+  }
+
+  .xs\:border-left-none\:visited:visited {
+    border-left-style: none;
+  }
+}
+@media (min-width: 640px) and (max-width: 767px) {
+  .sm\:border-left-solid {
+    border-left-style: solid;
+  }
+
+  .sm\:border-left-solid\:active:active {
+    border-left-style: solid;
+  }
+
+  .sm\:border-left-solid\:checked:checked {
+    border-left-style: solid;
+  }
+
+  .sm\:border-left-solid\:disabled:disabled {
+    border-left-style: solid;
+  }
+
+  .sm\:border-left-solid\:focus:focus {
+    border-left-style: solid;
+  }
+
+  .sm\:border-left-solid\:focus-visible:focus-visible {
+    border-left-style: solid;
+  }
+
+  .sm\:border-left-solid\:hover:hover {
+    border-left-style: solid;
+  }
+
+  .sm\:border-left-solid\:required:required {
+    border-left-style: solid;
+  }
+
+  .sm\:border-left-solid\:visited:visited {
+    border-left-style: solid;
+  }
+
+  .sm\:border-left-dashed {
+    border-left-style: dashed;
+  }
+
+  .sm\:border-left-dashed\:active:active {
+    border-left-style: dashed;
+  }
+
+  .sm\:border-left-dashed\:checked:checked {
+    border-left-style: dashed;
+  }
+
+  .sm\:border-left-dashed\:disabled:disabled {
+    border-left-style: dashed;
+  }
+
+  .sm\:border-left-dashed\:focus:focus {
+    border-left-style: dashed;
+  }
+
+  .sm\:border-left-dashed\:focus-visible:focus-visible {
+    border-left-style: dashed;
+  }
+
+  .sm\:border-left-dashed\:hover:hover {
+    border-left-style: dashed;
+  }
+
+  .sm\:border-left-dashed\:required:required {
+    border-left-style: dashed;
+  }
+
+  .sm\:border-left-dashed\:visited:visited {
+    border-left-style: dashed;
+  }
+
+  .sm\:border-left-dotted {
+    border-left-style: dotted;
+  }
+
+  .sm\:border-left-dotted\:active:active {
+    border-left-style: dotted;
+  }
+
+  .sm\:border-left-dotted\:checked:checked {
+    border-left-style: dotted;
+  }
+
+  .sm\:border-left-dotted\:disabled:disabled {
+    border-left-style: dotted;
+  }
+
+  .sm\:border-left-dotted\:focus:focus {
+    border-left-style: dotted;
+  }
+
+  .sm\:border-left-dotted\:focus-visible:focus-visible {
+    border-left-style: dotted;
+  }
+
+  .sm\:border-left-dotted\:hover:hover {
+    border-left-style: dotted;
+  }
+
+  .sm\:border-left-dotted\:required:required {
+    border-left-style: dotted;
+  }
+
+  .sm\:border-left-dotted\:visited:visited {
+    border-left-style: dotted;
+  }
+
+  .sm\:border-left-double {
+    border-left-style: double;
+  }
+
+  .sm\:border-left-double\:active:active {
+    border-left-style: double;
+  }
+
+  .sm\:border-left-double\:checked:checked {
+    border-left-style: double;
+  }
+
+  .sm\:border-left-double\:disabled:disabled {
+    border-left-style: double;
+  }
+
+  .sm\:border-left-double\:focus:focus {
+    border-left-style: double;
+  }
+
+  .sm\:border-left-double\:focus-visible:focus-visible {
+    border-left-style: double;
+  }
+
+  .sm\:border-left-double\:hover:hover {
+    border-left-style: double;
+  }
+
+  .sm\:border-left-double\:required:required {
+    border-left-style: double;
+  }
+
+  .sm\:border-left-double\:visited:visited {
+    border-left-style: double;
+  }
+
+  .sm\:border-left-none {
+    border-left-style: none;
+  }
+
+  .sm\:border-left-none\:active:active {
+    border-left-style: none;
+  }
+
+  .sm\:border-left-none\:checked:checked {
+    border-left-style: none;
+  }
+
+  .sm\:border-left-none\:disabled:disabled {
+    border-left-style: none;
+  }
+
+  .sm\:border-left-none\:focus:focus {
+    border-left-style: none;
+  }
+
+  .sm\:border-left-none\:focus-visible:focus-visible {
+    border-left-style: none;
+  }
+
+  .sm\:border-left-none\:hover:hover {
+    border-left-style: none;
+  }
+
+  .sm\:border-left-none\:required:required {
+    border-left-style: none;
+  }
+
+  .sm\:border-left-none\:visited:visited {
+    border-left-style: none;
+  }
+}
+@media (min-width: 768px) and (max-width: 1023px) {
+  .md\:border-left-solid {
+    border-left-style: solid;
+  }
+
+  .md\:border-left-solid\:active:active {
+    border-left-style: solid;
+  }
+
+  .md\:border-left-solid\:checked:checked {
+    border-left-style: solid;
+  }
+
+  .md\:border-left-solid\:disabled:disabled {
+    border-left-style: solid;
+  }
+
+  .md\:border-left-solid\:focus:focus {
+    border-left-style: solid;
+  }
+
+  .md\:border-left-solid\:focus-visible:focus-visible {
+    border-left-style: solid;
+  }
+
+  .md\:border-left-solid\:hover:hover {
+    border-left-style: solid;
+  }
+
+  .md\:border-left-solid\:required:required {
+    border-left-style: solid;
+  }
+
+  .md\:border-left-solid\:visited:visited {
+    border-left-style: solid;
+  }
+
+  .md\:border-left-dashed {
+    border-left-style: dashed;
+  }
+
+  .md\:border-left-dashed\:active:active {
+    border-left-style: dashed;
+  }
+
+  .md\:border-left-dashed\:checked:checked {
+    border-left-style: dashed;
+  }
+
+  .md\:border-left-dashed\:disabled:disabled {
+    border-left-style: dashed;
+  }
+
+  .md\:border-left-dashed\:focus:focus {
+    border-left-style: dashed;
+  }
+
+  .md\:border-left-dashed\:focus-visible:focus-visible {
+    border-left-style: dashed;
+  }
+
+  .md\:border-left-dashed\:hover:hover {
+    border-left-style: dashed;
+  }
+
+  .md\:border-left-dashed\:required:required {
+    border-left-style: dashed;
+  }
+
+  .md\:border-left-dashed\:visited:visited {
+    border-left-style: dashed;
+  }
+
+  .md\:border-left-dotted {
+    border-left-style: dotted;
+  }
+
+  .md\:border-left-dotted\:active:active {
+    border-left-style: dotted;
+  }
+
+  .md\:border-left-dotted\:checked:checked {
+    border-left-style: dotted;
+  }
+
+  .md\:border-left-dotted\:disabled:disabled {
+    border-left-style: dotted;
+  }
+
+  .md\:border-left-dotted\:focus:focus {
+    border-left-style: dotted;
+  }
+
+  .md\:border-left-dotted\:focus-visible:focus-visible {
+    border-left-style: dotted;
+  }
+
+  .md\:border-left-dotted\:hover:hover {
+    border-left-style: dotted;
+  }
+
+  .md\:border-left-dotted\:required:required {
+    border-left-style: dotted;
+  }
+
+  .md\:border-left-dotted\:visited:visited {
+    border-left-style: dotted;
+  }
+
+  .md\:border-left-double {
+    border-left-style: double;
+  }
+
+  .md\:border-left-double\:active:active {
+    border-left-style: double;
+  }
+
+  .md\:border-left-double\:checked:checked {
+    border-left-style: double;
+  }
+
+  .md\:border-left-double\:disabled:disabled {
+    border-left-style: double;
+  }
+
+  .md\:border-left-double\:focus:focus {
+    border-left-style: double;
+  }
+
+  .md\:border-left-double\:focus-visible:focus-visible {
+    border-left-style: double;
+  }
+
+  .md\:border-left-double\:hover:hover {
+    border-left-style: double;
+  }
+
+  .md\:border-left-double\:required:required {
+    border-left-style: double;
+  }
+
+  .md\:border-left-double\:visited:visited {
+    border-left-style: double;
+  }
+
+  .md\:border-left-none {
+    border-left-style: none;
+  }
+
+  .md\:border-left-none\:active:active {
+    border-left-style: none;
+  }
+
+  .md\:border-left-none\:checked:checked {
+    border-left-style: none;
+  }
+
+  .md\:border-left-none\:disabled:disabled {
+    border-left-style: none;
+  }
+
+  .md\:border-left-none\:focus:focus {
+    border-left-style: none;
+  }
+
+  .md\:border-left-none\:focus-visible:focus-visible {
+    border-left-style: none;
+  }
+
+  .md\:border-left-none\:hover:hover {
+    border-left-style: none;
+  }
+
+  .md\:border-left-none\:required:required {
+    border-left-style: none;
+  }
+
+  .md\:border-left-none\:visited:visited {
+    border-left-style: none;
+  }
+}
+@media (min-width: 1024px) and (max-width: 2000px) {
+  .lg\:border-left-solid {
+    border-left-style: solid;
+  }
+
+  .lg\:border-left-solid\:active:active {
+    border-left-style: solid;
+  }
+
+  .lg\:border-left-solid\:checked:checked {
+    border-left-style: solid;
+  }
+
+  .lg\:border-left-solid\:disabled:disabled {
+    border-left-style: solid;
+  }
+
+  .lg\:border-left-solid\:focus:focus {
+    border-left-style: solid;
+  }
+
+  .lg\:border-left-solid\:focus-visible:focus-visible {
+    border-left-style: solid;
+  }
+
+  .lg\:border-left-solid\:hover:hover {
+    border-left-style: solid;
+  }
+
+  .lg\:border-left-solid\:required:required {
+    border-left-style: solid;
+  }
+
+  .lg\:border-left-solid\:visited:visited {
+    border-left-style: solid;
+  }
+
+  .lg\:border-left-dashed {
+    border-left-style: dashed;
+  }
+
+  .lg\:border-left-dashed\:active:active {
+    border-left-style: dashed;
+  }
+
+  .lg\:border-left-dashed\:checked:checked {
+    border-left-style: dashed;
+  }
+
+  .lg\:border-left-dashed\:disabled:disabled {
+    border-left-style: dashed;
+  }
+
+  .lg\:border-left-dashed\:focus:focus {
+    border-left-style: dashed;
+  }
+
+  .lg\:border-left-dashed\:focus-visible:focus-visible {
+    border-left-style: dashed;
+  }
+
+  .lg\:border-left-dashed\:hover:hover {
+    border-left-style: dashed;
+  }
+
+  .lg\:border-left-dashed\:required:required {
+    border-left-style: dashed;
+  }
+
+  .lg\:border-left-dashed\:visited:visited {
+    border-left-style: dashed;
+  }
+
+  .lg\:border-left-dotted {
+    border-left-style: dotted;
+  }
+
+  .lg\:border-left-dotted\:active:active {
+    border-left-style: dotted;
+  }
+
+  .lg\:border-left-dotted\:checked:checked {
+    border-left-style: dotted;
+  }
+
+  .lg\:border-left-dotted\:disabled:disabled {
+    border-left-style: dotted;
+  }
+
+  .lg\:border-left-dotted\:focus:focus {
+    border-left-style: dotted;
+  }
+
+  .lg\:border-left-dotted\:focus-visible:focus-visible {
+    border-left-style: dotted;
+  }
+
+  .lg\:border-left-dotted\:hover:hover {
+    border-left-style: dotted;
+  }
+
+  .lg\:border-left-dotted\:required:required {
+    border-left-style: dotted;
+  }
+
+  .lg\:border-left-dotted\:visited:visited {
+    border-left-style: dotted;
+  }
+
+  .lg\:border-left-double {
+    border-left-style: double;
+  }
+
+  .lg\:border-left-double\:active:active {
+    border-left-style: double;
+  }
+
+  .lg\:border-left-double\:checked:checked {
+    border-left-style: double;
+  }
+
+  .lg\:border-left-double\:disabled:disabled {
+    border-left-style: double;
+  }
+
+  .lg\:border-left-double\:focus:focus {
+    border-left-style: double;
+  }
+
+  .lg\:border-left-double\:focus-visible:focus-visible {
+    border-left-style: double;
+  }
+
+  .lg\:border-left-double\:hover:hover {
+    border-left-style: double;
+  }
+
+  .lg\:border-left-double\:required:required {
+    border-left-style: double;
+  }
+
+  .lg\:border-left-double\:visited:visited {
+    border-left-style: double;
+  }
+
+  .lg\:border-left-none {
+    border-left-style: none;
+  }
+
+  .lg\:border-left-none\:active:active {
+    border-left-style: none;
+  }
+
+  .lg\:border-left-none\:checked:checked {
+    border-left-style: none;
+  }
+
+  .lg\:border-left-none\:disabled:disabled {
+    border-left-style: none;
+  }
+
+  .lg\:border-left-none\:focus:focus {
+    border-left-style: none;
+  }
+
+  .lg\:border-left-none\:focus-visible:focus-visible {
+    border-left-style: none;
+  }
+
+  .lg\:border-left-none\:hover:hover {
+    border-left-style: none;
+  }
+
+  .lg\:border-left-none\:required:required {
+    border-left-style: none;
+  }
+
+  .lg\:border-left-none\:visited:visited {
+    border-left-style: none;
+  }
+}

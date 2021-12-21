@@ -1,6 +1,6 @@
 @import "../screen.scss";
 @import "../state.scss";
-@each $key, $value in (justify-start:'flex-start',justify-end:'flex-end',justify-center:'center',justify-between:'flex-between',justify-around:'flex-around',justify-evenly:'flex-evenly'){
+@each $key, $value in (justify-start:'flex-start',justify-end:'flex-end',justify-center:'center',justify-between:'space-between',justify-around:'space-around',justify-evenly:'space-evenly'){
 	.#{$key}{
 		justify-content:#{$value};
 	}
@@ -12,7 +12,7 @@
 };
 @each $sizeScreen, $pixel in $screen{
 	@media (min-width: #{map-get($pixel,min)}#{px}) and (max-width: #{map-get($pixel,max)}#{px}){
-		@each $key, $value in (justify-start:'flex-start',justify-end:'flex-end',justify-center:'center',justify-between:'flex-between',justify-around:'flex-around',justify-evenly:'flex-evenly'){
+		@each $key, $value in (justify-start:'flex-start',justify-end:'flex-end',justify-center:'center',justify-between:'space-between',justify-around:'space-around',justify-evenly:'space-evenly'){
 			.#{$sizeScreen}\:#{$key}{
 				justify-content:#{$value};
 			}

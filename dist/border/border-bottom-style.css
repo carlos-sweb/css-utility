@@ -1,0 +1,904 @@
+.border-bottom-solid {
+  border-bottom-style: solid;
+}
+
+.border-bottom-solid\:active:active {
+  border-bottom-style: solid;
+}
+
+.border-bottom-solid\:checked:checked {
+  border-bottom-style: solid;
+}
+
+.border-bottom-solid\:disabled:disabled {
+  border-bottom-style: solid;
+}
+
+.border-bottom-solid\:focus:focus {
+  border-bottom-style: solid;
+}
+
+.border-bottom-solid\:focus-visible:focus-visible {
+  border-bottom-style: solid;
+}
+
+.border-bottom-solid\:hover:hover {
+  border-bottom-style: solid;
+}
+
+.border-bottom-solid\:required:required {
+  border-bottom-style: solid;
+}
+
+.border-bottom-solid\:visited:visited {
+  border-bottom-style: solid;
+}
+
+.border-bottom-dashed {
+  border-bottom-style: dashed;
+}
+
+.border-bottom-dashed\:active:active {
+  border-bottom-style: dashed;
+}
+
+.border-bottom-dashed\:checked:checked {
+  border-bottom-style: dashed;
+}
+
+.border-bottom-dashed\:disabled:disabled {
+  border-bottom-style: dashed;
+}
+
+.border-bottom-dashed\:focus:focus {
+  border-bottom-style: dashed;
+}
+
+.border-bottom-dashed\:focus-visible:focus-visible {
+  border-bottom-style: dashed;
+}
+
+.border-bottom-dashed\:hover:hover {
+  border-bottom-style: dashed;
+}
+
+.border-bottom-dashed\:required:required {
+  border-bottom-style: dashed;
+}
+
+.border-bottom-dashed\:visited:visited {
+  border-bottom-style: dashed;
+}
+
+.border-bottom-dotted {
+  border-bottom-style: dotted;
+}
+
+.border-bottom-dotted\:active:active {
+  border-bottom-style: dotted;
+}
+
+.border-bottom-dotted\:checked:checked {
+  border-bottom-style: dotted;
+}
+
+.border-bottom-dotted\:disabled:disabled {
+  border-bottom-style: dotted;
+}
+
+.border-bottom-dotted\:focus:focus {
+  border-bottom-style: dotted;
+}
+
+.border-bottom-dotted\:focus-visible:focus-visible {
+  border-bottom-style: dotted;
+}
+
+.border-bottom-dotted\:hover:hover {
+  border-bottom-style: dotted;
+}
+
+.border-bottom-dotted\:required:required {
+  border-bottom-style: dotted;
+}
+
+.border-bottom-dotted\:visited:visited {
+  border-bottom-style: dotted;
+}
+
+.border-bottom-double {
+  border-bottom-style: double;
+}
+
+.border-bottom-double\:active:active {
+  border-bottom-style: double;
+}
+
+.border-bottom-double\:checked:checked {
+  border-bottom-style: double;
+}
+
+.border-bottom-double\:disabled:disabled {
+  border-bottom-style: double;
+}
+
+.border-bottom-double\:focus:focus {
+  border-bottom-style: double;
+}
+
+.border-bottom-double\:focus-visible:focus-visible {
+  border-bottom-style: double;
+}
+
+.border-bottom-double\:hover:hover {
+  border-bottom-style: double;
+}
+
+.border-bottom-double\:required:required {
+  border-bottom-style: double;
+}
+
+.border-bottom-double\:visited:visited {
+  border-bottom-style: double;
+}
+
+.border-bottom-none {
+  border-bottom-style: none;
+}
+
+.border-bottom-none\:active:active {
+  border-bottom-style: none;
+}
+
+.border-bottom-none\:checked:checked {
+  border-bottom-style: none;
+}
+
+.border-bottom-none\:disabled:disabled {
+  border-bottom-style: none;
+}
+
+.border-bottom-none\:focus:focus {
+  border-bottom-style: none;
+}
+
+.border-bottom-none\:focus-visible:focus-visible {
+  border-bottom-style: none;
+}
+
+.border-bottom-none\:hover:hover {
+  border-bottom-style: none;
+}
+
+.border-bottom-none\:required:required {
+  border-bottom-style: none;
+}
+
+.border-bottom-none\:visited:visited {
+  border-bottom-style: none;
+}
+
+@media (min-width: 0px) and (max-width: 639px) {
+  .xs\:border-bottom-solid {
+    border-bottom-style: solid;
+  }
+
+  .xs\:border-bottom-solid\:active:active {
+    border-bottom-style: solid;
+  }
+
+  .xs\:border-bottom-solid\:checked:checked {
+    border-bottom-style: solid;
+  }
+
+  .xs\:border-bottom-solid\:disabled:disabled {
+    border-bottom-style: solid;
+  }
+
+  .xs\:border-bottom-solid\:focus:focus {
+    border-bottom-style: solid;
+  }
+
+  .xs\:border-bottom-solid\:focus-visible:focus-visible {
+    border-bottom-style: solid;
+  }
+
+  .xs\:border-bottom-solid\:hover:hover {
+    border-bottom-style: solid;
+  }
+
+  .xs\:border-bottom-solid\:required:required {
+    border-bottom-style: solid;
+  }
+
+  .xs\:border-bottom-solid\:visited:visited {
+    border-bottom-style: solid;
+  }
+
+  .xs\:border-bottom-dashed {
+    border-bottom-style: dashed;
+  }
+
+  .xs\:border-bottom-dashed\:active:active {
+    border-bottom-style: dashed;
+  }
+
+  .xs\:border-bottom-dashed\:checked:checked {
+    border-bottom-style: dashed;
+  }
+
+  .xs\:border-bottom-dashed\:disabled:disabled {
+    border-bottom-style: dashed;
+  }
+
+  .xs\:border-bottom-dashed\:focus:focus {
+    border-bottom-style: dashed;
+  }
+
+  .xs\:border-bottom-dashed\:focus-visible:focus-visible {
+    border-bottom-style: dashed;
+  }
+
+  .xs\:border-bottom-dashed\:hover:hover {
+    border-bottom-style: dashed;
+  }
+
+  .xs\:border-bottom-dashed\:required:required {
+    border-bottom-style: dashed;
+  }
+
+  .xs\:border-bottom-dashed\:visited:visited {
+    border-bottom-style: dashed;
+  }
+
+  .xs\:border-bottom-dotted {
+    border-bottom-style: dotted;
+  }
+
+  .xs\:border-bottom-dotted\:active:active {
+    border-bottom-style: dotted;
+  }
+
+  .xs\:border-bottom-dotted\:checked:checked {
+    border-bottom-style: dotted;
+  }
+
+  .xs\:border-bottom-dotted\:disabled:disabled {
+    border-bottom-style: dotted;
+  }
+
+  .xs\:border-bottom-dotted\:focus:focus {
+    border-bottom-style: dotted;
+  }
+
+  .xs\:border-bottom-dotted\:focus-visible:focus-visible {
+    border-bottom-style: dotted;
+  }
+
+  .xs\:border-bottom-dotted\:hover:hover {
+    border-bottom-style: dotted;
+  }
+
+  .xs\:border-bottom-dotted\:required:required {
+    border-bottom-style: dotted;
+  }
+
+  .xs\:border-bottom-dotted\:visited:visited {
+    border-bottom-style: dotted;
+  }
+
+  .xs\:border-bottom-double {
+    border-bottom-style: double;
+  }
+
+  .xs\:border-bottom-double\:active:active {
+    border-bottom-style: double;
+  }
+
+  .xs\:border-bottom-double\:checked:checked {
+    border-bottom-style: double;
+  }
+
+  .xs\:border-bottom-double\:disabled:disabled {
+    border-bottom-style: double;
+  }
+
+  .xs\:border-bottom-double\:focus:focus {
+    border-bottom-style: double;
+  }
+
+  .xs\:border-bottom-double\:focus-visible:focus-visible {
+    border-bottom-style: double;
+  }
+
+  .xs\:border-bottom-double\:hover:hover {
+    border-bottom-style: double;
+  }
+
+  .xs\:border-bottom-double\:required:required {
+    border-bottom-style: double;
+  }
+
+  .xs\:border-bottom-double\:visited:visited {
+    border-bottom-style: double;
+  }
+
+  .xs\:border-bottom-none {
+    border-bottom-style: none;
+  }
+
+  .xs\:border-bottom-none\:active:active {
+    border-bottom-style: none;
+  }
+
+  .xs\:border-bottom-none\:checked:checked {
+    border-bottom-style: none;
+  }
+
+  .xs\:border-bottom-none\:disabled:disabled {
+    border-bottom-style: none;
+  }
+
+  .xs\:border-bottom-none\:focus:focus {
+    border-bottom-style: none;
+  }
+
+  .xs\:border-bottom-none\:focus-visible:focus-visible {
+    border-bottom-style: none;
+  }
+
+  .xs\:border-bottom-none\:hover:hover {
+    border-bottom-style: none;
+  }
+
+  .xs\:border-bottom-none\:required:required {
+    border-bottom-style: none;
+  }
+
+  .xs\:border-bottom-none\:visited:visited {
+    border-bottom-style: none;
+  }
+}
+@media (min-width: 640px) and (max-width: 767px) {
+  .sm\:border-bottom-solid {
+    border-bottom-style: solid;
+  }
+
+  .sm\:border-bottom-solid\:active:active {
+    border-bottom-style: solid;
+  }
+
+  .sm\:border-bottom-solid\:checked:checked {
+    border-bottom-style: solid;
+  }
+
+  .sm\:border-bottom-solid\:disabled:disabled {
+    border-bottom-style: solid;
+  }
+
+  .sm\:border-bottom-solid\:focus:focus {
+    border-bottom-style: solid;
+  }
+
+  .sm\:border-bottom-solid\:focus-visible:focus-visible {
+    border-bottom-style: solid;
+  }
+
+  .sm\:border-bottom-solid\:hover:hover {
+    border-bottom-style: solid;
+  }
+
+  .sm\:border-bottom-solid\:required:required {
+    border-bottom-style: solid;
+  }
+
+  .sm\:border-bottom-solid\:visited:visited {
+    border-bottom-style: solid;
+  }
+
+  .sm\:border-bottom-dashed {
+    border-bottom-style: dashed;
+  }
+
+  .sm\:border-bottom-dashed\:active:active {
+    border-bottom-style: dashed;
+  }
+
+  .sm\:border-bottom-dashed\:checked:checked {
+    border-bottom-style: dashed;
+  }
+
+  .sm\:border-bottom-dashed\:disabled:disabled {
+    border-bottom-style: dashed;
+  }
+
+  .sm\:border-bottom-dashed\:focus:focus {
+    border-bottom-style: dashed;
+  }
+
+  .sm\:border-bottom-dashed\:focus-visible:focus-visible {
+    border-bottom-style: dashed;
+  }
+
+  .sm\:border-bottom-dashed\:hover:hover {
+    border-bottom-style: dashed;
+  }
+
+  .sm\:border-bottom-dashed\:required:required {
+    border-bottom-style: dashed;
+  }
+
+  .sm\:border-bottom-dashed\:visited:visited {
+    border-bottom-style: dashed;
+  }
+
+  .sm\:border-bottom-dotted {
+    border-bottom-style: dotted;
+  }
+
+  .sm\:border-bottom-dotted\:active:active {
+    border-bottom-style: dotted;
+  }
+
+  .sm\:border-bottom-dotted\:checked:checked {
+    border-bottom-style: dotted;
+  }
+
+  .sm\:border-bottom-dotted\:disabled:disabled {
+    border-bottom-style: dotted;
+  }
+
+  .sm\:border-bottom-dotted\:focus:focus {
+    border-bottom-style: dotted;
+  }
+
+  .sm\:border-bottom-dotted\:focus-visible:focus-visible {
+    border-bottom-style: dotted;
+  }
+
+  .sm\:border-bottom-dotted\:hover:hover {
+    border-bottom-style: dotted;
+  }
+
+  .sm\:border-bottom-dotted\:required:required {
+    border-bottom-style: dotted;
+  }
+
+  .sm\:border-bottom-dotted\:visited:visited {
+    border-bottom-style: dotted;
+  }
+
+  .sm\:border-bottom-double {
+    border-bottom-style: double;
+  }
+
+  .sm\:border-bottom-double\:active:active {
+    border-bottom-style: double;
+  }
+
+  .sm\:border-bottom-double\:checked:checked {
+    border-bottom-style: double;
+  }
+
+  .sm\:border-bottom-double\:disabled:disabled {
+    border-bottom-style: double;
+  }
+
+  .sm\:border-bottom-double\:focus:focus {
+    border-bottom-style: double;
+  }
+
+  .sm\:border-bottom-double\:focus-visible:focus-visible {
+    border-bottom-style: double;
+  }
+
+  .sm\:border-bottom-double\:hover:hover {
+    border-bottom-style: double;
+  }
+
+  .sm\:border-bottom-double\:required:required {
+    border-bottom-style: double;
+  }
+
+  .sm\:border-bottom-double\:visited:visited {
+    border-bottom-style: double;
+  }
+
+  .sm\:border-bottom-none {
+    border-bottom-style: none;
+  }
+
+  .sm\:border-bottom-none\:active:active {
+    border-bottom-style: none;
+  }
+
+  .sm\:border-bottom-none\:checked:checked {
+    border-bottom-style: none;
+  }
+
+  .sm\:border-bottom-none\:disabled:disabled {
+    border-bottom-style: none;
+  }
+
+  .sm\:border-bottom-none\:focus:focus {
+    border-bottom-style: none;
+  }
+
+  .sm\:border-bottom-none\:focus-visible:focus-visible {
+    border-bottom-style: none;
+  }
+
+  .sm\:border-bottom-none\:hover:hover {
+    border-bottom-style: none;
+  }
+
+  .sm\:border-bottom-none\:required:required {
+    border-bottom-style: none;
+  }
+
+  .sm\:border-bottom-none\:visited:visited {
+    border-bottom-style: none;
+  }
+}
+@media (min-width: 768px) and (max-width: 1023px) {
+  .md\:border-bottom-solid {
+    border-bottom-style: solid;
+  }
+
+  .md\:border-bottom-solid\:active:active {
+    border-bottom-style: solid;
+  }
+
+  .md\:border-bottom-solid\:checked:checked {
+    border-bottom-style: solid;
+  }
+
+  .md\:border-bottom-solid\:disabled:disabled {
+    border-bottom-style: solid;
+  }
+
+  .md\:border-bottom-solid\:focus:focus {
+    border-bottom-style: solid;
+  }
+
+  .md\:border-bottom-solid\:focus-visible:focus-visible {
+    border-bottom-style: solid;
+  }
+
+  .md\:border-bottom-solid\:hover:hover {
+    border-bottom-style: solid;
+  }
+
+  .md\:border-bottom-solid\:required:required {
+    border-bottom-style: solid;
+  }
+
+  .md\:border-bottom-solid\:visited:visited {
+    border-bottom-style: solid;
+  }
+
+  .md\:border-bottom-dashed {
+    border-bottom-style: dashed;
+  }
+
+  .md\:border-bottom-dashed\:active:active {
+    border-bottom-style: dashed;
+  }
+
+  .md\:border-bottom-dashed\:checked:checked {
+    border-bottom-style: dashed;
+  }
+
+  .md\:border-bottom-dashed\:disabled:disabled {
+    border-bottom-style: dashed;
+  }
+
+  .md\:border-bottom-dashed\:focus:focus {
+    border-bottom-style: dashed;
+  }
+
+  .md\:border-bottom-dashed\:focus-visible:focus-visible {
+    border-bottom-style: dashed;
+  }
+
+  .md\:border-bottom-dashed\:hover:hover {
+    border-bottom-style: dashed;
+  }
+
+  .md\:border-bottom-dashed\:required:required {
+    border-bottom-style: dashed;
+  }
+
+  .md\:border-bottom-dashed\:visited:visited {
+    border-bottom-style: dashed;
+  }
+
+  .md\:border-bottom-dotted {
+    border-bottom-style: dotted;
+  }
+
+  .md\:border-bottom-dotted\:active:active {
+    border-bottom-style: dotted;
+  }
+
+  .md\:border-bottom-dotted\:checked:checked {
+    border-bottom-style: dotted;
+  }
+
+  .md\:border-bottom-dotted\:disabled:disabled {
+    border-bottom-style: dotted;
+  }
+
+  .md\:border-bottom-dotted\:focus:focus {
+    border-bottom-style: dotted;
+  }
+
+  .md\:border-bottom-dotted\:focus-visible:focus-visible {
+    border-bottom-style: dotted;
+  }
+
+  .md\:border-bottom-dotted\:hover:hover {
+    border-bottom-style: dotted;
+  }
+
+  .md\:border-bottom-dotted\:required:required {
+    border-bottom-style: dotted;
+  }
+
+  .md\:border-bottom-dotted\:visited:visited {
+    border-bottom-style: dotted;
+  }
+
+  .md\:border-bottom-double {
+    border-bottom-style: double;
+  }
+
+  .md\:border-bottom-double\:active:active {
+    border-bottom-style: double;
+  }
+
+  .md\:border-bottom-double\:checked:checked {
+    border-bottom-style: double;
+  }
+
+  .md\:border-bottom-double\:disabled:disabled {
+    border-bottom-style: double;
+  }
+
+  .md\:border-bottom-double\:focus:focus {
+    border-bottom-style: double;
+  }
+
+  .md\:border-bottom-double\:focus-visible:focus-visible {
+    border-bottom-style: double;
+  }
+
+  .md\:border-bottom-double\:hover:hover {
+    border-bottom-style: double;
+  }
+
+  .md\:border-bottom-double\:required:required {
+    border-bottom-style: double;
+  }
+
+  .md\:border-bottom-double\:visited:visited {
+    border-bottom-style: double;
+  }
+
+  .md\:border-bottom-none {
+    border-bottom-style: none;
+  }
+
+  .md\:border-bottom-none\:active:active {
+    border-bottom-style: none;
+  }
+
+  .md\:border-bottom-none\:checked:checked {
+    border-bottom-style: none;
+  }
+
+  .md\:border-bottom-none\:disabled:disabled {
+    border-bottom-style: none;
+  }
+
+  .md\:border-bottom-none\:focus:focus {
+    border-bottom-style: none;
+  }
+
+  .md\:border-bottom-none\:focus-visible:focus-visible {
+    border-bottom-style: none;
+  }
+
+  .md\:border-bottom-none\:hover:hover {
+    border-bottom-style: none;
+  }
+
+  .md\:border-bottom-none\:required:required {
+    border-bottom-style: none;
+  }
+
+  .md\:border-bottom-none\:visited:visited {
+    border-bottom-style: none;
+  }
+}
+@media (min-width: 1024px) and (max-width: 2000px) {
+  .lg\:border-bottom-solid {
+    border-bottom-style: solid;
+  }
+
+  .lg\:border-bottom-solid\:active:active {
+    border-bottom-style: solid;
+  }
+
+  .lg\:border-bottom-solid\:checked:checked {
+    border-bottom-style: solid;
+  }
+
+  .lg\:border-bottom-solid\:disabled:disabled {
+    border-bottom-style: solid;
+  }
+
+  .lg\:border-bottom-solid\:focus:focus {
+    border-bottom-style: solid;
+  }
+
+  .lg\:border-bottom-solid\:focus-visible:focus-visible {
+    border-bottom-style: solid;
+  }
+
+  .lg\:border-bottom-solid\:hover:hover {
+    border-bottom-style: solid;
+  }
+
+  .lg\:border-bottom-solid\:required:required {
+    border-bottom-style: solid;
+  }
+
+  .lg\:border-bottom-solid\:visited:visited {
+    border-bottom-style: solid;
+  }
+
+  .lg\:border-bottom-dashed {
+    border-bottom-style: dashed;
+  }
+
+  .lg\:border-bottom-dashed\:active:active {
+    border-bottom-style: dashed;
+  }
+
+  .lg\:border-bottom-dashed\:checked:checked {
+    border-bottom-style: dashed;
+  }
+
+  .lg\:border-bottom-dashed\:disabled:disabled {
+    border-bottom-style: dashed;
+  }
+
+  .lg\:border-bottom-dashed\:focus:focus {
+    border-bottom-style: dashed;
+  }
+
+  .lg\:border-bottom-dashed\:focus-visible:focus-visible {
+    border-bottom-style: dashed;
+  }
+
+  .lg\:border-bottom-dashed\:hover:hover {
+    border-bottom-style: dashed;
+  }
+
+  .lg\:border-bottom-dashed\:required:required {
+    border-bottom-style: dashed;
+  }
+
+  .lg\:border-bottom-dashed\:visited:visited {
+    border-bottom-style: dashed;
+  }
+
+  .lg\:border-bottom-dotted {
+    border-bottom-style: dotted;
+  }
+
+  .lg\:border-bottom-dotted\:active:active {
+    border-bottom-style: dotted;
+  }
+
+  .lg\:border-bottom-dotted\:checked:checked {
+    border-bottom-style: dotted;
+  }
+
+  .lg\:border-bottom-dotted\:disabled:disabled {
+    border-bottom-style: dotted;
+  }
+
+  .lg\:border-bottom-dotted\:focus:focus {
+    border-bottom-style: dotted;
+  }
+
+  .lg\:border-bottom-dotted\:focus-visible:focus-visible {
+    border-bottom-style: dotted;
+  }
+
+  .lg\:border-bottom-dotted\:hover:hover {
+    border-bottom-style: dotted;
+  }
+
+  .lg\:border-bottom-dotted\:required:required {
+    border-bottom-style: dotted;
+  }
+
+  .lg\:border-bottom-dotted\:visited:visited {
+    border-bottom-style: dotted;
+  }
+
+  .lg\:border-bottom-double {
+    border-bottom-style: double;
+  }
+
+  .lg\:border-bottom-double\:active:active {
+    border-bottom-style: double;
+  }
+
+  .lg\:border-bottom-double\:checked:checked {
+    border-bottom-style: double;
+  }
+
+  .lg\:border-bottom-double\:disabled:disabled {
+    border-bottom-style: double;
+  }
+
+  .lg\:border-bottom-double\:focus:focus {
+    border-bottom-style: double;
+  }
+
+  .lg\:border-bottom-double\:focus-visible:focus-visible {
+    border-bottom-style: double;
+  }
+
+  .lg\:border-bottom-double\:hover:hover {
+    border-bottom-style: double;
+  }
+
+  .lg\:border-bottom-double\:required:required {
+    border-bottom-style: double;
+  }
+
+  .lg\:border-bottom-double\:visited:visited {
+    border-bottom-style: double;
+  }
+
+  .lg\:border-bottom-none {
+    border-bottom-style: none;
+  }
+
+  .lg\:border-bottom-none\:active:active {
+    border-bottom-style: none;
+  }
+
+  .lg\:border-bottom-none\:checked:checked {
+    border-bottom-style: none;
+  }
+
+  .lg\:border-bottom-none\:disabled:disabled {
+    border-bottom-style: none;
+  }
+
+  .lg\:border-bottom-none\:focus:focus {
+    border-bottom-style: none;
+  }
+
+  .lg\:border-bottom-none\:focus-visible:focus-visible {
+    border-bottom-style: none;
+  }
+
+  .lg\:border-bottom-none\:hover:hover {
+    border-bottom-style: none;
+  }
+
+  .lg\:border-bottom-none\:required:required {
+    border-bottom-style: none;
+  }
+
+  .lg\:border-bottom-none\:visited:visited {
+    border-bottom-style: none;
+  }
+}

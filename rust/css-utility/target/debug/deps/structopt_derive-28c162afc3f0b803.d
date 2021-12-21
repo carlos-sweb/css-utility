@@ -1,0 +1,10 @@
+/home/carlos-sweb/Escritorio/css-utility/rust/css-utility/target/debug/deps/libstructopt_derive-28c162afc3f0b803.so: /home/carlos-sweb/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.16/src/lib.rs /home/carlos-sweb/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.16/src/attrs.rs /home/carlos-sweb/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.16/src/doc_comments.rs /home/carlos-sweb/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.16/src/parse.rs /home/carlos-sweb/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.16/src/spanned.rs /home/carlos-sweb/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.16/src/ty.rs
+
+/home/carlos-sweb/Escritorio/css-utility/rust/css-utility/target/debug/deps/structopt_derive-28c162afc3f0b803.d: /home/carlos-sweb/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.16/src/lib.rs /home/carlos-sweb/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.16/src/attrs.rs /home/carlos-sweb/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.16/src/doc_comments.rs /home/carlos-sweb/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.16/src/parse.rs /home/carlos-sweb/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.16/src/spanned.rs /home/carlos-sweb/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.16/src/ty.rs
+
+/home/carlos-sweb/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.16/src/lib.rs:
+/home/carlos-sweb/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.16/src/attrs.rs:
+/home/carlos-sweb/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.16/src/doc_comments.rs:
+/home/carlos-sweb/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.16/src/parse.rs:
+/home/carlos-sweb/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.16/src/spanned.rs:
+/home/carlos-sweb/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.16/src/ty.rs:

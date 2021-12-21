@@ -107,111 +107,111 @@
 }
 
 .justify-between {
-  justify-content: flex-between;
+  justify-content: space-between;
 }
 
 .justify-between\:active:active {
-  justify-content: flex-between;
+  justify-content: space-between;
 }
 
 .justify-between\:checked:checked {
-  justify-content: flex-between;
+  justify-content: space-between;
 }
 
 .justify-between\:disabled:disabled {
-  justify-content: flex-between;
+  justify-content: space-between;
 }
 
 .justify-between\:focus:focus {
-  justify-content: flex-between;
+  justify-content: space-between;
 }
 
 .justify-between\:focus-visible:focus-visible {
-  justify-content: flex-between;
+  justify-content: space-between;
 }
 
 .justify-between\:hover:hover {
-  justify-content: flex-between;
+  justify-content: space-between;
 }
 
 .justify-between\:required:required {
-  justify-content: flex-between;
+  justify-content: space-between;
 }
 
 .justify-between\:visited:visited {
-  justify-content: flex-between;
+  justify-content: space-between;
 }
 
 .justify-around {
-  justify-content: flex-around;
+  justify-content: space-around;
 }
 
 .justify-around\:active:active {
-  justify-content: flex-around;
+  justify-content: space-around;
 }
 
 .justify-around\:checked:checked {
-  justify-content: flex-around;
+  justify-content: space-around;
 }
 
 .justify-around\:disabled:disabled {
-  justify-content: flex-around;
+  justify-content: space-around;
 }
 
 .justify-around\:focus:focus {
-  justify-content: flex-around;
+  justify-content: space-around;
 }
 
 .justify-around\:focus-visible:focus-visible {
-  justify-content: flex-around;
+  justify-content: space-around;
 }
 
 .justify-around\:hover:hover {
-  justify-content: flex-around;
+  justify-content: space-around;
 }
 
 .justify-around\:required:required {
-  justify-content: flex-around;
+  justify-content: space-around;
 }
 
 .justify-around\:visited:visited {
-  justify-content: flex-around;
+  justify-content: space-around;
 }
 
 .justify-evenly {
-  justify-content: flex-evenly;
+  justify-content: space-evenly;
 }
 
 .justify-evenly\:active:active {
-  justify-content: flex-evenly;
+  justify-content: space-evenly;
 }
 
 .justify-evenly\:checked:checked {
-  justify-content: flex-evenly;
+  justify-content: space-evenly;
 }
 
 .justify-evenly\:disabled:disabled {
-  justify-content: flex-evenly;
+  justify-content: space-evenly;
 }
 
 .justify-evenly\:focus:focus {
-  justify-content: flex-evenly;
+  justify-content: space-evenly;
 }
 
 .justify-evenly\:focus-visible:focus-visible {
-  justify-content: flex-evenly;
+  justify-content: space-evenly;
 }
 
 .justify-evenly\:hover:hover {
-  justify-content: flex-evenly;
+  justify-content: space-evenly;
 }
 
 .justify-evenly\:required:required {
-  justify-content: flex-evenly;
+  justify-content: space-evenly;
 }
 
 .justify-evenly\:visited:visited {
-  justify-content: flex-evenly;
+  justify-content: space-evenly;
 }
 
 @media (min-width: 0px) and (max-width: 639px) {
@@ -324,111 +324,111 @@
   }
 
   .xs\:justify-between {
-    justify-content: flex-between;
+    justify-content: space-between;
   }
 
   .xs\:justify-between\:active:active {
-    justify-content: flex-between;
+    justify-content: space-between;
   }
 
   .xs\:justify-between\:checked:checked {
-    justify-content: flex-between;
+    justify-content: space-between;
   }
 
   .xs\:justify-between\:disabled:disabled {
-    justify-content: flex-between;
+    justify-content: space-between;
   }
 
   .xs\:justify-between\:focus:focus {
-    justify-content: flex-between;
+    justify-content: space-between;
   }
 
   .xs\:justify-between\:focus-visible:focus-visible {
-    justify-content: flex-between;
+    justify-content: space-between;
   }
 
   .xs\:justify-between\:hover:hover {
-    justify-content: flex-between;
+    justify-content: space-between;
   }
 
   .xs\:justify-between\:required:required {
-    justify-content: flex-between;
+    justify-content: space-between;
   }
 
   .xs\:justify-between\:visited:visited {
-    justify-content: flex-between;
+    justify-content: space-between;
   }
 
   .xs\:justify-around {
-    justify-content: flex-around;
+    justify-content: space-around;
   }
 
   .xs\:justify-around\:active:active {
-    justify-content: flex-around;
+    justify-content: space-around;
   }
 
   .xs\:justify-around\:checked:checked {
-    justify-content: flex-around;
+    justify-content: space-around;
   }
 
   .xs\:justify-around\:disabled:disabled {
-    justify-content: flex-around;
+    justify-content: space-around;
   }
 
   .xs\:justify-around\:focus:focus {
-    justify-content: flex-around;
+    justify-content: space-around;
   }
 
   .xs\:justify-around\:focus-visible:focus-visible {
-    justify-content: flex-around;
+    justify-content: space-around;
   }
 
   .xs\:justify-around\:hover:hover {
-    justify-content: flex-around;
+    justify-content: space-around;
   }
 
   .xs\:justify-around\:required:required {
-    justify-content: flex-around;
+    justify-content: space-around;
   }
 
   .xs\:justify-around\:visited:visited {
-    justify-content: flex-around;
+    justify-content: space-around;
   }
 
   .xs\:justify-evenly {
-    justify-content: flex-evenly;
+    justify-content: space-evenly;
   }
 
   .xs\:justify-evenly\:active:active {
-    justify-content: flex-evenly;
+    justify-content: space-evenly;
   }
 
   .xs\:justify-evenly\:checked:checked {
-    justify-content: flex-evenly;
+    justify-content: space-evenly;
   }
 
   .xs\:justify-evenly\:disabled:disabled {
-    justify-content: flex-evenly;
+    justify-content: space-evenly;
   }
 
   .xs\:justify-evenly\:focus:focus {
-    justify-content: flex-evenly;
+    justify-content: space-evenly;
   }
 
   .xs\:justify-evenly\:focus-visible:focus-visible {
-    justify-content: flex-evenly;
+    justify-content: space-evenly;
   }
 
   .xs\:justify-evenly\:hover:hover {
-    justify-content: flex-evenly;
+    justify-content: space-evenly;
   }
 
   .xs\:justify-evenly\:required:required {
-    justify-content: flex-evenly;
+    justify-content: space-evenly;
   }
 
   .xs\:justify-evenly\:visited:visited {
-    justify-content: flex-evenly;
+    justify-content: space-evenly;
   }
 }
 @media (min-width: 640px) and (max-width: 767px) {
@@ -541,111 +541,111 @@
   }
 
   .sm\:justify-between {
-    justify-content: flex-between;
+    justify-content: space-between;
   }
 
   .sm\:justify-between\:active:active {
-    justify-content: flex-between;
+    justify-content: space-between;
   }
 
   .sm\:justify-between\:checked:checked {
-    justify-content: flex-between;
+    justify-content: space-between;
   }
 
   .sm\:justify-between\:disabled:disabled {
-    justify-content: flex-between;
+    justify-content: space-between;
   }
 
   .sm\:justify-between\:focus:focus {
-    justify-content: flex-between;
+    justify-content: space-between;
   }
 
   .sm\:justify-between\:focus-visible:focus-visible {
-    justify-content: flex-between;
+    justify-content: space-between;
   }
 
   .sm\:justify-between\:hover:hover {
-    justify-content: flex-between;
+    justify-content: space-between;
   }
 
   .sm\:justify-between\:required:required {
-    justify-content: flex-between;
+    justify-content: space-between;
   }
 
   .sm\:justify-between\:visited:visited {
-    justify-content: flex-between;
+    justify-content: space-between;
   }
 
   .sm\:justify-around {
-    justify-content: flex-around;
+    justify-content: space-around;
   }
 
   .sm\:justify-around\:active:active {
-    justify-content: flex-around;
+    justify-content: space-around;
   }
 
   .sm\:justify-around\:checked:checked {
-    justify-content: flex-around;
+    justify-content: space-around;
   }
 
   .sm\:justify-around\:disabled:disabled {
-    justify-content: flex-around;
+    justify-content: space-around;
   }
 
   .sm\:justify-around\:focus:focus {
-    justify-content: flex-around;
+    justify-content: space-around;
   }
 
   .sm\:justify-around\:focus-visible:focus-visible {
-    justify-content: flex-around;
+    justify-content: space-around;
   }
 
   .sm\:justify-around\:hover:hover {
-    justify-content: flex-around;
+    justify-content: space-around;
   }
 
   .sm\:justify-around\:required:required {
-    justify-content: flex-around;
+    justify-content: space-around;
   }
 
   .sm\:justify-around\:visited:visited {
-    justify-content: flex-around;
+    justify-content: space-around;
   }
 
   .sm\:justify-evenly {
-    justify-content: flex-evenly;
+    justify-content: space-evenly;
   }
 
   .sm\:justify-evenly\:active:active {
-    justify-content: flex-evenly;
+    justify-content: space-evenly;
   }
 
   .sm\:justify-evenly\:checked:checked {
-    justify-content: flex-evenly;
+    justify-content: space-evenly;
   }
 
   .sm\:justify-evenly\:disabled:disabled {
-    justify-content: flex-evenly;
+    justify-content: space-evenly;
   }
 
   .sm\:justify-evenly\:focus:focus {
-    justify-content: flex-evenly;
+    justify-content: space-evenly;
   }
 
   .sm\:justify-evenly\:focus-visible:focus-visible {
-    justify-content: flex-evenly;
+    justify-content: space-evenly;
   }
 
   .sm\:justify-evenly\:hover:hover {
-    justify-content: flex-evenly;
+    justify-content: space-evenly;
   }
 
   .sm\:justify-evenly\:required:required {
-    justify-content: flex-evenly;
+    justify-content: space-evenly;
   }
 
   .sm\:justify-evenly\:visited:visited {
-    justify-content: flex-evenly;
+    justify-content: space-evenly;
   }
 }
 @media (min-width: 768px) and (max-width: 1023px) {
@@ -758,111 +758,111 @@
   }
 
   .md\:justify-between {
-    justify-content: flex-between;
+    justify-content: space-between;
   }
 
   .md\:justify-between\:active:active {
-    justify-content: flex-between;
+    justify-content: space-between;
   }
 
   .md\:justify-between\:checked:checked {
-    justify-content: flex-between;
+    justify-content: space-between;
   }
 
   .md\:justify-between\:disabled:disabled {
-    justify-content: flex-between;
+    justify-content: space-between;
   }
 
   .md\:justify-between\:focus:focus {
-    justify-content: flex-between;
+    justify-content: space-between;
   }
 
   .md\:justify-between\:focus-visible:focus-visible {
-    justify-content: flex-between;
+    justify-content: space-between;
   }
 
   .md\:justify-between\:hover:hover {
-    justify-content: flex-between;
+    justify-content: space-between;
   }
 
   .md\:justify-between\:required:required {
-    justify-content: flex-between;
+    justify-content: space-between;
   }
 
   .md\:justify-between\:visited:visited {
-    justify-content: flex-between;
+    justify-content: space-between;
   }
 
   .md\:justify-around {
-    justify-content: flex-around;
+    justify-content: space-around;
   }
 
   .md\:justify-around\:active:active {
-    justify-content: flex-around;
+    justify-content: space-around;
   }
 
   .md\:justify-around\:checked:checked {
-    justify-content: flex-around;
+    justify-content: space-around;
   }
 
   .md\:justify-around\:disabled:disabled {
-    justify-content: flex-around;
+    justify-content: space-around;
   }
 
   .md\:justify-around\:focus:focus {
-    justify-content: flex-around;
+    justify-content: space-around;
   }
 
   .md\:justify-around\:focus-visible:focus-visible {
-    justify-content: flex-around;
+    justify-content: space-around;
   }
 
   .md\:justify-around\:hover:hover {
-    justify-content: flex-around;
+    justify-content: space-around;
   }
 
   .md\:justify-around\:required:required {
-    justify-content: flex-around;
+    justify-content: space-around;
   }
 
   .md\:justify-around\:visited:visited {
-    justify-content: flex-around;
+    justify-content: space-around;
   }
 
   .md\:justify-evenly {
-    justify-content: flex-evenly;
+    justify-content: space-evenly;
   }
 
   .md\:justify-evenly\:active:active {
-    justify-content: flex-evenly;
+    justify-content: space-evenly;
   }
 
   .md\:justify-evenly\:checked:checked {
-    justify-content: flex-evenly;
+    justify-content: space-evenly;
   }
 
   .md\:justify-evenly\:disabled:disabled {
-    justify-content: flex-evenly;
+    justify-content: space-evenly;
   }
 
   .md\:justify-evenly\:focus:focus {
-    justify-content: flex-evenly;
+    justify-content: space-evenly;
   }
 
   .md\:justify-evenly\:focus-visible:focus-visible {
-    justify-content: flex-evenly;
+    justify-content: space-evenly;
   }
 
   .md\:justify-evenly\:hover:hover {
-    justify-content: flex-evenly;
+    justify-content: space-evenly;
   }
 
   .md\:justify-evenly\:required:required {
-    justify-content: flex-evenly;
+    justify-content: space-evenly;
   }
 
   .md\:justify-evenly\:visited:visited {
-    justify-content: flex-evenly;
+    justify-content: space-evenly;
   }
 }
 @media (min-width: 1024px) and (max-width: 2000px) {
@@ -975,110 +975,110 @@
   }
 
   .lg\:justify-between {
-    justify-content: flex-between;
+    justify-content: space-between;
   }
 
   .lg\:justify-between\:active:active {
-    justify-content: flex-between;
+    justify-content: space-between;
   }
 
   .lg\:justify-between\:checked:checked {
-    justify-content: flex-between;
+    justify-content: space-between;
   }
 
   .lg\:justify-between\:disabled:disabled {
-    justify-content: flex-between;
+    justify-content: space-between;
   }
 
   .lg\:justify-between\:focus:focus {
-    justify-content: flex-between;
+    justify-content: space-between;
   }
 
   .lg\:justify-between\:focus-visible:focus-visible {
-    justify-content: flex-between;
+    justify-content: space-between;
   }
 
   .lg\:justify-between\:hover:hover {
-    justify-content: flex-between;
+    justify-content: space-between;
   }
 
   .lg\:justify-between\:required:required {
-    justify-content: flex-between;
+    justify-content: space-between;
   }
 
   .lg\:justify-between\:visited:visited {
-    justify-content: flex-between;
+    justify-content: space-between;
   }
 
   .lg\:justify-around {
-    justify-content: flex-around;
+    justify-content: space-around;
   }
 
   .lg\:justify-around\:active:active {
-    justify-content: flex-around;
+    justify-content: space-around;
   }
 
   .lg\:justify-around\:checked:checked {
-    justify-content: flex-around;
+    justify-content: space-around;
   }
 
   .lg\:justify-around\:disabled:disabled {
-    justify-content: flex-around;
+    justify-content: space-around;
   }
 
   .lg\:justify-around\:focus:focus {
-    justify-content: flex-around;
+    justify-content: space-around;
   }
 
   .lg\:justify-around\:focus-visible:focus-visible {
-    justify-content: flex-around;
+    justify-content: space-around;
   }
 
   .lg\:justify-around\:hover:hover {
-    justify-content: flex-around;
+    justify-content: space-around;
   }
 
   .lg\:justify-around\:required:required {
-    justify-content: flex-around;
+    justify-content: space-around;
   }
 
   .lg\:justify-around\:visited:visited {
-    justify-content: flex-around;
+    justify-content: space-around;
   }
 
   .lg\:justify-evenly {
-    justify-content: flex-evenly;
+    justify-content: space-evenly;
   }
 
   .lg\:justify-evenly\:active:active {
-    justify-content: flex-evenly;
+    justify-content: space-evenly;
   }
 
   .lg\:justify-evenly\:checked:checked {
-    justify-content: flex-evenly;
+    justify-content: space-evenly;
   }
 
   .lg\:justify-evenly\:disabled:disabled {
-    justify-content: flex-evenly;
+    justify-content: space-evenly;
   }
 
   .lg\:justify-evenly\:focus:focus {
-    justify-content: flex-evenly;
+    justify-content: space-evenly;
   }
 
   .lg\:justify-evenly\:focus-visible:focus-visible {
-    justify-content: flex-evenly;
+    justify-content: space-evenly;
   }
 
   .lg\:justify-evenly\:hover:hover {
-    justify-content: flex-evenly;
+    justify-content: space-evenly;
   }
 
   .lg\:justify-evenly\:required:required {
-    justify-content: flex-evenly;
+    justify-content: space-evenly;
   }
 
   .lg\:justify-evenly\:visited:visited {
-    justify-content: flex-evenly;
+    justify-content: space-evenly;
   }
 }

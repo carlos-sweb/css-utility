@@ -1,0 +1,26 @@
+@import "../screen.scss";
+@import "../state.scss";
+@each $key, $value in (border-left-solid:'solid',border-left-dashed:'dashed',border-left-dotted:'dotted',border-left-double:'double',border-left-none:'none'){
+	.#{$key}{
+		border-left-style:#{$value};
+	}
+ @each $valueState in $state{
+	.#{$key}\:#{$valueState}:#{$valueState}{
+		border-left-style:#{$value};
+	}
+ }
+};
+@each $sizeScreen, $pixel in $screen{
+	@media (min-width: #{map-get($pixel,min)}#{px}) and (max-width: #{map-get($pixel,max)}#{px}){
+		@each $key, $value in (border-left-solid:'solid',border-left-dashed:'dashed',border-left-dotted:'dotted',border-left-double:'double',border-left-none:'none'){
+			.#{$sizeScreen}\:#{$key}{
+				border-left-style:#{$value};
+			}
+      @each $valueState in $state{
+	     .#{$sizeScreen}\:#{$key}\:#{$valueState}:#{$valueState}{
+		     border-left-style:#{$value};
+	     }
+      }
+		}
+	}
+}
